@@ -1,0 +1,26 @@
+version: '2'
+
+services:
+  sabnzbd:
+    build:
+       context: ./sabnzbd
+       dockerfile: Dockerfile
+    image: lsioarmhf/sabnzbd:latest
+    container_name: sabnzbd_container_compose
+    restart: always
+    dns:
+      - '1.1.1.1'
+      - '8.8.8.8'
+    ports:
+      - '9090:9090'
+      - '8080:8080'
+      - '563:563'
+      - '443:443'
+    volumes:
+      - "./sabnzbd/config:/config"
+      - "./sabnzbd/scripts:/scripts"
+      - "/torrents:/downloads"
+      - "/torrents:/downloads/incomplete"
+    env_file: 
+      - ./common.env
+    network_mode: "host"

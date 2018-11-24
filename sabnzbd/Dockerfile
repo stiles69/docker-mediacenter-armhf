@@ -24,10 +24,13 @@ RUN \
 	p7zip-full \
 	par2-tbb \
 	python-sabyenc \
+	python-pip \
+	#	python-all-dev \
+	#	python-wheel \
+	#	python-setuptools \
 	sabnzbdplus \
-        rsync \
-	unrar \
 	unzip && \
+	pip install apprise &&\
  echo "**** cleanup ****" && \
  apt-get clean && \
  rm -rf \
@@ -37,7 +40,6 @@ RUN \
 
 # add local files
 COPY root/ /
-
 # ports and volumes
-EXPOSE 8080 9090
+EXPOSE 8080 9090 443
 VOLUME /config /downloads /scripts

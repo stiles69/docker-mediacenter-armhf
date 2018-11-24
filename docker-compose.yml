@@ -2,47 +2,55 @@ version: '2'
 
 services:
   sabnzbd:
-    image: lsioarmhf/sabnzbd
+          #    build:
+          #       context: ./sabnzbd
+          #       dockerfile: Dockerfile
+    image: lsioarmhf/sabnzbd:latest
     container_name: sabnzbd_container_compose
     restart: always
+    dns:
+      - '1.1.1.1'
+      - '8.8.8.8'
     ports:
       - '9090:9090'
       - '8080:8080'
-      - '60001:60001'
+      - '563:563'
+      - '443:443'
     volumes:
-      - "./sabnzbd/config:/config"
-      - "./sabnzbd/scripts:/scripts"
+      - "/torrents/sabnzbd/config:/config"
+      - "/torrents/sabnzbd/scripts:/downloads/sabnzbd/scripts"
       - "/torrents:/downloads"
-      - "/torrents:/incomplete-downloads"
+      - "/torrents/sabnzbd/incomplete:/downloads/sabnzbd/incomplete"
     env_file: 
       - ./common.env
     network_mode: "host"
 
   couchpotato:
-    image: lsioarmhf/couchpotato
+    image: lsioarmhf/couchpotato:latest
     container_name: couchpotato_container_compose
     restart: always
     ports:
       - '5050:5050'
     volumes:
-      - "./couchpotato/config:/config"
+      - "/torrents/couchpotato/config:/config"
       - "/torrents:/downloads"
-      - "/torrents:/movies"
+      - "/torrents/completed/couchpotato:/downloads/completed/couchpotato"
     env_file:
       - './common.env'
     network_mode: 'host'
     depends_on:
       - sabnzbd
+
   sonarr:
-    image: lsioarmhf/sonarr
+    image: lsioarmhf/sonarr:latest
     container_name: sonarr_container_compose
     restart: always
     ports:
       - '8989:8989'
     volumes:
-      - "./sonarr/config:/config"
-      - "/torrents:/tv"
+      - "/torrents/sonarr/config:/config"
       - "/torrents:/downloads"
+      - "/torrents/completed/sonarr:/downloads/completed/sonarr"
     env_file:
       - './common.env'
     network_mode: 'host'
@@ -51,15 +59,15 @@ services:
       - couchpotato
 
   headphones:
-    image: lsioarmhf/headphones
+    image: lsioarmhf/headphones:latest
     container_name: headphones_container_compose
     restart: always
     ports:
       - '8181:8181'
     volumes:
-      - "./headphones/config:/config"
+      - "/torrents/headphones/config:/config"
       - "/torrents:/downloads"
-      - "/torrents/music:/config"
+      - "/torrents/completed/headphones:/downloads/completed/headphones"
     env_file:
       - './common.env'
     network_mode: "host"
@@ -69,13 +77,13 @@ services:
       - sonarr
 
   htpcmanager:
-    image: lsioarmhf/htpcmanager
+    image: lsioarmhf/htpcmanager:latest
     container_name: htpcmanager_container_compose
     restart: always
     ports:
       - '8085:8085'
     volumes:
-      - "./htpcmanager/config:/config"
+      - "/torrents/htpcmanager/config:/config"
     env_file: 
       - ./common.env
     network_mode: "host"
