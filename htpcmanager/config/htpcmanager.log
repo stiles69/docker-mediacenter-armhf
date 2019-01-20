@@ -1,0 +1,1126 @@
+2018-12-20 03:59:02 :: root :: INFO :: Welcome to Hellowlol's HTPC Manager fork
+2018-12-20 03:59:02 :: root :: INFO :: Loglevel set to info
+2018-12-20 03:59:02 :: htpc.updater :: INFO :: Using GitUpdater engine
+2018-12-20 03:59:02 :: apscheduler.scheduler :: INFO :: Added job "Updater.update_needed" to job store "default"
+2018-12-20 03:59:02 :: modules.kodi :: WARNING :: No configured kodi-Servers.
+2018-12-20 03:59:02 :: modules.newznab :: WARNING :: No configured Indexers.
+2018-12-20 03:59:03 :: modules.stats :: ERROR :: Required package 'smartmontools' is not installed, or 'smartctl'
+component is not on the system path. Please install and try again.The current env path is: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+2018-12-20 03:59:04 :: htpc.server :: INFO :: Starting up webserver
+2018-12-20 03:59:04 :: cherrypy.error :: INFO :: [20/Dec/2018:03:59:04] ENGINE Listening for SIGHUP.
+2018-12-20 03:59:04 :: cherrypy.error :: INFO :: [20/Dec/2018:03:59:04] ENGINE Listening for SIGTERM.
+2018-12-20 03:59:04 :: cherrypy.error :: INFO :: [20/Dec/2018:03:59:04] ENGINE Listening for SIGUSR1.
+2018-12-20 03:59:04 :: cherrypy.error :: INFO :: [20/Dec/2018:03:59:04] ENGINE Bus STARTING
+2018-12-20 03:59:04 :: cherrypy.error :: INFO :: [20/Dec/2018:03:59:04] ENGINE Serving on http://0.0.0.0:8085
+2018-12-20 03:59:04 :: cherrypy.error :: INFO :: [20/Dec/2018:03:59:04] ENGINE Bus STARTED
+2018-12-20 04:06:45 :: cherrypy.error :: INFO :: [20/Dec/2018:04:06:45] ENGINE Caught signal SIGTERM.
+2018-12-20 04:06:45 :: cherrypy.error :: INFO :: [20/Dec/2018:04:06:45] ENGINE Bus STOPPING
+2018-12-20 04:06:45 :: apscheduler.scheduler :: INFO :: Scheduler has been shut down
+2018-12-20 04:06:45 :: cherrypy.error :: INFO :: [20/Dec/2018:04:06:45] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8085)) shut down
+2018-12-20 04:06:45 :: cherrypy.error :: INFO :: [20/Dec/2018:04:06:45] ENGINE Bus STOPPED
+2018-12-20 04:06:45 :: cherrypy.error :: INFO :: [20/Dec/2018:04:06:45] ENGINE Bus EXITING
+2018-12-20 04:06:45 :: cherrypy.error :: INFO :: [20/Dec/2018:04:06:45] ENGINE Bus EXITED
+2018-12-20 04:06:45 :: cherrypy.error :: INFO :: [20/Dec/2018:04:06:45] ENGINE Waiting for child threads to terminate...
+2018-12-20 04:07:21 :: root :: INFO :: Welcome to Hellowlol's HTPC Manager fork
+2018-12-20 04:07:21 :: root :: INFO :: Loglevel set to info
+2018-12-20 04:07:21 :: htpc.updater :: INFO :: Using GitUpdater engine
+2018-12-20 04:07:21 :: apscheduler.scheduler :: INFO :: Added job "Updater.update_needed" to job store "default"
+2018-12-20 04:07:21 :: modules.kodi :: WARNING :: No configured kodi-Servers.
+2018-12-20 04:07:21 :: modules.newznab :: WARNING :: No configured Indexers.
+2018-12-20 04:07:21 :: modules.stats :: ERROR :: Required package 'smartmontools' is not installed, or 'smartctl'
+component is not on the system path. Please install and try again.The current env path is: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+2018-12-20 04:07:22 :: htpc.server :: INFO :: Starting up webserver
+2018-12-20 04:07:22 :: cherrypy.error :: INFO :: [20/Dec/2018:04:07:22] ENGINE Listening for SIGHUP.
+2018-12-20 04:07:22 :: cherrypy.error :: INFO :: [20/Dec/2018:04:07:22] ENGINE Listening for SIGTERM.
+2018-12-20 04:07:22 :: cherrypy.error :: INFO :: [20/Dec/2018:04:07:22] ENGINE Listening for SIGUSR1.
+2018-12-20 04:07:22 :: cherrypy.error :: INFO :: [20/Dec/2018:04:07:22] ENGINE Bus STARTING
+2018-12-20 04:07:22 :: cherrypy.error :: INFO :: [20/Dec/2018:04:07:22] ENGINE Serving on http://0.0.0.0:8085
+2018-12-20 04:07:22 :: cherrypy.error :: INFO :: [20/Dec/2018:04:07:22] ENGINE Bus STARTED
+2018-12-20 04:09:33 :: cherrypy.error :: INFO :: [20/Dec/2018:04:09:33] ENGINE Caught signal SIGTERM.
+2018-12-20 04:09:33 :: cherrypy.error :: INFO :: [20/Dec/2018:04:09:33] ENGINE Bus STOPPING
+2018-12-20 04:09:33 :: apscheduler.scheduler :: INFO :: Scheduler has been shut down
+2018-12-20 04:09:33 :: cherrypy.error :: INFO :: [20/Dec/2018:04:09:33] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8085)) shut down
+2018-12-20 04:09:33 :: cherrypy.error :: INFO :: [20/Dec/2018:04:09:33] ENGINE Bus STOPPED
+2018-12-20 04:09:33 :: cherrypy.error :: INFO :: [20/Dec/2018:04:09:33] ENGINE Bus EXITING
+2018-12-20 04:09:33 :: cherrypy.error :: INFO :: [20/Dec/2018:04:09:33] ENGINE Bus EXITED
+2018-12-20 04:09:33 :: cherrypy.error :: INFO :: [20/Dec/2018:04:09:33] ENGINE Waiting for child threads to terminate...
+2018-12-20 04:10:08 :: root :: INFO :: Welcome to Hellowlol's HTPC Manager fork
+2018-12-20 04:10:08 :: root :: INFO :: Loglevel set to info
+2018-12-20 04:10:08 :: htpc.updater :: INFO :: Using GitUpdater engine
+2018-12-20 04:10:08 :: apscheduler.scheduler :: INFO :: Added job "Updater.update_needed" to job store "default"
+2018-12-20 04:10:08 :: modules.kodi :: WARNING :: No configured kodi-Servers.
+2018-12-20 04:10:08 :: modules.newznab :: WARNING :: No configured Indexers.
+2018-12-20 04:10:09 :: modules.stats :: ERROR :: Required package 'smartmontools' is not installed, or 'smartctl'
+component is not on the system path. Please install and try again.The current env path is: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+2018-12-20 04:10:09 :: htpc.server :: INFO :: Starting up webserver
+2018-12-20 04:10:09 :: cherrypy.error :: INFO :: [20/Dec/2018:04:10:09] ENGINE Listening for SIGHUP.
+2018-12-20 04:10:09 :: cherrypy.error :: INFO :: [20/Dec/2018:04:10:09] ENGINE Listening for SIGTERM.
+2018-12-20 04:10:09 :: cherrypy.error :: INFO :: [20/Dec/2018:04:10:09] ENGINE Listening for SIGUSR1.
+2018-12-20 04:10:09 :: cherrypy.error :: INFO :: [20/Dec/2018:04:10:09] ENGINE Bus STARTING
+2018-12-20 04:10:09 :: cherrypy.error :: INFO :: [20/Dec/2018:04:10:09] ENGINE Serving on http://0.0.0.0:8085
+2018-12-20 04:10:09 :: cherrypy.error :: INFO :: [20/Dec/2018:04:10:09] ENGINE Bus STARTED
+2018-12-20 05:01:06 :: cherrypy.error :: INFO :: [20/Dec/2018:05:01:06] ENGINE Caught signal SIGTERM.
+2018-12-20 05:01:06 :: cherrypy.error :: INFO :: [20/Dec/2018:05:01:06] ENGINE Bus STOPPING
+2018-12-20 05:01:06 :: apscheduler.scheduler :: INFO :: Scheduler has been shut down
+2018-12-20 05:01:06 :: cherrypy.error :: INFO :: [20/Dec/2018:05:01:06] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8085)) shut down
+2018-12-20 05:01:06 :: cherrypy.error :: INFO :: [20/Dec/2018:05:01:06] ENGINE Bus STOPPED
+2018-12-20 05:01:06 :: cherrypy.error :: INFO :: [20/Dec/2018:05:01:06] ENGINE Bus EXITING
+2018-12-20 05:01:06 :: cherrypy.error :: INFO :: [20/Dec/2018:05:01:06] ENGINE Bus EXITED
+2018-12-20 05:01:06 :: cherrypy.error :: INFO :: [20/Dec/2018:05:01:06] ENGINE Waiting for child threads to terminate...
+2018-12-20 05:27:15 :: root :: INFO :: Welcome to Hellowlol's HTPC Manager fork
+2018-12-20 05:27:15 :: root :: INFO :: Loglevel set to info
+2018-12-20 05:27:15 :: htpc.updater :: INFO :: Using GitUpdater engine
+2018-12-20 05:27:15 :: apscheduler.scheduler :: INFO :: Added job "Updater.update_needed" to job store "default"
+2018-12-20 05:27:15 :: modules.kodi :: WARNING :: No configured kodi-Servers.
+2018-12-20 05:27:15 :: modules.newznab :: WARNING :: No configured Indexers.
+2018-12-20 05:27:16 :: modules.stats :: ERROR :: Required package 'smartmontools' is not installed, or 'smartctl'
+component is not on the system path. Please install and try again.The current env path is: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+2018-12-20 05:27:16 :: htpc.server :: INFO :: Starting up webserver
+2018-12-20 05:27:16 :: cherrypy.error :: INFO :: [20/Dec/2018:05:27:16] ENGINE Listening for SIGHUP.
+2018-12-20 05:27:16 :: cherrypy.error :: INFO :: [20/Dec/2018:05:27:16] ENGINE Listening for SIGTERM.
+2018-12-20 05:27:16 :: cherrypy.error :: INFO :: [20/Dec/2018:05:27:16] ENGINE Listening for SIGUSR1.
+2018-12-20 05:27:16 :: cherrypy.error :: INFO :: [20/Dec/2018:05:27:16] ENGINE Bus STARTING
+2018-12-20 05:27:17 :: cherrypy.error :: INFO :: [20/Dec/2018:05:27:17] ENGINE Serving on http://0.0.0.0:8085
+2018-12-20 05:27:17 :: cherrypy.error :: INFO :: [20/Dec/2018:05:27:17] ENGINE Bus STARTED
+2018-12-20 08:49:20 :: modules.plex :: INFO :: Sending discovery message: M-SEARCH * HTTP/1.0
+2018-12-20 08:49:21 :: modules.plex :: INFO :: GDM: No servers discovered
+2018-12-20 08:54:02 :: modules.plex :: INFO :: Sending discovery message: M-SEARCH * HTTP/1.0
+2018-12-20 08:54:03 :: modules.plex :: INFO :: GDM: No servers discovered
+2018-12-20 08:55:03 :: modules.headphones :: ERROR :: Error calling api http://localhost:8181/api?apikey= ********************************&cmd=getVersion: No JSON object could be decoded
+2018-12-20 08:55:27 :: modules.headphones :: ERROR :: Error calling api http://localhost:8181/api?apikey= cc94e9a74497d405db68639ad47b67a6&cmd=getVersion: No JSON object could be decoded
+2018-12-20 08:55:33 :: modules.plex :: INFO :: Sending discovery message: M-SEARCH * HTTP/1.0
+2018-12-20 08:55:34 :: modules.plex :: INFO :: GDM: No servers discovered
+2018-12-20 09:00:33 :: modules.headphones :: ERROR :: Error calling api http://localhost:8181/api?apikey=*********************************&cmd=getVersion: No JSON object could be decoded
+2018-12-20 09:00:38 :: modules.headphones :: ERROR :: Error calling api http://localhost:8181/api?apikey=*********************************&cmd=getVersion: No JSON object could be decoded
+2018-12-20 09:01:52 :: modules.plex :: INFO :: Sending discovery message: M-SEARCH * HTTP/1.0
+2018-12-20 09:01:53 :: modules.plex :: INFO :: GDM: No servers discovered
+2018-12-20 09:02:15 :: modules.plex :: INFO :: Sending discovery message: M-SEARCH * HTTP/1.0
+2018-12-20 09:02:16 :: modules.plex :: INFO :: GDM: No servers discovered
+2018-12-20 09:02:29 :: modules.plex :: INFO :: Sending discovery message: M-SEARCH * HTTP/1.0
+2018-12-20 09:02:30 :: modules.plex :: INFO :: GDM: No servers discovered
+2018-12-20 09:02:54 :: modules.plex :: INFO :: Sending discovery message: M-SEARCH * HTTP/1.0
+2018-12-20 09:02:55 :: modules.plex :: INFO :: GDM: No servers discovered
+2018-12-20 09:03:47 :: modules.plex :: INFO :: Sending discovery message: M-SEARCH * HTTP/1.0
+2018-12-20 09:03:48 :: modules.plex :: INFO :: GDM: No servers discovered
+2018-12-20 09:04:17 :: modules.plex :: INFO :: Sending discovery message: M-SEARCH * HTTP/1.0
+2018-12-20 09:04:18 :: modules.plex :: INFO :: GDM: No servers discovered
+2018-12-20 09:05:05 :: modules.plex :: INFO :: Sending discovery message: M-SEARCH * HTTP/1.0
+2018-12-20 09:05:06 :: modules.plex :: INFO :: GDM: No servers discovered
+2018-12-20 09:05:25 :: modules.plex :: INFO :: Sending discovery message: M-SEARCH * HTTP/1.0
+2018-12-20 09:05:26 :: modules.plex :: INFO :: GDM: No servers discovered
+2018-12-20 09:06:24 :: modules.plex :: ERROR :: Unable to contact Plex via http://10.0.0.11: error ('Connection aborted.', error(111, 'Connection refused'))
+2018-12-20 09:06:51 :: modules.plex :: ERROR :: Unable to contact Plex via http://10.0.0.11:32400 error No JSON object could be decoded
+2018-12-20 09:06:53 :: modules.plex :: INFO :: Sending discovery message: M-SEARCH * HTTP/1.0
+2018-12-20 09:06:54 :: modules.plex :: INFO :: GDM: No servers discovered
+2018-12-20 09:07:29 :: modules.plex :: ERROR :: Unable to contact Plex via http://10.0.0.11:32400 error No JSON object could be decoded
+2018-12-20 09:07:34 :: modules.plex :: INFO :: Sending discovery message: M-SEARCH * HTTP/1.0
+2018-12-20 09:07:35 :: modules.plex :: INFO :: GDM: No servers discovered
+2018-12-20 09:07:44 :: modules.plex :: ERROR :: Unable to contact Plex via http://10.0.0.11:32400 error No JSON object could be decoded
+2018-12-20 09:07:47 :: modules.plex :: INFO :: Sending discovery message: M-SEARCH * HTTP/1.0
+2018-12-20 09:07:48 :: modules.plex :: INFO :: GDM: No servers discovered
+2018-12-20 09:08:03 :: modules.plex :: INFO :: Sending discovery message: M-SEARCH * HTTP/1.0
+2018-12-20 09:08:04 :: modules.plex :: INFO :: GDM: No servers discovered
+2018-12-20 09:08:17 :: modules.plex :: ERROR :: Unable to fetch recent movies! Exception: Invalid URL u'http://:/library/sections': No host supplied
+2018-12-20 09:08:17 :: cherrypy.error.3058473648 :: ERROR :: [20/Dec/2018:09:08:17] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/lib/jsontools.py", line 63, in json_handler
+    value = cherrypy.serving.request._json_inner_handler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/sonarr.py", line 165, in Calendar
+    'title': episode['series']['title'],
+TypeError: string indices must be integers
+2018-12-20 09:14:42 :: modules.plex :: ERROR :: Unable to fetch recent movies! Exception: Invalid URL u'http://:/library/sections': No host supplied
+2018-12-20 09:14:42 :: cherrypy.error.3058473648 :: ERROR :: [20/Dec/2018:09:14:42] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/lib/jsontools.py", line 63, in json_handler
+    value = cherrypy.serving.request._json_inner_handler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/sonarr.py", line 165, in Calendar
+    'title': episode['series']['title'],
+TypeError: string indices must be integers
+2018-12-20 10:23:02 :: modules.plex :: ERROR :: Unable to fetch recent movies! Exception: Invalid URL u'http://:/library/sections': No host supplied
+2018-12-20 10:23:02 :: cherrypy.error.3058473648 :: ERROR :: [20/Dec/2018:10:23:02] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/lib/jsontools.py", line 63, in json_handler
+    value = cherrypy.serving.request._json_inner_handler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/sonarr.py", line 165, in Calendar
+    'title': episode['series']['title'],
+TypeError: string indices must be integers
+2018-12-20 11:27:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-20 17:27:15 CST)" (scheduled at 2018-12-20 11:27:15.679591-06:00)
+2018-12-20 11:27:15 :: htpc.updater :: INFO :: Running update_needed
+2018-12-20 11:27:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2018-12-20 11:27:16 :: htpc.updater :: ERROR :: Failed to get last commit from github HTTP Error 403: Forbidden
+2018-12-20 11:27:16 :: htpc.updater :: ERROR :: Failed to determine the latest version for HTPC Manager.
+2018-12-20 11:27:16 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-20 17:27:15 CST)" executed successfully
+2018-12-20 17:27:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-20 23:27:15 CST)" (scheduled at 2018-12-20 17:27:15.679591-06:00)
+2018-12-20 17:27:15 :: htpc.updater :: INFO :: Running update_needed
+2018-12-20 17:27:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2018-12-20 17:27:17 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2018-12-20 17:27:17 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2018-12-20 17:27:17 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-20 23:27:15 CST)" executed successfully
+2018-12-20 23:27:17 :: apscheduler.executors.default :: WARNING :: Run time of job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-21 05:27:15 CST)" was missed by 0:00:02.294507
+2018-12-21 05:27:17 :: apscheduler.executors.default :: WARNING :: Run time of job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-21 11:27:15 CST)" was missed by 0:00:02.283634
+2018-12-21 11:27:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-21 17:27:15 CST)" (scheduled at 2018-12-21 11:27:15.679591-06:00)
+2018-12-21 11:27:15 :: htpc.updater :: INFO :: Running update_needed
+2018-12-21 11:27:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2018-12-21 11:27:17 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2018-12-21 11:27:17 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2018-12-21 11:27:17 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-21 17:27:15 CST)" executed successfully
+2018-12-21 17:27:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-21 23:27:15 CST)" (scheduled at 2018-12-21 17:27:15.679591-06:00)
+2018-12-21 17:27:15 :: htpc.updater :: INFO :: Running update_needed
+2018-12-21 17:27:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2018-12-21 17:27:16 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2018-12-21 17:27:16 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2018-12-21 17:27:16 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-21 23:27:15 CST)" executed successfully
+2018-12-21 23:27:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-22 05:27:15 CST)" (scheduled at 2018-12-21 23:27:15.679591-06:00)
+2018-12-21 23:27:15 :: htpc.updater :: INFO :: Running update_needed
+2018-12-21 23:27:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2018-12-21 23:27:16 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2018-12-21 23:27:16 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2018-12-21 23:27:16 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-22 05:27:15 CST)" executed successfully
+2018-12-22 05:27:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-22 11:27:15 CST)" (scheduled at 2018-12-22 05:27:15.679591-06:00)
+2018-12-22 05:27:15 :: htpc.updater :: INFO :: Running update_needed
+2018-12-22 05:27:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2018-12-22 05:27:16 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2018-12-22 05:27:16 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2018-12-22 05:27:16 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-22 11:27:15 CST)" executed successfully
+2018-12-22 11:27:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-22 17:27:15 CST)" (scheduled at 2018-12-22 11:27:15.679591-06:00)
+2018-12-22 11:27:15 :: htpc.updater :: INFO :: Running update_needed
+2018-12-22 11:27:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2018-12-22 11:27:16 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2018-12-22 11:27:16 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2018-12-22 11:27:16 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-22 17:27:15 CST)" executed successfully
+2018-12-22 17:27:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-22 23:27:15 CST)" (scheduled at 2018-12-22 17:27:15.679591-06:00)
+2018-12-22 17:27:15 :: htpc.updater :: INFO :: Running update_needed
+2018-12-22 17:27:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2018-12-22 17:27:17 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2018-12-22 17:27:17 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2018-12-22 17:27:17 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-22 23:27:15 CST)" executed successfully
+2018-12-22 23:27:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-23 05:27:15 CST)" (scheduled at 2018-12-22 23:27:15.679591-06:00)
+2018-12-22 23:27:15 :: htpc.updater :: INFO :: Running update_needed
+2018-12-22 23:27:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2018-12-22 23:27:17 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2018-12-22 23:27:17 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2018-12-22 23:27:17 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-23 05:27:15 CST)" executed successfully
+2018-12-23 05:27:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-23 11:27:15 CST)" (scheduled at 2018-12-23 05:27:15.679591-06:00)
+2018-12-23 05:27:15 :: htpc.updater :: INFO :: Running update_needed
+2018-12-23 05:27:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2018-12-23 05:27:16 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2018-12-23 05:27:16 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2018-12-23 05:27:16 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-23 11:27:15 CST)" executed successfully
+2018-12-23 11:27:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-23 17:27:15 CST)" (scheduled at 2018-12-23 11:27:15.679591-06:00)
+2018-12-23 11:27:15 :: htpc.updater :: INFO :: Running update_needed
+2018-12-23 11:27:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2018-12-23 11:27:18 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2018-12-23 11:27:18 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2018-12-23 11:27:18 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-23 17:27:15 CST)" executed successfully
+2018-12-23 17:27:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-23 23:27:15 CST)" (scheduled at 2018-12-23 17:27:15.679591-06:00)
+2018-12-23 17:27:15 :: htpc.updater :: INFO :: Running update_needed
+2018-12-23 17:27:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2018-12-23 17:31:37 :: htpc.updater :: ERROR :: Failed to get last commit from github <urlopen error [Errno 110] Operation timed out>
+2018-12-23 17:31:37 :: htpc.updater :: ERROR :: Failed to determine the latest version for HTPC Manager.
+2018-12-23 17:31:37 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-23 23:27:15 CST)" executed successfully
+2018-12-23 23:27:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-24 05:27:15 CST)" (scheduled at 2018-12-23 23:27:15.679591-06:00)
+2018-12-23 23:27:15 :: htpc.updater :: INFO :: Running update_needed
+2018-12-23 23:27:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2018-12-23 23:31:37 :: htpc.updater :: ERROR :: Failed to get last commit from github <urlopen error [Errno 110] Operation timed out>
+2018-12-23 23:31:37 :: htpc.updater :: ERROR :: Failed to determine the latest version for HTPC Manager.
+2018-12-23 23:31:37 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-24 05:27:15 CST)" executed successfully
+2018-12-24 05:27:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-24 11:27:15 CST)" (scheduled at 2018-12-24 05:27:15.679591-06:00)
+2018-12-24 05:27:15 :: htpc.updater :: INFO :: Running update_needed
+2018-12-24 05:27:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2018-12-24 05:31:37 :: htpc.updater :: ERROR :: Failed to get last commit from github <urlopen error [Errno 110] Operation timed out>
+2018-12-24 05:31:37 :: htpc.updater :: ERROR :: Failed to determine the latest version for HTPC Manager.
+2018-12-24 05:31:37 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-24 11:27:15 CST)" executed successfully
+2018-12-24 11:27:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-24 17:27:15 CST)" (scheduled at 2018-12-24 11:27:15.679591-06:00)
+2018-12-24 11:27:15 :: htpc.updater :: INFO :: Running update_needed
+2018-12-24 11:27:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2018-12-24 11:31:37 :: htpc.updater :: ERROR :: Failed to get last commit from github <urlopen error [Errno 110] Operation timed out>
+2018-12-24 11:31:37 :: htpc.updater :: ERROR :: Failed to determine the latest version for HTPC Manager.
+2018-12-24 11:31:37 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-24 17:27:15 CST)" executed successfully
+2018-12-24 17:27:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-24 23:27:15 CST)" (scheduled at 2018-12-24 17:27:15.679591-06:00)
+2018-12-24 17:27:15 :: htpc.updater :: INFO :: Running update_needed
+2018-12-24 17:27:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2018-12-24 17:31:38 :: htpc.updater :: ERROR :: Failed to get last commit from github <urlopen error [Errno 110] Operation timed out>
+2018-12-24 17:31:38 :: htpc.updater :: ERROR :: Failed to determine the latest version for HTPC Manager.
+2018-12-24 17:31:38 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-24 23:27:15 CST)" executed successfully
+2018-12-24 23:27:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-25 05:27:15 CST)" (scheduled at 2018-12-24 23:27:15.679591-06:00)
+2018-12-24 23:27:15 :: htpc.updater :: INFO :: Running update_needed
+2018-12-24 23:27:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2018-12-24 23:31:36 :: htpc.updater :: ERROR :: Failed to get last commit from github <urlopen error [Errno 110] Operation timed out>
+2018-12-24 23:31:36 :: htpc.updater :: ERROR :: Failed to determine the latest version for HTPC Manager.
+2018-12-24 23:31:36 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-25 05:27:15 CST)" executed successfully
+2018-12-25 05:27:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-25 11:27:15 CST)" (scheduled at 2018-12-25 05:27:15.679591-06:00)
+2018-12-25 05:27:15 :: htpc.updater :: INFO :: Running update_needed
+2018-12-25 05:27:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2018-12-25 05:31:36 :: htpc.updater :: ERROR :: Failed to get last commit from github <urlopen error [Errno 110] Operation timed out>
+2018-12-25 05:31:36 :: htpc.updater :: ERROR :: Failed to determine the latest version for HTPC Manager.
+2018-12-25 05:31:36 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-25 11:27:15 CST)" executed successfully
+2018-12-25 11:27:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-25 17:27:15 CST)" (scheduled at 2018-12-25 11:27:15.679591-06:00)
+2018-12-25 11:27:15 :: htpc.updater :: INFO :: Running update_needed
+2018-12-25 11:27:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2018-12-25 11:31:36 :: htpc.updater :: ERROR :: Failed to get last commit from github <urlopen error [Errno 110] Operation timed out>
+2018-12-25 11:31:36 :: htpc.updater :: ERROR :: Failed to determine the latest version for HTPC Manager.
+2018-12-25 11:31:36 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-25 17:27:15 CST)" executed successfully
+2018-12-25 13:05:39 :: cherrypy.error :: INFO :: [25/Dec/2018:13:05:39] ENGINE Caught signal SIGTERM.
+2018-12-25 13:05:39 :: cherrypy.error :: INFO :: [25/Dec/2018:13:05:39] ENGINE Bus STOPPING
+2018-12-25 13:05:39 :: apscheduler.scheduler :: INFO :: Scheduler has been shut down
+2018-12-25 13:05:39 :: cherrypy.error :: INFO :: [25/Dec/2018:13:05:39] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8085)) shut down
+2018-12-25 13:05:39 :: cherrypy.error :: INFO :: [25/Dec/2018:13:05:39] ENGINE Bus STOPPED
+2018-12-25 13:05:39 :: cherrypy.error :: INFO :: [25/Dec/2018:13:05:39] ENGINE Bus EXITING
+2018-12-25 13:05:39 :: cherrypy.error :: INFO :: [25/Dec/2018:13:05:39] ENGINE Bus EXITED
+2018-12-25 13:05:39 :: cherrypy.error :: INFO :: [25/Dec/2018:13:05:39] ENGINE Waiting for child threads to terminate...
+2018-12-25 13:05:06 :: root :: INFO :: Welcome to Hellowlol's HTPC Manager fork
+2018-12-25 13:05:06 :: root :: INFO :: Loglevel set to info
+2018-12-25 13:05:06 :: htpc.updater :: INFO :: Using GitUpdater engine
+2018-12-25 13:05:06 :: apscheduler.scheduler :: INFO :: Added job "Updater.update_needed" to job store "default"
+2018-12-25 13:05:06 :: modules.kodi :: WARNING :: No configured kodi-Servers.
+2018-12-25 13:05:07 :: modules.stats :: ERROR :: Required package 'smartmontools' is not installed, or 'smartctl'
+component is not on the system path. Please install and try again.The current env path is: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+2018-12-25 13:05:08 :: htpc.server :: INFO :: Starting up webserver
+2018-12-25 13:05:08 :: cherrypy.error :: INFO :: [25/Dec/2018:13:05:08] ENGINE Listening for SIGHUP.
+2018-12-25 13:05:08 :: cherrypy.error :: INFO :: [25/Dec/2018:13:05:08] ENGINE Listening for SIGTERM.
+2018-12-25 13:05:08 :: cherrypy.error :: INFO :: [25/Dec/2018:13:05:08] ENGINE Listening for SIGUSR1.
+2018-12-25 13:05:08 :: cherrypy.error :: INFO :: [25/Dec/2018:13:05:08] ENGINE Bus STARTING
+2018-12-25 13:05:08 :: cherrypy.error :: INFO :: [25/Dec/2018:13:05:08] ENGINE Serving on http://0.0.0.0:8085
+2018-12-25 13:05:08 :: cherrypy.error :: INFO :: [25/Dec/2018:13:05:08] ENGINE Bus STARTED
+2018-12-25 19:05:06 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-26 01:05:06 CST)" (scheduled at 2018-12-25 19:05:06.705943-06:00)
+2018-12-25 19:05:06 :: htpc.updater :: INFO :: Running update_needed
+2018-12-25 19:05:06 :: htpc.updater :: INFO :: Checking for updates from Git.
+2018-12-25 19:05:07 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2018-12-25 19:05:07 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2018-12-25 19:05:07 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-26 01:05:06 CST)" executed successfully
+2018-12-26 01:05:06 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-26 07:05:06 CST)" (scheduled at 2018-12-26 01:05:06.705943-06:00)
+2018-12-26 01:05:06 :: htpc.updater :: INFO :: Running update_needed
+2018-12-26 01:05:06 :: htpc.updater :: INFO :: Checking for updates from Git.
+2018-12-26 01:05:07 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2018-12-26 01:05:07 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2018-12-26 01:05:07 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-26 07:05:06 CST)" executed successfully
+2018-12-26 07:05:06 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-26 07:05:06 CST)" (scheduled at 2018-12-26 07:05:06.705943-06:00)
+2018-12-26 07:05:06 :: htpc.updater :: INFO :: Running update_needed
+2018-12-26 07:05:06 :: htpc.updater :: INFO :: Checking for updates from Git.
+2018-12-26 07:05:07 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2018-12-26 07:05:07 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2018-12-26 07:05:07 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-26 13:05:06 CST)" executed successfully
+2018-12-26 13:05:06 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-26 19:05:06 CST)" (scheduled at 2018-12-26 13:05:06.705943-06:00)
+2018-12-26 13:05:06 :: htpc.updater :: INFO :: Running update_needed
+2018-12-26 13:05:06 :: htpc.updater :: INFO :: Checking for updates from Git.
+2018-12-26 13:05:07 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2018-12-26 13:05:07 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2018-12-26 13:05:07 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-26 19:05:06 CST)" executed successfully
+2018-12-26 19:05:06 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-27 01:05:06 CST)" (scheduled at 2018-12-26 19:05:06.705943-06:00)
+2018-12-26 19:05:06 :: htpc.updater :: INFO :: Running update_needed
+2018-12-26 19:05:06 :: htpc.updater :: INFO :: Checking for updates from Git.
+2018-12-26 19:05:07 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2018-12-26 19:05:07 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2018-12-26 19:05:07 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-27 01:05:06 CST)" executed successfully
+2018-12-27 01:05:06 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-27 07:05:06 CST)" (scheduled at 2018-12-27 01:05:06.705943-06:00)
+2018-12-27 01:05:06 :: htpc.updater :: INFO :: Running update_needed
+2018-12-27 01:05:06 :: htpc.updater :: INFO :: Checking for updates from Git.
+2018-12-27 01:05:07 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2018-12-27 01:05:07 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2018-12-27 01:05:07 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-27 07:05:06 CST)" executed successfully
+2018-12-27 07:05:06 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-27 13:05:06 CST)" (scheduled at 2018-12-27 07:05:06.705943-06:00)
+2018-12-27 07:05:06 :: htpc.updater :: INFO :: Running update_needed
+2018-12-27 07:05:06 :: htpc.updater :: INFO :: Checking for updates from Git.
+2018-12-27 07:05:07 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2018-12-27 07:05:07 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2018-12-27 07:05:07 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-27 13:05:06 CST)" executed successfully
+2018-12-27 13:05:06 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-27 19:05:06 CST)" (scheduled at 2018-12-27 13:05:06.705943-06:00)
+2018-12-27 13:05:06 :: htpc.updater :: INFO :: Running update_needed
+2018-12-27 13:05:06 :: htpc.updater :: INFO :: Checking for updates from Git.
+2018-12-27 13:05:07 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2018-12-27 13:05:07 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2018-12-27 13:05:07 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-27 19:05:06 CST)" executed successfully
+2018-12-27 19:05:06 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-28 01:05:06 CST)" (scheduled at 2018-12-27 19:05:06.705943-06:00)
+2018-12-27 19:05:06 :: htpc.updater :: INFO :: Running update_needed
+2018-12-27 19:05:06 :: htpc.updater :: INFO :: Checking for updates from Git.
+2018-12-27 19:05:07 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2018-12-27 19:05:07 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2018-12-27 19:05:07 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-28 01:05:06 CST)" executed successfully
+2018-12-28 01:05:06 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-28 07:05:06 CST)" (scheduled at 2018-12-28 01:05:06.705943-06:00)
+2018-12-28 01:05:06 :: htpc.updater :: INFO :: Running update_needed
+2018-12-28 01:05:06 :: htpc.updater :: INFO :: Checking for updates from Git.
+2018-12-28 01:05:07 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2018-12-28 01:05:07 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2018-12-28 01:05:07 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-28 07:05:06 CST)" executed successfully
+2018-12-28 07:05:06 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-28 13:05:06 CST)" (scheduled at 2018-12-28 07:05:06.705943-06:00)
+2018-12-28 07:05:06 :: htpc.updater :: INFO :: Running update_needed
+2018-12-28 07:05:06 :: htpc.updater :: INFO :: Checking for updates from Git.
+2018-12-28 07:05:07 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2018-12-28 07:05:07 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2018-12-28 07:05:07 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-28 13:05:06 CST)" executed successfully
+2018-12-28 11:11:14 :: cherrypy.error.3058677520 :: ERROR :: [28/Dec/2018:11:11:14] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/lib/jsontools.py", line 63, in json_handler
+    value = cherrypy.serving.request._json_inner_handler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/sonarr.py", line 165, in Calendar
+    'title': episode['series']['title'],
+TypeError: string indices must be integers
+2018-12-28 11:11:14 :: modules.plex :: ERROR :: Unable to fetch recent movies! Exception: Invalid URL u'http://:/library/sections': No host supplied
+2018-12-28 13:05:06 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-28 19:05:06 CST)" (scheduled at 2018-12-28 13:05:06.705943-06:00)
+2018-12-28 13:05:06 :: htpc.updater :: INFO :: Running update_needed
+2018-12-28 13:05:06 :: htpc.updater :: INFO :: Checking for updates from Git.
+2018-12-28 13:05:07 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2018-12-28 13:05:07 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2018-12-28 13:05:07 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-28 19:05:06 CST)" executed successfully
+2018-12-28 19:05:06 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-29 01:05:06 CST)" (scheduled at 2018-12-28 19:05:06.705943-06:00)
+2018-12-28 19:05:06 :: htpc.updater :: INFO :: Running update_needed
+2018-12-28 19:05:06 :: htpc.updater :: INFO :: Checking for updates from Git.
+2018-12-28 19:05:07 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2018-12-28 19:05:07 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2018-12-28 19:05:07 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-29 01:05:06 CST)" executed successfully
+2018-12-29 01:05:06 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-29 07:05:06 CST)" (scheduled at 2018-12-29 01:05:06.705943-06:00)
+2018-12-29 01:05:06 :: htpc.updater :: INFO :: Running update_needed
+2018-12-29 01:05:06 :: htpc.updater :: INFO :: Checking for updates from Git.
+2018-12-29 01:05:07 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2018-12-29 01:05:07 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2018-12-29 01:05:07 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-29 07:05:06 CST)" executed successfully
+2018-12-29 07:05:06 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-29 13:05:06 CST)" (scheduled at 2018-12-29 07:05:06.705943-06:00)
+2018-12-29 07:05:06 :: htpc.updater :: INFO :: Running update_needed
+2018-12-29 07:05:06 :: htpc.updater :: INFO :: Checking for updates from Git.
+2018-12-29 07:05:07 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2018-12-29 07:05:07 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2018-12-29 07:05:07 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-29 13:05:06 CST)" executed successfully
+2018-12-29 13:05:06 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-29 19:05:06 CST)" (scheduled at 2018-12-29 13:05:06.705943-06:00)
+2018-12-29 13:05:06 :: htpc.updater :: INFO :: Running update_needed
+2018-12-29 13:05:06 :: htpc.updater :: INFO :: Checking for updates from Git.
+2018-12-29 13:05:07 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2018-12-29 13:05:07 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2018-12-29 13:05:07 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-29 19:05:06 CST)" executed successfully
+2018-12-29 19:05:06 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-30 01:05:06 CST)" (scheduled at 2018-12-29 19:05:06.705943-06:00)
+2018-12-29 19:05:06 :: htpc.updater :: INFO :: Running update_needed
+2018-12-29 19:05:06 :: htpc.updater :: INFO :: Checking for updates from Git.
+2018-12-29 19:05:07 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2018-12-29 19:05:07 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2018-12-29 19:05:07 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-30 01:05:06 CST)" executed successfully
+2018-12-30 01:05:06 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-30 07:05:06 CST)" (scheduled at 2018-12-30 01:05:06.705943-06:00)
+2018-12-30 01:05:06 :: htpc.updater :: INFO :: Running update_needed
+2018-12-30 01:05:06 :: htpc.updater :: INFO :: Checking for updates from Git.
+2018-12-30 01:05:07 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2018-12-30 01:05:07 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2018-12-30 01:05:07 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-30 07:05:06 CST)" executed successfully
+2018-12-30 07:05:06 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-30 13:05:06 CST)" (scheduled at 2018-12-30 07:05:06.705943-06:00)
+2018-12-30 07:05:06 :: htpc.updater :: INFO :: Running update_needed
+2018-12-30 07:05:06 :: htpc.updater :: INFO :: Checking for updates from Git.
+2018-12-30 07:05:07 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2018-12-30 07:05:07 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2018-12-30 07:05:07 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-30 13:05:06 CST)" executed successfully
+2018-12-30 13:05:06 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-30 19:05:06 CST)" (scheduled at 2018-12-30 13:05:06.705943-06:00)
+2018-12-30 13:05:06 :: htpc.updater :: INFO :: Running update_needed
+2018-12-30 13:05:06 :: htpc.updater :: INFO :: Checking for updates from Git.
+2018-12-30 13:05:07 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2018-12-30 13:05:07 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2018-12-30 13:05:07 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-30 19:05:06 CST)" executed successfully
+2018-12-30 19:05:06 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-31 01:05:06 CST)" (scheduled at 2018-12-30 19:05:06.705943-06:00)
+2018-12-30 19:05:10 :: htpc.updater :: INFO :: Running update_needed
+2018-12-30 19:05:10 :: htpc.updater :: INFO :: Checking for updates from Git.
+2018-12-30 19:05:11 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2018-12-30 19:05:11 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2018-12-30 19:05:11 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-31 01:05:06 CST)" executed successfully
+2018-12-31 01:05:06 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-31 07:05:06 CST)" (scheduled at 2018-12-31 01:05:06.705943-06:00)
+2018-12-31 01:05:06 :: htpc.updater :: INFO :: Running update_needed
+2018-12-31 01:05:06 :: htpc.updater :: INFO :: Checking for updates from Git.
+2018-12-31 01:05:07 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2018-12-31 01:05:07 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2018-12-31 01:05:07 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-31 07:05:06 CST)" executed successfully
+2018-12-31 07:05:06 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-31 13:05:06 CST)" (scheduled at 2018-12-31 07:05:06.705943-06:00)
+2018-12-31 07:05:06 :: htpc.updater :: INFO :: Running update_needed
+2018-12-31 07:05:06 :: htpc.updater :: INFO :: Checking for updates from Git.
+2018-12-31 07:05:07 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2018-12-31 07:05:07 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2018-12-31 07:05:07 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-31 13:05:06 CST)" executed successfully
+2018-12-31 13:05:06 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-31 19:05:06 CST)" (scheduled at 2018-12-31 13:05:06.705943-06:00)
+2018-12-31 13:05:06 :: htpc.updater :: INFO :: Running update_needed
+2018-12-31 13:05:06 :: htpc.updater :: INFO :: Checking for updates from Git.
+2018-12-31 13:05:07 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2018-12-31 13:05:07 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2018-12-31 13:05:07 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2018-12-31 19:05:06 CST)" executed successfully
+2018-12-31 19:05:06 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-01 01:05:06 CST)" (scheduled at 2018-12-31 19:05:06.705943-06:00)
+2018-12-31 19:05:06 :: htpc.updater :: INFO :: Running update_needed
+2018-12-31 19:05:06 :: htpc.updater :: INFO :: Checking for updates from Git.
+2018-12-31 19:05:07 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2018-12-31 19:05:07 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2018-12-31 19:05:07 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-01 01:05:06 CST)" executed successfully
+2019-01-01 01:05:06 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-01 07:05:06 CST)" (scheduled at 2019-01-01 01:05:06.705943-06:00)
+2019-01-01 01:05:06 :: htpc.updater :: INFO :: Running update_needed
+2019-01-01 01:05:06 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-01 01:05:07 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-01 01:05:07 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-01 01:05:07 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-01 07:05:06 CST)" executed successfully
+2019-01-01 05:34:05 :: root :: INFO :: Welcome to Hellowlol's HTPC Manager fork
+2019-01-01 05:34:05 :: root :: INFO :: Loglevel set to info
+2019-01-01 05:34:05 :: htpc.updater :: INFO :: Using GitUpdater engine
+2019-01-01 05:34:05 :: apscheduler.scheduler :: INFO :: Added job "Updater.update_needed" to job store "default"
+2019-01-01 05:34:05 :: modules.kodi :: WARNING :: No configured kodi-Servers.
+2019-01-01 05:34:05 :: modules.newznab :: ERROR :: Invalid indexer. Selecting first Available.
+2019-01-01 05:34:06 :: modules.stats :: ERROR :: Required package 'smartmontools' is not installed, or 'smartctl'
+component is not on the system path. Please install and try again.The current env path is: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+2019-01-01 05:34:07 :: htpc.server :: INFO :: Starting up webserver
+2019-01-01 05:34:07 :: cherrypy.error :: INFO :: [01/Jan/2019:05:34:07] ENGINE Listening for SIGHUP.
+2019-01-01 05:34:07 :: cherrypy.error :: INFO :: [01/Jan/2019:05:34:07] ENGINE Listening for SIGTERM.
+2019-01-01 05:34:07 :: cherrypy.error :: INFO :: [01/Jan/2019:05:34:07] ENGINE Listening for SIGUSR1.
+2019-01-01 05:34:07 :: cherrypy.error :: INFO :: [01/Jan/2019:05:34:07] ENGINE Bus STARTING
+2019-01-01 05:34:07 :: cherrypy.error :: INFO :: [01/Jan/2019:05:34:07] ENGINE Serving on http://0.0.0.0:8085
+2019-01-01 05:34:07 :: cherrypy.error :: INFO :: [01/Jan/2019:05:34:07] ENGINE Bus STARTED
+2019-01-01 22:22:07 :: apscheduler.executors.default :: WARNING :: Run time of job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-01 23:34:05 CST)" was missed by 4:48:01.905579
+2019-01-01 22:52:34 :: modules.plex :: ERROR :: Unable to fetch recent movies! Exception: Invalid URL u'http://:/library/sections': No host supplied
+2019-01-01 22:52:35 :: cherrypy.error.3039154064 :: ERROR :: [01/Jan/2019:22:52:35] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/lib/jsontools.py", line 63, in json_handler
+    value = cherrypy.serving.request._json_inner_handler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/sonarr.py", line 165, in Calendar
+    'title': episode['series']['title'],
+TypeError: string indices must be integers
+2019-01-01 23:34:05 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-02 05:34:05 CST)" (scheduled at 2019-01-01 23:34:05.731451-06:00)
+2019-01-01 23:34:05 :: htpc.updater :: INFO :: Running update_needed
+2019-01-01 23:34:05 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-01 23:34:06 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-01 23:34:06 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-01 23:34:06 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-02 05:34:05 CST)" executed successfully
+2019-01-02 05:34:05 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-02 11:34:05 CST)" (scheduled at 2019-01-02 05:34:05.731451-06:00)
+2019-01-02 05:34:05 :: htpc.updater :: INFO :: Running update_needed
+2019-01-02 05:34:05 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-02 05:34:06 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-02 05:34:06 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-02 05:34:06 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-02 11:34:05 CST)" executed successfully
+2019-01-02 11:34:05 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-02 17:34:05 CST)" (scheduled at 2019-01-02 11:34:05.731451-06:00)
+2019-01-02 11:34:05 :: htpc.updater :: INFO :: Running update_needed
+2019-01-02 11:34:05 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-02 11:34:06 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-02 11:34:06 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-02 11:34:06 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-02 17:34:05 CST)" executed successfully
+2019-01-02 17:34:05 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-02 23:34:05 CST)" (scheduled at 2019-01-02 17:34:05.731451-06:00)
+2019-01-02 17:34:05 :: htpc.updater :: INFO :: Running update_needed
+2019-01-02 17:34:05 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-02 17:34:06 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-02 17:34:06 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-02 17:34:06 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-02 23:34:05 CST)" executed successfully
+2019-01-02 23:34:05 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-02 23:34:05 CST)" (scheduled at 2019-01-02 23:34:05.731451-06:00)
+2019-01-02 23:34:05 :: htpc.updater :: INFO :: Running update_needed
+2019-01-02 23:34:05 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-02 23:34:06 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-02 23:34:06 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-02 23:34:06 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-03 05:34:05 CST)" executed successfully
+2019-01-03 05:34:05 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-03 11:34:05 CST)" (scheduled at 2019-01-03 05:34:05.731451-06:00)
+2019-01-03 05:34:05 :: htpc.updater :: INFO :: Running update_needed
+2019-01-03 05:34:05 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-03 05:34:06 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-03 05:34:06 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-03 05:34:06 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-03 11:34:05 CST)" executed successfully
+2019-01-03 11:34:05 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-03 17:34:05 CST)" (scheduled at 2019-01-03 11:34:05.731451-06:00)
+2019-01-03 11:34:05 :: htpc.updater :: INFO :: Running update_needed
+2019-01-03 11:34:05 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-03 11:34:06 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-03 11:34:06 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-03 11:34:06 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-03 17:34:05 CST)" executed successfully
+2019-01-03 17:34:05 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-03 23:34:05 CST)" (scheduled at 2019-01-03 17:34:05.731451-06:00)
+2019-01-03 17:34:05 :: htpc.updater :: INFO :: Running update_needed
+2019-01-03 17:34:05 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-03 17:34:06 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-03 17:34:06 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-03 17:34:06 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-03 23:34:05 CST)" executed successfully
+2019-01-03 23:34:05 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-04 05:34:05 CST)" (scheduled at 2019-01-03 23:34:05.731451-06:00)
+2019-01-03 23:34:05 :: htpc.updater :: INFO :: Running update_needed
+2019-01-03 23:34:05 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-03 23:34:06 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-03 23:34:06 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-03 23:34:06 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-04 05:34:05 CST)" executed successfully
+2019-01-04 05:34:05 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-04 11:34:05 CST)" (scheduled at 2019-01-04 05:34:05.731451-06:00)
+2019-01-04 05:34:05 :: htpc.updater :: INFO :: Running update_needed
+2019-01-04 05:34:05 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-04 05:34:06 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-04 05:34:06 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-04 05:34:06 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-04 11:34:05 CST)" executed successfully
+2019-01-04 11:34:05 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-04 17:34:05 CST)" (scheduled at 2019-01-04 11:34:05.731451-06:00)
+2019-01-04 11:34:05 :: htpc.updater :: INFO :: Running update_needed
+2019-01-04 11:34:05 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-04 11:34:06 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-04 11:34:06 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-04 11:34:06 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-04 17:34:05 CST)" executed successfully
+2019-01-04 17:34:05 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-04 23:34:05 CST)" (scheduled at 2019-01-04 17:34:05.731451-06:00)
+2019-01-04 17:34:05 :: htpc.updater :: INFO :: Running update_needed
+2019-01-04 17:34:05 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-04 17:34:06 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-04 17:34:06 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-04 17:34:06 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-04 23:34:05 CST)" executed successfully
+2019-01-04 23:34:05 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-04 23:34:05 CST)" (scheduled at 2019-01-04 23:34:05.731451-06:00)
+2019-01-04 23:34:05 :: htpc.updater :: INFO :: Running update_needed
+2019-01-04 23:34:05 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-04 23:34:06 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-04 23:34:06 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-04 23:34:06 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-05 05:34:05 CST)" executed successfully
+2019-01-05 05:34:05 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-05 11:34:05 CST)" (scheduled at 2019-01-05 05:34:05.731451-06:00)
+2019-01-05 05:34:05 :: htpc.updater :: INFO :: Running update_needed
+2019-01-05 05:34:05 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-05 05:34:06 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-05 05:34:06 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-05 05:34:06 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-05 11:34:05 CST)" executed successfully
+2019-01-05 11:34:05 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-05 17:34:05 CST)" (scheduled at 2019-01-05 11:34:05.731451-06:00)
+2019-01-05 11:34:05 :: htpc.updater :: INFO :: Running update_needed
+2019-01-05 11:34:05 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-05 11:34:06 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-05 11:34:06 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-05 11:34:06 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-05 17:34:05 CST)" executed successfully
+2019-01-05 17:34:05 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-05 23:34:05 CST)" (scheduled at 2019-01-05 17:34:05.731451-06:00)
+2019-01-05 17:34:05 :: htpc.updater :: INFO :: Running update_needed
+2019-01-05 17:34:05 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-05 17:34:06 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-05 17:34:06 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-05 17:34:06 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-05 23:34:05 CST)" executed successfully
+2019-01-05 23:34:05 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-06 05:34:05 CST)" (scheduled at 2019-01-05 23:34:05.731451-06:00)
+2019-01-05 23:34:05 :: htpc.updater :: INFO :: Running update_needed
+2019-01-05 23:34:05 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-05 23:34:06 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-05 23:34:06 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-05 23:34:06 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-06 05:34:05 CST)" executed successfully
+2019-01-06 05:34:05 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-06 11:34:05 CST)" (scheduled at 2019-01-06 05:34:05.731451-06:00)
+2019-01-06 05:34:05 :: htpc.updater :: INFO :: Running update_needed
+2019-01-06 05:34:05 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-06 05:34:06 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-06 05:34:06 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-06 05:34:06 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-06 11:34:05 CST)" executed successfully
+2019-01-06 11:34:05 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-06 17:34:05 CST)" (scheduled at 2019-01-06 11:34:05.731451-06:00)
+2019-01-06 11:34:05 :: htpc.updater :: INFO :: Running update_needed
+2019-01-06 11:34:05 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-06 11:34:06 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-06 11:34:06 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-06 11:34:06 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-06 17:34:05 CST)" executed successfully
+2019-01-06 17:34:05 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-06 23:34:05 CST)" (scheduled at 2019-01-06 17:34:05.731451-06:00)
+2019-01-06 17:34:05 :: htpc.updater :: INFO :: Running update_needed
+2019-01-06 17:34:05 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-06 17:34:06 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-06 17:34:06 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-06 17:34:06 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-06 23:34:05 CST)" executed successfully
+2019-01-06 23:34:05 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-07 05:34:05 CST)" (scheduled at 2019-01-06 23:34:05.731451-06:00)
+2019-01-06 23:34:05 :: htpc.updater :: INFO :: Running update_needed
+2019-01-06 23:34:05 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-06 23:34:06 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-06 23:34:06 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-06 23:34:06 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-07 05:34:05 CST)" executed successfully
+2019-01-07 01:36:12 :: cherrypy.error :: INFO :: [07/Jan/2019:01:36:12] ENGINE Caught signal SIGTERM.
+2019-01-07 01:36:12 :: cherrypy.error :: INFO :: [07/Jan/2019:01:36:12] ENGINE Bus STOPPING
+2019-01-07 01:36:12 :: apscheduler.scheduler :: INFO :: Scheduler has been shut down
+2019-01-07 01:36:12 :: cherrypy.error :: INFO :: [07/Jan/2019:01:36:12] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8085)) shut down
+2019-01-07 01:36:12 :: cherrypy.error :: INFO :: [07/Jan/2019:01:36:12] ENGINE Bus STOPPED
+2019-01-07 01:36:12 :: cherrypy.error :: INFO :: [07/Jan/2019:01:36:12] ENGINE Bus EXITING
+2019-01-07 01:36:12 :: cherrypy.error :: INFO :: [07/Jan/2019:01:36:12] ENGINE Bus EXITED
+2019-01-07 01:36:12 :: cherrypy.error :: INFO :: [07/Jan/2019:01:36:12] ENGINE Waiting for child threads to terminate...
+2019-01-07 01:42:26 :: root :: INFO :: Welcome to Hellowlol's HTPC Manager fork
+2019-01-07 01:42:26 :: root :: INFO :: Loglevel set to info
+2019-01-07 01:42:27 :: htpc.updater :: INFO :: Using GitUpdater engine
+2019-01-07 01:42:27 :: apscheduler.scheduler :: INFO :: Added job "Updater.update_needed" to job store "default"
+2019-01-07 01:42:27 :: modules.kodi :: WARNING :: No configured kodi-Servers.
+2019-01-07 01:42:27 :: modules.newznab :: ERROR :: Invalid indexer. Selecting first Available.
+2019-01-07 01:42:29 :: modules.stats :: ERROR :: Required package 'smartmontools' is not installed, or 'smartctl'
+component is not on the system path. Please install and try again.The current env path is: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+2019-01-07 01:42:30 :: htpc.server :: INFO :: Starting up webserver
+2019-01-07 01:42:30 :: cherrypy.error :: INFO :: [07/Jan/2019:01:42:30] ENGINE Listening for SIGHUP.
+2019-01-07 01:42:30 :: cherrypy.error :: INFO :: [07/Jan/2019:01:42:30] ENGINE Listening for SIGTERM.
+2019-01-07 01:42:30 :: cherrypy.error :: INFO :: [07/Jan/2019:01:42:30] ENGINE Listening for SIGUSR1.
+2019-01-07 01:42:30 :: cherrypy.error :: INFO :: [07/Jan/2019:01:42:30] ENGINE Bus STARTING
+2019-01-07 01:42:30 :: cherrypy.error :: INFO :: [07/Jan/2019:01:42:30] ENGINE Serving on http://0.0.0.0:8085
+2019-01-07 01:42:30 :: cherrypy.error :: INFO :: [07/Jan/2019:01:42:30] ENGINE Bus STARTED
+2019-01-07 07:42:27 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-07 13:42:27 CST)" (scheduled at 2019-01-07 07:42:27.312958-06:00)
+2019-01-07 07:42:27 :: htpc.updater :: INFO :: Running update_needed
+2019-01-07 07:42:27 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-07 07:42:28 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-07 07:42:28 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-07 07:42:28 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-07 13:42:27 CST)" executed successfully
+2019-01-07 13:42:27 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-07 19:42:27 CST)" (scheduled at 2019-01-07 13:42:27.312958-06:00)
+2019-01-07 13:42:27 :: htpc.updater :: INFO :: Running update_needed
+2019-01-07 13:42:27 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-07 13:42:27 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-07 13:42:27 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-07 13:42:27 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-07 19:42:27 CST)" executed successfully
+2019-01-07 19:42:27 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-08 01:42:27 CST)" (scheduled at 2019-01-07 19:42:27.312958-06:00)
+2019-01-07 19:42:27 :: htpc.updater :: INFO :: Running update_needed
+2019-01-07 19:42:27 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-07 19:42:27 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-07 19:42:27 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-07 19:42:27 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-08 01:42:27 CST)" executed successfully
+2019-01-08 01:42:27 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-08 07:42:27 CST)" (scheduled at 2019-01-08 01:42:27.312958-06:00)
+2019-01-08 01:42:27 :: htpc.updater :: INFO :: Running update_needed
+2019-01-08 01:42:27 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-08 01:42:27 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-08 01:42:27 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-08 01:42:27 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-08 07:42:27 CST)" executed successfully
+2019-01-08 07:42:27 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-08 13:42:27 CST)" (scheduled at 2019-01-08 07:42:27.312958-06:00)
+2019-01-08 07:42:27 :: htpc.updater :: INFO :: Running update_needed
+2019-01-08 07:42:27 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-08 07:42:27 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-08 07:42:27 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-08 07:42:27 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-08 13:42:27 CST)" executed successfully
+2019-01-08 13:42:27 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-08 13:42:27 CST)" (scheduled at 2019-01-08 13:42:27.312958-06:00)
+2019-01-08 13:42:27 :: htpc.updater :: INFO :: Running update_needed
+2019-01-08 13:42:27 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-08 13:42:27 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-08 13:42:27 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-08 13:42:27 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-08 19:42:27 CST)" executed successfully
+2019-01-08 19:42:27 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-09 01:42:27 CST)" (scheduled at 2019-01-08 19:42:27.312958-06:00)
+2019-01-08 19:42:27 :: htpc.updater :: INFO :: Running update_needed
+2019-01-08 19:42:27 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-08 19:42:27 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-08 19:42:27 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-08 19:42:27 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-09 01:42:27 CST)" executed successfully
+2019-01-09 01:42:27 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-09 07:42:27 CST)" (scheduled at 2019-01-09 01:42:27.312958-06:00)
+2019-01-09 01:42:27 :: htpc.updater :: INFO :: Running update_needed
+2019-01-09 01:42:27 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-09 01:42:27 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-09 01:42:27 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-09 01:42:27 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-09 07:42:27 CST)" executed successfully
+2019-01-09 07:42:27 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-09 13:42:27 CST)" (scheduled at 2019-01-09 07:42:27.312958-06:00)
+2019-01-09 07:42:27 :: htpc.updater :: INFO :: Running update_needed
+2019-01-09 07:42:27 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-09 07:42:27 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-09 07:42:27 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-09 07:42:27 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-09 13:42:27 CST)" executed successfully
+2019-01-09 13:42:27 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-09 19:42:27 CST)" (scheduled at 2019-01-09 13:42:27.312958-06:00)
+2019-01-09 13:42:27 :: htpc.updater :: INFO :: Running update_needed
+2019-01-09 13:42:27 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-09 13:42:27 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-09 13:42:27 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-09 13:42:27 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-09 19:42:27 CST)" executed successfully
+2019-01-09 19:42:27 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-10 01:42:27 CST)" (scheduled at 2019-01-09 19:42:27.312958-06:00)
+2019-01-09 19:42:27 :: htpc.updater :: INFO :: Running update_needed
+2019-01-09 19:42:27 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-09 19:42:27 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-09 19:42:27 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-09 19:42:27 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-10 01:42:27 CST)" executed successfully
+2019-01-10 01:42:27 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-10 07:42:27 CST)" (scheduled at 2019-01-10 01:42:27.312958-06:00)
+2019-01-10 01:42:27 :: htpc.updater :: INFO :: Running update_needed
+2019-01-10 01:42:27 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-10 01:42:27 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-10 01:42:27 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-10 01:42:27 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-10 07:42:27 CST)" executed successfully
+2019-01-10 07:42:27 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-10 13:42:27 CST)" (scheduled at 2019-01-10 07:42:27.312958-06:00)
+2019-01-10 07:42:27 :: htpc.updater :: INFO :: Running update_needed
+2019-01-10 07:42:27 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-10 07:42:27 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-10 07:42:27 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-10 07:42:27 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-10 13:42:27 CST)" executed successfully
+2019-01-10 13:42:27 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-10 19:42:27 CST)" (scheduled at 2019-01-10 13:42:27.312958-06:00)
+2019-01-10 13:42:27 :: htpc.updater :: INFO :: Running update_needed
+2019-01-10 13:42:27 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-10 13:42:28 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-10 13:42:28 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-10 13:42:28 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-10 19:42:27 CST)" executed successfully
+2019-01-10 19:42:29 :: apscheduler.executors.default :: WARNING :: Run time of job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-11 01:42:27 CST)" was missed by 0:00:01.961071
+2019-01-11 01:42:29 :: apscheduler.executors.default :: WARNING :: Run time of job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-11 07:42:27 CST)" was missed by 0:00:01.978218
+2019-01-11 07:42:27 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-11 13:42:27 CST)" (scheduled at 2019-01-11 07:42:27.312958-06:00)
+2019-01-11 07:42:27 :: htpc.updater :: INFO :: Running update_needed
+2019-01-11 07:42:27 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-11 07:42:28 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-11 07:42:28 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-11 07:42:28 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-11 13:42:27 CST)" executed successfully
+2019-01-11 13:42:27 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-11 19:42:27 CST)" (scheduled at 2019-01-11 13:42:27.312958-06:00)
+2019-01-11 13:42:27 :: htpc.updater :: INFO :: Running update_needed
+2019-01-11 13:42:27 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-11 13:42:27 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-11 13:42:27 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-11 13:42:27 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-11 19:42:27 CST)" executed successfully
+2019-01-11 19:42:27 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-12 01:42:27 CST)" (scheduled at 2019-01-11 19:42:27.312958-06:00)
+2019-01-11 19:42:27 :: htpc.updater :: INFO :: Running update_needed
+2019-01-11 19:42:27 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-11 19:42:27 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-11 19:42:27 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-11 19:42:27 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-12 01:42:27 CST)" executed successfully
+2019-01-12 01:42:27 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-12 07:42:27 CST)" (scheduled at 2019-01-12 01:42:27.312958-06:00)
+2019-01-12 01:42:27 :: htpc.updater :: INFO :: Running update_needed
+2019-01-12 01:42:27 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-12 01:42:28 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-12 01:42:28 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-12 01:42:28 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-12 07:42:27 CST)" executed successfully
+2019-01-12 07:42:27 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-12 13:42:27 CST)" (scheduled at 2019-01-12 07:42:27.312958-06:00)
+2019-01-12 07:42:27 :: htpc.updater :: INFO :: Running update_needed
+2019-01-12 07:42:27 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-12 07:42:28 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-12 07:42:28 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-12 07:42:28 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-12 13:42:27 CST)" executed successfully
+2019-01-12 13:42:27 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-12 19:42:27 CST)" (scheduled at 2019-01-12 13:42:27.312958-06:00)
+2019-01-12 13:42:27 :: htpc.updater :: INFO :: Running update_needed
+2019-01-12 13:42:27 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-12 13:42:27 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-12 13:42:27 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-12 13:42:27 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-12 19:42:27 CST)" executed successfully
+2019-01-12 13:47:33 :: cherrypy.error :: INFO :: [12/Jan/2019:13:47:33] ENGINE Caught signal SIGTERM.
+2019-01-12 13:47:34 :: cherrypy.error :: INFO :: [12/Jan/2019:13:47:34] ENGINE Bus STOPPING
+2019-01-12 13:47:34 :: apscheduler.scheduler :: INFO :: Scheduler has been shut down
+2019-01-12 13:47:34 :: cherrypy.error :: INFO :: [12/Jan/2019:13:47:34] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8085)) shut down
+2019-01-12 13:47:34 :: cherrypy.error :: INFO :: [12/Jan/2019:13:47:34] ENGINE Bus STOPPED
+2019-01-12 13:47:34 :: cherrypy.error :: INFO :: [12/Jan/2019:13:47:34] ENGINE Bus EXITING
+2019-01-12 13:47:34 :: cherrypy.error :: INFO :: [12/Jan/2019:13:47:34] ENGINE Bus EXITED
+2019-01-12 13:47:34 :: cherrypy.error :: INFO :: [12/Jan/2019:13:47:34] ENGINE Waiting for child threads to terminate...
+2019-01-12 13:48:21 :: root :: INFO :: Welcome to Hellowlol's HTPC Manager fork
+2019-01-12 13:48:21 :: root :: INFO :: Loglevel set to info
+2019-01-12 13:48:21 :: htpc.updater :: INFO :: Using GitUpdater engine
+2019-01-12 13:48:21 :: apscheduler.scheduler :: INFO :: Added job "Updater.update_needed" to job store "default"
+2019-01-12 13:48:21 :: modules.kodi :: WARNING :: No configured kodi-Servers.
+2019-01-12 13:48:22 :: modules.newznab :: ERROR :: Invalid indexer. Selecting first Available.
+2019-01-12 13:48:22 :: modules.stats :: ERROR :: Required package 'smartmontools' is not installed, or 'smartctl'
+component is not on the system path. Please install and try again.The current env path is: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+2019-01-12 13:48:23 :: htpc.server :: INFO :: Starting up webserver
+2019-01-12 13:48:23 :: cherrypy.error :: INFO :: [12/Jan/2019:13:48:23] ENGINE Listening for SIGHUP.
+2019-01-12 13:48:23 :: cherrypy.error :: INFO :: [12/Jan/2019:13:48:23] ENGINE Listening for SIGTERM.
+2019-01-12 13:48:23 :: cherrypy.error :: INFO :: [12/Jan/2019:13:48:23] ENGINE Listening for SIGUSR1.
+2019-01-12 13:48:23 :: cherrypy.error :: INFO :: [12/Jan/2019:13:48:23] ENGINE Bus STARTING
+2019-01-12 13:48:24 :: cherrypy.error :: INFO :: [12/Jan/2019:13:48:24] ENGINE Serving on http://0.0.0.0:8085
+2019-01-12 13:48:24 :: cherrypy.error :: INFO :: [12/Jan/2019:13:48:24] ENGINE Bus STARTED
+2019-01-12 13:50:57 :: cherrypy.error :: INFO :: [12/Jan/2019:13:50:57] ENGINE Caught signal SIGTERM.
+2019-01-12 13:50:57 :: cherrypy.error :: INFO :: [12/Jan/2019:13:50:57] ENGINE Bus STOPPING
+2019-01-12 13:50:57 :: apscheduler.scheduler :: INFO :: Scheduler has been shut down
+2019-01-12 13:50:57 :: cherrypy.error :: INFO :: [12/Jan/2019:13:50:57] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8085)) shut down
+2019-01-12 13:50:57 :: cherrypy.error :: INFO :: [12/Jan/2019:13:50:57] ENGINE Bus STOPPED
+2019-01-12 13:50:57 :: cherrypy.error :: INFO :: [12/Jan/2019:13:50:57] ENGINE Bus EXITING
+2019-01-12 13:50:57 :: cherrypy.error :: INFO :: [12/Jan/2019:13:50:57] ENGINE Bus EXITED
+2019-01-12 13:50:57 :: cherrypy.error :: INFO :: [12/Jan/2019:13:50:57] ENGINE Waiting for child threads to terminate...
+2019-01-12 13:52:15 :: root :: INFO :: Welcome to Hellowlol's HTPC Manager fork
+2019-01-12 13:52:15 :: root :: INFO :: Loglevel set to info
+2019-01-12 13:52:15 :: htpc.updater :: INFO :: Using GitUpdater engine
+2019-01-12 13:52:15 :: apscheduler.scheduler :: INFO :: Added job "Updater.update_needed" to job store "default"
+2019-01-12 13:52:15 :: modules.kodi :: WARNING :: No configured kodi-Servers.
+2019-01-12 13:52:16 :: modules.newznab :: ERROR :: Invalid indexer. Selecting first Available.
+2019-01-12 13:52:16 :: modules.stats :: ERROR :: Required package 'smartmontools' is not installed, or 'smartctl'
+component is not on the system path. Please install and try again.The current env path is: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+2019-01-12 13:52:17 :: htpc.server :: INFO :: Starting up webserver
+2019-01-12 13:52:17 :: cherrypy.error :: INFO :: [12/Jan/2019:13:52:17] ENGINE Listening for SIGHUP.
+2019-01-12 13:52:17 :: cherrypy.error :: INFO :: [12/Jan/2019:13:52:17] ENGINE Listening for SIGTERM.
+2019-01-12 13:52:17 :: cherrypy.error :: INFO :: [12/Jan/2019:13:52:17] ENGINE Listening for SIGUSR1.
+2019-01-12 13:52:17 :: cherrypy.error :: INFO :: [12/Jan/2019:13:52:17] ENGINE Bus STARTING
+2019-01-12 13:52:17 :: cherrypy.error :: INFO :: [12/Jan/2019:13:52:17] ENGINE Serving on http://0.0.0.0:8085
+2019-01-12 13:52:17 :: cherrypy.error :: INFO :: [12/Jan/2019:13:52:17] ENGINE Bus STARTED
+2019-01-12 19:52:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-13 01:52:15 CST)" (scheduled at 2019-01-12 19:52:15.776406-06:00)
+2019-01-12 19:52:15 :: htpc.updater :: INFO :: Running update_needed
+2019-01-12 19:52:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-12 19:52:16 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-12 19:52:16 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-12 19:52:16 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-13 01:52:15 CST)" executed successfully
+2019-01-13 01:52:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-13 07:52:15 CST)" (scheduled at 2019-01-13 01:52:15.776406-06:00)
+2019-01-13 01:52:15 :: htpc.updater :: INFO :: Running update_needed
+2019-01-13 01:52:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-13 01:52:16 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-13 01:52:16 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-13 01:52:16 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-13 07:52:15 CST)" executed successfully
+2019-01-13 07:52:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-13 13:52:15 CST)" (scheduled at 2019-01-13 07:52:15.776406-06:00)
+2019-01-13 07:52:15 :: htpc.updater :: INFO :: Running update_needed
+2019-01-13 07:52:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-13 07:52:16 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-13 07:52:16 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-13 07:52:16 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-13 13:52:15 CST)" executed successfully
+2019-01-13 13:52:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-13 19:52:15 CST)" (scheduled at 2019-01-13 13:52:15.776406-06:00)
+2019-01-13 13:52:15 :: htpc.updater :: INFO :: Running update_needed
+2019-01-13 13:52:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-13 13:52:16 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-13 13:52:16 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-13 13:52:16 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-13 19:52:15 CST)" executed successfully
+2019-01-13 19:52:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-14 01:52:15 CST)" (scheduled at 2019-01-13 19:52:15.776406-06:00)
+2019-01-13 19:52:15 :: htpc.updater :: INFO :: Running update_needed
+2019-01-13 19:52:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-13 19:52:16 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-13 19:52:16 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-13 19:52:16 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-14 01:52:15 CST)" executed successfully
+2019-01-14 01:52:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-14 07:52:15 CST)" (scheduled at 2019-01-14 01:52:15.776406-06:00)
+2019-01-14 01:52:15 :: htpc.updater :: INFO :: Running update_needed
+2019-01-14 01:52:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-14 01:52:16 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-14 01:52:16 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-14 01:52:16 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-14 07:52:15 CST)" executed successfully
+2019-01-14 07:52:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-14 13:52:15 CST)" (scheduled at 2019-01-14 07:52:15.776406-06:00)
+2019-01-14 07:52:15 :: htpc.updater :: INFO :: Running update_needed
+2019-01-14 07:52:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-14 07:52:16 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-14 07:52:16 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-14 07:52:16 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-14 13:52:15 CST)" executed successfully
+2019-01-14 13:52:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-14 19:52:15 CST)" (scheduled at 2019-01-14 13:52:15.776406-06:00)
+2019-01-14 13:52:15 :: htpc.updater :: INFO :: Running update_needed
+2019-01-14 13:52:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-14 13:52:16 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-14 13:52:16 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-14 13:52:16 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-14 19:52:15 CST)" executed successfully
+2019-01-14 19:52:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-15 01:52:15 CST)" (scheduled at 2019-01-14 19:52:15.776406-06:00)
+2019-01-14 19:52:15 :: htpc.updater :: INFO :: Running update_needed
+2019-01-14 19:52:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-14 19:52:16 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-14 19:52:16 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-14 19:52:16 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-15 01:52:15 CST)" executed successfully
+2019-01-15 01:52:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-15 07:52:15 CST)" (scheduled at 2019-01-15 01:52:15.776406-06:00)
+2019-01-15 01:52:15 :: htpc.updater :: INFO :: Running update_needed
+2019-01-15 01:52:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-15 01:52:16 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-15 01:52:16 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-15 01:52:16 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-15 07:52:15 CST)" executed successfully
+2019-01-15 07:52:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-15 13:52:15 CST)" (scheduled at 2019-01-15 07:52:15.776406-06:00)
+2019-01-15 07:52:15 :: htpc.updater :: INFO :: Running update_needed
+2019-01-15 07:52:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-15 07:52:16 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-15 07:52:16 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-15 07:52:16 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-15 13:52:15 CST)" executed successfully
+2019-01-15 13:52:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-15 19:52:15 CST)" (scheduled at 2019-01-15 13:52:15.776406-06:00)
+2019-01-15 13:52:15 :: htpc.updater :: INFO :: Running update_needed
+2019-01-15 13:52:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-15 13:52:16 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-15 13:52:16 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-15 13:52:16 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-15 19:52:15 CST)" executed successfully
+2019-01-15 19:52:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-16 01:52:15 CST)" (scheduled at 2019-01-15 19:52:15.776406-06:00)
+2019-01-15 19:52:15 :: htpc.updater :: INFO :: Running update_needed
+2019-01-15 19:52:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-15 19:52:16 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-15 19:52:16 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-15 19:52:16 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-16 01:52:15 CST)" executed successfully
+2019-01-16 01:52:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-16 07:52:15 CST)" (scheduled at 2019-01-16 01:52:15.776406-06:00)
+2019-01-16 01:52:15 :: htpc.updater :: INFO :: Running update_needed
+2019-01-16 01:52:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-16 01:52:16 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-16 01:52:16 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-16 01:52:16 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-16 07:52:15 CST)" executed successfully
+2019-01-16 07:52:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-16 13:52:15 CST)" (scheduled at 2019-01-16 07:52:15.776406-06:00)
+2019-01-16 07:52:15 :: htpc.updater :: INFO :: Running update_needed
+2019-01-16 07:52:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-16 07:52:16 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-16 07:52:16 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-16 07:52:16 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-16 13:52:15 CST)" executed successfully
+2019-01-16 13:52:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-16 19:52:15 CST)" (scheduled at 2019-01-16 13:52:15.776406-06:00)
+2019-01-16 13:52:15 :: htpc.updater :: INFO :: Running update_needed
+2019-01-16 13:52:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-16 13:52:16 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-16 13:52:16 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-16 13:52:16 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-16 19:52:15 CST)" executed successfully
+2019-01-16 19:52:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-17 01:52:15 CST)" (scheduled at 2019-01-16 19:52:15.776406-06:00)
+2019-01-16 19:52:15 :: htpc.updater :: INFO :: Running update_needed
+2019-01-16 19:52:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-16 19:52:16 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-16 19:52:16 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-16 19:52:16 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-17 01:52:15 CST)" executed successfully
+2019-01-17 01:52:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-17 07:52:15 CST)" (scheduled at 2019-01-17 01:52:15.776406-06:00)
+2019-01-17 01:52:15 :: htpc.updater :: INFO :: Running update_needed
+2019-01-17 01:52:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-17 01:52:16 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-17 01:52:16 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-17 01:52:16 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-17 07:52:15 CST)" executed successfully
+2019-01-17 07:52:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-17 13:52:15 CST)" (scheduled at 2019-01-17 07:52:15.776406-06:00)
+2019-01-17 07:52:15 :: htpc.updater :: INFO :: Running update_needed
+2019-01-17 07:52:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-17 07:52:16 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-17 07:52:16 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-17 07:52:16 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-17 13:52:15 CST)" executed successfully
+2019-01-17 13:52:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-17 19:52:15 CST)" (scheduled at 2019-01-17 13:52:15.776406-06:00)
+2019-01-17 13:52:15 :: htpc.updater :: INFO :: Running update_needed
+2019-01-17 13:52:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-17 13:52:16 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-17 13:52:16 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-17 13:52:16 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-17 19:52:15 CST)" executed successfully
+2019-01-17 19:52:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-18 01:52:15 CST)" (scheduled at 2019-01-17 19:52:15.776406-06:00)
+2019-01-17 19:52:15 :: htpc.updater :: INFO :: Running update_needed
+2019-01-17 19:52:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-17 19:52:16 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-17 19:52:16 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-17 19:52:16 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-18 01:52:15 CST)" executed successfully
+2019-01-18 01:52:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-18 07:52:15 CST)" (scheduled at 2019-01-18 01:52:15.776406-06:00)
+2019-01-18 01:52:15 :: htpc.updater :: INFO :: Running update_needed
+2019-01-18 01:52:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-18 01:52:16 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-18 01:52:16 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-18 01:52:16 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-18 07:52:15 CST)" executed successfully
+2019-01-18 07:52:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-18 13:52:15 CST)" (scheduled at 2019-01-18 07:52:15.776406-06:00)
+2019-01-18 07:52:15 :: htpc.updater :: INFO :: Running update_needed
+2019-01-18 07:52:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-18 07:52:16 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-18 07:52:16 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-18 07:52:16 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-18 13:52:15 CST)" executed successfully
+2019-01-18 13:52:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-18 19:52:15 CST)" (scheduled at 2019-01-18 13:52:15.776406-06:00)
+2019-01-18 13:52:15 :: htpc.updater :: INFO :: Running update_needed
+2019-01-18 13:52:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-18 13:52:16 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-18 13:52:16 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-18 13:52:16 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-18 19:52:15 CST)" executed successfully
+2019-01-18 19:52:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-19 01:52:15 CST)" (scheduled at 2019-01-18 19:52:15.776406-06:00)
+2019-01-18 19:52:15 :: htpc.updater :: INFO :: Running update_needed
+2019-01-18 19:52:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-18 19:52:16 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-18 19:52:16 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-18 19:52:16 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-19 01:52:15 CST)" executed successfully
+2019-01-19 01:52:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-19 07:52:15 CST)" (scheduled at 2019-01-19 01:52:15.776406-06:00)
+2019-01-19 01:52:15 :: htpc.updater :: INFO :: Running update_needed
+2019-01-19 01:52:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-19 01:52:16 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-19 01:52:16 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-19 01:52:16 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-19 07:52:15 CST)" executed successfully
+2019-01-19 07:52:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-19 13:52:15 CST)" (scheduled at 2019-01-19 07:52:15.776406-06:00)
+2019-01-19 07:52:15 :: htpc.updater :: INFO :: Running update_needed
+2019-01-19 07:52:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-19 07:52:16 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-19 07:52:16 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-19 07:52:16 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-19 13:52:15 CST)" executed successfully
+2019-01-19 12:12:23 :: modules.plex :: ERROR :: Unable to fetch recent movies! Exception: Invalid URL u'http://:/library/sections': No host supplied
+2019-01-19 12:12:25 :: cherrypy.error.3039772560 :: ERROR :: [19/Jan/2019:12:12:25] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/lib/jsontools.py", line 63, in json_handler
+    value = cherrypy.serving.request._json_inner_handler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/sonarr.py", line 165, in Calendar
+    'title': episode['series']['title'],
+TypeError: string indices must be integers
+2019-01-19 13:52:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-19 19:52:15 CST)" (scheduled at 2019-01-19 13:52:15.776406-06:00)
+2019-01-19 13:52:15 :: htpc.updater :: INFO :: Running update_needed
+2019-01-19 13:52:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-19 13:52:16 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-19 13:52:16 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-19 13:52:16 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-19 19:52:15 CST)" executed successfully
+2019-01-19 19:52:15 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-20 01:52:15 CST)" (scheduled at 2019-01-19 19:52:15.776406-06:00)
+2019-01-19 19:52:15 :: htpc.updater :: INFO :: Running update_needed
+2019-01-19 19:52:15 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-19 19:52:16 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-19 19:52:16 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-19 19:52:16 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-20 01:52:15 CST)" executed successfully
+2019-01-19 21:29:00 :: modules.plex :: ERROR :: Unable to fetch recent movies! Exception: Invalid URL u'http://:/library/sections': No host supplied
+2019-01-19 21:29:00 :: cherrypy.error.3039772560 :: ERROR :: [19/Jan/2019:21:29:00] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/lib/jsontools.py", line 63, in json_handler
+    value = cherrypy.serving.request._json_inner_handler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/sonarr.py", line 165, in Calendar
+    'title': episode['series']['title'],
+TypeError: string indices must be integers
+2019-01-19 21:29:10 :: modules.plex :: INFO :: Sending discovery message: M-SEARCH * HTTP/1.0
+2019-01-19 21:29:11 :: modules.plex :: INFO :: GDM: No servers discovered
+2019-01-19 21:30:02 :: modules.plex :: INFO :: Sending discovery message: M-SEARCH * HTTP/1.0
+2019-01-19 21:30:03 :: modules.plex :: INFO :: GDM: No servers discovered
+2019-01-19 21:31:51 :: modules.plex :: ERROR :: Unable to fetch recent movies! Exception: Invalid URL u'http://:/library/sections': No host supplied
+2019-01-19 21:31:51 :: cherrypy.error.3039772560 :: ERROR :: [19/Jan/2019:21:31:51] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/lib/jsontools.py", line 63, in json_handler
+    value = cherrypy.serving.request._json_inner_handler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/sonarr.py", line 165, in Calendar
+    'title': episode['series']['title'],
+TypeError: string indices must be integers
+2019-01-19 21:32:06 :: modules.plex :: INFO :: Sending discovery message: M-SEARCH * HTTP/1.0
+2019-01-19 21:32:07 :: modules.plex :: INFO :: GDM: No servers discovered
+2019-01-19 21:32:22 :: modules.plex :: INFO :: Sending discovery message: M-SEARCH * HTTP/1.0
+2019-01-19 21:32:23 :: modules.plex :: INFO :: GDM: No servers discovered
+2019-01-19 21:32:23 :: modules.plex :: ERROR :: Unable to fetch recent movies! Exception: Invalid URL u'http://:/library/sections': No host supplied
+2019-01-19 21:32:24 :: cherrypy.error.3039772560 :: ERROR :: [19/Jan/2019:21:32:24] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/lib/jsontools.py", line 63, in json_handler
+    value = cherrypy.serving.request._json_inner_handler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/sonarr.py", line 165, in Calendar
+    'title': episode['series']['title'],
+TypeError: string indices must be integers
+2019-01-19 22:00:59 :: cherrypy.error :: INFO :: [19/Jan/2019:22:00:59] ENGINE Caught signal SIGTERM.
+2019-01-19 22:00:59 :: cherrypy.error :: INFO :: [19/Jan/2019:22:00:59] ENGINE Bus STOPPING
+2019-01-19 22:00:59 :: apscheduler.scheduler :: INFO :: Scheduler has been shut down
+2019-01-19 22:00:59 :: cherrypy.error :: INFO :: [19/Jan/2019:22:00:59] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8085)) shut down
+2019-01-19 22:00:59 :: cherrypy.error :: INFO :: [19/Jan/2019:22:00:59] ENGINE Bus STOPPED
+2019-01-19 22:00:59 :: cherrypy.error :: INFO :: [19/Jan/2019:22:00:59] ENGINE Bus EXITING
+2019-01-19 22:00:59 :: cherrypy.error :: INFO :: [19/Jan/2019:22:00:59] ENGINE Bus EXITED
+2019-01-19 22:00:59 :: cherrypy.error :: INFO :: [19/Jan/2019:22:00:59] ENGINE Waiting for child threads to terminate...
+2019-01-19 22:06:31 :: root :: INFO :: Welcome to Hellowlol's HTPC Manager fork
+2019-01-19 22:06:31 :: root :: INFO :: Loglevel set to info
+2019-01-19 22:06:31 :: htpc.updater :: INFO :: Using GitUpdater engine
+2019-01-19 22:06:31 :: apscheduler.scheduler :: INFO :: Added job "Updater.update_needed" to job store "default"
+2019-01-19 22:06:31 :: modules.kodi :: WARNING :: No configured kodi-Servers.
+2019-01-19 22:06:31 :: modules.newznab :: ERROR :: Invalid indexer. Selecting first Available.
+2019-01-19 22:06:32 :: modules.stats :: ERROR :: Required package 'smartmontools' is not installed, or 'smartctl'
+component is not on the system path. Please install and try again.The current env path is: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+2019-01-19 22:06:33 :: htpc.server :: INFO :: Starting up webserver
+2019-01-19 22:06:33 :: cherrypy.error :: INFO :: [19/Jan/2019:22:06:33] ENGINE Listening for SIGHUP.
+2019-01-19 22:06:33 :: cherrypy.error :: INFO :: [19/Jan/2019:22:06:33] ENGINE Listening for SIGTERM.
+2019-01-19 22:06:33 :: cherrypy.error :: INFO :: [19/Jan/2019:22:06:33] ENGINE Listening for SIGUSR1.
+2019-01-19 22:06:33 :: cherrypy.error :: INFO :: [19/Jan/2019:22:06:33] ENGINE Bus STARTING
+2019-01-19 22:06:33 :: cherrypy.error :: INFO :: [19/Jan/2019:22:06:33] ENGINE Serving on http://0.0.0.0:8085
+2019-01-19 22:06:33 :: cherrypy.error :: INFO :: [19/Jan/2019:22:06:33] ENGINE Bus STARTED
+2019-01-19 22:54:57 :: cherrypy.error :: INFO :: [19/Jan/2019:22:54:57] ENGINE Caught signal SIGTERM.
+2019-01-19 22:54:57 :: cherrypy.error :: INFO :: [19/Jan/2019:22:54:57] ENGINE Bus STOPPING
+2019-01-19 22:54:57 :: apscheduler.scheduler :: INFO :: Scheduler has been shut down
+2019-01-19 22:54:57 :: cherrypy.error :: INFO :: [19/Jan/2019:22:54:57] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8085)) shut down
+2019-01-19 22:54:57 :: cherrypy.error :: INFO :: [19/Jan/2019:22:54:57] ENGINE Bus STOPPED
+2019-01-19 22:54:57 :: cherrypy.error :: INFO :: [19/Jan/2019:22:54:57] ENGINE Bus EXITING
+2019-01-19 22:54:57 :: cherrypy.error :: INFO :: [19/Jan/2019:22:54:57] ENGINE Bus EXITED
+2019-01-19 22:54:57 :: cherrypy.error :: INFO :: [19/Jan/2019:22:54:57] ENGINE Waiting for child threads to terminate...
+2019-01-19 23:02:54 :: root :: INFO :: Welcome to Hellowlol's HTPC Manager fork
+2019-01-19 23:02:54 :: root :: INFO :: Loglevel set to info
+2019-01-19 23:02:54 :: htpc.updater :: INFO :: Using GitUpdater engine
+2019-01-19 23:02:54 :: apscheduler.scheduler :: INFO :: Added job "Updater.update_needed" to job store "default"
+2019-01-19 23:02:55 :: modules.kodi :: WARNING :: No configured kodi-Servers.
+2019-01-19 23:02:55 :: modules.newznab :: ERROR :: Invalid indexer. Selecting first Available.
+2019-01-19 23:02:55 :: modules.stats :: ERROR :: Required package 'smartmontools' is not installed, or 'smartctl'
+component is not on the system path. Please install and try again.The current env path is: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+2019-01-19 23:02:56 :: htpc.server :: INFO :: Starting up webserver
+2019-01-19 23:02:56 :: cherrypy.error :: INFO :: [19/Jan/2019:23:02:56] ENGINE Listening for SIGHUP.
+2019-01-19 23:02:56 :: cherrypy.error :: INFO :: [19/Jan/2019:23:02:56] ENGINE Listening for SIGTERM.
+2019-01-19 23:02:56 :: cherrypy.error :: INFO :: [19/Jan/2019:23:02:56] ENGINE Listening for SIGUSR1.
+2019-01-19 23:02:56 :: cherrypy.error :: INFO :: [19/Jan/2019:23:02:56] ENGINE Bus STARTING
+2019-01-19 23:02:56 :: cherrypy.error :: INFO :: [19/Jan/2019:23:02:56] ENGINE Serving on http://0.0.0.0:8085
+2019-01-19 23:02:56 :: cherrypy.error :: INFO :: [19/Jan/2019:23:02:56] ENGINE Bus STARTED
+2019-01-19 23:06:23 :: cherrypy.error :: INFO :: [19/Jan/2019:23:06:23] ENGINE Caught signal SIGTERM.
+2019-01-19 23:06:23 :: cherrypy.error :: INFO :: [19/Jan/2019:23:06:23] ENGINE Bus STOPPING
+2019-01-19 23:06:23 :: apscheduler.scheduler :: INFO :: Scheduler has been shut down
+2019-01-19 23:06:23 :: cherrypy.error :: INFO :: [19/Jan/2019:23:06:23] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8085)) shut down
+2019-01-19 23:06:23 :: cherrypy.error :: INFO :: [19/Jan/2019:23:06:23] ENGINE Bus STOPPED
+2019-01-19 23:06:23 :: cherrypy.error :: INFO :: [19/Jan/2019:23:06:23] ENGINE Bus EXITING
+2019-01-19 23:06:23 :: cherrypy.error :: INFO :: [19/Jan/2019:23:06:23] ENGINE Bus EXITED
+2019-01-19 23:06:23 :: cherrypy.error :: INFO :: [19/Jan/2019:23:06:23] ENGINE Waiting for child threads to terminate...
+2019-01-19 23:14:21 :: root :: INFO :: Welcome to Hellowlol's HTPC Manager fork
+2019-01-19 23:14:21 :: root :: INFO :: Loglevel set to info
+2019-01-19 23:14:21 :: htpc.updater :: INFO :: Using GitUpdater engine
+2019-01-19 23:14:22 :: apscheduler.scheduler :: INFO :: Added job "Updater.update_needed" to job store "default"
+2019-01-19 23:14:22 :: modules.kodi :: WARNING :: No configured kodi-Servers.
+2019-01-19 23:14:22 :: modules.newznab :: ERROR :: Invalid indexer. Selecting first Available.
+2019-01-19 23:14:22 :: modules.stats :: ERROR :: Required package 'smartmontools' is not installed, or 'smartctl'
+component is not on the system path. Please install and try again.The current env path is: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+2019-01-19 23:14:23 :: htpc.server :: INFO :: Starting up webserver
+2019-01-19 23:14:23 :: cherrypy.error :: INFO :: [19/Jan/2019:23:14:23] ENGINE Listening for SIGHUP.
+2019-01-19 23:14:23 :: cherrypy.error :: INFO :: [19/Jan/2019:23:14:23] ENGINE Listening for SIGTERM.
+2019-01-19 23:14:23 :: cherrypy.error :: INFO :: [19/Jan/2019:23:14:23] ENGINE Listening for SIGUSR1.
+2019-01-19 23:14:23 :: cherrypy.error :: INFO :: [19/Jan/2019:23:14:23] ENGINE Bus STARTING
+2019-01-19 23:14:23 :: cherrypy.error :: INFO :: [19/Jan/2019:23:14:23] ENGINE Serving on http://0.0.0.0:8085
+2019-01-19 23:14:23 :: cherrypy.error :: INFO :: [19/Jan/2019:23:14:23] ENGINE Bus STARTED
