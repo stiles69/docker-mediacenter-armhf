@@ -758,3 +758,15 @@
 19-Jan-2019 23:14:25 - INFO    :: MainThread : Scheduled background task: MusicBrainz Update
 19-Jan-2019 23:14:25 - INFO    :: MainThread : Scheduled background task: Check GitHub for updates
 19-Jan-2019 23:14:25 - INFO    :: MainThread : Scheduled background task: Torrent removal check
+19-Jan-2019 23:51:27 - INFO    :: MainThread : Checking to see if the database has all tables....
+19-Jan-2019 23:51:27 - INFO    :: MainThread : Retrieving latest version information from GitHub
+19-Jan-2019 23:51:27 - INFO    :: MainThread : Comparing currently installed version with latest GitHub version
+19-Jan-2019 23:51:28 - INFO    :: MainThread : New version is available. You are 6 commits behind
+19-Jan-2019 23:51:28 - INFO    :: MainThread : Starting Headphones web server on http://0.0.0.0:8181/
+19-Jan-2019 23:51:29 - INFO    :: MainThread : Scheduled background task: Search for Wanted
+19-Jan-2019 23:51:29 - INFO    :: MainThread : Scheduled background task: Download Scan
+19-Jan-2019 23:51:29 - INFO    :: MainThread : Scheduled background task: Library Scan
+19-Jan-2019 23:51:29 - INFO    :: MainThread : Scheduled background task: MusicBrainz Update
+19-Jan-2019 23:51:29 - INFO    :: MainThread : Scheduled background task: Check GitHub for updates
+19-Jan-2019 23:51:29 - INFO    :: MainThread : Scheduled background task: Torrent removal check
+19-Jan-2019 23:52:03 - INFO    :: MainThread : Signal 15 caught, saving and exiting...

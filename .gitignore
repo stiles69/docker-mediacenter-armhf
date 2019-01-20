@@ -1,7 +1,0 @@
-#Added to keep common.env from uploading
-common.env
-
-# Script files
-script*
-
-
