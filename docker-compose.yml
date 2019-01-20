@@ -17,12 +17,12 @@ services:
       - '563:563'
       - '443:443'
     volumes:
-      - "/torrents/sabnzbd/config:/config"
+      - "/home/brettsalemink/development/Docker/docker-mediacenter-armhf/sabnzbd/config:/config"
       - "/torrents/sabnzbd/scripts:/downloads/sabnzbd/scripts"
       - "/torrents:/downloads"
       - "/torrents/sabnzbd/incomplete:/downloads/sabnzbd/incomplete"
     env_file: 
-      - ./common.env
+      - './common.env'
     network_mode: "host"
 
   couchpotato:
@@ -32,7 +32,7 @@ services:
     ports:
       - '5050:5050'
     volumes:
-      - "/torrents/couchpotato/config:/config"
+      - "/home/brettsalemink/development/Docker/docker-mediacenter-armhf/couchpotato/config:/config"
       - "/torrents:/downloads"
       - "/torrents/completed/couchpotato:/downloads/completed/couchpotato"
     env_file:
@@ -48,7 +48,7 @@ services:
     ports:
       - '8989:8989'
     volumes:
-      - "/torrents/sonarr/config:/config"
+      - "/home/brettsalemink/development/Docker/docker-mediacenter-armhf/sonarr/config:/config"
       - "/torrents:/downloads"
       - "/torrents/completed/sonarr:/downloads/completed/sonarr"
     env_file:
@@ -65,7 +65,7 @@ services:
     ports:
       - '8181:8181'
     volumes:
-      - "/torrents/headphones/config:/config"
+      - "/home/brettsalemink/development/Docker/docker-mediacenter-armhf/headphones/config:/config"
       - "/torrents:/downloads"
       - "/torrents/completed/headphones:/downloads/completed/headphones"
     env_file:
@@ -83,9 +83,9 @@ services:
     ports:
       - '8085:8085'
     volumes:
-      - "/torrents/htpcmanager/config:/config"
+      - "/home/brettsalemink/development/Docker/docker-mediacenter-armhf/htpcmanager/config:/config"
     env_file: 
-      - ./common.env
+      - "./common.env"
     network_mode: "host"
     depends_on:
       - sabnzbd
