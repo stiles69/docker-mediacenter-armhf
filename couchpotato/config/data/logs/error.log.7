@@ -1,4 +1,4 @@
-18:54:51 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+18:52:17 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -27,7 +27,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-18:54:57 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+18:52:23 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -56,7 +56,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-18:55:02 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+18:52:29 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -85,7 +85,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-18:55:08 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+18:52:35 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -114,7 +114,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-18:55:13 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+18:52:40 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -143,7 +143,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-18:55:19 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+18:52:46 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -172,7 +172,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-18:55:25 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+18:52:52 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -201,7 +201,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-18:55:30 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+18:52:58 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -230,7 +230,761 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-18:55:36 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+18:53:04 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+[0m
+Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+18:53:09 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+[0m
+Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+18:53:15 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+[0m
+Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+18:53:21 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+[0m
+Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+18:53:27 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+[0m
+Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+18:53:33 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+[0m
+Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+18:53:38 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+[0m
+Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+18:53:44 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+[0m
+Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+18:53:50 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+[0m
+Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+18:53:56 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+[0m
+Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+18:54:02 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+[0m
+Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+18:54:08 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+[0m
+Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+18:54:14 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+[0m
+Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+18:54:19 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+[0m
+Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+18:54:25 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+[0m
+Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+18:54:31 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+[0m
+Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+18:54:37 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+[0m
+Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+18:54:43 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+[0m
+Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+18:54:48 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+[0m
+Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+18:54:54 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+[0m
+Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+18:55:00 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+[0m
+Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+18:55:06 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+[0m
+Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+18:55:12 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+[0m
+Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+18:55:18 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+[0m
+Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+18:55:23 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+[0m
+Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+18:55:29 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+[0m
+Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+18:55:35 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -375,7 +1129,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-18:56:03 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+18:56:04 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -404,7 +1158,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-18:56:09 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+18:56:10 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -433,7 +1187,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-18:56:14 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+18:56:16 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -462,7 +1216,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-18:56:20 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+18:56:21 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -491,7 +1245,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-18:56:26 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+18:56:27 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -520,7 +1274,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-18:56:31 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+18:56:33 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -549,7 +1303,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-18:56:37 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+18:56:39 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -578,7 +1332,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-18:56:42 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+18:56:45 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -607,7 +1361,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-18:56:48 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+18:56:50 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -636,7 +1390,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-18:56:53 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+18:56:56 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -665,7 +1419,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-18:56:59 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+18:57:02 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -694,7 +1448,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-18:57:04 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+18:57:08 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -723,7 +1477,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-18:57:10 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+18:57:14 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -752,7 +1506,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-18:57:15 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+18:57:20 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -781,7 +1535,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-18:57:21 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+18:57:25 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -810,7 +1564,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-18:57:27 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+18:57:31 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -839,36 +1593,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-18:57:32 CRITICAL [31m[                 __main__] Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-[0m
-Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-18:57:38 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+18:57:37 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -1013,7 +1738,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-18:58:05 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+18:58:06 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -1042,7 +1767,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-18:58:11 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+18:58:12 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -1071,7 +1796,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-18:58:16 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+18:58:17 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -1100,7 +1825,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-18:58:22 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+18:58:23 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -1129,7 +1854,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-18:58:27 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+18:58:29 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -1158,7 +1883,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-18:58:33 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+18:58:35 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -1187,7 +1912,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-18:58:38 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+18:58:41 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -1216,7 +1941,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-18:58:44 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+18:58:47 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -1245,7 +1970,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-18:58:49 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+18:58:52 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -1274,7 +1999,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-18:58:55 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+18:58:58 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -1303,7 +2028,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-18:59:00 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+18:59:04 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -1332,7 +2057,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-18:59:06 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+18:59:10 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -1361,7 +2086,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-18:59:11 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+18:59:16 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -1390,7 +2115,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-18:59:17 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+18:59:21 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -1419,7 +2144,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-18:59:22 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+18:59:27 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -1448,36 +2173,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-18:59:28 CRITICAL [31m[                 __main__] Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-[0m
-Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-18:59:34 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+18:59:33 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -1535,7 +2231,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-18:59:45 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+18:59:44 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -1622,7 +2318,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:00:01 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:00:02 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -1651,7 +2347,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:00:07 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:00:08 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -1680,7 +2376,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:00:12 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:00:13 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -1709,7 +2405,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:00:18 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:00:19 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -1738,7 +2434,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:00:23 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:00:25 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -1767,7 +2463,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:00:29 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:00:31 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -1796,7 +2492,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:00:35 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:00:37 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -1825,7 +2521,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:00:40 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:00:43 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -1854,7 +2550,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:00:46 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:00:48 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -1883,7 +2579,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:00:51 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:00:54 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -1912,7 +2608,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:00:57 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:01:00 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -1941,7 +2637,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:01:02 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:01:06 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -1970,7 +2666,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:01:08 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:01:11 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -1999,7 +2695,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:01:13 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:01:17 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -2028,7 +2724,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:01:19 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:01:23 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -2057,36 +2753,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:01:24 CRITICAL [31m[                 __main__] Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-[0m
-Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-19:01:30 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:01:29 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -2173,7 +2840,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:01:47 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:01:46 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -2260,7 +2927,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:02:03 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:02:04 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -2289,7 +2956,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:02:09 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:02:10 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -2318,7 +2985,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:02:14 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:02:15 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -2347,7 +3014,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:02:20 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:02:21 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -2376,7 +3043,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:02:25 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:02:27 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -2405,7 +3072,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:02:31 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:02:33 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -2434,7 +3101,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:02:37 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:02:39 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -2463,7 +3130,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:02:42 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:02:44 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -2492,7 +3159,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:02:48 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:02:50 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -2521,7 +3188,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:02:54 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:02:56 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -2550,7 +3217,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:02:59 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:03:02 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -2579,7 +3246,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:03:05 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:03:08 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -2608,7 +3275,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:03:10 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:03:14 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -2637,7 +3304,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:03:16 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:03:20 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -2666,7 +3333,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:03:22 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:03:26 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -2695,7 +3362,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:03:27 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:03:31 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -2724,7 +3391,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:03:33 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:03:37 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -2753,7 +3420,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:03:38 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:03:43 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -2782,36 +3449,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:03:44 CRITICAL [31m[                 __main__] Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-[0m
-Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-19:03:50 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:03:49 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -2898,7 +3536,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:04:06 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:04:07 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -3014,7 +3652,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:04:29 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:04:30 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -3043,7 +3681,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:04:35 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:04:36 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -3072,7 +3710,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:04:40 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:04:42 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -3101,7 +3739,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:04:46 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:04:48 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -3130,7 +3768,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:04:51 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:04:54 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -3159,7 +3797,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:04:57 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:05:00 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -3188,7 +3826,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:05:02 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:05:06 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -3217,7 +3855,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:05:08 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:05:12 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -3246,7 +3884,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:05:13 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:05:17 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -3275,7 +3913,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:05:19 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:05:23 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -3304,7 +3942,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:05:25 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:05:29 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -3333,36 +3971,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:05:30 CRITICAL [31m[                 __main__] Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-[0m
-Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-19:05:36 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:05:35 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -3420,7 +4029,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:05:47 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:05:46 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -3507,7 +4116,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:06:03 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:06:04 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -3536,7 +4145,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:06:09 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:06:10 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -3594,7 +4203,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:06:20 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:06:21 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -3623,7 +4232,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:06:26 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:06:27 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -3652,7 +4261,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:06:32 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:06:33 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -3681,7 +4290,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:06:37 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:06:39 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -3710,7 +4319,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:06:43 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:06:45 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -3739,7 +4348,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:06:48 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:06:50 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -3768,7 +4377,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:06:54 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:06:56 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -3797,7 +4406,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:07:00 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:07:02 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -3826,7 +4435,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:07:05 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:07:08 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -3855,7 +4464,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:07:11 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:07:14 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -3884,7 +4493,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:07:16 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:07:19 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -3913,7 +4522,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:07:22 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:07:25 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -3942,7 +4551,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:07:28 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:07:31 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -3971,7 +4580,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:07:33 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:07:37 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -4000,7 +4609,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:07:39 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:07:43 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -4029,7 +4638,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:07:44 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:07:49 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -4058,7 +4667,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:07:50 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:07:54 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -4087,36 +4696,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:07:55 CRITICAL [31m[                 __main__] Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-[0m
-Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-19:08:01 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:08:00 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -4203,7 +4783,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:08:17 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:08:18 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -4232,7 +4812,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:08:23 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:08:24 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -4261,7 +4841,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:08:28 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:08:29 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -4290,7 +4870,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:08:34 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:08:35 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -4319,7 +4899,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:08:40 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:08:41 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -4348,7 +4928,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:08:45 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:08:47 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -4377,7 +4957,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:08:51 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:08:53 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -4406,7 +4986,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:08:56 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:08:59 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -4435,7 +5015,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:09:02 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:09:05 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -4464,7 +5044,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:09:07 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:09:11 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -4493,7 +5073,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:09:13 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:09:16 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -4522,7 +5102,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:09:18 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:09:22 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -4551,7 +5131,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:09:24 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:09:28 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -4580,7 +5160,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:09:30 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:09:34 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -4609,36 +5189,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:09:35 CRITICAL [31m[                 __main__] Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-[0m
-Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-19:09:41 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:09:40 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -4783,7 +5334,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:10:08 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:10:09 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -4812,7 +5363,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:10:14 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:10:15 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -4841,7 +5392,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:10:19 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:10:21 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -4870,7 +5421,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:10:25 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:10:26 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -4899,7 +5450,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:10:31 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:10:32 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -4928,7 +5479,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:10:36 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:10:38 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -4957,7 +5508,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:10:42 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:10:44 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -4986,7 +5537,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:10:47 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:10:50 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -5015,7 +5566,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:10:53 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:10:55 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -5044,7 +5595,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:10:59 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:11:01 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -5073,7 +5624,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:11:04 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:11:07 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -5102,7 +5653,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:11:10 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:11:13 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -5131,7 +5682,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:11:16 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:11:19 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -5160,7 +5711,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:11:21 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:11:25 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -5189,7 +5740,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:11:27 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:11:30 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -5218,7 +5769,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:11:32 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:11:36 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -5247,7 +5798,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:11:38 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:11:42 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -5276,36 +5827,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:11:43 CRITICAL [31m[                 __main__] Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-[0m
-Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-19:11:49 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:11:48 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -5363,7 +5885,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:12:00 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:11:59 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -5392,7 +5914,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:12:06 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:12:05 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -5479,7 +6001,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:12:22 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:12:23 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -5537,7 +6059,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:12:33 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:12:34 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -5566,7 +6088,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:12:39 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:12:40 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -5595,7 +6117,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:12:44 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:12:46 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -5624,7 +6146,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:12:50 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:12:52 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -5653,7 +6175,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:12:55 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:12:58 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -5682,7 +6204,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:13:01 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:13:03 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -5711,7 +6233,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:13:06 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:13:09 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -5740,7 +6262,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:13:12 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:13:15 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -5769,7 +6291,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:13:18 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:13:21 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -5798,7 +6320,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:13:23 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:13:27 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -5827,7 +6349,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:13:29 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:13:32 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -5856,7 +6378,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:13:34 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:13:38 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -5885,7 +6407,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:13:40 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:13:44 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -5914,36 +6436,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:13:45 CRITICAL [31m[                 __main__] Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-[0m
-Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-19:13:51 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:13:50 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -6001,7 +6494,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:14:02 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:14:01 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -6117,7 +6610,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:14:24 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:14:25 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -6175,7 +6668,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:14:35 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:14:36 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -6204,7 +6697,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:14:41 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:14:42 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -6233,7 +6726,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:14:47 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:14:48 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -6262,7 +6755,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:14:52 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:14:54 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -6291,7 +6784,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:14:58 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:15:00 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -6320,7 +6813,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:15:03 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:15:06 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -6349,7 +6842,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:15:09 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:15:12 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -6378,7 +6871,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:15:14 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:15:18 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -6407,7 +6900,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:15:20 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:15:23 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -6436,7 +6929,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:15:26 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:15:29 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -6465,7 +6958,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:15:31 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:15:35 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -6494,7 +6987,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:15:37 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:15:41 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -6523,7 +7016,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:15:42 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:15:47 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -6552,7 +7045,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:15:48 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:15:52 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -6581,7 +7074,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:15:54 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:15:58 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -6610,36 +7103,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:15:59 CRITICAL [31m[                 __main__] Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-[0m
-Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-19:16:05 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:16:04 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -6813,7 +7277,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:16:38 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:16:39 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -6842,7 +7306,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:16:44 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:16:45 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -6871,7 +7335,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:16:49 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:16:51 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -6900,7 +7364,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:16:55 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:16:56 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -6929,7 +7393,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:17:00 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:17:02 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -6958,7 +7422,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:17:06 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:17:08 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -6987,7 +7451,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:17:11 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:17:14 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -7016,7 +7480,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:17:17 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:17:20 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -7045,7 +7509,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:17:23 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:17:26 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -7074,7 +7538,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:17:28 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:17:31 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -7103,7 +7567,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:17:34 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:17:37 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -7132,7 +7596,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:17:39 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:17:43 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -7161,7 +7625,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:17:45 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:17:49 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -7190,7 +7654,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:17:50 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:17:54 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -7219,7 +7683,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:17:56 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:18:00 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -7248,36 +7712,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:18:01 CRITICAL [31m[                 __main__] Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-[0m
-Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-19:18:07 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:18:06 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -7451,7 +7886,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:18:40 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:18:41 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -7480,7 +7915,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:18:46 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:18:47 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -7509,7 +7944,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:18:51 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:18:53 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -7538,7 +7973,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:18:57 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:18:58 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -7567,7 +8002,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:19:02 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:19:04 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -7596,7 +8031,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:19:08 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:19:10 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -7625,7 +8060,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:19:13 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:19:16 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -7654,7 +8089,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:19:19 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:19:22 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -7683,7 +8118,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:19:25 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:19:27 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -7712,7 +8147,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:19:30 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:19:33 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -7741,7 +8176,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:19:36 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:19:39 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -7770,7 +8205,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:19:41 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:19:45 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -7799,7 +8234,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:19:47 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:19:51 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -7828,7 +8263,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:19:52 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:19:56 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -7857,7 +8292,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:19:58 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:20:02 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -7886,36 +8321,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:20:03 CRITICAL [31m[                 __main__] Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-[0m
-Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-19:20:09 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:20:08 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -8089,7 +8495,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:20:42 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:20:43 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -8118,7 +8524,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:20:48 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:20:49 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -8147,7 +8553,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:20:53 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:20:55 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -8176,7 +8582,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:20:59 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:21:00 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -8205,7 +8611,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:21:04 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:21:06 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -8234,7 +8640,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:21:10 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:21:12 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -8263,7 +8669,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:21:15 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:21:18 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -8292,7 +8698,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:21:21 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:21:24 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -8321,7 +8727,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:21:26 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:21:29 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -8350,7 +8756,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:21:32 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:21:35 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -8379,7 +8785,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:21:38 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:21:41 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -8408,7 +8814,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:21:43 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:21:47 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -8437,7 +8843,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:21:49 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:21:53 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -8466,36 +8872,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:21:54 CRITICAL [31m[                 __main__] Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-[0m
-Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-19:22:00 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:21:59 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -8553,7 +8930,7 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/socket.py", line 228, in meth
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
-19:22:11 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+19:22:10 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
@@ -8641,383 +9018,6 @@ Traceback (most recent call last):
     return getattr(self._sock,name)(*args)
 error: [Errno 98] Address in use
 19:22:28 CRITICAL [31m[                 __main__] Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-[0m
-Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-19:22:33 CRITICAL [31m[                 __main__] Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-[0m
-Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-19:22:39 CRITICAL [31m[                 __main__] Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-[0m
-Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-19:22:44 CRITICAL [31m[                 __main__] Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-[0m
-Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-19:22:50 CRITICAL [31m[                 __main__] Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-[0m
-Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-19:22:55 CRITICAL [31m[                 __main__] Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-[0m
-Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-19:23:01 CRITICAL [31m[                 __main__] Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-[0m
-Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-19:23:06 CRITICAL [31m[                 __main__] Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-[0m
-Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-19:23:12 CRITICAL [31m[                 __main__] Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-[0m
-Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-19:23:17 CRITICAL [31m[                 __main__] Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-[0m
-Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-19:23:23 CRITICAL [31m[                 __main__] Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-[0m
-Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-19:23:28 CRITICAL [31m[                 __main__] Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-[0m
-Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-19:23:34 CRITICAL [31m[                 __main__] Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-[0m
-Traceback (most recent call last):
-  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
-    l.run()
-  File "/app/couchpotato/CouchPotato.py", line 89, in run
-    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
-  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
-    server.listen(config['port'], config['host'])
-  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
-    sockets = bind_sockets(port, address=address)
-  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
-    sock.bind(sockaddr)
-  File "/usr/lib/python2.7/socket.py", line 228, in meth
-    return getattr(self._sock,name)(*args)
-error: [Errno 98] Address in use
-19:23:40 CRITICAL [31m[                 __main__] Traceback (most recent call last):
   File "/app/couchpotato/CouchPotato.py", line 135, in <module>
     l.run()
   File "/app/couchpotato/CouchPotato.py", line 89, in run
