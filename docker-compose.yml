@@ -5,7 +5,8 @@ services:
           #    build:
           #       context: ./sabnzbd
           #       dockerfile: Dockerfile
-    image: lsioarmhf/sabnzbd:latest
+          #    image: lsioarmhf/sabnzbd:latest
+    image: stiles/sabnzbd_image:latest
     container_name: sabnzbd_container_compose
     restart: always
     dns:

@@ -211,12 +211,12 @@ nscript_prio_queue_done = 1
 nscript_prio_failed = 1
 nscript_prio_pp = 0
 nscript_prio_new_login = 0
-nscript_script = None
+nscript_script = Send-Sabnzbd-Message.sh
 nscript_prio_download = 0
 nscript_prio_error = 0
 nscript_prio_startup = 1
 nscript_parameters = ""
-nscript_enable = 0
+nscript_enable = 1
 nscript_prio_disk_full = 1
 [pushover]
 pushover_prio_error = 1
@@ -348,38 +348,6 @@ script = None
 newzbin = ""
 order = 0
 dir = ""
-[[tv]]
-priority = -100
-pp = ""
-name = tv
-script = Default
-newzbin = tv*
-order = 0
-dir = sonarr
-[[movies]]
-priority = -100
-pp = ""
-name = movies
-script = Default
-newzbin = movies*
-order = 0
-dir = couchpotato
-[[sonarr]]
-priority = -100
-pp = ""
-name = sonarr
-script = Default
-newzbin = tv*
-order = 0
-dir = sonarr
-[[couchpotato]]
-priority = -100
-pp = ""
-name = couchpotato
-script = Default
-newzbin = movies*
-order = 0
-dir = couchpotato
 [[audio]]
 priority = -100
 pp = ""
@@ -404,3 +372,35 @@ script = Default
 newzbin = xxx*
 order = 0
 dir = adult
+[[sonarr]]
+priority = -100
+pp = ""
+name = sonarr
+script = Send-Sabnzbd-Message.sh
+newzbin = tv*
+order = 0
+dir = sonarr
+[[tv]]
+priority = -100
+pp = ""
+name = tv
+script = Send-Sabnzbd-Message.sh
+newzbin = tv*
+order = 0
+dir = sonarr
+[[couchpotato]]
+priority = -100
+pp = ""
+name = couchpotato
+script = Send-Sabnzbd-Message.sh
+newzbin = movies*
+order = 0
+dir = couchpotato
+[[movies]]
+priority = -100
+pp = ""
+name = movies
+script = Send-Sabnzbd-Message.sh
+newzbin = movies*
+order = 0
+dir = couchpotato
