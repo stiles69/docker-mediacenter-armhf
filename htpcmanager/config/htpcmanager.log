@@ -1473,3 +1473,271 @@ Traceback (most recent call last):
   File "/app/htpcmanager/modules/sonarr.py", line 165, in Calendar
     'title': episode['series']['title'],
 TypeError: string indices must be integers
+2019-01-27 08:18:16 :: modules.plex :: ERROR :: Unable to fetch recent movies! Exception: Invalid URL u'http://:/library/sections': No host supplied
+2019-01-27 08:18:17 :: cherrypy.error.3058227920 :: ERROR :: [27/Jan/2019:08:18:17] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/lib/jsontools.py", line 63, in json_handler
+    value = cherrypy.serving.request._json_inner_handler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/sonarr.py", line 165, in Calendar
+    'title': episode['series']['title'],
+TypeError: string indices must be integers
+2019-01-27 11:03:05 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-27 17:03:05 CST)" (scheduled at 2019-01-27 11:03:05.197863-06:00)
+2019-01-27 11:03:05 :: htpc.updater :: INFO :: Running update_needed
+2019-01-27 11:03:05 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-27 11:03:05 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-27 11:03:05 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-27 11:03:05 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-27 17:03:05 CST)" executed successfully
+2019-01-27 17:03:05 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-27 23:03:05 CST)" (scheduled at 2019-01-27 17:03:05.197863-06:00)
+2019-01-27 17:03:05 :: htpc.updater :: INFO :: Running update_needed
+2019-01-27 17:03:05 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-27 17:03:05 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-27 17:03:05 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-27 17:03:05 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-27 23:03:05 CST)" executed successfully
+2019-01-27 23:03:05 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-28 05:03:05 CST)" (scheduled at 2019-01-27 23:03:05.197863-06:00)
+2019-01-27 23:03:05 :: htpc.updater :: INFO :: Running update_needed
+2019-01-27 23:03:05 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-27 23:03:05 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-27 23:03:05 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-27 23:03:05 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-28 05:03:05 CST)" executed successfully
+2019-01-28 05:03:05 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-28 05:03:05 CST)" (scheduled at 2019-01-28 05:03:05.197863-06:00)
+2019-01-28 05:03:05 :: htpc.updater :: INFO :: Running update_needed
+2019-01-28 05:03:05 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-28 05:03:06 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-28 05:03:06 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-28 05:03:06 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-28 11:03:05 CST)" executed successfully
+2019-01-28 11:03:05 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-28 17:03:05 CST)" (scheduled at 2019-01-28 11:03:05.197863-06:00)
+2019-01-28 11:03:05 :: htpc.updater :: INFO :: Running update_needed
+2019-01-28 11:03:05 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-28 11:03:05 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-28 11:03:05 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-28 11:03:05 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-28 17:03:05 CST)" executed successfully
+2019-01-28 17:03:05 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-28 23:03:05 CST)" (scheduled at 2019-01-28 17:03:05.197863-06:00)
+2019-01-28 17:03:05 :: htpc.updater :: INFO :: Running update_needed
+2019-01-28 17:03:05 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-28 17:03:05 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-28 17:03:05 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-28 17:03:05 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-28 23:03:05 CST)" executed successfully
+2019-01-28 23:03:05 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-29 05:03:05 CST)" (scheduled at 2019-01-28 23:03:05.197863-06:00)
+2019-01-28 23:03:05 :: htpc.updater :: INFO :: Running update_needed
+2019-01-28 23:03:05 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-28 23:03:06 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-28 23:03:06 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-28 23:03:06 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-29 05:03:05 CST)" executed successfully
+2019-01-29 05:03:05 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-29 11:03:05 CST)" (scheduled at 2019-01-29 05:03:05.197863-06:00)
+2019-01-29 05:03:05 :: htpc.updater :: INFO :: Running update_needed
+2019-01-29 05:03:05 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-29 05:03:05 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-29 05:03:05 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-29 05:03:05 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-29 11:03:05 CST)" executed successfully
+2019-01-29 11:03:05 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-29 17:03:05 CST)" (scheduled at 2019-01-29 11:03:05.197863-06:00)
+2019-01-29 11:03:05 :: htpc.updater :: INFO :: Running update_needed
+2019-01-29 11:03:05 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-29 11:03:10 :: htpc.updater :: ERROR :: Failed to get last commit from github <urlopen error [Errno -3] Try again>
+2019-01-29 11:03:10 :: htpc.updater :: ERROR :: Failed to determine the latest version for HTPC Manager.
+2019-01-29 11:03:10 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-29 17:03:05 CST)" executed successfully
+2019-01-29 17:03:05 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-29 23:03:05 CST)" (scheduled at 2019-01-29 17:03:05.197863-06:00)
+2019-01-29 17:03:05 :: htpc.updater :: INFO :: Running update_needed
+2019-01-29 17:03:05 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-29 17:03:05 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-29 17:03:05 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-29 17:03:05 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-29 23:03:05 CST)" executed successfully
+2019-01-29 23:03:05 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-29 23:03:05 CST)" (scheduled at 2019-01-29 23:03:05.197863-06:00)
+2019-01-29 23:03:05 :: htpc.updater :: INFO :: Running update_needed
+2019-01-29 23:03:05 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-29 23:03:05 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-29 23:03:05 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-29 23:03:05 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-30 05:03:05 CST)" executed successfully
+2019-01-30 05:03:05 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-30 11:03:05 CST)" (scheduled at 2019-01-30 05:03:05.197863-06:00)
+2019-01-30 05:03:05 :: htpc.updater :: INFO :: Running update_needed
+2019-01-30 05:03:05 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-30 05:03:05 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-30 05:03:05 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-30 05:03:05 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-30 11:03:05 CST)" executed successfully
+2019-01-30 11:03:05 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-30 17:03:05 CST)" (scheduled at 2019-01-30 11:03:05.197863-06:00)
+2019-01-30 11:03:05 :: htpc.updater :: INFO :: Running update_needed
+2019-01-30 11:03:05 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-30 11:03:05 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-30 11:03:05 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-30 11:03:05 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-30 17:03:05 CST)" executed successfully
+2019-01-30 17:03:05 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-30 23:03:05 CST)" (scheduled at 2019-01-30 17:03:05.197863-06:00)
+2019-01-30 17:03:05 :: htpc.updater :: INFO :: Running update_needed
+2019-01-30 17:03:05 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-30 17:03:05 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-30 17:03:05 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-30 17:03:05 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-30 23:03:05 CST)" executed successfully
+2019-01-30 23:03:05 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-30 23:03:05 CST)" (scheduled at 2019-01-30 23:03:05.197863-06:00)
+2019-01-30 23:03:05 :: htpc.updater :: INFO :: Running update_needed
+2019-01-30 23:03:05 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-01-30 23:03:05 :: htpc.updater :: INFO :: HTPC Manager is Up-To-Date.
+2019-01-30 23:03:05 :: htpc.updater :: INFO :: Currently 0 commits behind.
+2019-01-30 23:03:05 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-01-31 05:03:05 CST)" executed successfully
+2019-01-31 04:45:23 :: cherrypy.error :: INFO :: [31/Jan/2019:04:45:23] ENGINE Caught signal SIGTERM.
+2019-01-31 04:45:23 :: cherrypy.error :: INFO :: [31/Jan/2019:04:45:23] ENGINE Bus STOPPING
+2019-01-31 04:45:23 :: apscheduler.scheduler :: INFO :: Scheduler has been shut down
+2019-01-31 04:45:23 :: cherrypy.error :: INFO :: [31/Jan/2019:04:45:23] ENGINE Caught signal SIGTERM.
+2019-01-31 04:45:23 :: cherrypy.error :: INFO :: [31/Jan/2019:04:45:23] ENGINE Bus STOPPING
+2019-01-31 04:45:23 :: cherrypy.error :: ERROR :: [31/Jan/2019:04:45:23] ENGINE Error in 'stop' listener <function stopp_ap at 0xb5239930>
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/process/wspbus.py", line 205, in publish
+    output.append(listener(*args, **kwargs))
+  File "/app/htpcmanager/htpc/server.py", line 126, in stopp_ap
+    htpc.SCHED.shutdown(wait=False)
+  File "/app/htpcmanager/libs/apscheduler/schedulers/background.py", line 37, in shutdown
+    super(BackgroundScheduler, self).shutdown(wait)
+  File "/app/htpcmanager/libs/apscheduler/schedulers/blocking.py", line 22, in shutdown
+    super(BlockingScheduler, self).shutdown(wait)
+  File "/app/htpcmanager/libs/apscheduler/schedulers/base.py", line 147, in shutdown
+    raise SchedulerNotRunningError
+SchedulerNotRunningError: Scheduler is not running
+
+2019-01-31 04:45:23 :: cherrypy.error :: INFO :: [31/Jan/2019:04:45:23] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8085)) already shut down
+2019-01-31 04:46:21 :: root :: INFO :: Welcome to Hellowlol's HTPC Manager fork
+2019-01-31 04:46:21 :: root :: INFO :: Loglevel set to info
+2019-01-31 04:46:22 :: htpc.updater :: INFO :: Using GitUpdater engine
+2019-01-31 04:46:22 :: apscheduler.scheduler :: INFO :: Added job "Updater.update_needed" to job store "default"
+2019-01-31 04:46:22 :: modules.kodi :: WARNING :: No configured kodi-Servers.
+2019-01-31 04:46:22 :: modules.newznab :: ERROR :: Invalid indexer. Selecting first Available.
+2019-01-31 04:46:23 :: modules.stats :: ERROR :: Required package 'smartmontools' is not installed, or 'smartctl'
+component is not on the system path. Please install and try again.The current env path is: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+2019-01-31 04:46:23 :: htpc.server :: INFO :: Starting up webserver
+2019-01-31 04:46:23 :: cherrypy.error :: INFO :: [31/Jan/2019:04:46:23] ENGINE Listening for SIGHUP.
+2019-01-31 04:46:23 :: cherrypy.error :: INFO :: [31/Jan/2019:04:46:23] ENGINE Listening for SIGTERM.
+2019-01-31 04:46:23 :: cherrypy.error :: INFO :: [31/Jan/2019:04:46:23] ENGINE Listening for SIGUSR1.
+2019-01-31 04:46:23 :: cherrypy.error :: INFO :: [31/Jan/2019:04:46:23] ENGINE Bus STARTING
+2019-01-31 04:46:24 :: cherrypy.error :: INFO :: [31/Jan/2019:04:46:24] ENGINE Serving on http://0.0.0.0:8085
+2019-01-31 04:46:24 :: cherrypy.error :: INFO :: [31/Jan/2019:04:46:24] ENGINE Bus STARTED
+2019-01-31 05:10:06 :: cherrypy.error :: INFO :: [31/Jan/2019:05:10:06] ENGINE Caught signal SIGTERM.
+2019-01-31 05:10:06 :: cherrypy.error :: INFO :: [31/Jan/2019:05:10:06] ENGINE Bus STOPPING
+2019-01-31 05:10:06 :: apscheduler.scheduler :: INFO :: Scheduler has been shut down
+2019-01-31 05:10:06 :: cherrypy.error :: INFO :: [31/Jan/2019:05:10:06] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8085)) shut down
+2019-01-31 05:10:06 :: cherrypy.error :: INFO :: [31/Jan/2019:05:10:06] ENGINE Bus STOPPED
+2019-01-31 05:10:06 :: cherrypy.error :: INFO :: [31/Jan/2019:05:10:06] ENGINE Bus EXITING
+2019-01-31 05:10:06 :: cherrypy.error :: INFO :: [31/Jan/2019:05:10:06] ENGINE Bus EXITED
+2019-01-31 05:10:06 :: cherrypy.error :: INFO :: [31/Jan/2019:05:10:06] ENGINE Waiting for child threads to terminate...
+2019-01-31 05:11:09 :: root :: INFO :: Welcome to Hellowlol's HTPC Manager fork
+2019-01-31 05:11:09 :: root :: INFO :: Loglevel set to info
+2019-01-31 05:11:09 :: htpc.updater :: INFO :: Using GitUpdater engine
+2019-01-31 05:11:09 :: apscheduler.scheduler :: INFO :: Added job "Updater.update_needed" to job store "default"
+2019-01-31 05:11:09 :: modules.kodi :: WARNING :: No configured kodi-Servers.
+2019-01-31 05:11:09 :: modules.newznab :: ERROR :: Invalid indexer. Selecting first Available.
+2019-01-31 05:11:10 :: modules.stats :: ERROR :: Required package 'smartmontools' is not installed, or 'smartctl'
+component is not on the system path. Please install and try again.The current env path is: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+2019-01-31 05:11:11 :: htpc.server :: INFO :: Starting up webserver
+2019-01-31 05:11:11 :: cherrypy.error :: INFO :: [31/Jan/2019:05:11:11] ENGINE Listening for SIGHUP.
+2019-01-31 05:11:11 :: cherrypy.error :: INFO :: [31/Jan/2019:05:11:11] ENGINE Listening for SIGTERM.
+2019-01-31 05:11:11 :: cherrypy.error :: INFO :: [31/Jan/2019:05:11:11] ENGINE Listening for SIGUSR1.
+2019-01-31 05:11:11 :: cherrypy.error :: INFO :: [31/Jan/2019:05:11:11] ENGINE Bus STARTING
+2019-01-31 05:11:11 :: cherrypy.error :: INFO :: [31/Jan/2019:05:11:11] ENGINE Serving on http://0.0.0.0:8085
+2019-01-31 05:11:11 :: cherrypy.error :: INFO :: [31/Jan/2019:05:11:11] ENGINE Bus STARTED
+2019-01-31 07:37:29 :: cherrypy.error :: INFO :: [31/Jan/2019:07:37:29] ENGINE Caught signal SIGTERM.
+2019-01-31 07:37:29 :: cherrypy.error :: INFO :: [31/Jan/2019:07:37:29] ENGINE Bus STOPPING
+2019-01-31 07:37:29 :: apscheduler.scheduler :: INFO :: Scheduler has been shut down
+2019-01-31 07:37:30 :: cherrypy.error :: INFO :: [31/Jan/2019:07:37:30] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8085)) shut down
+2019-01-31 07:37:30 :: cherrypy.error :: INFO :: [31/Jan/2019:07:37:30] ENGINE Bus STOPPED
+2019-01-31 07:37:30 :: cherrypy.error :: INFO :: [31/Jan/2019:07:37:30] ENGINE Bus EXITING
+2019-01-31 07:37:30 :: cherrypy.error :: INFO :: [31/Jan/2019:07:37:30] ENGINE Bus EXITED
+2019-01-31 07:37:30 :: cherrypy.error :: INFO :: [31/Jan/2019:07:37:30] ENGINE Waiting for child threads to terminate...
+2019-01-31 07:39:31 :: root :: INFO :: Welcome to Hellowlol's HTPC Manager fork
+2019-01-31 07:39:31 :: root :: INFO :: Loglevel set to info
+2019-01-31 07:39:31 :: htpc.updater :: INFO :: Using GitUpdater engine
+2019-01-31 07:39:32 :: apscheduler.scheduler :: INFO :: Added job "Updater.update_needed" to job store "default"
+2019-01-31 07:39:32 :: modules.kodi :: WARNING :: No configured kodi-Servers.
+2019-01-31 07:39:32 :: modules.newznab :: ERROR :: Invalid indexer. Selecting first Available.
+2019-01-31 07:39:32 :: modules.stats :: ERROR :: Required package 'smartmontools' is not installed, or 'smartctl'
+component is not on the system path. Please install and try again.The current env path is: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+2019-01-31 07:39:33 :: htpc.server :: INFO :: Starting up webserver
+2019-01-31 07:39:33 :: cherrypy.error :: INFO :: [31/Jan/2019:07:39:33] ENGINE Listening for SIGHUP.
+2019-01-31 07:39:33 :: cherrypy.error :: INFO :: [31/Jan/2019:07:39:33] ENGINE Listening for SIGTERM.
+2019-01-31 07:39:33 :: cherrypy.error :: INFO :: [31/Jan/2019:07:39:33] ENGINE Listening for SIGUSR1.
+2019-01-31 07:39:33 :: cherrypy.error :: INFO :: [31/Jan/2019:07:39:33] ENGINE Bus STARTING
+2019-01-31 07:39:33 :: cherrypy.error :: INFO :: [31/Jan/2019:07:39:33] ENGINE Serving on http://0.0.0.0:8085
+2019-01-31 07:39:33 :: cherrypy.error :: INFO :: [31/Jan/2019:07:39:33] ENGINE Bus STARTED
+2019-01-31 10:41:00 :: modules.plex :: ERROR :: Unable to fetch recent movies! Exception: Invalid URL u'http://:/library/sections': No host supplied
+2019-01-31 10:41:00 :: modules.sonarr :: ERROR :: Failed to fetch url=http://localhost:8989/api/Calendar?start=2019-01-31&end=2019-02-01 path=Calendar?start=2019-01-31&end=2019-02-01 error No JSON object could be decoded
+2019-01-31 11:15:02 :: cherrypy.error :: INFO :: [31/Jan/2019:11:15:02] ENGINE Caught signal SIGTERM.
+2019-01-31 11:15:02 :: cherrypy.error :: INFO :: [31/Jan/2019:11:15:02] ENGINE Bus STOPPING
+2019-01-31 11:15:02 :: apscheduler.scheduler :: INFO :: Scheduler has been shut down
+2019-01-31 11:15:03 :: cherrypy.error :: INFO :: [31/Jan/2019:11:15:03] ENGINE Caught signal SIGTERM.
+2019-01-31 11:15:03 :: cherrypy.error :: INFO :: [31/Jan/2019:11:15:03] ENGINE Bus STOPPING
+2019-01-31 11:15:03 :: cherrypy.error :: ERROR :: [31/Jan/2019:11:15:03] ENGINE Error in 'stop' listener <function stopp_ap at 0xb5240970>
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/process/wspbus.py", line 205, in publish
+    output.append(listener(*args, **kwargs))
+  File "/app/htpcmanager/htpc/server.py", line 126, in stopp_ap
+    htpc.SCHED.shutdown(wait=False)
+  File "/app/htpcmanager/libs/apscheduler/schedulers/background.py", line 37, in shutdown
+    super(BackgroundScheduler, self).shutdown(wait)
+  File "/app/htpcmanager/libs/apscheduler/schedulers/blocking.py", line 22, in shutdown
+    super(BlockingScheduler, self).shutdown(wait)
+  File "/app/htpcmanager/libs/apscheduler/schedulers/base.py", line 147, in shutdown
+    raise SchedulerNotRunningError
+SchedulerNotRunningError: Scheduler is not running
+
+2019-01-31 11:15:03 :: cherrypy.error :: INFO :: [31/Jan/2019:11:15:03] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8085)) already shut down
+2019-01-31 11:15:53 :: root :: INFO :: Welcome to Hellowlol's HTPC Manager fork
+2019-01-31 11:15:53 :: root :: INFO :: Loglevel set to info
+2019-01-31 11:15:53 :: htpc.updater :: INFO :: Using GitUpdater engine
+2019-01-31 11:15:53 :: apscheduler.scheduler :: INFO :: Added job "Updater.update_needed" to job store "default"
+2019-01-31 11:15:53 :: modules.kodi :: WARNING :: No configured kodi-Servers.
+2019-01-31 11:15:54 :: modules.newznab :: ERROR :: Invalid indexer. Selecting first Available.
+2019-01-31 11:15:54 :: modules.stats :: ERROR :: Required package 'smartmontools' is not installed, or 'smartctl'
+component is not on the system path. Please install and try again.The current env path is: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+2019-01-31 11:15:55 :: htpc.server :: INFO :: Starting up webserver
+2019-01-31 11:15:55 :: cherrypy.error :: INFO :: [31/Jan/2019:11:15:55] ENGINE Listening for SIGHUP.
+2019-01-31 11:15:55 :: cherrypy.error :: INFO :: [31/Jan/2019:11:15:55] ENGINE Listening for SIGTERM.
+2019-01-31 11:15:55 :: cherrypy.error :: INFO :: [31/Jan/2019:11:15:55] ENGINE Listening for SIGUSR1.
+2019-01-31 11:15:55 :: cherrypy.error :: INFO :: [31/Jan/2019:11:15:55] ENGINE Bus STARTING
+2019-01-31 11:15:55 :: cherrypy.error :: INFO :: [31/Jan/2019:11:15:55] ENGINE Serving on http://0.0.0.0:8085
+2019-01-31 11:15:55 :: cherrypy.error :: INFO :: [31/Jan/2019:11:15:55] ENGINE Bus STARTED
+2019-01-31 11:40:53 :: cherrypy.error :: INFO :: [31/Jan/2019:11:40:53] ENGINE Caught signal SIGTERM.
+2019-01-31 11:40:53 :: cherrypy.error :: INFO :: [31/Jan/2019:11:40:53] ENGINE Bus STOPPING
+2019-01-31 11:40:53 :: apscheduler.scheduler :: INFO :: Scheduler has been shut down
+2019-01-31 11:40:53 :: cherrypy.error :: INFO :: [31/Jan/2019:11:40:53] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8085)) shut down
+2019-01-31 11:40:53 :: cherrypy.error :: INFO :: [31/Jan/2019:11:40:53] ENGINE Bus STOPPED
+2019-01-31 11:40:53 :: cherrypy.error :: INFO :: [31/Jan/2019:11:40:53] ENGINE Bus EXITING
+2019-01-31 11:40:53 :: cherrypy.error :: INFO :: [31/Jan/2019:11:40:53] ENGINE Bus EXITED
+2019-01-31 11:40:53 :: cherrypy.error :: INFO :: [31/Jan/2019:11:40:53] ENGINE Waiting for child threads to terminate...
+2019-01-31 11:41:45 :: root :: INFO :: Welcome to Hellowlol's HTPC Manager fork
+2019-01-31 11:41:45 :: root :: INFO :: Loglevel set to info
+2019-01-31 11:41:45 :: htpc.updater :: INFO :: Using GitUpdater engine
+2019-01-31 11:41:45 :: apscheduler.scheduler :: INFO :: Added job "Updater.update_needed" to job store "default"
+2019-01-31 11:41:45 :: modules.kodi :: WARNING :: No configured kodi-Servers.
+2019-01-31 11:41:45 :: modules.newznab :: ERROR :: Invalid indexer. Selecting first Available.
+2019-01-31 11:41:46 :: modules.stats :: ERROR :: Required package 'smartmontools' is not installed, or 'smartctl'
+component is not on the system path. Please install and try again.The current env path is: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+2019-01-31 11:41:47 :: htpc.server :: INFO :: Starting up webserver
+2019-01-31 11:41:47 :: cherrypy.error :: INFO :: [31/Jan/2019:11:41:47] ENGINE Listening for SIGHUP.
+2019-01-31 11:41:47 :: cherrypy.error :: INFO :: [31/Jan/2019:11:41:47] ENGINE Listening for SIGTERM.
+2019-01-31 11:41:47 :: cherrypy.error :: INFO :: [31/Jan/2019:11:41:47] ENGINE Listening for SIGUSR1.
+2019-01-31 11:41:47 :: cherrypy.error :: INFO :: [31/Jan/2019:11:41:47] ENGINE Bus STARTING
+2019-01-31 11:41:47 :: cherrypy.error :: INFO :: [31/Jan/2019:11:41:47] ENGINE Serving on http://0.0.0.0:8085
+2019-01-31 11:41:47 :: cherrypy.error :: INFO :: [31/Jan/2019:11:41:47] ENGINE Bus STARTED
+2019-01-31 11:48:35 :: cherrypy.error :: INFO :: [31/Jan/2019:11:48:35] ENGINE Caught signal SIGTERM.
+2019-01-31 11:48:35 :: cherrypy.error :: INFO :: [31/Jan/2019:11:48:35] ENGINE Bus STOPPING
+2019-01-31 11:48:35 :: apscheduler.scheduler :: INFO :: Scheduler has been shut down
+2019-01-31 11:48:35 :: cherrypy.error :: INFO :: [31/Jan/2019:11:48:35] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8085)) shut down
+2019-01-31 11:48:35 :: cherrypy.error :: INFO :: [31/Jan/2019:11:48:35] ENGINE Bus STOPPED
+2019-01-31 11:48:35 :: cherrypy.error :: INFO :: [31/Jan/2019:11:48:35] ENGINE Bus EXITING
+2019-01-31 11:48:35 :: cherrypy.error :: INFO :: [31/Jan/2019:11:48:35] ENGINE Bus EXITED
+2019-01-31 11:48:35 :: cherrypy.error :: INFO :: [31/Jan/2019:11:48:35] ENGINE Waiting for child threads to terminate...
+2019-01-31 11:49:44 :: root :: INFO :: Welcome to Hellowlol's HTPC Manager fork
+2019-01-31 11:49:44 :: root :: INFO :: Loglevel set to info
+2019-01-31 11:49:44 :: htpc.updater :: INFO :: Using GitUpdater engine
+2019-01-31 11:49:44 :: apscheduler.scheduler :: INFO :: Added job "Updater.update_needed" to job store "default"
+2019-01-31 11:49:44 :: modules.kodi :: WARNING :: No configured kodi-Servers.
+2019-01-31 11:49:44 :: modules.newznab :: ERROR :: Invalid indexer. Selecting first Available.
+2019-01-31 11:49:45 :: modules.stats :: ERROR :: Required package 'smartmontools' is not installed, or 'smartctl'
+component is not on the system path. Please install and try again.The current env path is: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+2019-01-31 11:49:46 :: htpc.server :: INFO :: Starting up webserver
+2019-01-31 11:49:46 :: cherrypy.error :: INFO :: [31/Jan/2019:11:49:46] ENGINE Listening for SIGHUP.
+2019-01-31 11:49:46 :: cherrypy.error :: INFO :: [31/Jan/2019:11:49:46] ENGINE Listening for SIGTERM.
+2019-01-31 11:49:46 :: cherrypy.error :: INFO :: [31/Jan/2019:11:49:46] ENGINE Listening for SIGUSR1.
+2019-01-31 11:49:46 :: cherrypy.error :: INFO :: [31/Jan/2019:11:49:46] ENGINE Bus STARTING
+2019-01-31 11:49:46 :: cherrypy.error :: INFO :: [31/Jan/2019:11:49:46] ENGINE Serving on http://0.0.0.0:8085
+2019-01-31 11:49:46 :: cherrypy.error :: INFO :: [31/Jan/2019:11:49:46] ENGINE Bus STARTED

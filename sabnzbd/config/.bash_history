@@ -22,3 +22,7 @@ ld
 ls
 ./Send-Sabnzbd-Message.sh 
 exit
+cd downloads/sabnzbd/scripts/
+ls
+./Send-Sabnzbd-Message.sh 
+exit

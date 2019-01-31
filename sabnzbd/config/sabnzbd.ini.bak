@@ -364,14 +364,6 @@ script = Default
 newzbin = audio*
 order = 0
 dir = headphones
-[[adult]]
-priority = -100
-pp = ""
-name = adult
-script = Default
-newzbin = xxx*
-order = 0
-dir = adult
 [[sonarr]]
 priority = -100
 pp = ""
@@ -404,3 +396,11 @@ script = Send-Sabnzbd-Message.sh
 newzbin = movies*
 order = 0
 dir = couchpotato
+[[adult]]
+priority = -100
+pp = ""
+name = adult
+script = Move-To-NFS-Dir.sh
+newzbin = xxx*
+order = 0
+dir = adult
