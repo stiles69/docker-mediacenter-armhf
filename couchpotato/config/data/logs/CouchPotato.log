@@ -1655,3 +1655,1570 @@ HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://to
 01-31 11:50:29 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
 01-31 11:50:29 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.cat/search/%22Deadpool%3A+No+Good+Deed+2017%22/0/7/201, data: [][0m
 01-31 11:50:31 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+01-31 13:49:49 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+01-31 15:49:49 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+01-31 17:49:49 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+01-31 19:49:49 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+01-31 21:49:49 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+01-31 23:49:48 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/messages/?last_check=1384713000, data: [][0m
+01-31 23:49:49 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 01:49:49 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 03:49:49 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 05:49:49 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 06:58:00 INFO [0m[core.media.movie.searcher] Search for Deadpool: No Good Deed in 720p[0m
+02-01 06:58:00 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.nzbgeek.info/api?imdbid=6612630&apikey=xxx&t=movie&extended=1&cat=2000, data: [][0m
+02-01 06:58:02 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/1337x/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+02-01 06:58:04 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/btbit/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+02-01 06:58:09 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/extratorrent-ag/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+02-01 06:58:12 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/gimmepeers/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+02-01 06:58:14 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentz2.eu/feed?f=deadpool+no+good+deed+2017%20seed%20%3E%200, data: [][0m
+02-01 06:58:14 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+02-01 06:58:14 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.cat/search/%22Deadpool%3A+No+Good+Deed+2017%22/0/7/207, data: [][0m
+02-01 06:58:14 INFO [0m[hpotato.core.plugins.base] Opening url: get https://yts.am/api/v2/list_movies.json?query_term=tt6612630&limit=10&page=1, data: [][0m
+02-01 06:58:14 INFO [0m[hpotato.core.plugins.base] Opening url: get http://katcr.to/span/m-i6612630/, data: [][0m
+02-01 06:58:15 ERROR [31m[hpotato.core.plugins.base] Failed opening url in Torrentz: https://torrentz2.eu/feed?f=deadpool+no+good+deed+2017%20seed%20%3E%200 Traceback (most recent call last):
+HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://torrentz2.eu/feed?f=deadpool+no+good+deed+2017%20seed%20%3E%200
+[0m
+02-01 06:58:15 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentz2.eu/feed?f=deadpool%3A+no+good+deed+2017%20seed%20%3E%200, data: [][0m
+02-01 06:58:16 ERROR [31m[hpotato.core.plugins.base] Failed opening url in Torrentz: https://torrentz2.eu/feed?f=deadpool%3A+no+good+deed+2017%20seed%20%3E%200 Traceback (most recent call last):
+HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://torrentz2.eu/feed?f=deadpool%3A+no+good+deed+2017%20seed%20%3E%200
+[0m
+02-01 06:58:44 ERROR [31m[hpotato.core.plugins.base] Failed opening url in MagnetDL: http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/ Traceback (most recent call last):
+ReadTimeout: HTTPSConnectionPool(host='www.magnetdl.com', port=443): Read timed out. (read timeout=30)
+[0m
+02-01 06:58:44 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+02-01 06:58:44 ERROR [31m[hpotato.core.plugins.base] Failed opening url in ThePirateBay: https://pirateproxy.cat/search/%22Deadpool%3A+No+Good+Deed+2017%22/0/7/207 Traceback (most recent call last):
+ReadTimeout: HTTPSConnectionPool(host='pirateproxy.bet', port=443): Read timed out. (read timeout=30)
+[0m
+02-01 06:58:44 INFO [0m[core.media.movie.searcher] Search for Deadpool: No Good Deed in 1080p[0m
+02-01 06:58:44 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentz2.eu/feed?f=deadpool+no+good+deed+2017%20seed%20%3E%200, data: [][0m
+02-01 06:58:44 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.cat/search/%22Deadpool%3A+No+Good+Deed+2017%22/0/7/207, data: [][0m
+02-01 06:58:45 ERROR [31m[hpotato.core.plugins.base] Failed opening url in Torrentz: https://torrentz2.eu/feed?f=deadpool+no+good+deed+2017%20seed%20%3E%200 Traceback (most recent call last):
+HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://torrentz2.eu/feed?f=deadpool+no+good+deed+2017%20seed%20%3E%200
+[0m
+02-01 06:58:45 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentz2.eu/feed?f=deadpool%3A+no+good+deed+2017%20seed%20%3E%200, data: [][0m
+02-01 06:58:45 ERROR [31m[hpotato.core.plugins.base] Failed opening url in Torrentz: https://torrentz2.eu/feed?f=deadpool%3A+no+good+deed+2017%20seed%20%3E%200 Traceback (most recent call last):
+HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://torrentz2.eu/feed?f=deadpool%3A+no+good+deed+2017%20seed%20%3E%200
+[0m
+02-01 06:58:45 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+02-01 06:58:46 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+02-01 06:58:47 INFO [0m[core.media.movie.searcher] Search for Deadpool: No Good Deed in BR-Rip[0m
+02-01 06:58:47 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentz2.eu/feed?f=deadpool+no+good+deed+2017%20seed%20%3E%200, data: [][0m
+02-01 06:58:47 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.cat/search/%22Deadpool%3A+No+Good+Deed+2017%22/0/7/201,207, data: [][0m
+02-01 06:58:47 ERROR [31m[hpotato.core.plugins.base] Failed opening url in Torrentz: https://torrentz2.eu/feed?f=deadpool+no+good+deed+2017%20seed%20%3E%200 Traceback (most recent call last):
+HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://torrentz2.eu/feed?f=deadpool+no+good+deed+2017%20seed%20%3E%200
+[0m
+02-01 06:58:47 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentz2.eu/feed?f=deadpool%3A+no+good+deed+2017%20seed%20%3E%200, data: [][0m
+02-01 06:58:48 ERROR [31m[hpotato.core.plugins.base] Failed opening url in Torrentz: https://torrentz2.eu/feed?f=deadpool%3A+no+good+deed+2017%20seed%20%3E%200 Traceback (most recent call last):
+HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://torrentz2.eu/feed?f=deadpool%3A+no+good+deed+2017%20seed%20%3E%200
+[0m
+02-01 06:58:48 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+02-01 06:58:49 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+02-01 06:58:49 INFO [0m[core.media.movie.searcher] Search for Deadpool: No Good Deed in DVD-Rip[0m
+02-01 06:58:49 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.cat/search/%22Deadpool%3A+No+Good+Deed+2017%22/0/7/201, data: [][0m
+02-01 06:58:50 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+02-01 06:58:51 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+02-01 06:58:52 INFO [0m[core.media.movie.searcher] Search for Mary Queen of Scots in 720p[0m
+02-01 06:58:52 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.nzbgeek.info/api?imdbid=2328900&apikey=xxx&t=movie&extended=1&cat=2000, data: [][0m
+02-01 06:58:54 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/1337x/results/potato/?imdbid=tt2328900&search=Mary+Queen+of+Scots+2018&user=&passkey=xxx[0m
+02-01 06:58:56 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/btbit/results/potato/?imdbid=tt2328900&search=Mary+Queen+of+Scots+2018&user=&passkey=xxx[0m
+02-01 06:58:59 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/extratorrent-ag/results/potato/?imdbid=tt2328900&search=Mary+Queen+of+Scots+2018&user=&passkey=xxx[0m
+02-01 06:59:01 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/gimmepeers/results/potato/?imdbid=tt2328900&search=Mary+Queen+of+Scots+2018&user=&passkey=xxx[0m
+02-01 06:59:02 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/m/mary-queen-of-scots-2018/se/desc/1/, data: [][0m
+02-01 06:59:02 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.cat/search/%22Mary+Queen+of+Scots+2018%22/0/7/207, data: [][0m
+02-01 06:59:02 INFO [0m[hpotato.core.plugins.base] Opening url: get http://katcr.to/span/m-i2328900/, data: [][0m
+02-01 06:59:02 INFO [0m[hpotato.core.plugins.base] Opening url: get https://yts.am/api/v2/list_movies.json?query_term=tt2328900&limit=10&page=1, data: [][0m
+02-01 06:59:03 INFO [0m[core.media.movie.searcher] Search for Mary Queen of Scots in 1080p[0m
+02-01 06:59:04 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/m/mary-queen-of-scots-2018/se/desc/1/, data: [][0m
+02-01 06:59:04 INFO [0m[core.media.movie.searcher] Search for Mary Queen of Scots in BR-Rip[0m
+02-01 06:59:04 INFO [0m[edia._base.providers.base] Found: score(275) on TorrentPotato, 10.0.0.12: Mary Queen of Scots (2018) 720p English HDCAMRip x264 AAC 900MB [MovCr][1337x][0m
+02-01 06:59:05 INFO [0m[edia._base.providers.base] Found: score(67) on TorrentPotato, 10.0.0.12: www.MovCr.cc - Mary Queen of Scots (2018) 720p English HDCAMRip x264 AAC 900MB [MovCr].mkv[btbit][0m
+02-01 06:59:05 INFO [0m[edia._base.providers.base] Found: score(72) on TorrentPotato, 10.0.0.12: 1[ExtraTorrent.ag][0m
+02-01 06:59:05 INFO [0m[edia._base.providers.base] Found: score(72) on TorrentPotato, 10.0.0.12: 1[ExtraTorrent.ag][0m
+02-01 06:59:05 INFO [0m[edia._base.providers.base] Found: score(182) on TorrentPotato, 10.0.0.12: Mary Queen of Scots (2018) 720p English HDCAMRip x264 AAC 900MB [MovCr][ExtraTorrent.ag][0m
+02-01 06:59:05 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/m/mary-queen-of-scots-2018/se/desc/1/, data: [][0m
+02-01 06:59:05 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.cat/search/%22Mary+Queen+of+Scots+2018%22/0/7/201,207, data: [][0m
+02-01 06:59:07 INFO [0m[tato.core.plugins.release] Ignored: Mary Queen of Scots (2018) 720p English HDCAMRip x264 AAC 900MB [MovCr][ExtraTorrent.ag][0m
+02-01 06:59:07 INFO [0m[tato.core.plugins.release] Ignored: 1[ExtraTorrent.ag][0m
+02-01 06:59:07 INFO [0m[tato.core.plugins.release] Ignored: 1[ExtraTorrent.ag][0m
+02-01 06:59:07 INFO [0m[tato.core.plugins.release] Ignored: www.MovCr.cc - Mary Queen of Scots (2018) 720p English HDCAMRip x264 AAC 900MB [MovCr].mkv[btbit][0m
+02-01 06:59:07 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/dl/1337x/?jackett_apikey=40razu718vck0witr52t9otsw5bmx4tm&path=Q2ZESjhKRUdIcEFvQUxCTWs1ZWhrbm1zZTFncXNUMjhXT09kd2YyaE1PekRGSnRmU3pCcWg0MmFZSzhpQW11RWpNYkZlRFBmZEJhOV9zcUkzYVRZSDNQR3o2SWEtM0t5TkxyLW1mSXZSQnBNQ05ITG82UWdFNlIyWlBFT25PZExhZUg1UjZmXy16RWNGTFBXUTlFQ2dOVGtRN3ktMjlDcm9wUkp1VTJNRFc5bl8xMkc4OHJfY0RKaXZVTUJjaXNOUVN1QURRdFBkbTJBR3VPRmJBU3FldVFjTkZjVG4yVnNRYmxzNjl5bHJvX3R6T1lDbzhJNmZMN0ktUnRnUjI1UVlyclY4QQ&file=Mary+Queen+of+Scots+(2018)+720p+English+HDCAMRip+x264+AAC+900MB+[MovCr], data: [][0m
+02-01 06:59:08 ERROR [31m[edia._base.providers.base] Failed getting release from TorrentPotato: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 207, in download
+    return self.urlopen(url, headers = {'User-Agent': Env.getIdentifier()}, show_error = False)
+  File "/app/couchpotato/couchpotato/core/plugins/base.py", line 221, in urlopen
+    response = r.request(method, url, **kwargs)
+  File "/app/couchpotato/libs/requests/sessions.py", line 469, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/app/couchpotato/libs/requests/sessions.py", line 598, in send
+    history = [resp for resp in gen] if allow_redirects else []
+  File "/app/couchpotato/libs/requests/sessions.py", line 194, in resolve_redirects
+    **adapter_kwargs
+  File "/app/couchpotato/libs/requests/sessions.py", line 571, in send
+    adapter = self.get_adapter(url=request.url)
+  File "/app/couchpotato/libs/requests/sessions.py", line 645, in get_adapter
+    raise InvalidSchema("No connection adapters were found for '%s'" % url)
+InvalidSchema: No connection adapters were found for 'magnet:?xt=urn:btih:D8836D3F2895C0F48CDBF3F122F8F05A2CF5A94A&dn=Mary+Queen+of+Scots+(2018)+720p+English+HDCAMRip+x264+AAC+900MB+[MovCr]&tr=udp:%2F%2Ftracker.coppersurfer.tk:6969%2Fannounce&tr=udp:%2F%2Ftracker.opentrackr.org:1337%2Fannounce&tr=udp:%2F%2Ftracker.leechers-paradise.org:6969%2Fannounce&tr=udp:%2F%2F9.rarbg.to:2800%2Fannounce&tr=udp:%2F%2F9.rarbg.to:2800%2Fannounce&tr=udp:%2F%2Feddie4.nl:6969%2Fannounce&tr=udp:%2F%2F9.rarbg.to:2800%2Fannounce&tr=udp:%2F%2F9.rarbg.to:2800%2Fannounce&tr=udp:%2F%2Ftracker.doko.moe:6969%2Fannounce&tr=udp:%2F%2Ftracker.doko.moe:6969%2Fannounce&tr=udp:%2F%2Fthetracker.org:80%2Fannounce&tr=udp:%2F%2Fthetracker.org:80%2Fannounce&tr=udp:%2F%2Fbt.xxx-tracker.com:2710%2Fannounce&tr=udp:%2F%2Fbt.xxx-tracker.com:2710%2Fannounce&tr=udp:%2F%2Ftracker.zer0day.to:1337%2Fannounce&tr=udp:%2F%2Ftracker.leechers-paradise.org:6969%2Fannounce&tr=udp:%2F%2Fcoppersurfer.tk:6969%2Fannounce'
+[0m
+02-01 06:59:08 INFO [0m[core.media.movie.searcher] Search for Mary Queen of Scots in DVD-Rip[0m
+02-01 06:59:09 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.cat/search/%22Mary+Queen+of+Scots+2018%22/0/7/201, data: [][0m
+02-01 06:59:09 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/m/mary-queen-of-scots-2018/se/desc/1/, data: [][0m
+02-01 07:49:49 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 08:24:04 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.themoviedb.org/3/movie/tt7959026?api_key=xxx&append_to_response=alternative_titles&language=en, data: [][0m
+02-01 08:24:04 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/info/tt7959026/?ignore=1, data: [][0m
+02-01 08:24:04 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.omdbapi.com/?apikey=xxx&type=movie&i=tt7959026, data: [][0m
+02-01 08:24:06 INFO [0m[ie.providers.info.omdbapi] Found: The Mule (2018)[0m
+02-01 08:24:06 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/eta/tt7959026/, data: [][0m
+02-01 08:24:06 INFO [0m[core.media.movie.searcher] Search for The Mule in 720p ignoring ETA[0m
+02-01 08:24:06 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.nzbgeek.info/api?imdbid=7959026&apikey=xxx&t=movie&extended=1&cat=2000, data: [][0m
+02-01 08:24:08 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/1337x/results/potato/?imdbid=tt7959026&search=The+Mule+2018&user=&passkey=xxx[0m
+02-01 08:24:10 INFO [0m[edia._base.providers.base] Found: score(21) on TorrentPotato, 10.0.0.12: Francis the Talking Mule (Collection) by XPLOIT [2018][1337x][0m
+02-01 08:24:10 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/btbit/results/potato/?imdbid=tt7959026&search=The+Mule+2018&user=&passkey=xxx[0m
+02-01 08:24:12 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/extratorrent-ag/results/potato/?imdbid=tt7959026&search=The+Mule+2018&user=&passkey=xxx[0m
+02-01 08:24:15 INFO [0m[edia._base.providers.base] Found: score(55) on TorrentPotato, 10.0.0.12: Francis the Talking Mule (Collection) by XPLOIT [2018][ExtraTorrent.ag][0m
+02-01 08:24:15 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/gimmepeers/results/potato/?imdbid=tt7959026&search=The+Mule+2018&user=&passkey=xxx[0m
+02-01 08:24:16 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentz2.eu/feed?f=the+mule+2018%20seed%20%3E%200, data: [][0m
+02-01 08:24:16 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/t/the-mule-2018/se/desc/1/, data: [][0m
+02-01 08:24:16 INFO [0m[hpotato.core.plugins.base] Opening url: get http://katcr.to/span/m-i7959026/, data: [][0m
+02-01 08:24:16 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.cat/search/%22The+Mule+2018%22/0/7/207, data: [][0m
+02-01 08:24:16 INFO [0m[hpotato.core.plugins.base] Opening url: get https://yts.am/api/v2/list_movies.json?query_term=tt7959026&limit=10&page=1, data: [][0m
+02-01 08:24:18 ERROR [31m[hpotato.core.plugins.base] Failed opening url in Torrentz: https://torrentz2.eu/feed?f=the+mule+2018%20seed%20%3E%200 Traceback (most recent call last):
+HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://torrentz2.eu/feed?f=the+mule+2018%20seed%20%3E%200
+[0m
+02-01 08:24:46 ERROR [31m[hpotato.core.plugins.base] Failed opening url in KickAssTorrents: http://katcr.to/span/m-i7959026/ Traceback (most recent call last):
+ReadTimeout: HTTPConnectionPool(host='katcr.to', port=80): Read timed out. (read timeout=30)
+[0m
+02-01 08:24:46 ERROR [31m[hpotato.core.plugins.base] Failed opening url in MagnetDL: http://www.magnetdl.com/t/the-mule-2018/se/desc/1/ Traceback (most recent call last):
+ReadTimeout: HTTPConnectionPool(host='www.magnetdl.com', port=80): Read timed out. (read timeout=30)
+[0m
+02-01 08:24:46 ERROR [31m[hpotato.core.plugins.base] Failed opening url in ThePirateBay: https://pirateproxy.cat/search/%22The+Mule+2018%22/0/7/207 Traceback (most recent call last):
+ReadTimeout: HTTPSConnectionPool(host='pirateproxy.cat', port=443): Read timed out. (read timeout=30)
+[0m
+02-01 08:24:46 INFO [0m[core.media.movie.searcher] Search for The Mule in 1080p ignoring ETA[0m
+02-01 08:24:47 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentz2.eu/feed?f=the+mule+2018%20seed%20%3E%200, data: [][0m
+02-01 08:24:47 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/t/the-mule-2018/se/desc/1/, data: [][0m
+02-01 08:24:47 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.cat/search/%22The+Mule+2018%22/0/7/207, data: [][0m
+02-01 08:24:47 INFO [0m[hpotato.core.plugins.base] Opening url: get http://katcr.to/span/m-i7959026/, data: [][0m
+02-01 08:24:47 ERROR [31m[hpotato.core.plugins.base] Failed opening url in Torrentz: https://torrentz2.eu/feed?f=the+mule+2018%20seed%20%3E%200 Traceback (most recent call last):
+HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://torrentz2.eu/feed?f=the+mule+2018%20seed%20%3E%200
+[0m
+02-01 08:25:17 ERROR [31m[hpotato.core.plugins.base] Failed opening url in MagnetDL: http://www.magnetdl.com/t/the-mule-2018/se/desc/1/ Traceback (most recent call last):
+ReadTimeout: HTTPSConnectionPool(host='www.magnetdl.com', port=443): Read timed out. (read timeout=30)
+[0m
+02-01 08:25:18 ERROR [31m[hpotato.core.plugins.base] Failed opening url in ThePirateBay: https://pirateproxy.cat/search/%22The+Mule+2018%22/0/7/207 Traceback (most recent call last):
+ReadTimeout: HTTPSConnectionPool(host='pirateproxy.bet', port=443): Read timed out. (read timeout=30)
+[0m
+02-01 08:25:18 INFO [0m[core.media.movie.searcher] Search for The Mule in BR-Rip ignoring ETA[0m
+02-01 08:25:18 INFO [0m[edia._base.providers.base] Found: score(45) on TorrentPotato, 10.0.0.12: Francis the Talking Mule (Collection) by XPLOIT [2018][1337x][0m
+02-01 08:25:18 INFO [0m[edia._base.providers.base] Found: score(159) on TorrentPotato, 10.0.0.12: The Mule 2018.BDRip.X264-AMIABLE[btbit][0m
+02-01 08:25:18 INFO [0m[edia._base.providers.base] Found: score(159) on TorrentPotato, 10.0.0.12: The Mule 2018.BDRip.X264-AMIABLE[btbit][0m
+02-01 08:25:18 INFO [0m[edia._base.providers.base] Found: score(159) on TorrentPotato, 10.0.0.12: The Mule 2018.BDRip.X264-AMIABLE[btbit][0m
+02-01 08:25:18 INFO [0m[edia._base.providers.base] Found: score(159) on TorrentPotato, 10.0.0.12: The Mule 2018.BDRip.X264-AMIABLE[btbit][0m
+02-01 08:25:18 INFO [0m[edia._base.providers.base] Found: score(178) on TorrentPotato, 10.0.0.12: The Mule 2018 1080p BluRay X264-AMIABLE[btbit][0m
+02-01 08:25:18 INFO [0m[edia._base.providers.base] Found: score(178) on TorrentPotato, 10.0.0.12: The Mule 2018 1080p BluRay X264-AMIABLE[btbit][0m
+02-01 08:25:18 INFO [0m[edia._base.providers.base] Found: score(178) on TorrentPotato, 10.0.0.12: The Mule 2018 1080p BluRay X264-AMIABLE[btbit][0m
+02-01 08:25:19 INFO [0m[edia._base.providers.base] Found: score(1118) on TorrentPotato, 10.0.0.12: 1[ExtraTorrent.ag][0m
+02-01 08:25:19 INFO [0m[edia._base.providers.base] Found: score(79) on TorrentPotato, 10.0.0.12: Francis the Talking Mule (Collection) by XPLOIT [2018][ExtraTorrent.ag][0m
+02-01 08:25:19 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.cat/search/%22The+Mule+2018%22/0/7/201,207, data: [][0m
+02-01 08:25:19 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentz2.eu/feed?f=the+mule+2018%20seed%20%3E%200, data: [][0m
+02-01 08:25:19 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/t/the-mule-2018/se/desc/1/, data: [][0m
+02-01 08:25:19 ERROR [31m[hpotato.core.plugins.base] Failed opening url in Torrentz: https://torrentz2.eu/feed?f=the+mule+2018%20seed%20%3E%200 Traceback (most recent call last):
+HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://torrentz2.eu/feed?f=the+mule+2018%20seed%20%3E%200
+[0m
+02-01 08:25:21 INFO [0m[core.media.movie.searcher] Search for The Mule in DVD-Rip ignoring ETA[0m
+02-01 08:25:21 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentz2.eu/feed?f=the+mule+2018%20seed%20%3E%200, data: [][0m
+02-01 08:25:21 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.cat/search/%22The+Mule+2018%22/0/7/201, data: [][0m
+02-01 08:25:21 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/t/the-mule-2018/se/desc/1/, data: [][0m
+02-01 08:25:22 ERROR [31m[hpotato.core.plugins.base] Failed opening url in Torrentz: https://torrentz2.eu/feed?f=the+mule+2018%20seed%20%3E%200 Traceback (most recent call last):
+HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://torrentz2.eu/feed?f=the+mule+2018%20seed%20%3E%200
+[0m
+02-01 08:25:24 INFO [0m[core.media.movie.searcher] Found 10 releases for "The Mule" before ETA. Select and download via the dashboard.[0m
+02-01 08:25:51 INFO [0m[o.core.downloaders.deluge] Sending "1[ExtraTorrent.ag]" (torrent_magnet) to Deluge.[0m
+02-01 08:25:51 ERROR [31m[o.core.downloaders.deluge] Failed to add torrent magnet magnet:?xt=urn:btih:CA6C272E39C455B58ED06C438C98DAC80764CEA8&dn=The+Mule+2018+720p+HDCAM-1XBET&tr=udp:%2F%2Ftracker.opentrackr.org:1337%2Fannounce;tr=udp:%2F%2Ftracker.coppersurfer.tk:6969%2Fannounce;tr=udp:%2F%2F9.rarbg.me:2710%2Fannounce;tr=udp:%2F%2F9.rarbg.to:2710%2Fannounce;tr=udp:%2F%2Fipv4.tracker.harry.lu:80%2Fannounce;tr=udp:%2F%2Ftracker.pirateparty.gr:6969%2Fannounce;tr=udp:%2F%2Fexplodie.org:6969%2Fannounce;tr=udp:%2F%2Ftracker.internetwarriors.net:1337%2Fannounce;tr=udp:%2F%2Ftracker.vanitycore.co:6969%2Fannounce;tr=udp:%2F%2Ftracker.coppersurfer.tk:1337%2Fannounce;tr=udp:%2F%2Fexodus.desync.com:6969%2Fannounce;tr=udp:%2F%2Ftracker.torrent.eu.org:451%2Fannounce;tr=udp:%2F%2Fopen.demonii.si:1337%2Fannounce;tr=udp:%2F%2Fdenis.stalker.upeer.me:6969%2Fannounce;tr=udp:%2F%2Ftracker.iamhansen.xyz:2000%2Fannounce: 'DelugeClient' object has no attribute 'label' Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 243, in add_torrent_magnet
+    self.client.label.set_torrent(torrent_id, options['label']).get()
+AttributeError: 'DelugeClient' object has no attribute 'label'
+[0m
+02-01 08:25:51 INFO [0m[o.core.downloaders.deluge] Torrent sent to Deluge successfully.[0m
+02-01 08:25:51 INFO [0m[tato.core.plugins.release] Snatched "1[ExtraTorrent.ag]": The Mule (2018) in brrip from TorrentPotato, 10.0.0.12[0m
+02-01 08:28:19 ERROR [31m[o.core.downloaders.deluge] Failed to get all torrents: ('_ssl.c:710: The handshake operation timed out',) Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 273, in get_alltorrents
+    self.connect()
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 225, in connect
+    self.client.connect(self.host, int(self.port), self.username, self.password)
+  File "/app/couchpotato/libs/synchronousdeluge/client.py", line 143, in connect
+    self.transfer.connect((host, port))
+  File "/app/couchpotato/libs/synchronousdeluge/transfer.py", line 22, in connect
+    self.conn = ssl.wrap_socket(self.sock, None, None, False, ssl.CERT_NONE, ssl.PROTOCOL_TLSv1)
+  File "/usr/lib/python2.7/ssl.py", line 949, in wrap_socket
+    ciphers=ciphers)
+  File "/usr/lib/python2.7/ssl.py", line 617, in __init__
+    self.do_handshake()
+  File "/usr/lib/python2.7/ssl.py", line 846, in do_handshake
+    self._sslobj.do_handshake()
+SSLError: ('_ssl.c:710: The handshake operation timed out',)
+[0m
+02-01 08:28:19 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 08:29:19 ERROR [31m[o.core.downloaders.deluge] Failed to get all torrents: ('_ssl.c:710: The handshake operation timed out',) Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 273, in get_alltorrents
+    self.connect()
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 225, in connect
+    self.client.connect(self.host, int(self.port), self.username, self.password)
+  File "/app/couchpotato/libs/synchronousdeluge/client.py", line 143, in connect
+    self.transfer.connect((host, port))
+  File "/app/couchpotato/libs/synchronousdeluge/transfer.py", line 22, in connect
+    self.conn = ssl.wrap_socket(self.sock, None, None, False, ssl.CERT_NONE, ssl.PROTOCOL_TLSv1)
+  File "/usr/lib/python2.7/ssl.py", line 949, in wrap_socket
+    ciphers=ciphers)
+  File "/usr/lib/python2.7/ssl.py", line 617, in __init__
+    self.do_handshake()
+  File "/usr/lib/python2.7/ssl.py", line 846, in do_handshake
+    self._sslobj.do_handshake()
+SSLError: ('_ssl.c:710: The handshake operation timed out',)
+[0m
+02-01 08:29:19 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 08:32:19 ERROR [31m[o.core.downloaders.deluge] Failed to get all torrents: ('_ssl.c:710: The handshake operation timed out',) Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 273, in get_alltorrents
+    self.connect()
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 225, in connect
+    self.client.connect(self.host, int(self.port), self.username, self.password)
+  File "/app/couchpotato/libs/synchronousdeluge/client.py", line 143, in connect
+    self.transfer.connect((host, port))
+  File "/app/couchpotato/libs/synchronousdeluge/transfer.py", line 22, in connect
+    self.conn = ssl.wrap_socket(self.sock, None, None, False, ssl.CERT_NONE, ssl.PROTOCOL_TLSv1)
+  File "/usr/lib/python2.7/ssl.py", line 949, in wrap_socket
+    ciphers=ciphers)
+  File "/usr/lib/python2.7/ssl.py", line 617, in __init__
+    self.do_handshake()
+  File "/usr/lib/python2.7/ssl.py", line 846, in do_handshake
+    self._sslobj.do_handshake()
+SSLError: ('_ssl.c:710: The handshake operation timed out',)
+[0m
+02-01 08:32:19 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 08:33:19 ERROR [31m[o.core.downloaders.deluge] Failed to get all torrents: ('_ssl.c:710: The handshake operation timed out',) Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 273, in get_alltorrents
+    self.connect()
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 225, in connect
+    self.client.connect(self.host, int(self.port), self.username, self.password)
+  File "/app/couchpotato/libs/synchronousdeluge/client.py", line 143, in connect
+    self.transfer.connect((host, port))
+  File "/app/couchpotato/libs/synchronousdeluge/transfer.py", line 22, in connect
+    self.conn = ssl.wrap_socket(self.sock, None, None, False, ssl.CERT_NONE, ssl.PROTOCOL_TLSv1)
+  File "/usr/lib/python2.7/ssl.py", line 949, in wrap_socket
+    ciphers=ciphers)
+  File "/usr/lib/python2.7/ssl.py", line 617, in __init__
+    self.do_handshake()
+  File "/usr/lib/python2.7/ssl.py", line 846, in do_handshake
+    self._sslobj.do_handshake()
+SSLError: ('_ssl.c:710: The handshake operation timed out',)
+[0m
+02-01 08:33:19 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 08:34:19 ERROR [31m[o.core.downloaders.deluge] Failed to get all torrents: ('_ssl.c:710: The handshake operation timed out',) Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 273, in get_alltorrents
+    self.connect()
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 225, in connect
+    self.client.connect(self.host, int(self.port), self.username, self.password)
+  File "/app/couchpotato/libs/synchronousdeluge/client.py", line 143, in connect
+    self.transfer.connect((host, port))
+  File "/app/couchpotato/libs/synchronousdeluge/transfer.py", line 22, in connect
+    self.conn = ssl.wrap_socket(self.sock, None, None, False, ssl.CERT_NONE, ssl.PROTOCOL_TLSv1)
+  File "/usr/lib/python2.7/ssl.py", line 949, in wrap_socket
+    ciphers=ciphers)
+  File "/usr/lib/python2.7/ssl.py", line 617, in __init__
+    self.do_handshake()
+  File "/usr/lib/python2.7/ssl.py", line 846, in do_handshake
+    self._sslobj.do_handshake()
+SSLError: ('_ssl.c:710: The handshake operation timed out',)
+[0m
+02-01 08:34:19 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 08:35:19 ERROR [31m[o.core.downloaders.deluge] Failed to get all torrents: ('_ssl.c:710: The handshake operation timed out',) Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 273, in get_alltorrents
+    self.connect()
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 225, in connect
+    self.client.connect(self.host, int(self.port), self.username, self.password)
+  File "/app/couchpotato/libs/synchronousdeluge/client.py", line 143, in connect
+    self.transfer.connect((host, port))
+  File "/app/couchpotato/libs/synchronousdeluge/transfer.py", line 22, in connect
+    self.conn = ssl.wrap_socket(self.sock, None, None, False, ssl.CERT_NONE, ssl.PROTOCOL_TLSv1)
+  File "/usr/lib/python2.7/ssl.py", line 949, in wrap_socket
+    ciphers=ciphers)
+  File "/usr/lib/python2.7/ssl.py", line 617, in __init__
+    self.do_handshake()
+  File "/usr/lib/python2.7/ssl.py", line 846, in do_handshake
+    self._sslobj.do_handshake()
+SSLError: ('_ssl.c:710: The handshake operation timed out',)
+[0m
+02-01 08:35:19 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 08:36:19 ERROR [31m[o.core.downloaders.deluge] Failed to get all torrents: ('_ssl.c:710: The handshake operation timed out',) Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 273, in get_alltorrents
+    self.connect()
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 225, in connect
+    self.client.connect(self.host, int(self.port), self.username, self.password)
+  File "/app/couchpotato/libs/synchronousdeluge/client.py", line 143, in connect
+    self.transfer.connect((host, port))
+  File "/app/couchpotato/libs/synchronousdeluge/transfer.py", line 22, in connect
+    self.conn = ssl.wrap_socket(self.sock, None, None, False, ssl.CERT_NONE, ssl.PROTOCOL_TLSv1)
+  File "/usr/lib/python2.7/ssl.py", line 949, in wrap_socket
+    ciphers=ciphers)
+  File "/usr/lib/python2.7/ssl.py", line 617, in __init__
+    self.do_handshake()
+  File "/usr/lib/python2.7/ssl.py", line 846, in do_handshake
+    self._sslobj.do_handshake()
+SSLError: ('_ssl.c:710: The handshake operation timed out',)
+[0m
+02-01 08:36:19 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 08:39:19 ERROR [31m[o.core.downloaders.deluge] Failed to get all torrents: ('_ssl.c:710: The handshake operation timed out',) Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 273, in get_alltorrents
+    self.connect()
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 225, in connect
+    self.client.connect(self.host, int(self.port), self.username, self.password)
+  File "/app/couchpotato/libs/synchronousdeluge/client.py", line 143, in connect
+    self.transfer.connect((host, port))
+  File "/app/couchpotato/libs/synchronousdeluge/transfer.py", line 22, in connect
+    self.conn = ssl.wrap_socket(self.sock, None, None, False, ssl.CERT_NONE, ssl.PROTOCOL_TLSv1)
+  File "/usr/lib/python2.7/ssl.py", line 949, in wrap_socket
+    ciphers=ciphers)
+  File "/usr/lib/python2.7/ssl.py", line 617, in __init__
+    self.do_handshake()
+  File "/usr/lib/python2.7/ssl.py", line 846, in do_handshake
+    self._sslobj.do_handshake()
+SSLError: ('_ssl.c:710: The handshake operation timed out',)
+[0m
+02-01 08:39:19 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 08:42:19 ERROR [31m[o.core.downloaders.deluge] Failed to get all torrents: ('_ssl.c:710: The handshake operation timed out',) Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 273, in get_alltorrents
+    self.connect()
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 225, in connect
+    self.client.connect(self.host, int(self.port), self.username, self.password)
+  File "/app/couchpotato/libs/synchronousdeluge/client.py", line 143, in connect
+    self.transfer.connect((host, port))
+  File "/app/couchpotato/libs/synchronousdeluge/transfer.py", line 22, in connect
+    self.conn = ssl.wrap_socket(self.sock, None, None, False, ssl.CERT_NONE, ssl.PROTOCOL_TLSv1)
+  File "/usr/lib/python2.7/ssl.py", line 949, in wrap_socket
+    ciphers=ciphers)
+  File "/usr/lib/python2.7/ssl.py", line 617, in __init__
+    self.do_handshake()
+  File "/usr/lib/python2.7/ssl.py", line 846, in do_handshake
+    self._sslobj.do_handshake()
+SSLError: ('_ssl.c:710: The handshake operation timed out',)
+[0m
+02-01 08:42:19 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 08:44:19 ERROR [31m[o.core.downloaders.deluge] Failed to get all torrents: ('_ssl.c:710: The handshake operation timed out',) Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 273, in get_alltorrents
+    self.connect()
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 225, in connect
+    self.client.connect(self.host, int(self.port), self.username, self.password)
+  File "/app/couchpotato/libs/synchronousdeluge/client.py", line 143, in connect
+    self.transfer.connect((host, port))
+  File "/app/couchpotato/libs/synchronousdeluge/transfer.py", line 22, in connect
+    self.conn = ssl.wrap_socket(self.sock, None, None, False, ssl.CERT_NONE, ssl.PROTOCOL_TLSv1)
+  File "/usr/lib/python2.7/ssl.py", line 949, in wrap_socket
+    ciphers=ciphers)
+  File "/usr/lib/python2.7/ssl.py", line 617, in __init__
+    self.do_handshake()
+  File "/usr/lib/python2.7/ssl.py", line 846, in do_handshake
+    self._sslobj.do_handshake()
+SSLError: ('_ssl.c:710: The handshake operation timed out',)
+[0m
+02-01 08:44:19 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 08:51:19 ERROR [31m[o.core.downloaders.deluge] Failed to get all torrents: ('_ssl.c:710: The handshake operation timed out',) Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 273, in get_alltorrents
+    self.connect()
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 225, in connect
+    self.client.connect(self.host, int(self.port), self.username, self.password)
+  File "/app/couchpotato/libs/synchronousdeluge/client.py", line 143, in connect
+    self.transfer.connect((host, port))
+  File "/app/couchpotato/libs/synchronousdeluge/transfer.py", line 22, in connect
+    self.conn = ssl.wrap_socket(self.sock, None, None, False, ssl.CERT_NONE, ssl.PROTOCOL_TLSv1)
+  File "/usr/lib/python2.7/ssl.py", line 949, in wrap_socket
+    ciphers=ciphers)
+  File "/usr/lib/python2.7/ssl.py", line 617, in __init__
+    self.do_handshake()
+  File "/usr/lib/python2.7/ssl.py", line 846, in do_handshake
+    self._sslobj.do_handshake()
+SSLError: ('_ssl.c:710: The handshake operation timed out',)
+[0m
+02-01 08:51:19 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 08:52:19 ERROR [31m[o.core.downloaders.deluge] Failed to get all torrents: ('_ssl.c:710: The handshake operation timed out',) Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 273, in get_alltorrents
+    self.connect()
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 225, in connect
+    self.client.connect(self.host, int(self.port), self.username, self.password)
+  File "/app/couchpotato/libs/synchronousdeluge/client.py", line 143, in connect
+    self.transfer.connect((host, port))
+  File "/app/couchpotato/libs/synchronousdeluge/transfer.py", line 22, in connect
+    self.conn = ssl.wrap_socket(self.sock, None, None, False, ssl.CERT_NONE, ssl.PROTOCOL_TLSv1)
+  File "/usr/lib/python2.7/ssl.py", line 949, in wrap_socket
+    ciphers=ciphers)
+  File "/usr/lib/python2.7/ssl.py", line 617, in __init__
+    self.do_handshake()
+  File "/usr/lib/python2.7/ssl.py", line 846, in do_handshake
+    self._sslobj.do_handshake()
+SSLError: ('_ssl.c:710: The handshake operation timed out',)
+[0m
+02-01 08:52:19 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 08:57:31 ERROR [31m[o.core.downloaders.deluge] Failed to get all torrents: ('The read operation timed out',) Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 274, in get_alltorrents
+    ret = self.client.core.get_torrents_status({'id': ids}, ('name', 'hash', 'save_path', 'move_completed_path', 'progress', 'state', 'eta', 'ratio', 'stop_ratio', 'is_seed', 'is_finished', 'paused', 'move_on_completed', 'files')).get()
+  File "/app/couchpotato/libs/synchronousdeluge/client.py", line 74, in func
+    return self.remote_call(fullname, *args, **kwargs)
+  File "/app/couchpotato/libs/synchronousdeluge/client.py", line 98, in remote_call
+    message = next(self.transfer.send_request(req))
+  File "/app/couchpotato/libs/synchronousdeluge/transfer.py", line 38, in send_request
+    data = self.conn.recv(1024)
+  File "/usr/lib/python2.7/ssl.py", line 772, in recv
+    return self.read(buflen)
+  File "/usr/lib/python2.7/ssl.py", line 659, in read
+    v = self._sslobj.read(len)
+SSLError: ('The read operation timed out',)
+[0m
+02-01 08:57:31 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 08:58:19 ERROR [31m[o.core.downloaders.deluge] Failed to get all torrents: ('_ssl.c:710: The handshake operation timed out',) Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 273, in get_alltorrents
+    self.connect()
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 225, in connect
+    self.client.connect(self.host, int(self.port), self.username, self.password)
+  File "/app/couchpotato/libs/synchronousdeluge/client.py", line 143, in connect
+    self.transfer.connect((host, port))
+  File "/app/couchpotato/libs/synchronousdeluge/transfer.py", line 22, in connect
+    self.conn = ssl.wrap_socket(self.sock, None, None, False, ssl.CERT_NONE, ssl.PROTOCOL_TLSv1)
+  File "/usr/lib/python2.7/ssl.py", line 949, in wrap_socket
+    ciphers=ciphers)
+  File "/usr/lib/python2.7/ssl.py", line 617, in __init__
+    self.do_handshake()
+  File "/usr/lib/python2.7/ssl.py", line 846, in do_handshake
+    self._sslobj.do_handshake()
+SSLError: ('_ssl.c:710: The handshake operation timed out',)
+[0m
+02-01 08:58:19 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:01:19 ERROR [31m[o.core.downloaders.deluge] Failed to get all torrents: ('_ssl.c:710: The handshake operation timed out',) Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 273, in get_alltorrents
+    self.connect()
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 225, in connect
+    self.client.connect(self.host, int(self.port), self.username, self.password)
+  File "/app/couchpotato/libs/synchronousdeluge/client.py", line 143, in connect
+    self.transfer.connect((host, port))
+  File "/app/couchpotato/libs/synchronousdeluge/transfer.py", line 22, in connect
+    self.conn = ssl.wrap_socket(self.sock, None, None, False, ssl.CERT_NONE, ssl.PROTOCOL_TLSv1)
+  File "/usr/lib/python2.7/ssl.py", line 949, in wrap_socket
+    ciphers=ciphers)
+  File "/usr/lib/python2.7/ssl.py", line 617, in __init__
+    self.do_handshake()
+  File "/usr/lib/python2.7/ssl.py", line 846, in do_handshake
+    self._sslobj.do_handshake()
+SSLError: ('_ssl.c:710: The handshake operation timed out',)
+[0m
+02-01 09:01:19 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:02:19 ERROR [31m[o.core.downloaders.deluge] Failed to get all torrents: ('_ssl.c:710: The handshake operation timed out',) Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 273, in get_alltorrents
+    self.connect()
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 225, in connect
+    self.client.connect(self.host, int(self.port), self.username, self.password)
+  File "/app/couchpotato/libs/synchronousdeluge/client.py", line 143, in connect
+    self.transfer.connect((host, port))
+  File "/app/couchpotato/libs/synchronousdeluge/transfer.py", line 22, in connect
+    self.conn = ssl.wrap_socket(self.sock, None, None, False, ssl.CERT_NONE, ssl.PROTOCOL_TLSv1)
+  File "/usr/lib/python2.7/ssl.py", line 949, in wrap_socket
+    ciphers=ciphers)
+  File "/usr/lib/python2.7/ssl.py", line 617, in __init__
+    self.do_handshake()
+  File "/usr/lib/python2.7/ssl.py", line 846, in do_handshake
+    self._sslobj.do_handshake()
+SSLError: ('_ssl.c:710: The handshake operation timed out',)
+[0m
+02-01 09:02:19 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:10:19 ERROR [31m[o.core.downloaders.deluge] Failed to get all torrents: ('_ssl.c:710: The handshake operation timed out',) Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 273, in get_alltorrents
+    self.connect()
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 225, in connect
+    self.client.connect(self.host, int(self.port), self.username, self.password)
+  File "/app/couchpotato/libs/synchronousdeluge/client.py", line 143, in connect
+    self.transfer.connect((host, port))
+  File "/app/couchpotato/libs/synchronousdeluge/transfer.py", line 22, in connect
+    self.conn = ssl.wrap_socket(self.sock, None, None, False, ssl.CERT_NONE, ssl.PROTOCOL_TLSv1)
+  File "/usr/lib/python2.7/ssl.py", line 949, in wrap_socket
+    ciphers=ciphers)
+  File "/usr/lib/python2.7/ssl.py", line 617, in __init__
+    self.do_handshake()
+  File "/usr/lib/python2.7/ssl.py", line 846, in do_handshake
+    self._sslobj.do_handshake()
+SSLError: ('_ssl.c:710: The handshake operation timed out',)
+[0m
+02-01 09:10:19 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:11:19 ERROR [31m[o.core.downloaders.deluge] Failed to get all torrents: ('_ssl.c:710: The handshake operation timed out',) Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 273, in get_alltorrents
+    self.connect()
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 225, in connect
+    self.client.connect(self.host, int(self.port), self.username, self.password)
+  File "/app/couchpotato/libs/synchronousdeluge/client.py", line 143, in connect
+    self.transfer.connect((host, port))
+  File "/app/couchpotato/libs/synchronousdeluge/transfer.py", line 22, in connect
+    self.conn = ssl.wrap_socket(self.sock, None, None, False, ssl.CERT_NONE, ssl.PROTOCOL_TLSv1)
+  File "/usr/lib/python2.7/ssl.py", line 949, in wrap_socket
+    ciphers=ciphers)
+  File "/usr/lib/python2.7/ssl.py", line 617, in __init__
+    self.do_handshake()
+  File "/usr/lib/python2.7/ssl.py", line 846, in do_handshake
+    self._sslobj.do_handshake()
+SSLError: ('_ssl.c:710: The handshake operation timed out',)
+[0m
+02-01 09:11:19 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:13:19 ERROR [31m[o.core.downloaders.deluge] Failed to get all torrents: ('_ssl.c:710: The handshake operation timed out',) Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 273, in get_alltorrents
+    self.connect()
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 225, in connect
+    self.client.connect(self.host, int(self.port), self.username, self.password)
+  File "/app/couchpotato/libs/synchronousdeluge/client.py", line 143, in connect
+    self.transfer.connect((host, port))
+  File "/app/couchpotato/libs/synchronousdeluge/transfer.py", line 22, in connect
+    self.conn = ssl.wrap_socket(self.sock, None, None, False, ssl.CERT_NONE, ssl.PROTOCOL_TLSv1)
+  File "/usr/lib/python2.7/ssl.py", line 949, in wrap_socket
+    ciphers=ciphers)
+  File "/usr/lib/python2.7/ssl.py", line 617, in __init__
+    self.do_handshake()
+  File "/usr/lib/python2.7/ssl.py", line 846, in do_handshake
+    self._sslobj.do_handshake()
+SSLError: ('_ssl.c:710: The handshake operation timed out',)
+[0m
+02-01 09:13:19 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:16:19 ERROR [31m[o.core.downloaders.deluge] Failed to get all torrents: ('_ssl.c:710: The handshake operation timed out',) Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 273, in get_alltorrents
+    self.connect()
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 225, in connect
+    self.client.connect(self.host, int(self.port), self.username, self.password)
+  File "/app/couchpotato/libs/synchronousdeluge/client.py", line 143, in connect
+    self.transfer.connect((host, port))
+  File "/app/couchpotato/libs/synchronousdeluge/transfer.py", line 22, in connect
+    self.conn = ssl.wrap_socket(self.sock, None, None, False, ssl.CERT_NONE, ssl.PROTOCOL_TLSv1)
+  File "/usr/lib/python2.7/ssl.py", line 949, in wrap_socket
+    ciphers=ciphers)
+  File "/usr/lib/python2.7/ssl.py", line 617, in __init__
+    self.do_handshake()
+  File "/usr/lib/python2.7/ssl.py", line 846, in do_handshake
+    self._sslobj.do_handshake()
+SSLError: ('_ssl.c:710: The handshake operation timed out',)
+[0m
+02-01 09:16:19 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:17:19 ERROR [31m[o.core.downloaders.deluge] Failed to get all torrents: ('_ssl.c:710: The handshake operation timed out',) Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 273, in get_alltorrents
+    self.connect()
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 225, in connect
+    self.client.connect(self.host, int(self.port), self.username, self.password)
+  File "/app/couchpotato/libs/synchronousdeluge/client.py", line 143, in connect
+    self.transfer.connect((host, port))
+  File "/app/couchpotato/libs/synchronousdeluge/transfer.py", line 22, in connect
+    self.conn = ssl.wrap_socket(self.sock, None, None, False, ssl.CERT_NONE, ssl.PROTOCOL_TLSv1)
+  File "/usr/lib/python2.7/ssl.py", line 949, in wrap_socket
+    ciphers=ciphers)
+  File "/usr/lib/python2.7/ssl.py", line 617, in __init__
+    self.do_handshake()
+  File "/usr/lib/python2.7/ssl.py", line 846, in do_handshake
+    self._sslobj.do_handshake()
+SSLError: ('_ssl.c:710: The handshake operation timed out',)
+[0m
+02-01 09:17:19 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:18:19 ERROR [31m[o.core.downloaders.deluge] Failed to get all torrents: ('_ssl.c:710: The handshake operation timed out',) Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 273, in get_alltorrents
+    self.connect()
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 225, in connect
+    self.client.connect(self.host, int(self.port), self.username, self.password)
+  File "/app/couchpotato/libs/synchronousdeluge/client.py", line 143, in connect
+    self.transfer.connect((host, port))
+  File "/app/couchpotato/libs/synchronousdeluge/transfer.py", line 22, in connect
+    self.conn = ssl.wrap_socket(self.sock, None, None, False, ssl.CERT_NONE, ssl.PROTOCOL_TLSv1)
+  File "/usr/lib/python2.7/ssl.py", line 949, in wrap_socket
+    ciphers=ciphers)
+  File "/usr/lib/python2.7/ssl.py", line 617, in __init__
+    self.do_handshake()
+  File "/usr/lib/python2.7/ssl.py", line 846, in do_handshake
+    self._sslobj.do_handshake()
+SSLError: ('_ssl.c:710: The handshake operation timed out',)
+[0m
+02-01 09:18:19 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:19:19 ERROR [31m[o.core.downloaders.deluge] Failed to get all torrents: ('_ssl.c:710: The handshake operation timed out',) Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 273, in get_alltorrents
+    self.connect()
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 225, in connect
+    self.client.connect(self.host, int(self.port), self.username, self.password)
+  File "/app/couchpotato/libs/synchronousdeluge/client.py", line 143, in connect
+    self.transfer.connect((host, port))
+  File "/app/couchpotato/libs/synchronousdeluge/transfer.py", line 22, in connect
+    self.conn = ssl.wrap_socket(self.sock, None, None, False, ssl.CERT_NONE, ssl.PROTOCOL_TLSv1)
+  File "/usr/lib/python2.7/ssl.py", line 949, in wrap_socket
+    ciphers=ciphers)
+  File "/usr/lib/python2.7/ssl.py", line 617, in __init__
+    self.do_handshake()
+  File "/usr/lib/python2.7/ssl.py", line 846, in do_handshake
+    self._sslobj.do_handshake()
+SSLError: ('_ssl.c:710: The handshake operation timed out',)
+[0m
+02-01 09:19:19 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:20:19 ERROR [31m[o.core.downloaders.deluge] Failed to get all torrents: ('_ssl.c:710: The handshake operation timed out',) Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 273, in get_alltorrents
+    self.connect()
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 225, in connect
+    self.client.connect(self.host, int(self.port), self.username, self.password)
+  File "/app/couchpotato/libs/synchronousdeluge/client.py", line 143, in connect
+    self.transfer.connect((host, port))
+  File "/app/couchpotato/libs/synchronousdeluge/transfer.py", line 22, in connect
+    self.conn = ssl.wrap_socket(self.sock, None, None, False, ssl.CERT_NONE, ssl.PROTOCOL_TLSv1)
+  File "/usr/lib/python2.7/ssl.py", line 949, in wrap_socket
+    ciphers=ciphers)
+  File "/usr/lib/python2.7/ssl.py", line 617, in __init__
+    self.do_handshake()
+  File "/usr/lib/python2.7/ssl.py", line 846, in do_handshake
+    self._sslobj.do_handshake()
+SSLError: ('_ssl.c:710: The handshake operation timed out',)
+[0m
+02-01 09:20:19 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:21:19 ERROR [31m[o.core.downloaders.deluge] Failed to get all torrents: ('_ssl.c:710: The handshake operation timed out',) Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 273, in get_alltorrents
+    self.connect()
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 225, in connect
+    self.client.connect(self.host, int(self.port), self.username, self.password)
+  File "/app/couchpotato/libs/synchronousdeluge/client.py", line 143, in connect
+    self.transfer.connect((host, port))
+  File "/app/couchpotato/libs/synchronousdeluge/transfer.py", line 22, in connect
+    self.conn = ssl.wrap_socket(self.sock, None, None, False, ssl.CERT_NONE, ssl.PROTOCOL_TLSv1)
+  File "/usr/lib/python2.7/ssl.py", line 949, in wrap_socket
+    ciphers=ciphers)
+  File "/usr/lib/python2.7/ssl.py", line 617, in __init__
+    self.do_handshake()
+  File "/usr/lib/python2.7/ssl.py", line 846, in do_handshake
+    self._sslobj.do_handshake()
+SSLError: ('_ssl.c:710: The handshake operation timed out',)
+[0m
+02-01 09:21:19 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:22:19 ERROR [31m[o.core.downloaders.deluge] Failed to get all torrents: ('_ssl.c:710: The handshake operation timed out',) Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 273, in get_alltorrents
+    self.connect()
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 225, in connect
+    self.client.connect(self.host, int(self.port), self.username, self.password)
+  File "/app/couchpotato/libs/synchronousdeluge/client.py", line 143, in connect
+    self.transfer.connect((host, port))
+  File "/app/couchpotato/libs/synchronousdeluge/transfer.py", line 22, in connect
+    self.conn = ssl.wrap_socket(self.sock, None, None, False, ssl.CERT_NONE, ssl.PROTOCOL_TLSv1)
+  File "/usr/lib/python2.7/ssl.py", line 949, in wrap_socket
+    ciphers=ciphers)
+  File "/usr/lib/python2.7/ssl.py", line 617, in __init__
+    self.do_handshake()
+  File "/usr/lib/python2.7/ssl.py", line 846, in do_handshake
+    self._sslobj.do_handshake()
+SSLError: ('_ssl.c:710: The handshake operation timed out',)
+[0m
+02-01 09:22:19 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:25:19 ERROR [31m[o.core.downloaders.deluge] Failed to get all torrents: ('_ssl.c:710: The handshake operation timed out',) Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 273, in get_alltorrents
+    self.connect()
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 225, in connect
+    self.client.connect(self.host, int(self.port), self.username, self.password)
+  File "/app/couchpotato/libs/synchronousdeluge/client.py", line 143, in connect
+    self.transfer.connect((host, port))
+  File "/app/couchpotato/libs/synchronousdeluge/transfer.py", line 22, in connect
+    self.conn = ssl.wrap_socket(self.sock, None, None, False, ssl.CERT_NONE, ssl.PROTOCOL_TLSv1)
+  File "/usr/lib/python2.7/ssl.py", line 949, in wrap_socket
+    ciphers=ciphers)
+  File "/usr/lib/python2.7/ssl.py", line 617, in __init__
+    self.do_handshake()
+  File "/usr/lib/python2.7/ssl.py", line 846, in do_handshake
+    self._sslobj.do_handshake()
+SSLError: ('_ssl.c:710: The handshake operation timed out',)
+[0m
+02-01 09:25:19 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:26:19 ERROR [31m[o.core.downloaders.deluge] Failed to get all torrents: ('_ssl.c:710: The handshake operation timed out',) Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 273, in get_alltorrents
+    self.connect()
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 225, in connect
+    self.client.connect(self.host, int(self.port), self.username, self.password)
+  File "/app/couchpotato/libs/synchronousdeluge/client.py", line 143, in connect
+    self.transfer.connect((host, port))
+  File "/app/couchpotato/libs/synchronousdeluge/transfer.py", line 22, in connect
+    self.conn = ssl.wrap_socket(self.sock, None, None, False, ssl.CERT_NONE, ssl.PROTOCOL_TLSv1)
+  File "/usr/lib/python2.7/ssl.py", line 949, in wrap_socket
+    ciphers=ciphers)
+  File "/usr/lib/python2.7/ssl.py", line 617, in __init__
+    self.do_handshake()
+  File "/usr/lib/python2.7/ssl.py", line 846, in do_handshake
+    self._sslobj.do_handshake()
+SSLError: ('_ssl.c:710: The handshake operation timed out',)
+[0m
+02-01 09:26:19 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:27:19 ERROR [31m[o.core.downloaders.deluge] Failed to get all torrents: ('_ssl.c:710: The handshake operation timed out',) Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 273, in get_alltorrents
+    self.connect()
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 225, in connect
+    self.client.connect(self.host, int(self.port), self.username, self.password)
+  File "/app/couchpotato/libs/synchronousdeluge/client.py", line 143, in connect
+    self.transfer.connect((host, port))
+  File "/app/couchpotato/libs/synchronousdeluge/transfer.py", line 22, in connect
+    self.conn = ssl.wrap_socket(self.sock, None, None, False, ssl.CERT_NONE, ssl.PROTOCOL_TLSv1)
+  File "/usr/lib/python2.7/ssl.py", line 949, in wrap_socket
+    ciphers=ciphers)
+  File "/usr/lib/python2.7/ssl.py", line 617, in __init__
+    self.do_handshake()
+  File "/usr/lib/python2.7/ssl.py", line 846, in do_handshake
+    self._sslobj.do_handshake()
+SSLError: ('_ssl.c:710: The handshake operation timed out',)
+[0m
+02-01 09:27:19 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:28:19 ERROR [31m[o.core.downloaders.deluge] Failed to get all torrents: ('_ssl.c:710: The handshake operation timed out',) Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 273, in get_alltorrents
+    self.connect()
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 225, in connect
+    self.client.connect(self.host, int(self.port), self.username, self.password)
+  File "/app/couchpotato/libs/synchronousdeluge/client.py", line 143, in connect
+    self.transfer.connect((host, port))
+  File "/app/couchpotato/libs/synchronousdeluge/transfer.py", line 22, in connect
+    self.conn = ssl.wrap_socket(self.sock, None, None, False, ssl.CERT_NONE, ssl.PROTOCOL_TLSv1)
+  File "/usr/lib/python2.7/ssl.py", line 949, in wrap_socket
+    ciphers=ciphers)
+  File "/usr/lib/python2.7/ssl.py", line 617, in __init__
+    self.do_handshake()
+  File "/usr/lib/python2.7/ssl.py", line 846, in do_handshake
+    self._sslobj.do_handshake()
+SSLError: ('_ssl.c:710: The handshake operation timed out',)
+[0m
+02-01 09:28:19 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:29:44 ERROR [31m[o.core.downloaders.deluge] Failed to get all torrents: ('_ssl.c:710: The handshake operation timed out',) Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 273, in get_alltorrents
+    self.connect()
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 225, in connect
+    self.client.connect(self.host, int(self.port), self.username, self.password)
+  File "/app/couchpotato/libs/synchronousdeluge/client.py", line 143, in connect
+    self.transfer.connect((host, port))
+  File "/app/couchpotato/libs/synchronousdeluge/transfer.py", line 22, in connect
+    self.conn = ssl.wrap_socket(self.sock, None, None, False, ssl.CERT_NONE, ssl.PROTOCOL_TLSv1)
+  File "/usr/lib/python2.7/ssl.py", line 949, in wrap_socket
+    ciphers=ciphers)
+  File "/usr/lib/python2.7/ssl.py", line 617, in __init__
+    self.do_handshake()
+  File "/usr/lib/python2.7/ssl.py", line 846, in do_handshake
+    self._sslobj.do_handshake()
+SSLError: ('_ssl.c:710: The handshake operation timed out',)
+[0m
+02-01 09:29:44 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:30:19 ERROR [31m[o.core.downloaders.deluge] Failed to get all torrents: ('_ssl.c:710: The handshake operation timed out',) Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 273, in get_alltorrents
+    self.connect()
+  File "/app/couchpotato/couchpotato/core/downloaders/deluge.py", line 225, in connect
+    self.client.connect(self.host, int(self.port), self.username, self.password)
+  File "/app/couchpotato/libs/synchronousdeluge/client.py", line 143, in connect
+    self.transfer.connect((host, port))
+  File "/app/couchpotato/libs/synchronousdeluge/transfer.py", line 22, in connect
+    self.conn = ssl.wrap_socket(self.sock, None, None, False, ssl.CERT_NONE, ssl.PROTOCOL_TLSv1)
+  File "/usr/lib/python2.7/ssl.py", line 949, in wrap_socket
+    ciphers=ciphers)
+  File "/usr/lib/python2.7/ssl.py", line 617, in __init__
+    self.do_handshake()
+  File "/usr/lib/python2.7/ssl.py", line 846, in do_handshake
+    self._sslobj.do_handshake()
+SSLError: ('_ssl.c:710: The handshake operation timed out',)
+[0m
+02-01 09:30:19 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:30:58 INFO [0m[tato.core.plugins.renamer] Download of The Mule 2018 720p HDCAM-1XBET completed! It is now being processed while leaving the original files alone for seeding. Current ratio: 0.0.[0m
+02-01 09:30:58 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:31:49 INFO [0m[tato.core.plugins.renamer] Download of The Mule 2018 720p HDCAM-1XBET completed! It is now being processed while leaving the original files alone for seeding. Current ratio: 0.0.[0m
+02-01 09:31:49 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:32:49 INFO [0m[tato.core.plugins.renamer] Download of The Mule 2018 720p HDCAM-1XBET completed! It is now being processed while leaving the original files alone for seeding. Current ratio: 0.0.[0m
+02-01 09:32:49 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:33:49 INFO [0m[tato.core.plugins.renamer] Download of The Mule 2018 720p HDCAM-1XBET completed! It is now being processed while leaving the original files alone for seeding. Current ratio: 0.0.[0m
+02-01 09:33:49 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:34:49 INFO [0m[tato.core.plugins.renamer] Download of The Mule 2018 720p HDCAM-1XBET completed! It is now being processed while leaving the original files alone for seeding. Current ratio: 0.0.[0m
+02-01 09:34:49 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:35:49 INFO [0m[tato.core.plugins.renamer] Download of The Mule 2018 720p HDCAM-1XBET completed! It is now being processed while leaving the original files alone for seeding. Current ratio: 0.0.[0m
+02-01 09:35:49 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:36:49 INFO [0m[tato.core.plugins.renamer] Download of The Mule 2018 720p HDCAM-1XBET completed! It is now being processed while leaving the original files alone for seeding. Current ratio: 0.0.[0m
+02-01 09:36:49 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:37:49 INFO [0m[tato.core.plugins.renamer] Download of The Mule 2018 720p HDCAM-1XBET completed! It is now being processed while leaving the original files alone for seeding. Current ratio: 0.0.[0m
+02-01 09:37:49 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:38:49 INFO [0m[tato.core.plugins.renamer] Download of The Mule 2018 720p HDCAM-1XBET completed! It is now being processed while leaving the original files alone for seeding. Current ratio: 0.0.[0m
+02-01 09:38:49 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:39:49 INFO [0m[tato.core.plugins.renamer] Download of The Mule 2018 720p HDCAM-1XBET completed! It is now being processed while leaving the original files alone for seeding. Current ratio: 0.0.[0m
+02-01 09:39:49 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:40:49 INFO [0m[tato.core.plugins.renamer] Download of The Mule 2018 720p HDCAM-1XBET completed! It is now being processed while leaving the original files alone for seeding. Current ratio: 0.0.[0m
+02-01 09:40:49 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:41:49 INFO [0m[tato.core.plugins.renamer] Download of The Mule 2018 720p HDCAM-1XBET completed! It is now being processed while leaving the original files alone for seeding. Current ratio: 0.0.[0m
+02-01 09:41:49 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:42:49 INFO [0m[tato.core.plugins.renamer] Download of The Mule 2018 720p HDCAM-1XBET completed! It is now being processed while leaving the original files alone for seeding. Current ratio: 0.0.[0m
+02-01 09:42:49 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:43:49 INFO [0m[tato.core.plugins.renamer] Download of The Mule 2018 720p HDCAM-1XBET completed! It is now being processed while leaving the original files alone for seeding. Current ratio: 0.0.[0m
+02-01 09:43:49 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:44:49 INFO [0m[tato.core.plugins.renamer] Download of The Mule 2018 720p HDCAM-1XBET completed! It is now being processed while leaving the original files alone for seeding. Current ratio: 0.0.[0m
+02-01 09:44:49 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:45:49 INFO [0m[tato.core.plugins.renamer] Download of The Mule 2018 720p HDCAM-1XBET completed! It is now being processed while leaving the original files alone for seeding. Current ratio: 0.0.[0m
+02-01 09:45:49 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:46:49 INFO [0m[tato.core.plugins.renamer] Download of The Mule 2018 720p HDCAM-1XBET completed! It is now being processed while leaving the original files alone for seeding. Current ratio: 0.0.[0m
+02-01 09:46:49 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:47:49 INFO [0m[tato.core.plugins.renamer] Download of The Mule 2018 720p HDCAM-1XBET completed! It is now being processed while leaving the original files alone for seeding. Current ratio: 0.0.[0m
+02-01 09:47:49 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:48:49 INFO [0m[tato.core.plugins.renamer] Download of The Mule 2018 720p HDCAM-1XBET completed! It is now being processed while leaving the original files alone for seeding. Current ratio: 0.0.[0m
+02-01 09:48:49 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:49:49 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:49:49 INFO [0m[tato.core.plugins.renamer] Download of The Mule 2018 720p HDCAM-1XBET completed! It is now being processed while leaving the original files alone for seeding. Current ratio: 0.0.[0m
+02-01 09:49:49 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:50:49 INFO [0m[tato.core.plugins.renamer] Download of The Mule 2018 720p HDCAM-1XBET completed! It is now being processed while leaving the original files alone for seeding. Current ratio: 0.0.[0m
+02-01 09:50:49 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:51:49 INFO [0m[tato.core.plugins.renamer] Download of The Mule 2018 720p HDCAM-1XBET completed! It is now being processed while leaving the original files alone for seeding. Current ratio: 0.0.[0m
+02-01 09:51:49 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:52:49 INFO [0m[tato.core.plugins.renamer] Download of The Mule 2018 720p HDCAM-1XBET completed! It is now being processed while leaving the original files alone for seeding. Current ratio: 0.0.[0m
+02-01 09:52:49 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:53:49 INFO [0m[tato.core.plugins.renamer] Download of The Mule 2018 720p HDCAM-1XBET completed! It is now being processed while leaving the original files alone for seeding. Current ratio: 0.0.[0m
+02-01 09:53:49 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:54:49 INFO [0m[tato.core.plugins.renamer] Download of The Mule 2018 720p HDCAM-1XBET completed! It is now being processed while leaving the original files alone for seeding. Current ratio: 0.0.[0m
+02-01 09:54:49 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:55:49 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:56:49 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:57:49 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:58:49 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 09:59:49 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 10:00:49 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 10:01:49 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 11:49:48 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/messages/?last_check=1384713000, data: [][0m
+02-01 11:49:49 INFO [0m[potato.core._base.updater] Checking for new version on github for CouchPotatoServer[0m
+02-01 11:49:49 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 11:50:10 INFO [0m[potato.core._base.updater] Updating to latest version[0m
+02-01 11:50:12 INFO [0m[chpotato.core._base._core] Restarting[0m
+02-01 11:50:13 INFO [0mShutting down thread pool[0m
+02-01 11:50:18 INFO [0m[  couchpotato.core.loader] Loaded core: _core[0m
+02-01 11:50:18 INFO [0m[  couchpotato.core.loader] Loaded core: clientscript[0m
+02-01 11:50:18 INFO [0m[  couchpotato.core.loader] Loaded core: desktop[0m
+02-01 11:50:18 INFO [0m[  couchpotato.core.loader] Loaded core: downloader[0m
+02-01 11:50:18 INFO [0m[  couchpotato.core.loader] Loaded core: scheduler[0m
+02-01 11:50:18 INFO [0m[  couchpotato.core.loader] Loaded core: updater[0m
+02-01 11:50:18 INFO [0m[  couchpotato.core.loader] Loaded plugin: automation[0m
+02-01 11:50:18 INFO [0m[  couchpotato.core.loader] Loaded plugin: browser[0m
+02-01 11:50:18 INFO [0m[  couchpotato.core.loader] Loaded plugin: category[0m
+02-01 11:50:18 INFO [0m[  couchpotato.core.loader] Loaded plugin: custom[0m
+02-01 11:50:18 INFO [0m[  couchpotato.core.loader] Loaded plugin: dashboard[0m
+02-01 11:50:18 INFO [0m[tato.core._base.scheduler] Scheduling file.cleanup, interval: hours = 24, minutes = 0, seconds = 0[0m
+02-01 11:50:18 INFO [0m[  couchpotato.core.loader] Loaded plugin: file[0m
+02-01 11:50:18 INFO [0m[  couchpotato.core.loader] Loaded plugin: log[0m
+02-01 11:50:18 INFO [0m[  couchpotato.core.loader] Loaded plugin: manage[0m
+02-01 11:50:18 INFO [0m[  couchpotato.core.loader] Loaded plugin: profile[0m
+02-01 11:50:18 INFO [0m[  couchpotato.core.loader] Loaded plugin: quality[0m
+02-01 11:50:18 INFO [0m[tato.core._base.scheduler] Scheduling movie.clean_releases, interval: hours = 12, minutes = 0, seconds = 0[0m
+02-01 11:50:18 INFO [0m[  couchpotato.core.loader] Loaded plugin: release[0m
+02-01 11:50:18 INFO [0m[  couchpotato.core.loader] Loaded plugin: renamer[0m
+02-01 11:50:19 INFO [0m[  couchpotato.core.loader] Loaded plugin: scanner[0m
+02-01 11:50:19 INFO [0m[  couchpotato.core.loader] Loaded plugin: score[0m
+02-01 11:50:19 INFO [0m[  couchpotato.core.loader] Loaded plugin: subtitle[0m
+02-01 11:50:19 INFO [0m[  couchpotato.core.loader] Loaded plugin: trailer[0m
+02-01 11:50:19 INFO [0m[  couchpotato.core.loader] Loaded plugin: userscript[0m
+02-01 11:50:19 INFO [0m[  couchpotato.core.loader] Loaded plugin: wizard[0m
+02-01 11:50:19 INFO [0m[  couchpotato.core.loader] Loaded downloaders: blackhole[0m
+02-01 11:50:19 INFO [0m[  couchpotato.core.loader] Loaded downloaders: deluge[0m
+02-01 11:50:19 INFO [0m[  couchpotato.core.loader] Loaded downloaders: hadouken[0m
+02-01 11:50:19 INFO [0m[  couchpotato.core.loader] Loaded downloaders: nzbget[0m
+02-01 11:50:19 INFO [0m[  couchpotato.core.loader] Loaded downloaders: nzbvortex[0m
+02-01 11:50:19 INFO [0m[  couchpotato.core.loader] Loaded downloaders: pneumatic[0m
+02-01 11:50:20 INFO [0m[  couchpotato.core.loader] Loaded downloaders: putio[0m
+02-01 11:50:20 INFO [0m[  couchpotato.core.loader] Loaded downloaders: qbittorrent_[0m
+02-01 11:50:20 INFO [0m[  couchpotato.core.loader] Loaded downloaders: rtorrent_[0m
+02-01 11:50:20 INFO [0m[  couchpotato.core.loader] Loaded downloaders: sabnzbd[0m
+02-01 11:50:20 INFO [0m[  couchpotato.core.loader] Loaded downloaders: synology[0m
+02-01 11:50:20 INFO [0m[  couchpotato.core.loader] Loaded downloaders: transmission[0m
+02-01 11:50:20 INFO [0m[  couchpotato.core.loader] Loaded downloaders: utorrent[0m
+02-01 11:50:20 INFO [0m[  couchpotato.core.loader] Loaded notifications: androidpn[0m
+02-01 11:50:20 INFO [0m[  couchpotato.core.loader] Loaded notifications: boxcar2[0m
+02-01 11:50:20 INFO [0m[tato.core._base.scheduler] Scheduling core.check_messages, interval: hours = 12, minutes = 0, seconds = 0[0m
+02-01 11:50:20 INFO [0m[tato.core._base.scheduler] Scheduling core.clean_messages, interval: hours = 0, minutes = 0, seconds = 15[0m
+02-01 11:50:20 INFO [0m[  couchpotato.core.loader] Loaded notifications: core[0m
+02-01 11:50:20 INFO [0m[  couchpotato.core.loader] Loaded notifications: discord[0m
+02-01 11:50:20 INFO [0m[  couchpotato.core.loader] Loaded notifications: email_[0m
+02-01 11:50:20 INFO [0m[  couchpotato.core.loader] Loaded notifications: emby[0m
+02-01 11:50:20 INFO [0m[  couchpotato.core.loader] Loaded notifications: growl[0m
+02-01 11:50:20 INFO [0m[  couchpotato.core.loader] Loaded notifications: homey[0m
+02-01 11:50:20 INFO [0m[  couchpotato.core.loader] Loaded notifications: join[0m
+02-01 11:50:20 INFO [0m[  couchpotato.core.loader] Loaded notifications: nmj[0m
+02-01 11:50:20 INFO [0m[  couchpotato.core.loader] Loaded notifications: notifymyandroid[0m
+02-01 11:50:20 INFO [0m[  couchpotato.core.loader] Loaded notifications: plex[0m
+02-01 11:50:20 INFO [0m[  couchpotato.core.loader] Loaded notifications: prowl[0m
+02-01 11:50:20 INFO [0m[  couchpotato.core.loader] Loaded notifications: pushalot[0m
+02-01 11:50:20 INFO [0m[  couchpotato.core.loader] Loaded notifications: pushbullet[0m
+02-01 11:50:20 INFO [0m[  couchpotato.core.loader] Loaded notifications: pushover[0m
+02-01 11:50:20 INFO [0m[  couchpotato.core.loader] Loaded notifications: script[0m
+02-01 11:50:20 INFO [0m[  couchpotato.core.loader] Loaded notifications: slack[0m
+02-01 11:50:20 INFO [0m[  couchpotato.core.loader] Loaded notifications: synoindex[0m
+02-01 11:50:20 INFO [0m[  couchpotato.core.loader] Loaded notifications: telegrambot[0m
+02-01 11:50:20 INFO [0m[  couchpotato.core.loader] Loaded notifications: toasty[0m
+02-01 11:50:20 INFO [0m[  couchpotato.core.loader] Loaded notifications: trakt[0m
+02-01 11:50:20 INFO [0m[  couchpotato.core.loader] Loaded notifications: twitter[0m
+02-01 11:50:20 INFO [0m[  couchpotato.core.loader] Loaded notifications: webhook[0m
+02-01 11:50:20 INFO [0m[  couchpotato.core.loader] Loaded notifications: xbmc[0m
+02-01 11:50:20 INFO [0m[  couchpotato.core.loader] Loaded notifications: xmpp_[0m
+02-01 11:50:20 INFO [0m[  couchpotato.core.loader] Loaded media__base: library[0m
+02-01 11:50:20 INFO [0m[  couchpotato.core.loader] Loaded media__base_matcher: matcher[0m
+02-01 11:50:20 INFO [0m[  couchpotato.core.loader] Loaded media__base_media: media[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media__base_search: search[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media__base: searcher[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie__base: _base[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie: charts[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie: library[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: bluray[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: crowdai[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: flixster[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: goodfilms[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: hummingbird[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: imdb[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: itunes[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: letterboxd[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: popularmovies[0m
+02-01 11:50:21 INFO [0m[tato.core._base.scheduler] Scheduling updater.check, interval: hours = 24, minutes = 0, seconds = 0[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation_trakt: trakt[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_info: _modifier[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_info: couchpotatoapi[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_info: fanarttv[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_info: omdbapi[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_info: themoviedb[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_metadata: mediabrowser[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_metadata: ps3[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_metadata: wdtv[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_metadata: wmc[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_metadata: xbmc[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_nzb: binsearch[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_nzb: newznab[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_nzb: nzbclub[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_nzb: omgwtfnzbs[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: alpharatio[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: awesomehd[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: bithdtv[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: bitsoup[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: hd4free[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: hdbits[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: ilovetorrents[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: iptorrents[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: kickasstorrents[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: magnetdl[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: morethantv[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: passthepopcorn[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: rarbg[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: sceneaccess[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: scenetime[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: thepiratebay[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: torrentbytes[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: torrentday[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: torrentleech[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: torrentpotato[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: torrentshack[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: torrentz[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: yts[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_trailer: hdtrailers[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: allocine[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: appletrailers[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: criticker[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: filmcentrum[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: filmstarts[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: filmweb[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: flickchart[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: imdb[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: letterboxd[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: moviemeter[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: moviesio[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: reddit[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: rottentomatoes[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: tmdb[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: trakt[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: youteather[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie: searcher[0m
+02-01 11:50:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie: suggestion[0m
+02-01 11:50:21 INFO [0m[       couchpotato.runner] Starting server on port 5050[0m
+02-01 11:50:21 INFO [0m[tato.core._base.scheduler] Scheduling updater.check, interval: hours = 24, minutes = 0, seconds = 0[0m
+02-01 11:50:21 INFO [0m[tato.core._base.scheduler] Scheduling "movie.searcher.all", cron: day = *, hour = 6, minute = 58[0m
+02-01 11:50:21 INFO [0m[tato.core._base.scheduler] Scheduling renamer.check_snatched, interval: hours = 0, minutes = 1, seconds = 0[0m
+02-01 11:50:21 INFO [0m[tato.core._base.scheduler] Scheduling renamer.check_snatched_forced, interval: hours = 2, minutes = 0, seconds = 0[0m
+02-01 11:50:21 INFO [0m[tato.core._base.scheduler] Scheduling automation.add_movies, interval: hours = 12, minutes = 0, seconds = 0[0m
+02-01 11:50:21 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.themoviedb.org/3/configuration?api_key=xxx[0m
+02-01 11:50:21 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 11:50:21 INFO [0m[potato.core._base.updater] === VERSION git:(CouchPotato:CouchPotatoServer master) 75e576ee (2019-01-13 07:13:34), using GitUpdater ===[0m
+02-01 11:50:21 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/messages/?last_check=1384713000, data: [][0m
+02-01 11:50:21 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.cat, data: [][0m
+02-01 11:50:22 INFO [0m[hpotato.core.plugins.base] Opening url: get http://flowtorrent.com, data: [][0m
+02-01 11:50:22 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/zSouWWrySXshPCT4t3UKCQGayyo.jpg, data: [][0m
+02-01 11:50:22 INFO [0m[hpotato.core.plugins.base] Opening url: get http://katcr.to/span, data: [][0m
+02-01 11:50:23 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/kSBXou5Ac7vEqKd97wotJumyJvU.jpg, data: [][0m
+02-01 11:50:23 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/sM33SANp9z6rXW8Itn7NnG1GOEs.jpg, data: [][0m
+02-01 11:50:23 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/vOipe2myi26UDwP978hsYOrnUWC.jpg, data: [][0m
+02-01 11:50:23 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/cGOPbv9wA5gEejkUN892JrveARt.jpg, data: [][0m
+02-01 11:50:23 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg, data: [][0m
+02-01 11:50:25 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.wf, data: [][0m
+02-01 11:50:27 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.tf, data: [][0m
+02-01 11:50:28 INFO [0m[hpotato.core.plugins.base] Opening url: get https://urbanproxy.eu, data: [][0m
+02-01 11:50:29 INFO [0m[core.media.movie.searcher] Search for Deadpool: No Good Deed in 720p[0m
+02-01 11:50:29 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/1337x/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+02-01 11:50:31 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/btbit/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+02-01 11:50:32 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/extratorrent-ag/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+02-01 11:50:35 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/gimmepeers/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+02-01 11:50:36 INFO [0m[hpotato.core.plugins.base] Opening url: get https://urbanproxy.eu/search/%22Deadpool%3A+No+Good+Deed+2017%22/0/7/207, data: [][0m
+02-01 11:50:36 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentz2.eu/feed?f=deadpool+no+good+deed+2017%20seed%20%3E%200, data: [][0m
+02-01 11:50:36 INFO [0m[hpotato.core.plugins.base] Opening url: get https://yts.am/api/v2/list_movies.json?query_term=tt6612630&limit=10&page=1, data: [][0m
+02-01 11:50:36 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+02-01 11:50:36 INFO [0m[hpotato.core.plugins.base] Opening url: get http://katcr.to/span/m-i6612630/, data: [][0m
+02-01 11:50:36 ERROR [31m[hpotato.core.plugins.base] Failed opening url in Torrentz: https://torrentz2.eu/feed?f=deadpool+no+good+deed+2017%20seed%20%3E%200 Traceback (most recent call last):
+HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://torrentz2.eu/feed?f=deadpool+no+good+deed+2017%20seed%20%3E%200
+[0m
+02-01 11:50:36 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentz2.eu/feed?f=deadpool%3A+no+good+deed+2017%20seed%20%3E%200, data: [][0m
+02-01 11:50:36 ERROR [31m[hpotato.core.plugins.base] Failed opening url in Torrentz: https://torrentz2.eu/feed?f=deadpool%3A+no+good+deed+2017%20seed%20%3E%200 Traceback (most recent call last):
+HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://torrentz2.eu/feed?f=deadpool%3A+no+good+deed+2017%20seed%20%3E%200
+[0m
+02-01 11:50:37 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+02-01 11:50:38 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.nzbgeek.info/api?imdbid=6612630&apikey=xxx&t=movie&extended=1&cat=2000, data: [][0m
+02-01 11:50:40 INFO [0m[core.media.movie.searcher] Search for Deadpool: No Good Deed in 1080p[0m
+02-01 11:50:40 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentz2.eu/feed?f=deadpool+no+good+deed+2017%20seed%20%3E%200, data: [][0m
+02-01 11:50:40 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+02-01 11:50:40 ERROR [31m[hpotato.core.plugins.base] Failed opening url in Torrentz: https://torrentz2.eu/feed?f=deadpool+no+good+deed+2017%20seed%20%3E%200 Traceback (most recent call last):
+HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://torrentz2.eu/feed?f=deadpool+no+good+deed+2017%20seed%20%3E%200
+[0m
+02-01 11:50:40 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentz2.eu/feed?f=deadpool%3A+no+good+deed+2017%20seed%20%3E%200, data: [][0m
+02-01 11:50:41 ERROR [31m[hpotato.core.plugins.base] Failed opening url in Torrentz: https://torrentz2.eu/feed?f=deadpool%3A+no+good+deed+2017%20seed%20%3E%200 Traceback (most recent call last):
+HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://torrentz2.eu/feed?f=deadpool%3A+no+good+deed+2017%20seed%20%3E%200
+[0m
+02-01 11:50:41 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+02-01 11:50:42 INFO [0m[core.media.movie.searcher] Search for Deadpool: No Good Deed in BR-Rip[0m
+02-01 11:50:42 INFO [0m[hpotato.core.plugins.base] Opening url: get https://urbanproxy.eu/search/%22Deadpool%3A+No+Good+Deed+2017%22/0/7/201,207, data: [][0m
+02-01 11:50:42 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentz2.eu/feed?f=deadpool+no+good+deed+2017%20seed%20%3E%200, data: [][0m
+02-01 11:50:42 ERROR [31m[hpotato.core.plugins.base] Failed opening url in Torrentz: https://torrentz2.eu/feed?f=deadpool+no+good+deed+2017%20seed%20%3E%200 Traceback (most recent call last):
+HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://torrentz2.eu/feed?f=deadpool+no+good+deed+2017%20seed%20%3E%200
+[0m
+02-01 11:50:42 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentz2.eu/feed?f=deadpool%3A+no+good+deed+2017%20seed%20%3E%200, data: [][0m
+02-01 11:50:42 ERROR [31m[hpotato.core.plugins.base] Failed opening url in Torrentz: https://torrentz2.eu/feed?f=deadpool%3A+no+good+deed+2017%20seed%20%3E%200 Traceback (most recent call last):
+HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://torrentz2.eu/feed?f=deadpool%3A+no+good+deed+2017%20seed%20%3E%200
+[0m
+02-01 11:50:43 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+02-01 11:50:44 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+02-01 11:50:44 INFO [0m[core.media.movie.searcher] Search for Deadpool: No Good Deed in DVD-Rip[0m
+02-01 11:50:44 INFO [0m[hpotato.core.plugins.base] Opening url: get https://urbanproxy.eu/search/%22Deadpool%3A+No+Good+Deed+2017%22/0/7/201, data: [][0m
+02-01 11:50:45 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+02-01 11:50:46 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+02-01 11:50:46 INFO [0m[core.media.movie.searcher] Search for Mary Queen of Scots in 720p ignoring ETA[0m
+02-01 11:50:47 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/1337x/results/potato/?imdbid=tt2328900&search=Mary+Queen+of+Scots+2018&user=&passkey=xxx[0m
+02-01 11:50:48 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/btbit/results/potato/?imdbid=tt2328900&search=Mary+Queen+of+Scots+2018&user=&passkey=xxx[0m
+02-01 11:50:51 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/extratorrent-ag/results/potato/?imdbid=tt2328900&search=Mary+Queen+of+Scots+2018&user=&passkey=xxx[0m
+02-01 11:50:53 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/gimmepeers/results/potato/?imdbid=tt2328900&search=Mary+Queen+of+Scots+2018&user=&passkey=xxx[0m
+02-01 11:50:54 INFO [0m[hpotato.core.plugins.base] Opening url: get https://urbanproxy.eu/search/%22Mary+Queen+of+Scots+2018%22/0/7/207, data: [][0m
+02-01 11:50:54 INFO [0m[hpotato.core.plugins.base] Opening url: get https://yts.am/api/v2/list_movies.json?query_term=tt2328900&limit=10&page=1, data: [][0m
+02-01 11:50:54 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/m/mary-queen-of-scots-2018/se/desc/1/, data: [][0m
+02-01 11:50:54 INFO [0m[hpotato.core.plugins.base] Opening url: get http://katcr.to/span/m-i2328900/, data: [][0m
+02-01 11:50:57 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.nzbgeek.info/api?imdbid=2328900&apikey=xxx&t=movie&extended=1&cat=2000, data: [][0m
+02-01 11:50:59 INFO [0m[core.media.movie.searcher] Search for Mary Queen of Scots in 1080p ignoring ETA[0m
+02-01 11:51:00 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/m/mary-queen-of-scots-2018/se/desc/1/, data: [][0m
+02-01 11:51:00 INFO [0m[core.media.movie.searcher] Search for Mary Queen of Scots in BR-Rip ignoring ETA[0m
+02-01 11:51:00 INFO [0m[edia._base.providers.base] Found: score(275) on TorrentPotato, 10.0.0.12: Mary Queen of Scots (2018) 720p English HDCAMRip x264 AAC 900MB [MovCr][1337x][0m
+02-01 11:51:00 INFO [0m[edia._base.providers.base] Found: score(67) on TorrentPotato, 10.0.0.12: www.MovCr.cc - Mary Queen of Scots (2018) 720p English HDCAMRip x264 AAC 900MB [MovCr].mkv[btbit][0m
+02-01 11:51:01 INFO [0m[edia._base.providers.base] Found: score(72) on TorrentPotato, 10.0.0.12: 1[ExtraTorrent.ag][0m
+02-01 11:51:01 INFO [0m[edia._base.providers.base] Found: score(72) on TorrentPotato, 10.0.0.12: 1[ExtraTorrent.ag][0m
+02-01 11:51:01 INFO [0m[edia._base.providers.base] Found: score(182) on TorrentPotato, 10.0.0.12: Mary Queen of Scots (2018) 720p English HDCAMRip x264 AAC 900MB [MovCr][ExtraTorrent.ag][0m
+02-01 11:51:01 INFO [0m[hpotato.core.plugins.base] Opening url: get https://urbanproxy.eu/search/%22Mary+Queen+of+Scots+2018%22/0/7/201,207, data: [][0m
+02-01 11:51:01 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/m/mary-queen-of-scots-2018/se/desc/1/, data: [][0m
+02-01 11:51:02 INFO [0m[tato.core.plugins.release] Ignored: Mary Queen of Scots (2018) 720p English HDCAMRip x264 AAC 900MB [MovCr][ExtraTorrent.ag][0m
+02-01 11:51:02 INFO [0m[tato.core.plugins.release] Ignored: 1[ExtraTorrent.ag][0m
+02-01 11:51:02 INFO [0m[tato.core.plugins.release] Ignored: 1[ExtraTorrent.ag][0m
+02-01 11:51:02 INFO [0m[tato.core.plugins.release] Ignored: www.MovCr.cc - Mary Queen of Scots (2018) 720p English HDCAMRip x264 AAC 900MB [MovCr].mkv[btbit][0m
+02-01 11:51:02 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/dl/1337x/?jackett_apikey=40razu718vck0witr52t9otsw5bmx4tm&path=Q2ZESjhKRUdIcEFvQUxCTWs1ZWhrbm1zZTFnMjUxRHNGZGZIbFcwLUxwdVpaa3FjOXJtNTRNdmF1RGRDS2dMR3dDbGNOSVF3eEVYcndzZWJEN2V4bkZPX0E0LUItekpZVFU3d2VmaFJhOGRpT2Y0WXJFenlBQXVKLU0wTjVnaE9EMVdZdDNwUlAxLVljb3hFLWJlaF95OElQRnVVUmVjaDY4YTVBS2hjQUpJVE1NdllpcU1TMC1qRVdkUXozTkE4YS1uQXRlaGhvY2ZjOG9IY0ZSaGt2dExCeEpVNDc0OXlKNXZWeHFyUm1MNVV4bklEZTNfQWdEalU1VTJqTUJHN0VRSzI3UQ&file=Mary+Queen+of+Scots+(2018)+720p+English+HDCAMRip+x264+AAC+900MB+[MovCr], data: [][0m
+02-01 11:51:02 ERROR [31m[edia._base.providers.base] Failed getting release from TorrentPotato: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 207, in download
+    return self.urlopen(url, headers = {'User-Agent': Env.getIdentifier()}, show_error = False)
+  File "/app/couchpotato/couchpotato/core/plugins/base.py", line 221, in urlopen
+    response = r.request(method, url, **kwargs)
+  File "/app/couchpotato/libs/requests/sessions.py", line 469, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/app/couchpotato/libs/requests/sessions.py", line 598, in send
+    history = [resp for resp in gen] if allow_redirects else []
+  File "/app/couchpotato/libs/requests/sessions.py", line 194, in resolve_redirects
+    **adapter_kwargs
+  File "/app/couchpotato/libs/requests/sessions.py", line 571, in send
+    adapter = self.get_adapter(url=request.url)
+  File "/app/couchpotato/libs/requests/sessions.py", line 645, in get_adapter
+    raise InvalidSchema("No connection adapters were found for '%s'" % url)
+InvalidSchema: No connection adapters were found for 'magnet:?xt=urn:btih:D8836D3F2895C0F48CDBF3F122F8F05A2CF5A94A&dn=Mary+Queen+of+Scots+(2018)+720p+English+HDCAMRip+x264+AAC+900MB+[MovCr]&tr=udp:%2F%2Ftracker.coppersurfer.tk:6969%2Fannounce&tr=udp:%2F%2Ftracker.opentrackr.org:1337%2Fannounce&tr=udp:%2F%2Ftracker.leechers-paradise.org:6969%2Fannounce&tr=udp:%2F%2F9.rarbg.to:2800%2Fannounce&tr=udp:%2F%2F9.rarbg.to:2800%2Fannounce&tr=udp:%2F%2Feddie4.nl:6969%2Fannounce&tr=udp:%2F%2F9.rarbg.to:2800%2Fannounce&tr=udp:%2F%2F9.rarbg.to:2800%2Fannounce&tr=udp:%2F%2Ftracker.doko.moe:6969%2Fannounce&tr=udp:%2F%2Ftracker.doko.moe:6969%2Fannounce&tr=udp:%2F%2Fthetracker.org:80%2Fannounce&tr=udp:%2F%2Fthetracker.org:80%2Fannounce&tr=udp:%2F%2Fbt.xxx-tracker.com:2710%2Fannounce&tr=udp:%2F%2Fbt.xxx-tracker.com:2710%2Fannounce&tr=udp:%2F%2Ftracker.zer0day.to:1337%2Fannounce&tr=udp:%2F%2Ftracker.leechers-paradise.org:6969%2Fannounce&tr=udp:%2F%2Fcoppersurfer.tk:6969%2Fannounce'
+[0m
+02-01 11:51:02 INFO [0m[core.media.movie.searcher] Search for Mary Queen of Scots in DVD-Rip ignoring ETA[0m
+02-01 11:51:03 INFO [0m[hpotato.core.plugins.base] Opening url: get https://urbanproxy.eu/search/%22Mary+Queen+of+Scots+2018%22/0/7/201, data: [][0m
+02-01 11:51:03 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/m/mary-queen-of-scots-2018/se/desc/1/, data: [][0m
+02-01 13:50:21 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 15:44:37 INFO [0m[chpotato.core._base._core] Shutting down[0m
+02-01 15:44:37 INFO [0mShutting down thread pool[0m
+02-01 15:45:34 INFO [0m[  couchpotato.core.loader] Loaded core: _core[0m
+02-01 15:45:34 INFO [0m[  couchpotato.core.loader] Loaded core: clientscript[0m
+02-01 15:45:34 INFO [0m[  couchpotato.core.loader] Loaded core: desktop[0m
+02-01 15:45:34 INFO [0m[  couchpotato.core.loader] Loaded core: downloader[0m
+02-01 15:45:34 INFO [0m[  couchpotato.core.loader] Loaded core: scheduler[0m
+02-01 15:45:34 INFO [0m[  couchpotato.core.loader] Loaded core: updater[0m
+02-01 15:45:34 INFO [0m[  couchpotato.core.loader] Loaded plugin: automation[0m
+02-01 15:45:34 INFO [0m[  couchpotato.core.loader] Loaded plugin: browser[0m
+02-01 15:45:34 INFO [0m[  couchpotato.core.loader] Loaded plugin: category[0m
+02-01 15:45:34 INFO [0m[  couchpotato.core.loader] Loaded plugin: custom[0m
+02-01 15:45:34 INFO [0m[  couchpotato.core.loader] Loaded plugin: dashboard[0m
+02-01 15:45:34 INFO [0m[tato.core._base.scheduler] Scheduling file.cleanup, interval: hours = 24, minutes = 0, seconds = 0[0m
+02-01 15:45:34 INFO [0m[  couchpotato.core.loader] Loaded plugin: file[0m
+02-01 15:45:34 INFO [0m[  couchpotato.core.loader] Loaded plugin: log[0m
+02-01 15:45:34 INFO [0m[  couchpotato.core.loader] Loaded plugin: manage[0m
+02-01 15:45:34 INFO [0m[  couchpotato.core.loader] Loaded plugin: profile[0m
+02-01 15:45:34 INFO [0m[  couchpotato.core.loader] Loaded plugin: quality[0m
+02-01 15:45:34 INFO [0m[tato.core._base.scheduler] Scheduling movie.clean_releases, interval: hours = 12, minutes = 0, seconds = 0[0m
+02-01 15:45:34 INFO [0m[  couchpotato.core.loader] Loaded plugin: release[0m
+02-01 15:45:34 INFO [0m[  couchpotato.core.loader] Loaded plugin: renamer[0m
+02-01 15:45:35 INFO [0m[  couchpotato.core.loader] Loaded plugin: scanner[0m
+02-01 15:45:35 INFO [0m[  couchpotato.core.loader] Loaded plugin: score[0m
+02-01 15:45:35 INFO [0m[  couchpotato.core.loader] Loaded plugin: subtitle[0m
+02-01 15:45:35 INFO [0m[  couchpotato.core.loader] Loaded plugin: trailer[0m
+02-01 15:45:35 INFO [0m[  couchpotato.core.loader] Loaded plugin: userscript[0m
+02-01 15:45:35 INFO [0m[  couchpotato.core.loader] Loaded plugin: wizard[0m
+02-01 15:45:35 INFO [0m[  couchpotato.core.loader] Loaded downloaders: blackhole[0m
+02-01 15:45:35 INFO [0m[  couchpotato.core.loader] Loaded downloaders: deluge[0m
+02-01 15:45:35 INFO [0m[  couchpotato.core.loader] Loaded downloaders: hadouken[0m
+02-01 15:45:35 INFO [0m[  couchpotato.core.loader] Loaded downloaders: nzbget[0m
+02-01 15:45:35 INFO [0m[  couchpotato.core.loader] Loaded downloaders: nzbvortex[0m
+02-01 15:45:35 INFO [0m[  couchpotato.core.loader] Loaded downloaders: pneumatic[0m
+02-01 15:45:35 INFO [0m[  couchpotato.core.loader] Loaded downloaders: putio[0m
+02-01 15:45:35 INFO [0m[  couchpotato.core.loader] Loaded downloaders: qbittorrent_[0m
+02-01 15:45:35 INFO [0m[  couchpotato.core.loader] Loaded downloaders: rtorrent_[0m
+02-01 15:45:36 INFO [0m[  couchpotato.core.loader] Loaded downloaders: sabnzbd[0m
+02-01 15:45:36 INFO [0m[  couchpotato.core.loader] Loaded downloaders: synology[0m
+02-01 15:45:36 INFO [0m[  couchpotato.core.loader] Loaded downloaders: transmission[0m
+02-01 15:45:36 INFO [0m[  couchpotato.core.loader] Loaded downloaders: utorrent[0m
+02-01 15:45:36 INFO [0m[  couchpotato.core.loader] Loaded notifications: androidpn[0m
+02-01 15:45:36 INFO [0m[  couchpotato.core.loader] Loaded notifications: boxcar2[0m
+02-01 15:45:36 INFO [0m[tato.core._base.scheduler] Scheduling core.check_messages, interval: hours = 12, minutes = 0, seconds = 0[0m
+02-01 15:45:36 INFO [0m[tato.core._base.scheduler] Scheduling core.clean_messages, interval: hours = 0, minutes = 0, seconds = 15[0m
+02-01 15:45:36 INFO [0m[  couchpotato.core.loader] Loaded notifications: core[0m
+02-01 15:45:36 INFO [0m[  couchpotato.core.loader] Loaded notifications: discord[0m
+02-01 15:45:36 INFO [0m[  couchpotato.core.loader] Loaded notifications: email_[0m
+02-01 15:45:36 INFO [0m[  couchpotato.core.loader] Loaded notifications: emby[0m
+02-01 15:45:36 INFO [0m[  couchpotato.core.loader] Loaded notifications: growl[0m
+02-01 15:45:36 INFO [0m[  couchpotato.core.loader] Loaded notifications: homey[0m
+02-01 15:45:36 INFO [0m[  couchpotato.core.loader] Loaded notifications: join[0m
+02-01 15:45:36 INFO [0m[  couchpotato.core.loader] Loaded notifications: nmj[0m
+02-01 15:45:36 INFO [0m[  couchpotato.core.loader] Loaded notifications: notifymyandroid[0m
+02-01 15:45:36 INFO [0m[  couchpotato.core.loader] Loaded notifications: plex[0m
+02-01 15:45:36 INFO [0m[  couchpotato.core.loader] Loaded notifications: prowl[0m
+02-01 15:45:36 INFO [0m[  couchpotato.core.loader] Loaded notifications: pushalot[0m
+02-01 15:45:36 INFO [0m[  couchpotato.core.loader] Loaded notifications: pushbullet[0m
+02-01 15:45:36 INFO [0m[  couchpotato.core.loader] Loaded notifications: pushover[0m
+02-01 15:45:36 INFO [0m[  couchpotato.core.loader] Loaded notifications: script[0m
+02-01 15:45:36 INFO [0m[  couchpotato.core.loader] Loaded notifications: slack[0m
+02-01 15:45:36 INFO [0m[  couchpotato.core.loader] Loaded notifications: synoindex[0m
+02-01 15:45:36 INFO [0m[  couchpotato.core.loader] Loaded notifications: telegrambot[0m
+02-01 15:45:36 INFO [0m[  couchpotato.core.loader] Loaded notifications: toasty[0m
+02-01 15:45:36 INFO [0m[  couchpotato.core.loader] Loaded notifications: trakt[0m
+02-01 15:45:36 INFO [0m[  couchpotato.core.loader] Loaded notifications: twitter[0m
+02-01 15:45:36 INFO [0m[  couchpotato.core.loader] Loaded notifications: webhook[0m
+02-01 15:45:36 INFO [0m[  couchpotato.core.loader] Loaded notifications: xbmc[0m
+02-01 15:45:36 INFO [0m[  couchpotato.core.loader] Loaded notifications: xmpp_[0m
+02-01 15:45:36 INFO [0m[  couchpotato.core.loader] Loaded media__base: library[0m
+02-01 15:45:36 INFO [0m[  couchpotato.core.loader] Loaded media__base_matcher: matcher[0m
+02-01 15:45:36 INFO [0m[  couchpotato.core.loader] Loaded media__base_media: media[0m
+02-01 15:45:36 INFO [0m[  couchpotato.core.loader] Loaded media__base_search: search[0m
+02-01 15:45:36 INFO [0m[  couchpotato.core.loader] Loaded media__base: searcher[0m
+02-01 15:45:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie__base: _base[0m
+02-01 15:45:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie: charts[0m
+02-01 15:45:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie: library[0m
+02-01 15:45:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: bluray[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: crowdai[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: flixster[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: goodfilms[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: hummingbird[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: imdb[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: itunes[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: letterboxd[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: popularmovies[0m
+02-01 15:45:37 INFO [0m[tato.core._base.scheduler] Scheduling updater.check, interval: hours = 24, minutes = 0, seconds = 0[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation_trakt: trakt[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_info: _modifier[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_info: couchpotatoapi[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_info: fanarttv[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_info: omdbapi[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_info: themoviedb[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_metadata: mediabrowser[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_metadata: ps3[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_metadata: wdtv[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_metadata: wmc[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_metadata: xbmc[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_nzb: binsearch[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_nzb: newznab[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_nzb: nzbclub[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_nzb: omgwtfnzbs[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: alpharatio[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: awesomehd[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: bithdtv[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: bitsoup[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: hd4free[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: hdbits[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: ilovetorrents[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: iptorrents[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: kickasstorrents[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: magnetdl[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: morethantv[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: passthepopcorn[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: rarbg[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: sceneaccess[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: scenetime[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: thepiratebay[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: torrentbytes[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: torrentday[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: torrentleech[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: torrentpotato[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: torrentshack[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: torrentz[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: yts[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_trailer: hdtrailers[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: allocine[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: appletrailers[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: criticker[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: filmcentrum[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: filmstarts[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: filmweb[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: flickchart[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: imdb[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: letterboxd[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: moviemeter[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: moviesio[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: reddit[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: rottentomatoes[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: tmdb[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: trakt[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: youteather[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie: searcher[0m
+02-01 15:45:37 INFO [0m[  couchpotato.core.loader] Loaded media_movie: suggestion[0m
+02-01 15:45:37 INFO [0m[       couchpotato.runner] Starting server on port 5050[0m
+02-01 15:45:37 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 15:45:37 INFO [0m[tato.core._base.scheduler] Scheduling automation.add_movies, interval: hours = 12, minutes = 0, seconds = 0[0m
+02-01 15:45:37 INFO [0m[tato.core._base.scheduler] Scheduling renamer.check_snatched, interval: hours = 0, minutes = 1, seconds = 0[0m
+02-01 15:45:37 INFO [0m[tato.core._base.scheduler] Scheduling renamer.check_snatched_forced, interval: hours = 2, minutes = 0, seconds = 0[0m
+02-01 15:45:37 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.themoviedb.org/3/configuration?api_key=xxx[0m
+02-01 15:45:37 INFO [0m[tato.core._base.scheduler] Scheduling updater.check, interval: hours = 24, minutes = 0, seconds = 0[0m
+02-01 15:45:37 INFO [0m[tato.core._base.scheduler] Scheduling "movie.searcher.all", cron: day = *, hour = 6, minute = 58[0m
+02-01 15:45:38 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/messages/?last_check=1384713000, data: [][0m
+02-01 15:45:38 INFO [0m[hpotato.core.plugins.base] Opening url: get http://katcr.to/span, data: [][0m
+02-01 15:45:38 INFO [0m[hpotato.core.plugins.base] Opening url: get https://urbanproxy.eu, data: [][0m
+02-01 15:45:38 INFO [0m[potato.core._base.updater] === VERSION git:(CouchPotato:CouchPotatoServer master) 75e576ee (2019-01-13 07:13:34), using GitUpdater ===[0m
+02-01 15:45:39 INFO [0m[core.media.movie.searcher] Search for Mary Queen of Scots in 720p[0m
+02-01 15:45:39 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/1337x/results/potato/?imdbid=tt2328900&search=Mary+Queen+of+Scots+2018&user=&passkey=xxx[0m
+02-01 15:45:41 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/btbit/results/potato/?imdbid=tt2328900&search=Mary+Queen+of+Scots+2018&user=&passkey=xxx[0m
+02-01 15:45:48 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/extratorrent-ag/results/potato/?imdbid=tt2328900&search=Mary+Queen+of+Scots+2018&user=&passkey=xxx[0m
+02-01 15:45:51 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/gimmepeers/results/potato/?imdbid=tt2328900&search=Mary+Queen+of+Scots+2018&user=&passkey=xxx[0m
+02-01 15:45:52 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentz2.eu/feed?f=mary+queen+of+scots+2018%20seed%20%3E%200, data: [][0m
+02-01 15:45:52 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/m/mary-queen-of-scots-2018/se/desc/1/, data: [][0m
+02-01 15:45:52 INFO [0m[hpotato.core.plugins.base] Opening url: get https://yts.am/api/v2/list_movies.json?query_term=tt2328900&limit=10&page=1, data: [][0m
+02-01 15:45:52 INFO [0m[hpotato.core.plugins.base] Opening url: get https://urbanproxy.eu/search/%22Mary+Queen+of+Scots+2018%22/0/7/207, data: [][0m
+02-01 15:45:52 INFO [0m[hpotato.core.plugins.base] Opening url: get http://katcr.to/span/m-i2328900/, data: [][0m
+02-01 15:45:52 ERROR [31m[hpotato.core.plugins.base] Failed opening url in Torrentz: https://torrentz2.eu/feed?f=mary+queen+of+scots+2018%20seed%20%3E%200 Traceback (most recent call last):
+HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://torrentz2.eu/feed?f=mary+queen+of+scots+2018%20seed%20%3E%200
+[0m
+02-01 15:45:53 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.nzbgeek.info/api?imdbid=2328900&apikey=xxx&t=movie&extended=1&cat=2000, data: [][0m
+02-01 15:45:55 INFO [0m[core.media.movie.searcher] Search for Mary Queen of Scots in 1080p[0m
+02-01 15:45:56 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/m/mary-queen-of-scots-2018/se/desc/1/, data: [][0m
+02-01 15:45:56 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentz2.eu/feed?f=mary+queen+of+scots+2018%20seed%20%3E%200, data: [][0m
+02-01 15:45:56 ERROR [31m[hpotato.core.plugins.base] Failed opening url in Torrentz: https://torrentz2.eu/feed?f=mary+queen+of+scots+2018%20seed%20%3E%200 Traceback (most recent call last):
+HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://torrentz2.eu/feed?f=mary+queen+of+scots+2018%20seed%20%3E%200
+[0m
+02-01 15:45:56 INFO [0m[core.media.movie.searcher] Search for Mary Queen of Scots in BR-Rip[0m
+02-01 15:45:57 INFO [0m[edia._base.providers.base] Found: score(275) on TorrentPotato, 10.0.0.12: Mary Queen of Scots (2018) 720p English HDCAMRip x264 AAC 900MB [MovCr][1337x][0m
+02-01 15:45:57 INFO [0m[edia._base.providers.base] Found: score(67) on TorrentPotato, 10.0.0.12: www.MovCr.cc - Mary Queen of Scots (2018) 720p English HDCAMRip x264 AAC 900MB [MovCr].mkv[btbit][0m
+02-01 15:45:57 INFO [0m[edia._base.providers.base] Found: score(72) on TorrentPotato, 10.0.0.12: 1[ExtraTorrent.ag][0m
+02-01 15:45:57 INFO [0m[edia._base.providers.base] Found: score(72) on TorrentPotato, 10.0.0.12: 1[ExtraTorrent.ag][0m
+02-01 15:45:57 INFO [0m[edia._base.providers.base] Found: score(182) on TorrentPotato, 10.0.0.12: Mary Queen of Scots (2018) 720p English HDCAMRip x264 AAC 900MB [MovCr][ExtraTorrent.ag][0m
+02-01 15:45:57 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentz2.eu/feed?f=mary+queen+of+scots+2018%20seed%20%3E%200, data: [][0m
+02-01 15:45:57 INFO [0m[hpotato.core.plugins.base] Opening url: get https://urbanproxy.eu/search/%22Mary+Queen+of+Scots+2018%22/0/7/201,207, data: [][0m
+02-01 15:45:57 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/m/mary-queen-of-scots-2018/se/desc/1/, data: [][0m
+02-01 15:45:58 ERROR [31m[hpotato.core.plugins.base] Failed opening url in Torrentz: https://torrentz2.eu/feed?f=mary+queen+of+scots+2018%20seed%20%3E%200 Traceback (most recent call last):
+HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://torrentz2.eu/feed?f=mary+queen+of+scots+2018%20seed%20%3E%200
+[0m
+02-01 15:45:58 INFO [0m[tato.core.plugins.release] Ignored: Mary Queen of Scots (2018) 720p English HDCAMRip x264 AAC 900MB [MovCr][ExtraTorrent.ag][0m
+02-01 15:45:58 INFO [0m[tato.core.plugins.release] Ignored: 1[ExtraTorrent.ag][0m
+02-01 15:45:58 INFO [0m[tato.core.plugins.release] Ignored: 1[ExtraTorrent.ag][0m
+02-01 15:45:58 INFO [0m[tato.core.plugins.release] Ignored: www.MovCr.cc - Mary Queen of Scots (2018) 720p English HDCAMRip x264 AAC 900MB [MovCr].mkv[btbit][0m
+02-01 15:45:58 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/dl/1337x/?jackett_apikey=40razu718vck0witr52t9otsw5bmx4tm&path=Q2ZESjhKRUdIcEFvQUxCTWs1ZWhrbm1zZTFocVQxWnhRencwRldJQkJUZ2JOZEI2bXZCdmpHQVRTY3ZuaS16aU1kYnVLTTA3LWo5ckJoR1hVTXFIeU1BTExKSElJM2xrTGVXc1FBazhQNmIwSEl6TW85bzM2QnJBeG8zRzJHV2ZueTl4dHFOdWRxTVltX1h4WTlxUWp3S3JDcXlGR3Fla1cwNmVlTTVEQldQNnBUQ3NMczBUMzZ6TU9McUtKSDI1Qjg2R2hhY2gwT3lRbFZ6Q3IzdFdXUmdXSDBXTzRZcWlrRzNVX3FYSVdvLXhDdlhyUWpjVjdMSExKVjkxWm0zeUhSRlRHQQ&file=Mary+Queen+of+Scots+(2018)+720p+English+HDCAMRip+x264+AAC+900MB+[MovCr], data: [][0m
+02-01 15:45:59 ERROR [31m[edia._base.providers.base] Failed getting release from TorrentPotato: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 207, in download
+    return self.urlopen(url, headers = {'User-Agent': Env.getIdentifier()}, show_error = False)
+  File "/app/couchpotato/couchpotato/core/plugins/base.py", line 221, in urlopen
+    response = r.request(method, url, **kwargs)
+  File "/app/couchpotato/libs/requests/sessions.py", line 469, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/app/couchpotato/libs/requests/sessions.py", line 598, in send
+    history = [resp for resp in gen] if allow_redirects else []
+  File "/app/couchpotato/libs/requests/sessions.py", line 194, in resolve_redirects
+    **adapter_kwargs
+  File "/app/couchpotato/libs/requests/sessions.py", line 571, in send
+    adapter = self.get_adapter(url=request.url)
+  File "/app/couchpotato/libs/requests/sessions.py", line 645, in get_adapter
+    raise InvalidSchema("No connection adapters were found for '%s'" % url)
+InvalidSchema: No connection adapters were found for 'magnet:?xt=urn:btih:D8836D3F2895C0F48CDBF3F122F8F05A2CF5A94A&dn=Mary+Queen+of+Scots+(2018)+720p+English+HDCAMRip+x264+AAC+900MB+[MovCr]&tr=udp:%2F%2Ftracker.coppersurfer.tk:6969%2Fannounce&tr=udp:%2F%2Ftracker.opentrackr.org:1337%2Fannounce&tr=udp:%2F%2Ftracker.leechers-paradise.org:6969%2Fannounce&tr=udp:%2F%2F9.rarbg.to:2800%2Fannounce&tr=udp:%2F%2F9.rarbg.to:2800%2Fannounce&tr=udp:%2F%2Feddie4.nl:6969%2Fannounce&tr=udp:%2F%2F9.rarbg.to:2800%2Fannounce&tr=udp:%2F%2F9.rarbg.to:2800%2Fannounce&tr=udp:%2F%2Ftracker.doko.moe:6969%2Fannounce&tr=udp:%2F%2Ftracker.doko.moe:6969%2Fannounce&tr=udp:%2F%2Fthetracker.org:80%2Fannounce&tr=udp:%2F%2Fthetracker.org:80%2Fannounce&tr=udp:%2F%2Fbt.xxx-tracker.com:2710%2Fannounce&tr=udp:%2F%2Fbt.xxx-tracker.com:2710%2Fannounce&tr=udp:%2F%2Ftracker.zer0day.to:1337%2Fannounce&tr=udp:%2F%2Ftracker.leechers-paradise.org:6969%2Fannounce&tr=udp:%2F%2Fcoppersurfer.tk:6969%2Fannounce'
+[0m
+02-01 15:45:59 INFO [0m[core.media.movie.searcher] Search for Mary Queen of Scots in DVD-Rip[0m
+02-01 15:46:00 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentz2.eu/feed?f=mary+queen+of+scots+2018%20seed%20%3E%200, data: [][0m
+02-01 15:46:00 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/m/mary-queen-of-scots-2018/se/desc/1/, data: [][0m
+02-01 15:46:00 INFO [0m[hpotato.core.plugins.base] Opening url: get https://urbanproxy.eu/search/%22Mary+Queen+of+Scots+2018%22/0/7/201, data: [][0m
+02-01 15:46:00 ERROR [31m[hpotato.core.plugins.base] Failed opening url in Torrentz: https://torrentz2.eu/feed?f=mary+queen+of+scots+2018%20seed%20%3E%200 Traceback (most recent call last):
+HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://torrentz2.eu/feed?f=mary+queen+of+scots+2018%20seed%20%3E%200
+[0m
+02-01 15:46:00 INFO [0m[core.media.movie.searcher] Search for Deadpool: No Good Deed in 720p[0m
+02-01 15:46:00 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/1337x/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+02-01 15:46:02 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/btbit/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+02-01 15:46:10 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/extratorrent-ag/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+02-01 15:46:12 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/gimmepeers/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+02-01 15:46:14 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentz2.eu/feed?f=deadpool+no+good+deed+2017%20seed%20%3E%200, data: [][0m
+02-01 15:46:14 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+02-01 15:46:14 INFO [0m[hpotato.core.plugins.base] Opening url: get https://urbanproxy.eu/search/%22Deadpool%3A+No+Good+Deed+2017%22/0/7/207, data: [][0m
+02-01 15:46:14 INFO [0m[hpotato.core.plugins.base] Opening url: get http://katcr.to/span/m-i6612630/, data: [][0m
+02-01 15:46:15 INFO [0m[hpotato.core.plugins.base] Opening url: get https://yts.am/api/v2/list_movies.json?query_term=tt6612630&limit=10&page=1, data: [][0m
+02-01 15:46:15 ERROR [31m[hpotato.core.plugins.base] Failed opening url in Torrentz: https://torrentz2.eu/feed?f=deadpool+no+good+deed+2017%20seed%20%3E%200 Traceback (most recent call last):
+HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://torrentz2.eu/feed?f=deadpool+no+good+deed+2017%20seed%20%3E%200
+[0m
+02-01 15:46:15 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentz2.eu/feed?f=deadpool%3A+no+good+deed+2017%20seed%20%3E%200, data: [][0m
+02-01 15:46:15 ERROR [31m[hpotato.core.plugins.base] Failed opening url in Torrentz: https://torrentz2.eu/feed?f=deadpool%3A+no+good+deed+2017%20seed%20%3E%200 Traceback (most recent call last):
+HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://torrentz2.eu/feed?f=deadpool%3A+no+good+deed+2017%20seed%20%3E%200
+[0m
+02-01 15:46:16 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+02-01 15:46:16 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.nzbgeek.info/api?imdbid=6612630&apikey=xxx&t=movie&extended=1&cat=2000, data: [][0m
+02-01 15:46:18 INFO [0m[core.media.movie.searcher] Search for Deadpool: No Good Deed in 1080p[0m
+02-01 15:46:18 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+02-01 15:46:19 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+02-01 15:46:19 INFO [0m[core.media.movie.searcher] Search for Deadpool: No Good Deed in BR-Rip[0m
+02-01 15:46:20 INFO [0m[hpotato.core.plugins.base] Opening url: get https://urbanproxy.eu/search/%22Deadpool%3A+No+Good+Deed+2017%22/0/7/201,207, data: [][0m
+02-01 15:46:20 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+02-01 15:46:22 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+02-01 15:46:22 INFO [0m[core.media.movie.searcher] Search for Deadpool: No Good Deed in DVD-Rip[0m
+02-01 15:46:22 INFO [0m[hpotato.core.plugins.base] Opening url: get https://urbanproxy.eu/search/%22Deadpool%3A+No+Good+Deed+2017%22/0/7/201, data: [][0m
+02-01 15:46:23 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+02-01 15:46:24 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+02-01 15:46:26 ERROR [31m[hpotato.core.plugins.base] Failed opening url in ThePirateBay: https://urbanproxy.eu/search/%22Deadpool%3A+No+Good+Deed+2017%22/0/7/201 Traceback (most recent call last):
+HTTPError: 500 Server Error: Internal Server Error for url: https://urbanproxy.eu/search/%22Deadpool%3A+No+Good+Deed+2017%22/0/7/201
+[0m
+02-01 17:45:37 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 19:45:37 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 21:45:37 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-01 23:45:37 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-02 01:45:37 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-02 03:45:36 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/messages/?last_check=1384713000, data: [][0m
+02-02 03:45:37 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-02 05:45:37 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-02 06:58:00 INFO [0m[core.media.movie.searcher] Search for Deadpool: No Good Deed in 720p[0m
+02-02 06:58:00 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/1337x/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+02-02 06:58:02 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/btbit/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+02-02 06:58:05 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/extratorrent-ag/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+02-02 06:58:07 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/gimmepeers/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+02-02 06:58:08 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentz2.eu/feed?f=deadpool+no+good+deed+2017%20seed%20%3E%200, data: [][0m
+02-02 06:58:08 INFO [0m[hpotato.core.plugins.base] Opening url: get http://katcr.to/span/m-i6612630/, data: [][0m
+02-02 06:58:08 INFO [0m[hpotato.core.plugins.base] Opening url: get https://yts.am/api/v2/list_movies.json?query_term=tt6612630&limit=10&page=1, data: [][0m
+02-02 06:58:08 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+02-02 06:58:08 INFO [0m[hpotato.core.plugins.base] Opening url: get https://urbanproxy.eu/search/%22Deadpool%3A+No+Good+Deed+2017%22/0/7/207, data: [][0m
+02-02 06:58:09 ERROR [31m[hpotato.core.plugins.base] Failed opening url in Torrentz: https://torrentz2.eu/feed?f=deadpool+no+good+deed+2017%20seed%20%3E%200 Traceback (most recent call last):
+HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://torrentz2.eu/feed?f=deadpool+no+good+deed+2017%20seed%20%3E%200
+[0m
+02-02 06:58:09 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentz2.eu/feed?f=deadpool%3A+no+good+deed+2017%20seed%20%3E%200, data: [][0m
+02-02 06:58:09 ERROR [31m[hpotato.core.plugins.base] Failed opening url in Torrentz: https://torrentz2.eu/feed?f=deadpool%3A+no+good+deed+2017%20seed%20%3E%200 Traceback (most recent call last):
+HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://torrentz2.eu/feed?f=deadpool%3A+no+good+deed+2017%20seed%20%3E%200
+[0m
+02-02 06:58:38 ERROR [31m[hpotato.core.plugins.base] Failed opening url in KickAssTorrents: http://katcr.to/span/m-i6612630/ Traceback (most recent call last):
+ReadTimeout: HTTPConnectionPool(host='katcr.to', port=80): Read timed out. (read timeout=30)
+[0m
+02-02 06:58:38 ERROR [31m[hpotato.core.plugins.base] Failed opening url in MagnetDL: http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/ Traceback (most recent call last):
+ReadTimeout: HTTPSConnectionPool(host='www.magnetdl.com', port=443): Read timed out. (read timeout=30)
+[0m
+02-02 06:58:38 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+02-02 06:58:39 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.nzbgeek.info/api?imdbid=6612630&apikey=xxx&t=movie&extended=1&cat=2000, data: [][0m
+02-02 06:58:41 INFO [0m[core.media.movie.searcher] Search for Deadpool: No Good Deed in 1080p[0m
+02-02 06:58:41 INFO [0m[hpotato.core.plugins.base] Opening url: get http://katcr.to/span/m-i6612630/, data: [][0m
+02-02 06:58:41 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentz2.eu/feed?f=deadpool+no+good+deed+2017%20seed%20%3E%200, data: [][0m
+02-02 06:58:41 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+02-02 06:58:42 ERROR [31m[hpotato.core.plugins.base] Failed opening url in Torrentz: https://torrentz2.eu/feed?f=deadpool+no+good+deed+2017%20seed%20%3E%200 Traceback (most recent call last):
+HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://torrentz2.eu/feed?f=deadpool+no+good+deed+2017%20seed%20%3E%200
+[0m
+02-02 06:58:42 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentz2.eu/feed?f=deadpool%3A+no+good+deed+2017%20seed%20%3E%200, data: [][0m
+02-02 06:58:42 ERROR [31m[hpotato.core.plugins.base] Failed opening url in Torrentz: https://torrentz2.eu/feed?f=deadpool%3A+no+good+deed+2017%20seed%20%3E%200 Traceback (most recent call last):
+HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://torrentz2.eu/feed?f=deadpool%3A+no+good+deed+2017%20seed%20%3E%200
+[0m
+02-02 06:58:43 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+02-02 06:58:43 INFO [0m[core.media.movie.searcher] Search for Deadpool: No Good Deed in BR-Rip[0m
+02-02 06:58:43 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentz2.eu/feed?f=deadpool+no+good+deed+2017%20seed%20%3E%200, data: [][0m
+02-02 06:58:43 INFO [0m[hpotato.core.plugins.base] Opening url: get https://urbanproxy.eu/search/%22Deadpool%3A+No+Good+Deed+2017%22/0/7/201,207, data: [][0m
+02-02 06:58:43 ERROR [31m[hpotato.core.plugins.base] Failed opening url in Torrentz: https://torrentz2.eu/feed?f=deadpool+no+good+deed+2017%20seed%20%3E%200 Traceback (most recent call last):
+HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://torrentz2.eu/feed?f=deadpool+no+good+deed+2017%20seed%20%3E%200
+[0m
+02-02 06:58:43 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentz2.eu/feed?f=deadpool%3A+no+good+deed+2017%20seed%20%3E%200, data: [][0m
+02-02 06:58:44 ERROR [31m[hpotato.core.plugins.base] Failed opening url in Torrentz: https://torrentz2.eu/feed?f=deadpool%3A+no+good+deed+2017%20seed%20%3E%200 Traceback (most recent call last):
+HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://torrentz2.eu/feed?f=deadpool%3A+no+good+deed+2017%20seed%20%3E%200
+[0m
+02-02 06:58:44 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+02-02 06:58:45 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+02-02 06:58:45 INFO [0m[core.media.movie.searcher] Search for Deadpool: No Good Deed in DVD-Rip[0m
+02-02 06:58:46 INFO [0m[hpotato.core.plugins.base] Opening url: get https://urbanproxy.eu/search/%22Deadpool%3A+No+Good+Deed+2017%22/0/7/201, data: [][0m
+02-02 06:58:46 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+02-02 06:58:48 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+02-02 06:58:48 INFO [0m[core.media.movie.searcher] Search for Mary Queen of Scots in 720p[0m
+02-02 06:58:48 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/1337x/results/potato/?imdbid=tt2328900&search=Mary+Queen+of+Scots+2018&user=&passkey=xxx[0m
+02-02 06:58:51 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/btbit/results/potato/?imdbid=tt2328900&search=Mary+Queen+of+Scots+2018&user=&passkey=xxx[0m
+02-02 06:58:54 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/extratorrent-ag/results/potato/?imdbid=tt2328900&search=Mary+Queen+of+Scots+2018&user=&passkey=xxx[0m
+02-02 06:58:57 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/gimmepeers/results/potato/?imdbid=tt2328900&search=Mary+Queen+of+Scots+2018&user=&passkey=xxx[0m
+02-02 06:58:58 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/m/mary-queen-of-scots-2018/se/desc/1/, data: [][0m
+02-02 06:58:58 INFO [0m[hpotato.core.plugins.base] Opening url: get https://urbanproxy.eu/search/%22Mary+Queen+of+Scots+2018%22/0/7/207, data: [][0m
+02-02 06:58:58 INFO [0m[hpotato.core.plugins.base] Opening url: get https://yts.am/api/v2/list_movies.json?query_term=tt2328900&limit=10&page=1, data: [][0m
+02-02 06:58:58 INFO [0m[hpotato.core.plugins.base] Opening url: get http://katcr.to/span/m-i2328900/, data: [][0m
+02-02 06:59:00 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.nzbgeek.info/api?imdbid=2328900&apikey=xxx&t=movie&extended=1&cat=2000, data: [][0m
+02-02 06:59:02 INFO [0m[core.media.movie.searcher] Search for Mary Queen of Scots in 1080p[0m
+02-02 06:59:03 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/m/mary-queen-of-scots-2018/se/desc/1/, data: [][0m
+02-02 06:59:03 INFO [0m[core.media.movie.searcher] Search for Mary Queen of Scots in BR-Rip[0m
+02-02 06:59:03 INFO [0m[edia._base.providers.base] Found: score(275) on TorrentPotato, 10.0.0.12: Mary Queen of Scots (2018) 720p English HDCAMRip x264 AAC 900MB [MovCr][1337x][0m
+02-02 06:59:03 INFO [0m[edia._base.providers.base] Found: score(67) on TorrentPotato, 10.0.0.12: www.MovCr.cc - Mary Queen of Scots (2018) 720p English HDCAMRip x264 AAC 900MB [MovCr].mkv[btbit][0m
+02-02 06:59:04 INFO [0m[edia._base.providers.base] Found: score(72) on TorrentPotato, 10.0.0.12: 1[ExtraTorrent.ag][0m
+02-02 06:59:04 INFO [0m[edia._base.providers.base] Found: score(72) on TorrentPotato, 10.0.0.12: 1[ExtraTorrent.ag][0m
+02-02 06:59:04 INFO [0m[edia._base.providers.base] Found: score(182) on TorrentPotato, 10.0.0.12: Mary Queen of Scots (2018) 720p English HDCAMRip x264 AAC 900MB [MovCr][ExtraTorrent.ag][0m
+02-02 06:59:04 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/m/mary-queen-of-scots-2018/se/desc/1/, data: [][0m
+02-02 06:59:04 INFO [0m[hpotato.core.plugins.base] Opening url: get https://urbanproxy.eu/search/%22Mary+Queen+of+Scots+2018%22/0/7/201,207, data: [][0m
+02-02 06:59:05 INFO [0m[tato.core.plugins.release] Ignored: Mary Queen of Scots (2018) 720p English HDCAMRip x264 AAC 900MB [MovCr][ExtraTorrent.ag][0m
+02-02 06:59:05 INFO [0m[tato.core.plugins.release] Ignored: 1[ExtraTorrent.ag][0m
+02-02 06:59:05 INFO [0m[tato.core.plugins.release] Ignored: 1[ExtraTorrent.ag][0m
+02-02 06:59:05 INFO [0m[tato.core.plugins.release] Ignored: www.MovCr.cc - Mary Queen of Scots (2018) 720p English HDCAMRip x264 AAC 900MB [MovCr].mkv[btbit][0m
+02-02 06:59:05 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/dl/1337x/?jackett_apikey=40razu718vck0witr52t9otsw5bmx4tm&path=Q2ZESjhKRUdIcEFvQUxCTWs1ZWhrbm1zZTFodnNjZTROVmsyR2lCTDFTVndrUzU4NHZEUDBfWDJmSWxoRjdGd2FpczZ4UTZMYjA4MkdtalFSbl9kTXA0MFRHM21hMEZ3MGxHcDFnU2lmM0I5RmZiMExnTlhMbHFCYm9nVUR2ZVdmUlk0SUFYT0hZOTJtTHlkX2VqcU5lNFJPTXo2VVIwcHdDZGd2bDg2SVd2ZUg0VkZaWVU0NkVieXA1R3hnX3g0UU95dE5lSUwwT1dxWm0zd0RydDhzejNBU3JlU0MzNE1wMURSMTFzazN6MGxPZk5DNHpfa2liSGVqcnlkNUdrZXg2d3g0QQ&file=Mary+Queen+of+Scots+(2018)+720p+English+HDCAMRip+x264+AAC+900MB+[MovCr], data: [][0m
+02-02 06:59:05 ERROR [31m[edia._base.providers.base] Failed getting release from TorrentPotato: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 207, in download
+    return self.urlopen(url, headers = {'User-Agent': Env.getIdentifier()}, show_error = False)
+  File "/app/couchpotato/couchpotato/core/plugins/base.py", line 221, in urlopen
+    response = r.request(method, url, **kwargs)
+  File "/app/couchpotato/libs/requests/sessions.py", line 469, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/app/couchpotato/libs/requests/sessions.py", line 598, in send
+    history = [resp for resp in gen] if allow_redirects else []
+  File "/app/couchpotato/libs/requests/sessions.py", line 194, in resolve_redirects
+    **adapter_kwargs
+  File "/app/couchpotato/libs/requests/sessions.py", line 571, in send
+    adapter = self.get_adapter(url=request.url)
+  File "/app/couchpotato/libs/requests/sessions.py", line 645, in get_adapter
+    raise InvalidSchema("No connection adapters were found for '%s'" % url)
+InvalidSchema: No connection adapters were found for 'magnet:?xt=urn:btih:D8836D3F2895C0F48CDBF3F122F8F05A2CF5A94A&dn=Mary+Queen+of+Scots+(2018)+720p+English+HDCAMRip+x264+AAC+900MB+[MovCr]&tr=udp:%2F%2Ftracker.coppersurfer.tk:6969%2Fannounce&tr=udp:%2F%2Ftracker.opentrackr.org:1337%2Fannounce&tr=udp:%2F%2Ftracker.leechers-paradise.org:6969%2Fannounce&tr=udp:%2F%2F9.rarbg.to:2800%2Fannounce&tr=udp:%2F%2F9.rarbg.to:2800%2Fannounce&tr=udp:%2F%2Feddie4.nl:6969%2Fannounce&tr=udp:%2F%2F9.rarbg.to:2800%2Fannounce&tr=udp:%2F%2F9.rarbg.to:2800%2Fannounce&tr=udp:%2F%2Ftracker.doko.moe:6969%2Fannounce&tr=udp:%2F%2Ftracker.doko.moe:6969%2Fannounce&tr=udp:%2F%2Fthetracker.org:80%2Fannounce&tr=udp:%2F%2Fthetracker.org:80%2Fannounce&tr=udp:%2F%2Fbt.xxx-tracker.com:2710%2Fannounce&tr=udp:%2F%2Fbt.xxx-tracker.com:2710%2Fannounce&tr=udp:%2F%2Ftracker.zer0day.to:1337%2Fannounce&tr=udp:%2F%2Ftracker.leechers-paradise.org:6969%2Fannounce&tr=udp:%2F%2Fcoppersurfer.tk:6969%2Fannounce'
+[0m
+02-02 06:59:05 INFO [0m[core.media.movie.searcher] Search for Mary Queen of Scots in DVD-Rip[0m
+02-02 06:59:06 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/m/mary-queen-of-scots-2018/se/desc/1/, data: [][0m
+02-02 06:59:06 INFO [0m[hpotato.core.plugins.base] Opening url: get https://urbanproxy.eu/search/%22Mary+Queen+of+Scots+2018%22/0/7/201, data: [][0m
+02-02 07:45:37 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-02 09:45:37 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-02 11:45:37 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-02 13:45:37 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-02 15:45:36 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/messages/?last_check=1384713000, data: [][0m
+02-02 15:45:37 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-02 15:45:37 INFO [0m[potato.core._base.updater] Checking for new version on github for CouchPotatoServer[0m
+02-02 17:45:37 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-02 19:45:37 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-02 21:45:37 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-02 23:45:37 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-03 01:45:37 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-03 03:45:36 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/messages/?last_check=1384713000, data: [][0m
+02-03 03:45:37 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-03 05:45:37 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-03 06:58:10 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/eta/tt4154664/, data: [][0m
+02-03 06:58:12 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/eta/tt2328900/, data: [][0m
+02-03 06:58:12 INFO [0m[core.media.movie.searcher] Search for Mary Queen of Scots in 720p[0m
+02-03 06:58:12 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/1337x/results/potato/?imdbid=tt2328900&search=Mary+Queen+of+Scots+2018&user=&passkey=xxx[0m
+02-03 06:58:24 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/btbit/results/potato/?imdbid=tt2328900&search=Mary+Queen+of+Scots+2018&user=&passkey=xxx[0m
+02-03 06:58:36 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/extratorrent-ag/results/potato/?imdbid=tt2328900&search=Mary+Queen+of+Scots+2018&user=&passkey=xxx[0m
+02-03 06:58:42 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/gimmepeers/results/potato/?imdbid=tt2328900&search=Mary+Queen+of+Scots+2018&user=&passkey=xxx[0m
+02-03 06:58:46 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentz2.eu/feed?f=mary+queen+of+scots+2018%20seed%20%3E%200, data: [][0m
+02-03 06:58:46 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/m/mary-queen-of-scots-2018/se/desc/1/, data: [][0m
+02-03 06:58:46 INFO [0m[hpotato.core.plugins.base] Opening url: get https://urbanproxy.eu/search/%22Mary+Queen+of+Scots+2018%22/0/7/207, data: [][0m
+02-03 06:58:46 INFO [0m[hpotato.core.plugins.base] Opening url: get https://yts.am/api/v2/list_movies.json?query_term=tt2328900&limit=10&page=1, data: [][0m
+02-03 06:58:46 INFO [0m[hpotato.core.plugins.base] Opening url: get http://katcr.to/span/m-i2328900/, data: [][0m
+02-03 06:58:46 ERROR [31m[hpotato.core.plugins.base] Failed opening url in Torrentz: https://torrentz2.eu/feed?f=mary+queen+of+scots+2018%20seed%20%3E%200 Traceback (most recent call last):
+HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://torrentz2.eu/feed?f=mary+queen+of+scots+2018%20seed%20%3E%200
+[0m
+02-03 06:59:16 ERROR [31m[hpotato.core.plugins.base] Failed opening url in MagnetDL: http://www.magnetdl.com/m/mary-queen-of-scots-2018/se/desc/1/ Traceback (most recent call last):
+ReadTimeout: HTTPSConnectionPool(host='www.magnetdl.com', port=443): Read timed out. (read timeout=30)
+[0m
+02-03 06:59:16 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.nzbgeek.info/api?imdbid=2328900&apikey=xxx&t=movie&extended=1&cat=2000, data: [][0m
+02-03 06:59:24 INFO [0m[core.media.movie.searcher] Search for Mary Queen of Scots in 1080p[0m
+02-03 06:59:25 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/m/mary-queen-of-scots-2018/se/desc/1/, data: [][0m
+02-03 06:59:25 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentz2.eu/feed?f=mary+queen+of+scots+2018%20seed%20%3E%200, data: [][0m
+02-03 06:59:26 ERROR [31m[hpotato.core.plugins.base] Failed opening url in Torrentz: https://torrentz2.eu/feed?f=mary+queen+of+scots+2018%20seed%20%3E%200 Traceback (most recent call last):
+HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://torrentz2.eu/feed?f=mary+queen+of+scots+2018%20seed%20%3E%200
+[0m
+02-03 06:59:27 INFO [0m[core.media.movie.searcher] Search for Mary Queen of Scots in BR-Rip[0m
+02-03 06:59:27 INFO [0m[edia._base.providers.base] Found: score(275) on TorrentPotato, 10.0.0.12: Mary Queen of Scots (2018) 720p English HDCAMRip x264 AAC 900MB [MovCr][1337x][0m
+02-03 06:59:29 INFO [0m[edia._base.providers.base] Found: score(98) on TorrentPotato, 10.0.0.12: Mary Queen of Scots 2018 [Worldfree4u.club] 720p HDTC x264 AAC.mkv[btbit][0m
+02-03 06:59:35 INFO [0m[edia._base.providers.base] Found: score(67) on TorrentPotato, 10.0.0.12: www.MovCr.cc - Mary Queen of Scots (2018) 720p English HDCAMRip x264 AAC 900MB [MovCr].mkv[btbit][0m
+02-03 06:59:38 INFO [0m[edia._base.providers.base] Found: score(72) on TorrentPotato, 10.0.0.12: 1[ExtraTorrent.ag][0m
+02-03 06:59:38 INFO [0m[edia._base.providers.base] Found: score(72) on TorrentPotato, 10.0.0.12: 1[ExtraTorrent.ag][0m
+02-03 06:59:38 INFO [0m[edia._base.providers.base] Found: score(182) on TorrentPotato, 10.0.0.12: Mary Queen of Scots (2018) 720p English HDCAMRip x264 AAC 900MB [MovCr][ExtraTorrent.ag][0m
+02-03 06:59:38 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentz2.eu/feed?f=mary+queen+of+scots+2018%20seed%20%3E%200, data: [][0m
+02-03 06:59:38 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/m/mary-queen-of-scots-2018/se/desc/1/, data: [][0m
+02-03 06:59:38 INFO [0m[hpotato.core.plugins.base] Opening url: get https://urbanproxy.eu/search/%22Mary+Queen+of+Scots+2018%22/0/7/201,207, data: [][0m
+02-03 06:59:39 ERROR [31m[hpotato.core.plugins.base] Failed opening url in Torrentz: https://torrentz2.eu/feed?f=mary+queen+of+scots+2018%20seed%20%3E%200 Traceback (most recent call last):
+HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://torrentz2.eu/feed?f=mary+queen+of+scots+2018%20seed%20%3E%200
+[0m
+02-03 06:59:39 INFO [0m[tato.core.plugins.release] Ignored: Mary Queen of Scots (2018) 720p English HDCAMRip x264 AAC 900MB [MovCr][ExtraTorrent.ag][0m
+02-03 06:59:39 INFO [0m[tato.core.plugins.release] Ignored: 1[ExtraTorrent.ag][0m
+02-03 06:59:39 INFO [0m[tato.core.plugins.release] Ignored: 1[ExtraTorrent.ag][0m
+02-03 06:59:39 INFO [0m[tato.core.plugins.release] Ignored: www.MovCr.cc - Mary Queen of Scots (2018) 720p English HDCAMRip x264 AAC 900MB [MovCr].mkv[btbit][0m
+02-03 06:59:39 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/dl/1337x/?jackett_apikey=40razu718vck0witr52t9otsw5bmx4tm&path=Q2ZESjhKRUdIcEFvQUxCTWs1ZWhrbm1zZTFnREUwY2dtdGJxS3ZoQ2Z5a2wtQ2VRM0tselNBMl9SY09adUFPbmNNaG00R2ZWS1VIaVpnX1pMOFFjdFUwSDhmcWpHT0ZnemVxQkhPM1pHT0hOV1hkYncyY2FfLU5MeXBHc0ZuMFVYVzJNTlQ4X3oxVXhyWVdhZXc0cEVCNE9yX2FPZmhJNDZQZFhUQXFjdlY2T2xwRGFEY0tJSTBRVVBEVS0yQ2NhVzJXSGwwanlCT201QWFyOW1wUUQ5ZEpOSmxldzY0TW9CdmV2YUQxUjlwWWdBOGN2NXZoMkVKc0FHQ1lqRHFqR0ZUbE5EQQ&file=Mary+Queen+of+Scots+(2018)+720p+English+HDCAMRip+x264+AAC+900MB+[MovCr], data: [][0m
+02-03 06:59:40 ERROR [31m[edia._base.providers.base] Failed getting release from TorrentPotato: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 207, in download
+    return self.urlopen(url, headers = {'User-Agent': Env.getIdentifier()}, show_error = False)
+  File "/app/couchpotato/couchpotato/core/plugins/base.py", line 221, in urlopen
+    response = r.request(method, url, **kwargs)
+  File "/app/couchpotato/libs/requests/sessions.py", line 469, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/app/couchpotato/libs/requests/sessions.py", line 598, in send
+    history = [resp for resp in gen] if allow_redirects else []
+  File "/app/couchpotato/libs/requests/sessions.py", line 194, in resolve_redirects
+    **adapter_kwargs
+  File "/app/couchpotato/libs/requests/sessions.py", line 571, in send
+    adapter = self.get_adapter(url=request.url)
+  File "/app/couchpotato/libs/requests/sessions.py", line 645, in get_adapter
+    raise InvalidSchema("No connection adapters were found for '%s'" % url)
+InvalidSchema: No connection adapters were found for 'magnet:?xt=urn:btih:D8836D3F2895C0F48CDBF3F122F8F05A2CF5A94A&dn=Mary+Queen+of+Scots+(2018)+720p+English+HDCAMRip+x264+AAC+900MB+[MovCr]&tr=udp:%2F%2Ftracker.coppersurfer.tk:6969%2Fannounce&tr=udp:%2F%2Ftracker.opentrackr.org:1337%2Fannounce&tr=udp:%2F%2Ftracker.leechers-paradise.org:6969%2Fannounce&tr=udp:%2F%2F9.rarbg.to:2800%2Fannounce&tr=udp:%2F%2F9.rarbg.to:2800%2Fannounce&tr=udp:%2F%2Feddie4.nl:6969%2Fannounce&tr=udp:%2F%2F9.rarbg.to:2800%2Fannounce&tr=udp:%2F%2F9.rarbg.to:2800%2Fannounce&tr=udp:%2F%2Ftracker.doko.moe:6969%2Fannounce&tr=udp:%2F%2Ftracker.doko.moe:6969%2Fannounce&tr=udp:%2F%2Fthetracker.org:80%2Fannounce&tr=udp:%2F%2Fthetracker.org:80%2Fannounce&tr=udp:%2F%2Fbt.xxx-tracker.com:2710%2Fannounce&tr=udp:%2F%2Fbt.xxx-tracker.com:2710%2Fannounce&tr=udp:%2F%2Ftracker.zer0day.to:1337%2Fannounce&tr=udp:%2F%2Ftracker.leechers-paradise.org:6969%2Fannounce&tr=udp:%2F%2Fcoppersurfer.tk:6969%2Fannounce'
+[0m
+02-03 06:59:40 INFO [0m[hpotato.core.plugins.base] Opening url: get magnet:?xt=urn:btih:958c1596bb7655619470b98ecf7c9cb8a320e453&dn=Mary%20Queen%20of%20Scots%202018%20[Worldfree4u.club]%20720p%20HDTC%20x264%20AAC.mkv, data: [][0m
+02-03 06:59:40 ERROR [31m[edia._base.providers.base] Failed getting release from TorrentPotato: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 207, in download
+    return self.urlopen(url, headers = {'User-Agent': Env.getIdentifier()}, show_error = False)
+  File "/app/couchpotato/couchpotato/core/plugins/base.py", line 221, in urlopen
+    response = r.request(method, url, **kwargs)
+  File "/app/couchpotato/libs/requests/sessions.py", line 469, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/app/couchpotato/libs/requests/sessions.py", line 571, in send
+    adapter = self.get_adapter(url=request.url)
+  File "/app/couchpotato/libs/requests/sessions.py", line 645, in get_adapter
+    raise InvalidSchema("No connection adapters were found for '%s'" % url)
+InvalidSchema: No connection adapters were found for 'magnet:?xt=urn:btih:958c1596bb7655619470b98ecf7c9cb8a320e453&dn=Mary%20Queen%20of%20Scots%202018%20[Worldfree4u.club]%20720p%20HDTC%20x264%20AAC.mkv'
+[0m
+02-03 06:59:40 INFO [0m[core.media.movie.searcher] Search for Mary Queen of Scots in DVD-Rip[0m
+02-03 06:59:43 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentz2.eu/feed?f=mary+queen+of+scots+2018%20seed%20%3E%200, data: [][0m
+02-03 06:59:43 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/m/mary-queen-of-scots-2018/se/desc/1/, data: [][0m
+02-03 06:59:43 INFO [0m[hpotato.core.plugins.base] Opening url: get https://urbanproxy.eu/search/%22Mary+Queen+of+Scots+2018%22/0/7/201, data: [][0m
+02-03 06:59:43 ERROR [31m[hpotato.core.plugins.base] Failed opening url in Torrentz: https://torrentz2.eu/feed?f=mary+queen+of+scots+2018%20seed%20%3E%200 Traceback (most recent call last):
+HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://torrentz2.eu/feed?f=mary+queen+of+scots+2018%20seed%20%3E%200
+[0m
+02-03 06:59:44 INFO [0m[core.media.movie.searcher] Search for Deadpool: No Good Deed in 720p ignoring ETA[0m
+02-03 06:59:44 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/1337x/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+02-03 06:59:46 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/btbit/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+02-03 06:59:48 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/extratorrent-ag/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+02-03 06:59:51 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/gimmepeers/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+02-03 06:59:51 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentz2.eu/feed?f=deadpool+no+good+deed+2017%20seed%20%3E%200, data: [][0m
+02-03 06:59:51 INFO [0m[hpotato.core.plugins.base] Opening url: get http://katcr.to/span/m-i6612630/, data: [][0m
+02-03 06:59:51 INFO [0m[hpotato.core.plugins.base] Opening url: get https://yts.am/api/v2/list_movies.json?query_term=tt6612630&limit=10&page=1, data: [][0m
+02-03 06:59:51 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+02-03 06:59:51 INFO [0m[hpotato.core.plugins.base] Opening url: get https://urbanproxy.eu/search/%22Deadpool%3A+No+Good+Deed+2017%22/0/7/207, data: [][0m
+02-03 06:59:52 ERROR [31m[hpotato.core.plugins.base] Failed opening url in Torrentz: https://torrentz2.eu/feed?f=deadpool+no+good+deed+2017%20seed%20%3E%200 Traceback (most recent call last):
+HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://torrentz2.eu/feed?f=deadpool+no+good+deed+2017%20seed%20%3E%200
+[0m
+02-03 06:59:52 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentz2.eu/feed?f=deadpool%3A+no+good+deed+2017%20seed%20%3E%200, data: [][0m
+02-03 06:59:52 ERROR [31m[hpotato.core.plugins.base] Failed opening url in Torrentz: https://torrentz2.eu/feed?f=deadpool%3A+no+good+deed+2017%20seed%20%3E%200 Traceback (most recent call last):
+HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://torrentz2.eu/feed?f=deadpool%3A+no+good+deed+2017%20seed%20%3E%200
+[0m
+02-03 06:59:53 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+02-03 06:59:53 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.nzbgeek.info/api?imdbid=6612630&apikey=xxx&t=movie&extended=1&cat=2000, data: [][0m
+02-03 06:59:58 INFO [0m[core.media.movie.searcher] Search for Deadpool: No Good Deed in 1080p ignoring ETA[0m
+02-03 07:00:01 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+02-03 07:00:02 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+02-03 07:00:03 INFO [0m[core.media.movie.searcher] Search for Deadpool: No Good Deed in BR-Rip ignoring ETA[0m
+02-03 07:00:03 INFO [0m[hpotato.core.plugins.base] Opening url: get https://urbanproxy.eu/search/%22Deadpool%3A+No+Good+Deed+2017%22/0/7/201,207, data: [][0m
+02-03 07:00:04 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+02-03 07:00:05 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+02-03 07:00:05 INFO [0m[core.media.movie.searcher] Search for Deadpool: No Good Deed in DVD-Rip ignoring ETA[0m
+02-03 07:00:06 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+02-03 07:00:06 INFO [0m[hpotato.core.plugins.base] Opening url: get https://urbanproxy.eu/search/%22Deadpool%3A+No+Good+Deed+2017%22/0/7/201, data: [][0m
+02-03 07:00:07 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+02-03 07:00:08 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/eta/tt1560220/, data: [][0m
+02-03 07:00:14 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/eta/tt2527338/, data: [][0m
+02-03 07:45:37 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-03 09:45:37 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
+02-03 11:45:37 ERROR [31m[tato.core.plugins.renamer] The from folder "/root/downloads/completed/couchpotato" doesn't exist. Please create it.[0m
