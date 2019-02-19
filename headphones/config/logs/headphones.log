@@ -1157,3 +1157,332 @@
 03-Feb-2019 09:45:36 - INFO    :: Thread-19 : Retrieving latest version information from GitHub
 03-Feb-2019 09:45:36 - INFO    :: Thread-19 : Comparing currently installed version with latest GitHub version
 03-Feb-2019 09:45:37 - INFO    :: Thread-19 : New version is available. You are 6 commits behind
+03-Feb-2019 15:45:36 - INFO    :: Thread-16 : Searching for wanted albums
+03-Feb-2019 15:45:36 - INFO    :: Thread-17 : Retrieving latest version information from GitHub
+03-Feb-2019 15:45:36 - INFO    :: Thread-21 : Starting update for 0 active artists
+03-Feb-2019 15:45:36 - INFO    :: Thread-16 : Search for wanted albums complete
+03-Feb-2019 15:45:36 - INFO    :: Thread-18 : Checking if any torrents have finished seeding and can be removed
+03-Feb-2019 15:45:36 - INFO    :: Thread-21 : Active artist update complete
+03-Feb-2019 15:45:36 - INFO    :: Thread-18 : Checking finished torrents completed
+03-Feb-2019 15:45:36 - INFO    :: Thread-17 : Comparing currently installed version with latest GitHub version
+03-Feb-2019 15:45:37 - INFO    :: Thread-17 : New version is available. You are 6 commits behind
+03-Feb-2019 21:45:36 - INFO    :: Thread-20 : Retrieving latest version information from GitHub
+03-Feb-2019 21:45:36 - INFO    :: Thread-20 : Comparing currently installed version with latest GitHub version
+03-Feb-2019 21:45:37 - INFO    :: Thread-20 : New version is available. You are 6 commits behind
+04-Feb-2019 19:35:45 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-Feb-2019 19:35:45 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-Feb-2019 19:36:06 - INFO    :: MainThread : Comparing currently installed version with latest GitHub version
+04-Feb-2019 19:36:07 - INFO    :: MainThread : New version is available. You are 6 commits behind
+04-Feb-2019 19:36:07 - INFO    :: MainThread : Starting Headphones web server on http://0.0.0.0:8181/
+04-Feb-2019 19:36:07 - INFO    :: MainThread : Scheduled background task: Search for Wanted
+04-Feb-2019 19:36:07 - INFO    :: MainThread : Scheduled background task: Download Scan
+04-Feb-2019 19:36:07 - INFO    :: MainThread : Scheduled background task: Library Scan
+04-Feb-2019 19:36:07 - INFO    :: MainThread : Scheduled background task: MusicBrainz Update
+04-Feb-2019 19:36:07 - INFO    :: MainThread : Scheduled background task: Check GitHub for updates
+04-Feb-2019 19:36:07 - INFO    :: MainThread : Scheduled background task: Torrent removal check
+05-Feb-2019 01:36:07 - INFO    :: Thread-18 : Retrieving latest version information from GitHub
+05-Feb-2019 01:36:08 - INFO    :: Thread-18 : Comparing currently installed version with latest GitHub version
+05-Feb-2019 01:36:08 - INFO    :: Thread-18 : New version is available. You are 6 commits behind
+05-Feb-2019 07:36:07 - INFO    :: Thread-20 : Checking if any torrents have finished seeding and can be removed
+05-Feb-2019 07:36:07 - INFO    :: Thread-12 : Retrieving latest version information from GitHub
+05-Feb-2019 07:36:07 - INFO    :: Thread-20 : Checking finished torrents completed
+05-Feb-2019 07:36:08 - INFO    :: Thread-12 : Comparing currently installed version with latest GitHub version
+05-Feb-2019 07:36:08 - INFO    :: Thread-12 : New version is available. You are 6 commits behind
+05-Feb-2019 13:36:07 - INFO    :: Thread-14 : Retrieving latest version information from GitHub
+05-Feb-2019 13:36:09 - INFO    :: Thread-14 : Comparing currently installed version with latest GitHub version
+05-Feb-2019 13:36:10 - INFO    :: Thread-14 : New version is available. You are 6 commits behind
+05-Feb-2019 19:36:07 - INFO    :: Thread-13 : Searching for wanted albums
+05-Feb-2019 19:36:07 - INFO    :: Thread-19 : Retrieving latest version information from GitHub
+05-Feb-2019 19:36:07 - INFO    :: Thread-20 : Checking if any torrents have finished seeding and can be removed
+05-Feb-2019 19:36:07 - INFO    :: Thread-13 : Search for wanted albums complete
+05-Feb-2019 19:36:07 - INFO    :: Thread-18 : Starting update for 0 active artists
+05-Feb-2019 19:36:07 - INFO    :: Thread-18 : Active artist update complete
+05-Feb-2019 19:36:07 - INFO    :: Thread-20 : Checking finished torrents completed
+05-Feb-2019 19:36:08 - INFO    :: Thread-19 : Comparing currently installed version with latest GitHub version
+05-Feb-2019 19:36:09 - INFO    :: Thread-19 : New version is available. You are 6 commits behind
+06-Feb-2019 01:36:07 - INFO    :: Thread-21 : Retrieving latest version information from GitHub
+06-Feb-2019 01:36:08 - INFO    :: Thread-21 : Comparing currently installed version with latest GitHub version
+06-Feb-2019 01:36:08 - INFO    :: Thread-21 : New version is available. You are 6 commits behind
+06-Feb-2019 07:36:07 - INFO    :: Thread-15 : Retrieving latest version information from GitHub
+06-Feb-2019 07:36:07 - INFO    :: Thread-13 : Checking if any torrents have finished seeding and can be removed
+06-Feb-2019 07:36:07 - INFO    :: Thread-13 : Checking finished torrents completed
+06-Feb-2019 07:36:08 - INFO    :: Thread-15 : Comparing currently installed version with latest GitHub version
+06-Feb-2019 07:36:08 - INFO    :: Thread-15 : New version is available. You are 6 commits behind
+06-Feb-2019 13:36:07 - INFO    :: Thread-19 : Retrieving latest version information from GitHub
+06-Feb-2019 13:36:08 - INFO    :: Thread-19 : Comparing currently installed version with latest GitHub version
+06-Feb-2019 13:36:08 - INFO    :: Thread-19 : New version is available. You are 6 commits behind
+06-Feb-2019 18:18:30 - INFO    :: MainThread : Signal 15 caught, saving and exiting...
+06-Feb-2019 18:18:30 - INFO    :: MainThread : Writing configuration to file
+06-Feb-2019 18:18:30 - INFO    :: MainThread : Headphones is shutting down...
+06-Feb-2019 18:18:28 - INFO    :: MainThread : Checking to see if the database has all tables....
+06-Feb-2019 18:18:28 - INFO    :: MainThread : Retrieving latest version information from GitHub
+06-Feb-2019 18:18:29 - INFO    :: MainThread : Comparing currently installed version with latest GitHub version
+06-Feb-2019 18:18:29 - INFO    :: MainThread : New version is available. You are 6 commits behind
+06-Feb-2019 18:18:29 - INFO    :: MainThread : Starting Headphones web server on http://0.0.0.0:8181/
+06-Feb-2019 18:18:30 - INFO    :: MainThread : Scheduled background task: Search for Wanted
+06-Feb-2019 18:18:30 - INFO    :: MainThread : Scheduled background task: Download Scan
+06-Feb-2019 18:18:30 - INFO    :: MainThread : Scheduled background task: Library Scan
+06-Feb-2019 18:18:30 - INFO    :: MainThread : Scheduled background task: MusicBrainz Update
+06-Feb-2019 18:18:30 - INFO    :: MainThread : Scheduled background task: Check GitHub for updates
+06-Feb-2019 18:18:30 - INFO    :: MainThread : Scheduled background task: Torrent removal check
+07-Feb-2019 00:18:30 - INFO    :: Thread-18 : Retrieving latest version information from GitHub
+07-Feb-2019 00:18:30 - INFO    :: Thread-18 : Comparing currently installed version with latest GitHub version
+07-Feb-2019 00:18:31 - INFO    :: Thread-18 : New version is available. You are 6 commits behind
+07-Feb-2019 06:18:30 - INFO    :: Thread-12 : Retrieving latest version information from GitHub
+07-Feb-2019 06:18:30 - INFO    :: Thread-20 : Checking if any torrents have finished seeding and can be removed
+07-Feb-2019 06:18:30 - INFO    :: Thread-20 : Checking finished torrents completed
+07-Feb-2019 06:18:30 - INFO    :: Thread-12 : Comparing currently installed version with latest GitHub version
+07-Feb-2019 06:18:31 - INFO    :: Thread-12 : New version is available. You are 6 commits behind
+07-Feb-2019 12:18:30 - INFO    :: Thread-14 : Retrieving latest version information from GitHub
+07-Feb-2019 12:19:10 - ERROR   :: Thread-14 : Unable to connect to remote host. Check if the remote host is up and running.
+07-Feb-2019 12:19:10 - WARNING :: Thread-14 : Could not get the latest version from GitHub. Are you running a local development version?
+07-Feb-2019 18:18:30 - INFO    :: Thread-13 : Searching for wanted albums
+07-Feb-2019 18:18:30 - INFO    :: Thread-13 : Search for wanted albums complete
+07-Feb-2019 18:18:30 - INFO    :: Thread-20 : Retrieving latest version information from GitHub
+07-Feb-2019 18:18:30 - INFO    :: Thread-19 : Checking if any torrents have finished seeding and can be removed
+07-Feb-2019 18:18:30 - INFO    :: Thread-15 : Starting update for 0 active artists
+07-Feb-2019 18:18:30 - INFO    :: Thread-19 : Checking finished torrents completed
+07-Feb-2019 18:18:30 - INFO    :: Thread-15 : Active artist update complete
+07-Feb-2019 18:19:10 - ERROR   :: Thread-20 : Unable to connect to remote host. Check if the remote host is up and running.
+07-Feb-2019 18:19:10 - WARNING :: Thread-20 : Could not get the latest version from GitHub. Are you running a local development version?
+08-Feb-2019 00:18:30 - INFO    :: Thread-21 : Retrieving latest version information from GitHub
+08-Feb-2019 00:19:10 - ERROR   :: Thread-21 : Unable to connect to remote host. Check if the remote host is up and running.
+08-Feb-2019 00:19:10 - WARNING :: Thread-21 : Could not get the latest version from GitHub. Are you running a local development version?
+08-Feb-2019 06:18:30 - INFO    :: Thread-13 : Retrieving latest version information from GitHub
+08-Feb-2019 06:18:30 - INFO    :: Thread-18 : Checking if any torrents have finished seeding and can be removed
+08-Feb-2019 06:18:30 - INFO    :: Thread-18 : Checking finished torrents completed
+08-Feb-2019 06:19:11 - ERROR   :: Thread-13 : Unable to connect to remote host. Check if the remote host is up and running.
+08-Feb-2019 06:19:11 - WARNING :: Thread-13 : Could not get the latest version from GitHub. Are you running a local development version?
+08-Feb-2019 12:18:30 - INFO    :: Thread-20 : Retrieving latest version information from GitHub
+08-Feb-2019 12:19:10 - ERROR   :: Thread-20 : Unable to connect to remote host. Check if the remote host is up and running.
+08-Feb-2019 12:19:10 - WARNING :: Thread-20 : Could not get the latest version from GitHub. Are you running a local development version?
+08-Feb-2019 14:27:47 - INFO    :: MainThread : Signal 15 caught, saving and exiting...
+08-Feb-2019 14:29:48 - INFO    :: MainThread : Checking to see if the database has all tables....
+08-Feb-2019 14:29:48 - INFO    :: MainThread : Retrieving latest version information from GitHub
+08-Feb-2019 14:30:05 - INFO    :: MainThread : Comparing currently installed version with latest GitHub version
+08-Feb-2019 14:30:05 - INFO    :: MainThread : New version is available. You are 6 commits behind
+08-Feb-2019 14:30:05 - INFO    :: MainThread : Starting Headphones web server on http://0.0.0.0:8181/
+08-Feb-2019 14:30:06 - INFO    :: MainThread : Scheduled background task: Search for Wanted
+08-Feb-2019 14:30:06 - INFO    :: MainThread : Scheduled background task: Download Scan
+08-Feb-2019 14:30:06 - INFO    :: MainThread : Scheduled background task: Library Scan
+08-Feb-2019 14:30:06 - INFO    :: MainThread : Scheduled background task: MusicBrainz Update
+08-Feb-2019 14:30:06 - INFO    :: MainThread : Scheduled background task: Check GitHub for updates
+08-Feb-2019 14:30:06 - INFO    :: MainThread : Scheduled background task: Torrent removal check
+08-Feb-2019 20:30:06 - INFO    :: Thread-18 : Retrieving latest version information from GitHub
+08-Feb-2019 20:30:07 - INFO    :: Thread-18 : Comparing currently installed version with latest GitHub version
+08-Feb-2019 20:30:07 - INFO    :: Thread-18 : New version is available. You are 6 commits behind
+09-Feb-2019 02:30:06 - INFO    :: Thread-12 : Retrieving latest version information from GitHub
+09-Feb-2019 02:30:06 - INFO    :: Thread-20 : Checking if any torrents have finished seeding and can be removed
+09-Feb-2019 02:30:06 - INFO    :: Thread-20 : Checking finished torrents completed
+09-Feb-2019 02:30:06 - INFO    :: Thread-12 : Comparing currently installed version with latest GitHub version
+09-Feb-2019 02:30:07 - INFO    :: Thread-12 : New version is available. You are 6 commits behind
+09-Feb-2019 08:30:06 - INFO    :: Thread-13 : Retrieving latest version information from GitHub
+09-Feb-2019 08:30:07 - INFO    :: Thread-13 : Comparing currently installed version with latest GitHub version
+09-Feb-2019 08:30:08 - INFO    :: Thread-13 : New version is available. You are 6 commits behind
+09-Feb-2019 14:30:06 - INFO    :: Thread-14 : Searching for wanted albums
+09-Feb-2019 14:30:06 - INFO    :: Thread-14 : Search for wanted albums complete
+09-Feb-2019 14:30:06 - INFO    :: Thread-19 : Retrieving latest version information from GitHub
+09-Feb-2019 14:30:06 - INFO    :: Thread-20 : Checking if any torrents have finished seeding and can be removed
+09-Feb-2019 14:30:06 - INFO    :: Thread-15 : Starting update for 0 active artists
+09-Feb-2019 14:30:06 - INFO    :: Thread-15 : Active artist update complete
+09-Feb-2019 14:30:06 - INFO    :: Thread-20 : Checking finished torrents completed
+09-Feb-2019 14:30:06 - INFO    :: Thread-19 : Comparing currently installed version with latest GitHub version
+09-Feb-2019 14:30:07 - INFO    :: Thread-19 : New version is available. You are 6 commits behind
+09-Feb-2019 20:30:06 - INFO    :: Thread-21 : Retrieving latest version information from GitHub
+09-Feb-2019 20:30:07 - INFO    :: Thread-21 : Comparing currently installed version with latest GitHub version
+09-Feb-2019 20:30:07 - INFO    :: Thread-21 : New version is available. You are 6 commits behind
+10-Feb-2019 02:30:06 - INFO    :: Thread-14 : Retrieving latest version information from GitHub
+10-Feb-2019 02:30:06 - INFO    :: Thread-18 : Checking if any torrents have finished seeding and can be removed
+10-Feb-2019 02:30:06 - INFO    :: Thread-18 : Checking finished torrents completed
+10-Feb-2019 02:30:06 - INFO    :: Thread-14 : Comparing currently installed version with latest GitHub version
+10-Feb-2019 02:30:07 - INFO    :: Thread-14 : New version is available. You are 6 commits behind
+10-Feb-2019 08:30:06 - INFO    :: Thread-19 : Retrieving latest version information from GitHub
+10-Feb-2019 08:30:06 - INFO    :: Thread-19 : Comparing currently installed version with latest GitHub version
+10-Feb-2019 08:30:07 - INFO    :: Thread-19 : New version is available. You are 6 commits behind
+10-Feb-2019 14:30:06 - INFO    :: Thread-16 : Searching for wanted albums
+10-Feb-2019 14:30:06 - INFO    :: Thread-16 : Search for wanted albums complete
+10-Feb-2019 14:30:06 - INFO    :: Thread-17 : Retrieving latest version information from GitHub
+10-Feb-2019 14:30:06 - INFO    :: Thread-18 : Checking if any torrents have finished seeding and can be removed
+10-Feb-2019 14:30:06 - INFO    :: Thread-13 : Starting update for 0 active artists
+10-Feb-2019 14:30:06 - INFO    :: Thread-13 : Active artist update complete
+10-Feb-2019 14:30:06 - INFO    :: Thread-18 : Checking finished torrents completed
+10-Feb-2019 14:30:07 - INFO    :: Thread-17 : Comparing currently installed version with latest GitHub version
+10-Feb-2019 14:30:07 - INFO    :: Thread-17 : New version is available. You are 6 commits behind
+10-Feb-2019 20:30:06 - INFO    :: Thread-20 : Retrieving latest version information from GitHub
+10-Feb-2019 20:30:06 - INFO    :: Thread-20 : Comparing currently installed version with latest GitHub version
+10-Feb-2019 20:30:07 - INFO    :: Thread-20 : New version is available. You are 6 commits behind
+11-Feb-2019 02:30:06 - INFO    :: Thread-16 : Retrieving latest version information from GitHub
+11-Feb-2019 02:30:06 - INFO    :: Thread-21 : Checking if any torrents have finished seeding and can be removed
+11-Feb-2019 02:30:06 - INFO    :: Thread-21 : Checking finished torrents completed
+11-Feb-2019 02:30:06 - INFO    :: Thread-16 : Comparing currently installed version with latest GitHub version
+11-Feb-2019 02:30:07 - INFO    :: Thread-16 : New version is available. You are 6 commits behind
+11-Feb-2019 08:30:06 - INFO    :: Thread-17 : Retrieving latest version information from GitHub
+11-Feb-2019 08:30:06 - INFO    :: Thread-17 : Comparing currently installed version with latest GitHub version
+11-Feb-2019 08:30:09 - INFO    :: Thread-17 : New version is available. You are 6 commits behind
+11-Feb-2019 14:30:06 - INFO    :: Thread-15 : Searching for wanted albums
+11-Feb-2019 14:30:06 - INFO    :: Thread-15 : Search for wanted albums complete
+11-Feb-2019 14:30:06 - INFO    :: Thread-12 : Retrieving latest version information from GitHub
+11-Feb-2019 14:30:06 - INFO    :: Thread-19 : Starting update for 0 active artists
+11-Feb-2019 14:30:06 - INFO    :: Thread-19 : Active artist update complete
+11-Feb-2019 14:30:06 - INFO    :: Thread-21 : Checking if any torrents have finished seeding and can be removed
+11-Feb-2019 14:30:06 - INFO    :: Thread-21 : Checking finished torrents completed
+11-Feb-2019 14:30:07 - INFO    :: Thread-12 : Comparing currently installed version with latest GitHub version
+11-Feb-2019 14:30:08 - INFO    :: Thread-12 : New version is available. You are 6 commits behind
+12-Feb-2019 02:30:06 - INFO    :: Thread-15 : Retrieving latest version information from GitHub
+12-Feb-2019 02:30:06 - INFO    :: Thread-20 : Checking if any torrents have finished seeding and can be removed
+12-Feb-2019 02:30:06 - INFO    :: Thread-20 : Checking finished torrents completed
+12-Feb-2019 02:30:07 - INFO    :: Thread-15 : Comparing currently installed version with latest GitHub version
+12-Feb-2019 02:30:07 - INFO    :: Thread-15 : New version is available. You are 6 commits behind
+12-Feb-2019 08:30:06 - INFO    :: Thread-12 : Retrieving latest version information from GitHub
+12-Feb-2019 08:30:07 - INFO    :: Thread-12 : Comparing currently installed version with latest GitHub version
+12-Feb-2019 08:30:07 - INFO    :: Thread-12 : New version is available. You are 6 commits behind
+12-Feb-2019 14:30:06 - INFO    :: Thread-13 : Searching for wanted albums
+12-Feb-2019 14:30:06 - INFO    :: Thread-13 : Search for wanted albums complete
+12-Feb-2019 14:30:06 - INFO    :: Thread-17 : Starting update for 0 active artists
+12-Feb-2019 14:30:06 - INFO    :: Thread-14 : Retrieving latest version information from GitHub
+12-Feb-2019 14:30:06 - INFO    :: Thread-20 : Checking if any torrents have finished seeding and can be removed
+12-Feb-2019 14:30:06 - INFO    :: Thread-17 : Active artist update complete
+12-Feb-2019 14:30:06 - INFO    :: Thread-20 : Checking finished torrents completed
+12-Feb-2019 14:30:06 - INFO    :: Thread-14 : Comparing currently installed version with latest GitHub version
+12-Feb-2019 14:30:07 - INFO    :: Thread-14 : New version is available. You are 6 commits behind
+12-Feb-2019 20:30:06 - INFO    :: Thread-21 : Retrieving latest version information from GitHub
+12-Feb-2019 20:30:07 - INFO    :: Thread-21 : Comparing currently installed version with latest GitHub version
+12-Feb-2019 20:30:07 - INFO    :: Thread-21 : New version is available. You are 6 commits behind
+13-Feb-2019 02:30:06 - INFO    :: Thread-13 : Retrieving latest version information from GitHub
+13-Feb-2019 02:30:06 - INFO    :: Thread-18 : Checking if any torrents have finished seeding and can be removed
+13-Feb-2019 02:30:06 - INFO    :: Thread-18 : Checking finished torrents completed
+13-Feb-2019 02:30:07 - INFO    :: Thread-13 : Comparing currently installed version with latest GitHub version
+13-Feb-2019 02:30:08 - INFO    :: Thread-13 : New version is available. You are 6 commits behind
+13-Feb-2019 08:30:06 - INFO    :: Thread-14 : Retrieving latest version information from GitHub
+13-Feb-2019 08:30:07 - INFO    :: Thread-14 : Comparing currently installed version with latest GitHub version
+13-Feb-2019 08:30:07 - INFO    :: Thread-14 : New version is available. You are 6 commits behind
+13-Feb-2019 14:30:06 - INFO    :: Thread-19 : Searching for wanted albums
+13-Feb-2019 14:30:06 - INFO    :: Thread-19 : Search for wanted albums complete
+13-Feb-2019 14:30:06 - INFO    :: Thread-16 : Retrieving latest version information from GitHub
+13-Feb-2019 14:30:06 - INFO    :: Thread-12 : Starting update for 0 active artists
+13-Feb-2019 14:30:06 - INFO    :: Thread-18 : Checking if any torrents have finished seeding and can be removed
+13-Feb-2019 14:30:06 - INFO    :: Thread-12 : Active artist update complete
+13-Feb-2019 14:30:06 - INFO    :: Thread-18 : Checking finished torrents completed
+13-Feb-2019 14:30:07 - INFO    :: Thread-16 : Comparing currently installed version with latest GitHub version
+13-Feb-2019 14:30:07 - INFO    :: Thread-16 : New version is available. You are 6 commits behind
+13-Feb-2019 20:30:06 - INFO    :: Thread-20 : Retrieving latest version information from GitHub
+13-Feb-2019 20:30:07 - INFO    :: Thread-20 : Comparing currently installed version with latest GitHub version
+13-Feb-2019 20:30:07 - INFO    :: Thread-20 : New version is available. You are 6 commits behind
+14-Feb-2019 02:30:06 - INFO    :: Thread-19 : Retrieving latest version information from GitHub
+14-Feb-2019 02:30:06 - INFO    :: Thread-21 : Checking if any torrents have finished seeding and can be removed
+14-Feb-2019 02:30:06 - INFO    :: Thread-21 : Checking finished torrents completed
+14-Feb-2019 02:30:08 - INFO    :: Thread-19 : Comparing currently installed version with latest GitHub version
+14-Feb-2019 02:30:09 - INFO    :: Thread-19 : New version is available. You are 6 commits behind
+14-Feb-2019 08:30:06 - INFO    :: Thread-16 : Retrieving latest version information from GitHub
+14-Feb-2019 08:30:07 - INFO    :: Thread-16 : Comparing currently installed version with latest GitHub version
+14-Feb-2019 08:30:09 - INFO    :: Thread-16 : New version is available. You are 6 commits behind
+14-Feb-2019 12:37:34 - INFO    :: MainThread : Signal 15 caught, saving and exiting...
+14-Feb-2019 12:37:35 - INFO    :: MainThread : Writing configuration to file
+14-Feb-2019 12:37:35 - INFO    :: MainThread : Headphones is shutting down...
+14-Feb-2019 12:38:36 - INFO    :: MainThread : Checking to see if the database has all tables....
+14-Feb-2019 12:38:36 - INFO    :: MainThread : Retrieving latest version information from GitHub
+14-Feb-2019 12:38:37 - INFO    :: MainThread : Comparing currently installed version with latest GitHub version
+14-Feb-2019 12:38:37 - INFO    :: MainThread : New version is available. You are 6 commits behind
+14-Feb-2019 12:38:37 - INFO    :: MainThread : Starting Headphones web server on http://0.0.0.0:8181/
+14-Feb-2019 12:38:38 - INFO    :: MainThread : Scheduled background task: Search for Wanted
+14-Feb-2019 12:38:38 - INFO    :: MainThread : Scheduled background task: Download Scan
+14-Feb-2019 12:38:38 - INFO    :: MainThread : Scheduled background task: Library Scan
+14-Feb-2019 12:38:38 - INFO    :: MainThread : Scheduled background task: MusicBrainz Update
+14-Feb-2019 12:38:38 - INFO    :: MainThread : Scheduled background task: Check GitHub for updates
+14-Feb-2019 12:38:38 - INFO    :: MainThread : Scheduled background task: Torrent removal check
+14-Feb-2019 18:38:38 - INFO    :: Thread-18 : Retrieving latest version information from GitHub
+14-Feb-2019 18:38:39 - INFO    :: Thread-18 : Comparing currently installed version with latest GitHub version
+14-Feb-2019 18:38:39 - INFO    :: Thread-18 : New version is available. You are 6 commits behind
+15-Feb-2019 00:38:38 - INFO    :: Thread-12 : Retrieving latest version information from GitHub
+15-Feb-2019 00:38:38 - INFO    :: Thread-16 : Checking if any torrents have finished seeding and can be removed
+15-Feb-2019 00:38:38 - INFO    :: Thread-16 : Checking finished torrents completed
+15-Feb-2019 00:39:18 - ERROR   :: Thread-12 : Unable to connect to remote host. Check if the remote host is up and running.
+15-Feb-2019 00:39:18 - WARNING :: Thread-12 : Could not get the latest version from GitHub. Are you running a local development version?
+15-Feb-2019 06:38:38 - INFO    :: Thread-14 : Retrieving latest version information from GitHub
+15-Feb-2019 06:39:19 - ERROR   :: Thread-14 : Unable to connect to remote host. Check if the remote host is up and running.
+15-Feb-2019 06:39:19 - WARNING :: Thread-14 : Could not get the latest version from GitHub. Are you running a local development version?
+15-Feb-2019 12:38:38 - INFO    :: Thread-13 : Searching for wanted albums
+15-Feb-2019 12:38:38 - INFO    :: Thread-19 : Retrieving latest version information from GitHub
+15-Feb-2019 12:38:38 - INFO    :: Thread-16 : Checking if any torrents have finished seeding and can be removed
+15-Feb-2019 12:38:38 - INFO    :: Thread-13 : Search for wanted albums complete
+15-Feb-2019 12:38:38 - INFO    :: Thread-15 : Starting update for 0 active artists
+15-Feb-2019 12:38:38 - INFO    :: Thread-15 : Active artist update complete
+15-Feb-2019 12:38:38 - INFO    :: Thread-16 : Checking finished torrents completed
+15-Feb-2019 12:39:18 - ERROR   :: Thread-19 : Unable to connect to remote host. Check if the remote host is up and running.
+15-Feb-2019 12:39:18 - WARNING :: Thread-19 : Could not get the latest version from GitHub. Are you running a local development version?
+15-Feb-2019 15:40:02 - INFO    :: MainThread : Signal 15 caught, saving and exiting...
+15-Feb-2019 15:40:02 - INFO    :: MainThread : Writing configuration to file
+15-Feb-2019 15:40:02 - INFO    :: MainThread : Headphones is shutting down...
+15-Feb-2019 15:40:59 - INFO    :: MainThread : Checking to see if the database has all tables....
+15-Feb-2019 15:40:59 - INFO    :: MainThread : Retrieving latest version information from GitHub
+15-Feb-2019 15:41:00 - INFO    :: MainThread : Comparing currently installed version with latest GitHub version
+15-Feb-2019 15:41:00 - INFO    :: MainThread : New version is available. You are 6 commits behind
+15-Feb-2019 15:41:00 - INFO    :: MainThread : Starting Headphones web server on http://0.0.0.0:8181/
+15-Feb-2019 15:41:01 - INFO    :: MainThread : Scheduled background task: Search for Wanted
+15-Feb-2019 15:41:01 - INFO    :: MainThread : Scheduled background task: Download Scan
+15-Feb-2019 15:41:01 - INFO    :: MainThread : Scheduled background task: Library Scan
+15-Feb-2019 15:41:01 - INFO    :: MainThread : Scheduled background task: MusicBrainz Update
+15-Feb-2019 15:41:01 - INFO    :: MainThread : Scheduled background task: Check GitHub for updates
+15-Feb-2019 15:41:01 - INFO    :: MainThread : Scheduled background task: Torrent removal check
+15-Feb-2019 21:41:01 - INFO    :: Thread-18 : Retrieving latest version information from GitHub
+15-Feb-2019 21:41:02 - INFO    :: Thread-18 : Comparing currently installed version with latest GitHub version
+15-Feb-2019 21:41:02 - INFO    :: Thread-18 : New version is available. You are 6 commits behind
+16-Feb-2019 03:41:01 - INFO    :: Thread-20 : Retrieving latest version information from GitHub
+16-Feb-2019 03:41:01 - INFO    :: Thread-12 : Checking if any torrents have finished seeding and can be removed
+16-Feb-2019 03:41:01 - INFO    :: Thread-12 : Checking finished torrents completed
+16-Feb-2019 03:41:01 - INFO    :: Thread-20 : Comparing currently installed version with latest GitHub version
+16-Feb-2019 03:41:02 - INFO    :: Thread-20 : New version is available. You are 6 commits behind
+16-Feb-2019 09:41:01 - INFO    :: Thread-14 : Retrieving latest version information from GitHub
+16-Feb-2019 09:41:01 - INFO    :: Thread-14 : Comparing currently installed version with latest GitHub version
+16-Feb-2019 09:41:02 - INFO    :: Thread-14 : New version is available. You are 6 commits behind
+16-Feb-2019 15:41:01 - INFO    :: Thread-13 : Searching for wanted albums
+16-Feb-2019 15:41:01 - INFO    :: Thread-18 : Retrieving latest version information from GitHub
+16-Feb-2019 15:41:01 - INFO    :: Thread-12 : Checking if any torrents have finished seeding and can be removed
+16-Feb-2019 15:41:01 - INFO    :: Thread-13 : Search for wanted albums complete
+16-Feb-2019 15:41:01 - INFO    :: Thread-19 : Starting update for 0 active artists
+16-Feb-2019 15:41:01 - INFO    :: Thread-19 : Active artist update complete
+16-Feb-2019 15:41:01 - INFO    :: Thread-12 : Checking finished torrents completed
+16-Feb-2019 15:41:01 - INFO    :: Thread-18 : Comparing currently installed version with latest GitHub version
+16-Feb-2019 15:41:02 - INFO    :: Thread-18 : New version is available. You are 6 commits behind
+16-Feb-2019 21:41:01 - INFO    :: Thread-21 : Retrieving latest version information from GitHub
+16-Feb-2019 21:41:01 - INFO    :: Thread-21 : Comparing currently installed version with latest GitHub version
+16-Feb-2019 21:41:02 - INFO    :: Thread-21 : New version is available. You are 6 commits behind
+17-Feb-2019 03:41:01 - INFO    :: Thread-15 : Retrieving latest version information from GitHub
+17-Feb-2019 03:41:01 - INFO    :: Thread-13 : Checking if any torrents have finished seeding and can be removed
+17-Feb-2019 03:41:01 - INFO    :: Thread-13 : Checking finished torrents completed
+17-Feb-2019 03:41:01 - INFO    :: Thread-15 : Comparing currently installed version with latest GitHub version
+17-Feb-2019 03:41:02 - INFO    :: Thread-15 : New version is available. You are 6 commits behind
+17-Feb-2019 09:41:01 - INFO    :: Thread-18 : Retrieving latest version information from GitHub
+17-Feb-2019 09:41:01 - INFO    :: Thread-18 : Comparing currently installed version with latest GitHub version
+17-Feb-2019 09:41:02 - INFO    :: Thread-18 : New version is available. You are 6 commits behind
+17-Feb-2019 13:00:51 - INFO    :: MainThread : Signal 15 caught, saving and exiting...
+17-Feb-2019 13:00:51 - INFO    :: MainThread : Writing configuration to file
+17-Feb-2019 13:00:51 - INFO    :: MainThread : Headphones is shutting down...
+17-Feb-2019 13:01:43 - INFO    :: MainThread : Checking to see if the database has all tables....
+17-Feb-2019 13:01:43 - INFO    :: MainThread : Retrieving latest version information from GitHub
+17-Feb-2019 13:01:43 - INFO    :: MainThread : Comparing currently installed version with latest GitHub version
+17-Feb-2019 13:01:44 - INFO    :: MainThread : New version is available. You are 6 commits behind
+17-Feb-2019 13:01:44 - INFO    :: MainThread : Starting Headphones web server on http://0.0.0.0:8181/
+17-Feb-2019 13:01:44 - INFO    :: MainThread : Scheduled background task: Search for Wanted
+17-Feb-2019 13:01:44 - INFO    :: MainThread : Scheduled background task: Download Scan
+17-Feb-2019 13:01:44 - INFO    :: MainThread : Scheduled background task: Library Scan
+17-Feb-2019 13:01:44 - INFO    :: MainThread : Scheduled background task: MusicBrainz Update
+17-Feb-2019 13:01:44 - INFO    :: MainThread : Scheduled background task: Check GitHub for updates
+17-Feb-2019 13:01:44 - INFO    :: MainThread : Scheduled background task: Torrent removal check
+17-Feb-2019 19:01:44 - INFO    :: Thread-18 : Retrieving latest version information from GitHub
+17-Feb-2019 19:01:45 - INFO    :: Thread-18 : Comparing currently installed version with latest GitHub version
+17-Feb-2019 19:01:46 - INFO    :: Thread-18 : New version is available. You are 6 commits behind
+19-Feb-2019 05:30:42 - INFO    :: MainThread : Checking to see if the database has all tables....
+19-Feb-2019 05:30:42 - INFO    :: MainThread : Retrieving latest version information from GitHub
+19-Feb-2019 05:30:42 - INFO    :: MainThread : Comparing currently installed version with latest GitHub version
+19-Feb-2019 05:30:43 - INFO    :: MainThread : New version is available. You are 6 commits behind
+19-Feb-2019 05:30:43 - INFO    :: MainThread : Starting Headphones web server on http://0.0.0.0:8181/
+19-Feb-2019 05:30:43 - INFO    :: MainThread : Scheduled background task: Search for Wanted
+19-Feb-2019 05:30:43 - INFO    :: MainThread : Scheduled background task: Download Scan
+19-Feb-2019 05:30:43 - INFO    :: MainThread : Scheduled background task: Library Scan
+19-Feb-2019 05:30:43 - INFO    :: MainThread : Scheduled background task: MusicBrainz Update
+19-Feb-2019 05:30:43 - INFO    :: MainThread : Scheduled background task: Check GitHub for updates
+19-Feb-2019 05:30:43 - INFO    :: MainThread : Scheduled background task: Torrent removal check
+19-Feb-2019 05:50:56 - INFO    :: MainThread : Signal 15 caught, saving and exiting...
+19-Feb-2019 05:50:57 - INFO    :: MainThread : Writing configuration to file
+19-Feb-2019 05:50:57 - INFO    :: MainThread : Headphones is shutting down...
