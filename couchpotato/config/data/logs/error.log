@@ -2711,3 +2711,19 @@ Traceback (most recent call last):
   File "/app/couchpotato/couchpotato/runner.py", line 131, in runCouchPotato
     os.remove(os.path.join(backup_path, eb[1]))
 OSError: [Errno 2] No such file or directory: '/config/data/db_backup/1548931580.tar.gz'
+06:12:19 CRITICAL [                 __main__] Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 131, in runCouchPotato
+    os.remove(os.path.join(backup_path, eb[1]))
+OSError: [Errno 2] No such file or directory: '/config/data/db_backup/1549657784.tar.gz'
+Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 131, in runCouchPotato
+    os.remove(os.path.join(backup_path, eb[1]))
+OSError: [Errno 2] No such file or directory: '/config/data/db_backup/1549657784.tar.gz'
