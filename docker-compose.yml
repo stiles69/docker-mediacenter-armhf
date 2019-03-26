@@ -19,9 +19,9 @@ services:
       - '443:443'
     volumes:
       - "/home/brettsalemink/development/Docker/docker-mediacenter-armhf/sabnzbd/config:/config"
-      - "/torrents/sabnzbd/scripts:/downloads/sabnzbd/scripts"
-      - "/torrents:/downloads"
-      - "/torrents/sabnzbd/incomplete:/downloads/sabnzbd/incomplete"
+      - "/downloads/scripts:/downloads/scripts"
+      - "/downloads:/downloads"
+      - "/downloads/incomplete:/downloads/incomplete"
     env_file: 
       - './common.env'
     network_mode: "host"
@@ -34,8 +34,8 @@ services:
       - '5050:5050'
     volumes:
       - "/home/brettsalemink/development/Docker/docker-mediacenter-armhf/couchpotato/config:/config"
-      - "/torrents:/downloads"
-      - "/torrents/completed/couchpotato:/downloads/completed/couchpotato"
+      - "/downloads:/downloads"
+      - "/downloads/completed/couchpotato:/downloads/completed/couchpotato"
     env_file:
       - './common.env'
     network_mode: 'host'
@@ -50,8 +50,8 @@ services:
       - '8989:8989'
     volumes:
       - "/home/brettsalemink/development/Docker/docker-mediacenter-armhf/sonarr/config:/config"
-      - "/torrents:/downloads"
-      - "/torrents/completed/sonarr:/downloads/completed/sonarr"
+      - "/downloads:/downloads"
+      - "/downloads/completed/sonarr:/downloads/completed/sonarr"
     env_file:
       - './common.env'
     network_mode: 'host'
@@ -67,8 +67,8 @@ services:
       - '8181:8181'
     volumes:
       - "/home/brettsalemink/development/Docker/docker-mediacenter-armhf/headphones/config:/config"
-      - "/torrents:/downloads"
-      - "/torrents/completed/headphones:/downloads/completed/headphones"
+      - "/downloads:/downloads"
+      - "/downloads/completed/headphones:/downloads/completed/headphones"
     env_file:
       - './common.env'
     network_mode: "host"
