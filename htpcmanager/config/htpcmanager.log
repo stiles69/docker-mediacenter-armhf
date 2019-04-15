@@ -3267,3 +3267,1344 @@ component is not on the system path. Please install and try again.The current en
 2019-03-26 08:08:15 :: cherrypy.error :: INFO :: [26/Mar/2019:08:08:15] ENGINE Bus EXITING
 2019-03-26 08:08:15 :: cherrypy.error :: INFO :: [26/Mar/2019:08:08:15] ENGINE Bus EXITED
 2019-03-26 08:08:15 :: cherrypy.error :: INFO :: [26/Mar/2019:08:08:15] ENGINE Waiting for child threads to terminate...
+2019-03-26 08:11:37 :: root :: INFO :: Welcome to Hellowlol's HTPC Manager fork
+2019-03-26 08:11:37 :: root :: INFO :: Loglevel set to info
+2019-03-26 08:11:37 :: htpc.updater :: INFO :: Using GitUpdater engine
+2019-03-26 08:11:37 :: apscheduler.scheduler :: INFO :: Added job "Updater.update_needed" to job store "default"
+2019-03-26 08:11:37 :: modules.kodi :: WARNING :: No configured kodi-Servers.
+2019-03-26 08:11:38 :: modules.newznab :: ERROR :: Invalid indexer. Selecting first Available.
+2019-03-26 08:11:38 :: modules.stats :: ERROR :: Required package 'smartmontools' is not installed, or 'smartctl'
+component is not on the system path. Please install and try again.The current env path is: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+2019-03-26 08:11:39 :: htpc.server :: INFO :: Starting up webserver
+2019-03-26 08:11:39 :: cherrypy.error :: INFO :: [26/Mar/2019:08:11:39] ENGINE Listening for SIGHUP.
+2019-03-26 08:11:39 :: cherrypy.error :: INFO :: [26/Mar/2019:08:11:39] ENGINE Listening for SIGTERM.
+2019-03-26 08:11:39 :: cherrypy.error :: INFO :: [26/Mar/2019:08:11:39] ENGINE Listening for SIGUSR1.
+2019-03-26 08:11:39 :: cherrypy.error :: INFO :: [26/Mar/2019:08:11:39] ENGINE Bus STARTING
+2019-03-26 08:11:39 :: cherrypy.error :: INFO :: [26/Mar/2019:08:11:39] ENGINE Serving on http://0.0.0.0:8085
+2019-03-26 08:11:39 :: cherrypy.error :: INFO :: [26/Mar/2019:08:11:39] ENGINE Bus STARTED
+2019-03-26 08:31:41 :: cherrypy.error :: INFO :: [26/Mar/2019:08:31:41] ENGINE Caught signal SIGTERM.
+2019-03-26 08:31:41 :: cherrypy.error :: INFO :: [26/Mar/2019:08:31:41] ENGINE Bus STOPPING
+2019-03-26 08:31:41 :: apscheduler.scheduler :: INFO :: Scheduler has been shut down
+2019-03-26 08:31:41 :: cherrypy.error :: INFO :: [26/Mar/2019:08:31:41] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8085)) shut down
+2019-03-26 08:31:41 :: cherrypy.error :: INFO :: [26/Mar/2019:08:31:41] ENGINE Bus STOPPED
+2019-03-26 08:31:41 :: cherrypy.error :: INFO :: [26/Mar/2019:08:31:41] ENGINE Bus EXITING
+2019-03-26 08:31:41 :: cherrypy.error :: INFO :: [26/Mar/2019:08:31:41] ENGINE Bus EXITED
+2019-03-26 08:31:41 :: cherrypy.error :: INFO :: [26/Mar/2019:08:31:41] ENGINE Waiting for child threads to terminate...
+2019-03-26 08:33:31 :: root :: INFO :: Welcome to Hellowlol's HTPC Manager fork
+2019-03-26 08:33:31 :: root :: INFO :: Loglevel set to info
+2019-03-26 08:33:31 :: htpc.updater :: INFO :: Using GitUpdater engine
+2019-03-26 08:33:31 :: apscheduler.scheduler :: INFO :: Added job "Updater.update_needed" to job store "default"
+2019-03-26 08:33:31 :: modules.kodi :: WARNING :: No configured kodi-Servers.
+2019-03-26 08:33:31 :: modules.newznab :: ERROR :: Invalid indexer. Selecting first Available.
+2019-03-26 08:33:31 :: modules.stats :: ERROR :: Required package 'smartmontools' is not installed, or 'smartctl'
+component is not on the system path. Please install and try again.The current env path is: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+2019-03-26 08:33:32 :: htpc.server :: INFO :: Starting up webserver
+2019-03-26 08:33:32 :: cherrypy.error :: INFO :: [26/Mar/2019:08:33:32] ENGINE Listening for SIGHUP.
+2019-03-26 08:33:32 :: cherrypy.error :: INFO :: [26/Mar/2019:08:33:32] ENGINE Listening for SIGTERM.
+2019-03-26 08:33:32 :: cherrypy.error :: INFO :: [26/Mar/2019:08:33:32] ENGINE Listening for SIGUSR1.
+2019-03-26 08:33:32 :: cherrypy.error :: INFO :: [26/Mar/2019:08:33:32] ENGINE Bus STARTING
+2019-03-26 08:33:32 :: cherrypy.error :: INFO :: [26/Mar/2019:08:33:32] ENGINE Serving on http://0.0.0.0:8085
+2019-03-26 08:33:32 :: cherrypy.error :: INFO :: [26/Mar/2019:08:33:32] ENGINE Bus STARTED
+2019-03-26 08:44:02 :: cherrypy.error :: INFO :: [26/Mar/2019:08:44:02] ENGINE Started monitor thread 'Session cleanup'.
+2019-03-26 08:44:15 :: modules.plex :: ERROR :: Unable to fetch recent movies! Exception: Invalid URL u'http://:/library/sections': No host supplied
+2019-03-26 08:44:41 :: modules.plex :: ERROR :: Unable to fetch recent movies! Exception: Invalid URL u'http://:/library/sections': No host supplied
+2019-03-26 08:44:49 :: modules.plex :: INFO :: Sending discovery message: M-SEARCH * HTTP/1.0
+2019-03-26 08:44:50 :: modules.plex :: INFO :: GDM: Servers discovered: 2
+2019-03-26 08:45:06 :: modules.plex :: INFO :: Sending discovery message: M-SEARCH * HTTP/1.0
+2019-03-26 08:45:07 :: modules.plex :: INFO :: GDM: Servers discovered: 2
+2019-03-26 14:33:31 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-03-26 20:33:31 CDT)" (scheduled at 2019-03-26 14:33:31.236241-05:00)
+2019-03-26 14:33:31 :: htpc.updater :: INFO :: Running update_needed
+2019-03-26 14:33:31 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-03-26 14:33:31 :: htpc.updater :: ERROR :: Failed to get last commit from github HTTP Error 403: Forbidden
+2019-03-26 14:33:31 :: htpc.updater :: ERROR :: Failed to determine the latest version for HTPC Manager.
+2019-03-26 14:33:31 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-03-26 20:33:31 CDT)" executed successfully
+2019-03-26 20:33:31 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-03-27 02:33:31 CDT)" (scheduled at 2019-03-26 20:33:31.236241-05:00)
+2019-03-26 20:33:31 :: htpc.updater :: INFO :: Running update_needed
+2019-03-26 20:33:31 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-03-26 20:33:31 :: htpc.updater :: ERROR :: Failed to get last commit from github HTTP Error 403: Forbidden
+2019-03-26 20:33:31 :: htpc.updater :: ERROR :: Failed to determine the latest version for HTPC Manager.
+2019-03-26 20:33:31 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-03-27 02:33:31 CDT)" executed successfully
+2019-03-27 02:33:31 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-03-27 08:33:31 CDT)" (scheduled at 2019-03-27 02:33:31.236241-05:00)
+2019-03-27 02:33:31 :: htpc.updater :: INFO :: Running update_needed
+2019-03-27 02:33:31 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-03-27 02:33:31 :: htpc.updater :: ERROR :: Failed to get last commit from github HTTP Error 403: Forbidden
+2019-03-27 02:33:31 :: htpc.updater :: ERROR :: Failed to determine the latest version for HTPC Manager.
+2019-03-27 02:33:31 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-03-27 08:33:31 CDT)" executed successfully
+2019-03-27 08:33:31 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-03-27 14:33:31 CDT)" (scheduled at 2019-03-27 08:33:31.236241-05:00)
+2019-03-27 08:33:31 :: htpc.updater :: INFO :: Running update_needed
+2019-03-27 08:33:31 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-03-27 08:33:31 :: htpc.updater :: ERROR :: Failed to get last commit from github HTTP Error 403: Forbidden
+2019-03-27 08:33:31 :: htpc.updater :: ERROR :: Failed to determine the latest version for HTPC Manager.
+2019-03-27 08:33:31 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-03-27 14:33:31 CDT)" executed successfully
+2019-03-27 14:33:31 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-03-27 20:33:31 CDT)" (scheduled at 2019-03-27 14:33:31.236241-05:00)
+2019-03-27 14:33:31 :: htpc.updater :: INFO :: Running update_needed
+2019-03-27 14:33:31 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-03-27 14:33:31 :: htpc.updater :: ERROR :: Failed to get last commit from github HTTP Error 403: Forbidden
+2019-03-27 14:33:31 :: htpc.updater :: ERROR :: Failed to determine the latest version for HTPC Manager.
+2019-03-27 14:33:31 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-03-27 20:33:31 CDT)" executed successfully
+2019-03-27 20:33:31 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-03-28 02:33:31 CDT)" (scheduled at 2019-03-27 20:33:31.236241-05:00)
+2019-03-27 20:33:31 :: htpc.updater :: INFO :: Running update_needed
+2019-03-27 20:33:31 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-03-27 20:33:31 :: htpc.updater :: ERROR :: Failed to get last commit from github HTTP Error 403: Forbidden
+2019-03-27 20:33:31 :: htpc.updater :: ERROR :: Failed to determine the latest version for HTPC Manager.
+2019-03-27 20:33:31 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-03-28 02:33:31 CDT)" executed successfully
+2019-03-28 02:33:31 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-03-28 08:33:31 CDT)" (scheduled at 2019-03-28 02:33:31.236241-05:00)
+2019-03-28 02:33:31 :: htpc.updater :: INFO :: Running update_needed
+2019-03-28 02:33:31 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-03-28 02:33:31 :: htpc.updater :: ERROR :: Failed to get last commit from github HTTP Error 403: Forbidden
+2019-03-28 02:33:31 :: htpc.updater :: ERROR :: Failed to determine the latest version for HTPC Manager.
+2019-03-28 02:33:31 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-03-28 08:33:31 CDT)" executed successfully
+2019-03-28 08:33:31 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-03-28 14:33:31 CDT)" (scheduled at 2019-03-28 08:33:31.236241-05:00)
+2019-03-28 08:33:31 :: htpc.updater :: INFO :: Running update_needed
+2019-03-28 08:33:31 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-03-28 08:33:31 :: htpc.updater :: ERROR :: Failed to get last commit from github HTTP Error 403: Forbidden
+2019-03-28 08:33:31 :: htpc.updater :: ERROR :: Failed to determine the latest version for HTPC Manager.
+2019-03-28 08:33:31 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-03-28 14:33:31 CDT)" executed successfully
+2019-03-28 14:33:31 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-03-28 20:33:31 CDT)" (scheduled at 2019-03-28 14:33:31.236241-05:00)
+2019-03-28 14:33:31 :: htpc.updater :: INFO :: Running update_needed
+2019-03-28 14:33:31 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-03-28 14:33:31 :: htpc.updater :: ERROR :: Failed to get last commit from github HTTP Error 403: Forbidden
+2019-03-28 14:33:31 :: htpc.updater :: ERROR :: Failed to determine the latest version for HTPC Manager.
+2019-03-28 14:33:31 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-03-28 20:33:31 CDT)" executed successfully
+2019-03-28 20:33:31 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-03-29 02:33:31 CDT)" (scheduled at 2019-03-28 20:33:31.236241-05:00)
+2019-03-28 20:33:31 :: htpc.updater :: INFO :: Running update_needed
+2019-03-28 20:33:31 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-03-28 20:33:31 :: htpc.updater :: ERROR :: Failed to get last commit from github HTTP Error 403: Forbidden
+2019-03-28 20:33:31 :: htpc.updater :: ERROR :: Failed to determine the latest version for HTPC Manager.
+2019-03-28 20:33:31 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-03-29 02:33:31 CDT)" executed successfully
+2019-03-29 02:33:31 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-03-29 08:33:31 CDT)" (scheduled at 2019-03-29 02:33:31.236241-05:00)
+2019-03-29 02:33:31 :: htpc.updater :: INFO :: Running update_needed
+2019-03-29 02:33:31 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-03-29 02:33:31 :: htpc.updater :: ERROR :: Failed to get last commit from github HTTP Error 403: Forbidden
+2019-03-29 02:33:31 :: htpc.updater :: ERROR :: Failed to determine the latest version for HTPC Manager.
+2019-03-29 02:33:31 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-03-29 08:33:31 CDT)" executed successfully
+2019-03-29 08:33:31 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-03-29 14:33:31 CDT)" (scheduled at 2019-03-29 08:33:31.236241-05:00)
+2019-03-29 08:33:31 :: htpc.updater :: INFO :: Running update_needed
+2019-03-29 08:33:31 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-03-29 08:33:32 :: htpc.updater :: ERROR :: Failed to get last commit from github HTTP Error 403: Forbidden
+2019-03-29 08:33:32 :: htpc.updater :: ERROR :: Failed to determine the latest version for HTPC Manager.
+2019-03-29 08:33:32 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-03-29 14:33:31 CDT)" executed successfully
+2019-03-29 14:33:31 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-03-29 20:33:31 CDT)" (scheduled at 2019-03-29 14:33:31.236241-05:00)
+2019-03-29 14:33:31 :: htpc.updater :: INFO :: Running update_needed
+2019-03-29 14:33:31 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-03-29 14:33:31 :: htpc.updater :: ERROR :: Failed to get last commit from github HTTP Error 403: Forbidden
+2019-03-29 14:33:31 :: htpc.updater :: ERROR :: Failed to determine the latest version for HTPC Manager.
+2019-03-29 14:33:31 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-03-29 20:33:31 CDT)" executed successfully
+2019-03-29 20:33:31 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-03-30 02:33:31 CDT)" (scheduled at 2019-03-29 20:33:31.236241-05:00)
+2019-03-29 20:33:31 :: htpc.updater :: INFO :: Running update_needed
+2019-03-29 20:33:31 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-03-29 20:33:32 :: htpc.updater :: ERROR :: Failed to get last commit from github HTTP Error 403: Forbidden
+2019-03-29 20:33:32 :: htpc.updater :: ERROR :: Failed to determine the latest version for HTPC Manager.
+2019-03-29 20:33:32 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-03-30 02:33:31 CDT)" executed successfully
+2019-03-30 01:19:23 :: cherrypy.error :: INFO :: [30/Mar/2019:01:19:23] ENGINE Caught signal SIGTERM.
+2019-03-30 01:19:23 :: cherrypy.error :: INFO :: [30/Mar/2019:01:19:23] ENGINE Bus STOPPING
+2019-03-30 01:19:23 :: apscheduler.scheduler :: INFO :: Scheduler has been shut down
+2019-03-30 01:19:23 :: cherrypy.error :: INFO :: [30/Mar/2019:01:19:23] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8085)) shut down
+2019-03-30 01:19:23 :: cherrypy.error :: INFO :: [30/Mar/2019:01:19:23] ENGINE Stopped thread 'Session cleanup'.
+2019-03-30 01:19:23 :: cherrypy.error :: INFO :: [30/Mar/2019:01:19:23] ENGINE Bus STOPPED
+2019-03-30 01:19:23 :: cherrypy.error :: INFO :: [30/Mar/2019:01:19:23] ENGINE Bus EXITING
+2019-03-30 01:19:23 :: cherrypy.error :: INFO :: [30/Mar/2019:01:19:23] ENGINE Bus EXITED
+2019-03-30 01:19:23 :: cherrypy.error :: INFO :: [30/Mar/2019:01:19:23] ENGINE Waiting for child threads to terminate...
+2019-03-30 01:20:37 :: root :: INFO :: Welcome to Hellowlol's HTPC Manager fork
+2019-03-30 01:20:37 :: root :: INFO :: Loglevel set to info
+2019-03-30 01:20:37 :: htpc.updater :: INFO :: Using GitUpdater engine
+2019-03-30 01:20:38 :: apscheduler.scheduler :: INFO :: Added job "Updater.update_needed" to job store "default"
+2019-03-30 01:20:39 :: modules.kodi :: WARNING :: No configured kodi-Servers.
+2019-03-30 01:20:39 :: modules.newznab :: ERROR :: Invalid indexer. Selecting first Available.
+2019-03-30 01:20:39 :: modules.stats :: ERROR :: Required package 'smartmontools' is not installed, or 'smartctl'
+component is not on the system path. Please install and try again.The current env path is: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+2019-03-30 01:20:40 :: htpc.server :: INFO :: Starting up webserver
+2019-03-30 01:20:40 :: cherrypy.error :: INFO :: [30/Mar/2019:01:20:40] ENGINE Listening for SIGHUP.
+2019-03-30 01:20:40 :: cherrypy.error :: INFO :: [30/Mar/2019:01:20:40] ENGINE Listening for SIGTERM.
+2019-03-30 01:20:40 :: cherrypy.error :: INFO :: [30/Mar/2019:01:20:40] ENGINE Listening for SIGUSR1.
+2019-03-30 01:20:41 :: cherrypy.error :: INFO :: [30/Mar/2019:01:20:41] ENGINE Bus STARTING
+2019-03-30 01:20:41 :: cherrypy.error :: INFO :: [30/Mar/2019:01:20:41] ENGINE Serving on http://0.0.0.0:8085
+2019-03-30 01:20:41 :: cherrypy.error :: INFO :: [30/Mar/2019:01:20:41] ENGINE Bus STARTED
+2019-03-30 01:31:17 :: cherrypy.error :: INFO :: [30/Mar/2019:01:31:17] ENGINE Caught signal SIGTERM.
+2019-03-30 01:31:17 :: cherrypy.error :: INFO :: [30/Mar/2019:01:31:17] ENGINE Bus STOPPING
+2019-03-30 01:31:17 :: apscheduler.scheduler :: INFO :: Scheduler has been shut down
+2019-03-30 01:31:17 :: cherrypy.error :: INFO :: [30/Mar/2019:01:31:17] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8085)) shut down
+2019-03-30 01:31:17 :: cherrypy.error :: INFO :: [30/Mar/2019:01:31:17] ENGINE Bus STOPPED
+2019-03-30 01:31:17 :: cherrypy.error :: INFO :: [30/Mar/2019:01:31:17] ENGINE Bus EXITING
+2019-03-30 01:31:17 :: cherrypy.error :: INFO :: [30/Mar/2019:01:31:17] ENGINE Bus EXITED
+2019-03-30 01:31:17 :: cherrypy.error :: INFO :: [30/Mar/2019:01:31:17] ENGINE Waiting for child threads to terminate...
+2019-03-30 01:32:16 :: root :: INFO :: Welcome to Hellowlol's HTPC Manager fork
+2019-03-30 01:32:16 :: root :: INFO :: Loglevel set to info
+2019-03-30 01:32:17 :: htpc.updater :: INFO :: Using GitUpdater engine
+2019-03-30 01:32:17 :: apscheduler.scheduler :: INFO :: Added job "Updater.update_needed" to job store "default"
+2019-03-30 01:32:17 :: modules.kodi :: WARNING :: No configured kodi-Servers.
+2019-03-30 01:32:17 :: modules.newznab :: ERROR :: Invalid indexer. Selecting first Available.
+2019-03-30 01:32:17 :: modules.stats :: ERROR :: Required package 'smartmontools' is not installed, or 'smartctl'
+component is not on the system path. Please install and try again.The current env path is: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+2019-03-30 01:32:18 :: htpc.server :: INFO :: Starting up webserver
+2019-03-30 01:32:18 :: cherrypy.error :: INFO :: [30/Mar/2019:01:32:18] ENGINE Listening for SIGHUP.
+2019-03-30 01:32:18 :: cherrypy.error :: INFO :: [30/Mar/2019:01:32:18] ENGINE Listening for SIGTERM.
+2019-03-30 01:32:18 :: cherrypy.error :: INFO :: [30/Mar/2019:01:32:18] ENGINE Listening for SIGUSR1.
+2019-03-30 01:32:18 :: cherrypy.error :: INFO :: [30/Mar/2019:01:32:18] ENGINE Bus STARTING
+2019-03-30 01:32:18 :: cherrypy.error :: INFO :: [30/Mar/2019:01:32:18] ENGINE Serving on http://0.0.0.0:8085
+2019-03-30 01:32:18 :: cherrypy.error :: INFO :: [30/Mar/2019:01:32:18] ENGINE Bus STARTED
+2019-03-30 07:32:17 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-03-30 13:32:17 CDT)" (scheduled at 2019-03-30 07:32:17.211086-05:00)
+2019-03-30 07:32:17 :: htpc.updater :: INFO :: Running update_needed
+2019-03-30 07:32:17 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-03-30 07:32:18 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-03-30 07:32:18 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-03-30 13:32:17 CDT)" executed successfully
+2019-03-30 13:32:17 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-03-30 19:32:17 CDT)" (scheduled at 2019-03-30 13:32:17.211086-05:00)
+2019-03-30 13:32:17 :: htpc.updater :: INFO :: Running update_needed
+2019-03-30 13:32:17 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-03-30 13:32:18 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-03-30 13:32:18 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-03-30 19:32:17 CDT)" executed successfully
+2019-03-30 19:32:17 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-03-31 01:32:17 CDT)" (scheduled at 2019-03-30 19:32:17.211086-05:00)
+2019-03-30 19:32:17 :: htpc.updater :: INFO :: Running update_needed
+2019-03-30 19:32:17 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-03-30 19:32:18 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-03-30 19:32:18 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-03-31 01:32:17 CDT)" executed successfully
+2019-03-31 01:32:17 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-03-31 07:32:17 CDT)" (scheduled at 2019-03-31 01:32:17.211086-05:00)
+2019-03-31 01:32:17 :: htpc.updater :: INFO :: Running update_needed
+2019-03-31 01:32:17 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-03-31 01:32:18 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-03-31 01:32:18 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-03-31 07:32:17 CDT)" executed successfully
+2019-03-31 07:32:17 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-03-31 13:32:17 CDT)" (scheduled at 2019-03-31 07:32:17.211086-05:00)
+2019-03-31 07:32:17 :: htpc.updater :: INFO :: Running update_needed
+2019-03-31 07:32:17 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-03-31 07:32:18 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-03-31 07:32:18 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-03-31 13:32:17 CDT)" executed successfully
+2019-03-31 13:32:17 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-03-31 19:32:17 CDT)" (scheduled at 2019-03-31 13:32:17.211086-05:00)
+2019-03-31 13:32:17 :: htpc.updater :: INFO :: Running update_needed
+2019-03-31 13:32:17 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-03-31 13:32:18 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-03-31 13:32:18 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-03-31 19:32:17 CDT)" executed successfully
+2019-03-31 19:32:17 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-01 01:32:17 CDT)" (scheduled at 2019-03-31 19:32:17.211086-05:00)
+2019-03-31 19:32:17 :: htpc.updater :: INFO :: Running update_needed
+2019-03-31 19:32:17 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-03-31 19:32:18 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-03-31 19:32:18 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-01 01:32:17 CDT)" executed successfully
+2019-04-01 04:52:34 :: root :: INFO :: Welcome to Hellowlol's HTPC Manager fork
+2019-04-01 04:52:34 :: root :: INFO :: Loglevel set to info
+2019-04-01 04:52:35 :: htpc.updater :: INFO :: Using GitUpdater engine
+2019-04-01 04:52:35 :: apscheduler.scheduler :: INFO :: Added job "Updater.update_needed" to job store "default"
+2019-04-01 04:52:35 :: modules.kodi :: WARNING :: No configured kodi-Servers.
+2019-04-01 04:52:35 :: modules.newznab :: ERROR :: Invalid indexer. Selecting first Available.
+2019-04-01 04:52:35 :: modules.stats :: ERROR :: Required package 'smartmontools' is not installed, or 'smartctl'
+component is not on the system path. Please install and try again.The current env path is: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+2019-04-01 04:52:36 :: htpc.server :: INFO :: Starting up webserver
+2019-04-01 04:52:36 :: cherrypy.error :: INFO :: [01/Apr/2019:04:52:36] ENGINE Listening for SIGHUP.
+2019-04-01 04:52:36 :: cherrypy.error :: INFO :: [01/Apr/2019:04:52:36] ENGINE Listening for SIGTERM.
+2019-04-01 04:52:36 :: cherrypy.error :: INFO :: [01/Apr/2019:04:52:36] ENGINE Listening for SIGUSR1.
+2019-04-01 04:52:36 :: cherrypy.error :: INFO :: [01/Apr/2019:04:52:36] ENGINE Bus STARTING
+2019-04-01 04:52:37 :: cherrypy.error :: INFO :: [01/Apr/2019:04:52:37] ENGINE Serving on http://0.0.0.0:8085
+2019-04-01 04:52:37 :: cherrypy.error :: INFO :: [01/Apr/2019:04:52:37] ENGINE Bus STARTED
+2019-04-01 08:36:06 :: cherrypy.error :: INFO :: [01/Apr/2019:08:36:06] ENGINE Started monitor thread 'Session cleanup'.
+2019-04-01 08:36:09 :: authentication :: WARNING :: Failed login attempt with username: ************* password: ********** from ip: 10.0.0.11
+2019-04-01 08:36:15 :: authentication :: WARNING :: Failed login attempt with username: ************* password: ********** from ip: 10.0.0.11
+2019-04-01 08:36:16 :: authentication :: WARNING :: Failed login attempt with username: ************* password: ********** from ip: 10.0.0.11
+2019-04-01 10:52:35 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-01 16:52:35 CDT)" (scheduled at 2019-04-01 10:52:35.286590-05:00)
+2019-04-01 10:52:35 :: htpc.updater :: INFO :: Running update_needed
+2019-04-01 10:52:35 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-01 10:52:36 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-01 10:52:36 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-01 16:52:35 CDT)" executed successfully
+2019-04-01 16:52:35 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-01 22:52:35 CDT)" (scheduled at 2019-04-01 16:52:35.286590-05:00)
+2019-04-01 16:52:35 :: htpc.updater :: INFO :: Running update_needed
+2019-04-01 16:52:35 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-01 16:52:37 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-01 16:52:37 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-01 22:52:35 CDT)" executed successfully
+2019-04-01 22:52:35 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-02 04:52:35 CDT)" (scheduled at 2019-04-01 22:52:35.286590-05:00)
+2019-04-01 22:52:35 :: htpc.updater :: INFO :: Running update_needed
+2019-04-01 22:52:35 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-01 22:52:36 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-01 22:52:36 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-02 04:52:35 CDT)" executed successfully
+2019-04-02 04:52:35 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-02 04:52:35 CDT)" (scheduled at 2019-04-02 04:52:35.286590-05:00)
+2019-04-02 04:52:35 :: htpc.updater :: INFO :: Running update_needed
+2019-04-02 04:52:35 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-02 04:52:36 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-02 04:52:36 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-02 10:52:35 CDT)" executed successfully
+2019-04-02 10:52:35 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-02 16:52:35 CDT)" (scheduled at 2019-04-02 10:52:35.286590-05:00)
+2019-04-02 10:52:35 :: htpc.updater :: INFO :: Running update_needed
+2019-04-02 10:52:35 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-02 10:52:36 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-02 10:52:36 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-02 16:52:35 CDT)" executed successfully
+2019-04-02 16:52:35 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-02 22:52:35 CDT)" (scheduled at 2019-04-02 16:52:35.286590-05:00)
+2019-04-02 16:52:35 :: htpc.updater :: INFO :: Running update_needed
+2019-04-02 16:52:35 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-02 16:52:36 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-02 16:52:36 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-02 22:52:35 CDT)" executed successfully
+2019-04-02 22:52:35 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-03 04:52:35 CDT)" (scheduled at 2019-04-02 22:52:35.286590-05:00)
+2019-04-02 22:52:35 :: htpc.updater :: INFO :: Running update_needed
+2019-04-02 22:52:35 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-02 22:52:36 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-02 22:52:36 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-03 04:52:35 CDT)" executed successfully
+2019-04-03 04:52:35 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-03 04:52:35 CDT)" (scheduled at 2019-04-03 04:52:35.286590-05:00)
+2019-04-03 04:52:35 :: htpc.updater :: INFO :: Running update_needed
+2019-04-03 04:52:35 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-03 04:52:37 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-03 04:52:37 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-03 10:52:35 CDT)" executed successfully
+2019-04-03 10:52:35 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-03 16:52:35 CDT)" (scheduled at 2019-04-03 10:52:35.286590-05:00)
+2019-04-03 10:52:35 :: htpc.updater :: INFO :: Running update_needed
+2019-04-03 10:52:35 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-03 10:52:37 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-03 10:52:37 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-03 16:52:35 CDT)" executed successfully
+2019-04-03 16:52:35 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-03 22:52:35 CDT)" (scheduled at 2019-04-03 16:52:35.286590-05:00)
+2019-04-03 16:52:35 :: htpc.updater :: INFO :: Running update_needed
+2019-04-03 16:52:35 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-03 16:52:36 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-03 16:52:36 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-03 22:52:35 CDT)" executed successfully
+2019-04-03 22:52:35 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-04 04:52:35 CDT)" (scheduled at 2019-04-03 22:52:35.286590-05:00)
+2019-04-03 22:52:35 :: htpc.updater :: INFO :: Running update_needed
+2019-04-03 22:52:35 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-03 22:52:36 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-03 22:52:36 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-04 04:52:35 CDT)" executed successfully
+2019-04-04 04:52:35 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-04 10:52:35 CDT)" (scheduled at 2019-04-04 04:52:35.286590-05:00)
+2019-04-04 04:52:35 :: htpc.updater :: INFO :: Running update_needed
+2019-04-04 04:52:35 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-04 04:52:36 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-04 04:52:36 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-04 10:52:35 CDT)" executed successfully
+2019-04-04 07:39:57 :: modules.plex :: ERROR :: Unable to fetch recent movies! Exception: Invalid URL u'http://:/library/sections': No host supplied
+2019-04-04 07:39:58 :: modules.sonarr :: ERROR :: Failed to fetch url=http://localhost:8989/api/Calendar?start=2019-04-04&end=2019-04-05 path=Calendar?start=2019-04-04&end=2019-04-05 error ('Connection aborted.', BadStatusLine("''",))
+2019-04-04 07:40:12 :: modules.sonarr :: ERROR :: Failed to fetch url=http://localhost:8989/api/Calendar?start=2019-04-01&end=2019-04-08 path=Calendar?start=2019-04-01&end=2019-04-08 error ('Connection aborted.', error(111, 'Connection refused'))
+2019-04-04 07:40:13 :: modules.sonarr :: ERROR :: Failed to fetch url=http://localhost:8989/api/Calendar?start=2019-04-01&end=2019-05-13 path=Calendar?start=2019-04-01&end=2019-05-13 error ('Connection aborted.', error(111, 'Connection refused'))
+2019-04-04 10:52:35 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-04 16:52:35 CDT)" (scheduled at 2019-04-04 10:52:35.286590-05:00)
+2019-04-04 10:52:35 :: htpc.updater :: INFO :: Running update_needed
+2019-04-04 10:52:35 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-04 10:52:36 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-04 10:52:36 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-04 16:52:35 CDT)" executed successfully
+2019-04-04 16:52:35 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-04 22:52:35 CDT)" (scheduled at 2019-04-04 16:52:35.286590-05:00)
+2019-04-04 16:52:35 :: htpc.updater :: INFO :: Running update_needed
+2019-04-04 16:52:35 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-04 16:52:36 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-04 16:52:36 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-04 22:52:35 CDT)" executed successfully
+2019-04-04 22:52:35 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-05 04:52:35 CDT)" (scheduled at 2019-04-04 22:52:35.286590-05:00)
+2019-04-04 22:52:35 :: htpc.updater :: INFO :: Running update_needed
+2019-04-04 22:52:35 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-04 22:52:36 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-04 22:52:36 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-05 04:52:35 CDT)" executed successfully
+2019-04-05 04:52:35 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-05 10:52:35 CDT)" (scheduled at 2019-04-05 04:52:35.286590-05:00)
+2019-04-05 04:52:35 :: htpc.updater :: INFO :: Running update_needed
+2019-04-05 04:52:35 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-05 04:52:36 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-05 04:52:36 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-05 10:52:35 CDT)" executed successfully
+2019-04-05 10:52:35 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-05 16:52:35 CDT)" (scheduled at 2019-04-05 10:52:35.286590-05:00)
+2019-04-05 10:52:35 :: htpc.updater :: INFO :: Running update_needed
+2019-04-05 10:52:35 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-05 10:52:36 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-05 10:52:36 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-05 16:52:35 CDT)" executed successfully
+2019-04-05 16:52:35 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-05 22:52:35 CDT)" (scheduled at 2019-04-05 16:52:35.286590-05:00)
+2019-04-05 16:52:35 :: htpc.updater :: INFO :: Running update_needed
+2019-04-05 16:52:35 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-05 16:52:36 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-05 16:52:36 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-05 22:52:35 CDT)" executed successfully
+2019-04-05 22:52:35 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-06 04:52:35 CDT)" (scheduled at 2019-04-05 22:52:35.286590-05:00)
+2019-04-05 22:52:35 :: htpc.updater :: INFO :: Running update_needed
+2019-04-05 22:52:35 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-05 22:52:36 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-05 22:52:36 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-06 04:52:35 CDT)" executed successfully
+2019-04-06 02:04:59 :: modules.plex :: ERROR :: Unable to fetch recent movies! Exception: Invalid URL u'http://:/library/sections': No host supplied
+2019-04-06 04:52:35 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-06 10:52:35 CDT)" (scheduled at 2019-04-06 04:52:35.286590-05:00)
+2019-04-06 04:52:35 :: htpc.updater :: INFO :: Running update_needed
+2019-04-06 04:52:35 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-06 04:52:36 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-06 04:52:36 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-06 10:52:35 CDT)" executed successfully
+2019-04-06 10:52:35 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-06 16:52:35 CDT)" (scheduled at 2019-04-06 10:52:35.286590-05:00)
+2019-04-06 10:52:35 :: htpc.updater :: INFO :: Running update_needed
+2019-04-06 10:52:35 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-06 10:52:37 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-06 10:52:37 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-06 16:52:35 CDT)" executed successfully
+2019-04-06 16:52:35 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-06 22:52:35 CDT)" (scheduled at 2019-04-06 16:52:35.286590-05:00)
+2019-04-06 16:52:35 :: htpc.updater :: INFO :: Running update_needed
+2019-04-06 16:52:35 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-06 16:52:37 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-06 16:52:37 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-06 22:52:35 CDT)" executed successfully
+2019-04-06 22:52:35 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-07 04:52:35 CDT)" (scheduled at 2019-04-06 22:52:35.286590-05:00)
+2019-04-06 22:52:35 :: htpc.updater :: INFO :: Running update_needed
+2019-04-06 22:52:35 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-06 22:52:38 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-06 22:52:38 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-07 04:52:35 CDT)" executed successfully
+2019-04-07 04:52:35 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-07 10:52:35 CDT)" (scheduled at 2019-04-07 04:52:35.286590-05:00)
+2019-04-07 04:52:35 :: htpc.updater :: INFO :: Running update_needed
+2019-04-07 04:52:35 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-07 04:52:36 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-07 04:52:36 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-07 10:52:35 CDT)" executed successfully
+2019-04-07 10:52:35 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-07 16:52:35 CDT)" (scheduled at 2019-04-07 10:52:35.286590-05:00)
+2019-04-07 10:52:35 :: htpc.updater :: INFO :: Running update_needed
+2019-04-07 10:52:35 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-07 10:52:36 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-07 10:52:36 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-07 16:52:35 CDT)" executed successfully
+2019-04-07 16:52:35 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-07 22:52:35 CDT)" (scheduled at 2019-04-07 16:52:35.286590-05:00)
+2019-04-07 16:52:35 :: htpc.updater :: INFO :: Running update_needed
+2019-04-07 16:52:35 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-07 16:52:36 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-07 16:52:36 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-07 22:52:35 CDT)" executed successfully
+2019-04-07 22:52:35 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-08 04:52:35 CDT)" (scheduled at 2019-04-07 22:52:35.286590-05:00)
+2019-04-07 22:52:35 :: htpc.updater :: INFO :: Running update_needed
+2019-04-07 22:52:35 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-07 22:52:36 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-07 22:52:36 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-08 04:52:35 CDT)" executed successfully
+2019-04-08 22:53:09 :: root :: INFO :: Welcome to Hellowlol's HTPC Manager fork
+2019-04-08 22:53:09 :: root :: INFO :: Loglevel set to info
+2019-04-08 22:53:10 :: htpc.updater :: INFO :: Using GitUpdater engine
+2019-04-08 22:53:10 :: apscheduler.scheduler :: INFO :: Added job "Updater.update_needed" to job store "default"
+2019-04-08 22:53:10 :: modules.kodi :: WARNING :: No configured kodi-Servers.
+2019-04-08 22:53:10 :: modules.newznab :: ERROR :: Invalid indexer. Selecting first Available.
+2019-04-08 22:53:11 :: modules.stats :: ERROR :: Required package 'smartmontools' is not installed, or 'smartctl'
+component is not on the system path. Please install and try again.The current env path is: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+2019-04-08 22:53:11 :: htpc.server :: INFO :: Starting up webserver
+2019-04-08 22:53:11 :: cherrypy.error :: INFO :: [08/Apr/2019:22:53:11] ENGINE Listening for SIGHUP.
+2019-04-08 22:53:11 :: cherrypy.error :: INFO :: [08/Apr/2019:22:53:11] ENGINE Listening for SIGTERM.
+2019-04-08 22:53:11 :: cherrypy.error :: INFO :: [08/Apr/2019:22:53:11] ENGINE Listening for SIGUSR1.
+2019-04-08 22:53:11 :: cherrypy.error :: INFO :: [08/Apr/2019:22:53:11] ENGINE Bus STARTING
+2019-04-08 22:53:12 :: cherrypy.error :: INFO :: [08/Apr/2019:22:53:12] ENGINE Serving on http://0.0.0.0:8085
+2019-04-08 22:53:12 :: cherrypy.error :: INFO :: [08/Apr/2019:22:53:12] ENGINE Bus STARTED
+2019-04-09 04:53:10 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-09 10:53:10 CDT)" (scheduled at 2019-04-09 04:53:10.195229-05:00)
+2019-04-09 04:53:10 :: htpc.updater :: INFO :: Running update_needed
+2019-04-09 04:53:10 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-09 04:53:13 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-09 04:53:13 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-09 10:53:10 CDT)" executed successfully
+2019-04-09 10:53:10 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-09 16:53:10 CDT)" (scheduled at 2019-04-09 10:53:10.195229-05:00)
+2019-04-09 10:53:10 :: htpc.updater :: INFO :: Running update_needed
+2019-04-09 10:53:10 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-09 10:53:11 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-09 10:53:11 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-09 16:53:10 CDT)" executed successfully
+2019-04-09 13:31:30 :: cherrypy.error :: INFO :: [09/Apr/2019:13:31:30] ENGINE Started monitor thread 'Session cleanup'.
+2019-04-09 13:31:46 :: modules.plex :: ERROR :: Unable to fetch recent movies! Exception: Invalid URL u'http://:/library/sections': No host supplied
+2019-04-09 13:35:38 :: modules.plex :: ERROR :: Unable to fetch recent movies! Exception: Invalid URL u'http://:/library/sections': No host supplied
+2019-04-09 13:35:46 :: modules.plex :: INFO :: Sending discovery message: M-SEARCH * HTTP/1.0
+2019-04-09 13:35:47 :: modules.plex :: INFO :: GDM: Servers discovered: 1
+2019-04-09 13:36:26 :: modules.plex :: INFO :: Sending discovery message: M-SEARCH * HTTP/1.0
+2019-04-09 13:36:27 :: modules.plex :: INFO :: GDM: Servers discovered: 1
+2019-04-09 16:53:10 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-09 22:53:10 CDT)" (scheduled at 2019-04-09 16:53:10.195229-05:00)
+2019-04-09 16:53:10 :: htpc.updater :: INFO :: Running update_needed
+2019-04-09 16:53:10 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-09 16:53:11 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-09 16:53:11 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-09 22:53:10 CDT)" executed successfully
+2019-04-09 22:53:10 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-10 04:53:10 CDT)" (scheduled at 2019-04-09 22:53:10.195229-05:00)
+2019-04-09 22:53:10 :: htpc.updater :: INFO :: Running update_needed
+2019-04-09 22:53:10 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-09 22:53:11 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-09 22:53:11 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-10 04:53:10 CDT)" executed successfully
+2019-04-10 04:53:10 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-10 10:53:10 CDT)" (scheduled at 2019-04-10 04:53:10.195229-05:00)
+2019-04-10 04:53:10 :: htpc.updater :: INFO :: Running update_needed
+2019-04-10 04:53:10 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-10 04:53:12 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-10 04:53:12 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-10 10:53:10 CDT)" executed successfully
+2019-04-10 10:53:10 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-10 16:53:10 CDT)" (scheduled at 2019-04-10 10:53:10.195229-05:00)
+2019-04-10 10:53:10 :: htpc.updater :: INFO :: Running update_needed
+2019-04-10 10:53:10 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-10 10:53:11 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-10 10:53:11 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-10 16:53:10 CDT)" executed successfully
+2019-04-10 16:53:10 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-10 22:53:10 CDT)" (scheduled at 2019-04-10 16:53:10.195229-05:00)
+2019-04-10 16:53:10 :: htpc.updater :: INFO :: Running update_needed
+2019-04-10 16:53:10 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-10 16:53:12 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-10 16:53:12 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-10 22:53:10 CDT)" executed successfully
+2019-04-10 22:53:10 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-11 04:53:10 CDT)" (scheduled at 2019-04-10 22:53:10.195229-05:00)
+2019-04-10 22:53:10 :: htpc.updater :: INFO :: Running update_needed
+2019-04-10 22:53:10 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-10 22:53:11 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-10 22:53:11 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-11 04:53:10 CDT)" executed successfully
+2019-04-11 04:53:10 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-11 10:53:10 CDT)" (scheduled at 2019-04-11 04:53:10.195229-05:00)
+2019-04-11 04:53:10 :: htpc.updater :: INFO :: Running update_needed
+2019-04-11 04:53:10 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-11 04:53:12 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-11 04:53:12 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-11 10:53:10 CDT)" executed successfully
+2019-04-11 10:53:10 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-11 16:53:10 CDT)" (scheduled at 2019-04-11 10:53:10.195229-05:00)
+2019-04-11 10:53:10 :: htpc.updater :: INFO :: Running update_needed
+2019-04-11 10:53:10 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-11 10:53:12 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-11 10:53:12 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-11 16:53:10 CDT)" executed successfully
+2019-04-11 16:53:10 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-11 22:53:10 CDT)" (scheduled at 2019-04-11 16:53:10.195229-05:00)
+2019-04-11 16:53:10 :: htpc.updater :: INFO :: Running update_needed
+2019-04-11 16:53:10 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-11 16:53:12 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-11 16:53:12 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-11 22:53:10 CDT)" executed successfully
+2019-04-11 22:53:10 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-12 04:53:10 CDT)" (scheduled at 2019-04-11 22:53:10.195229-05:00)
+2019-04-11 22:53:10 :: htpc.updater :: INFO :: Running update_needed
+2019-04-11 22:53:10 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-11 22:53:11 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-11 22:53:11 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-12 04:53:10 CDT)" executed successfully
+2019-04-12 04:53:10 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-12 10:53:10 CDT)" (scheduled at 2019-04-12 04:53:10.195229-05:00)
+2019-04-12 04:53:10 :: htpc.updater :: INFO :: Running update_needed
+2019-04-12 04:53:10 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-12 04:53:11 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-12 04:53:11 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-12 10:53:10 CDT)" executed successfully
+2019-04-12 10:53:10 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-12 16:53:10 CDT)" (scheduled at 2019-04-12 10:53:10.195229-05:00)
+2019-04-12 10:53:10 :: htpc.updater :: INFO :: Running update_needed
+2019-04-12 10:53:10 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-12 10:53:11 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-12 10:53:11 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-12 16:53:10 CDT)" executed successfully
+2019-04-12 16:53:10 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-12 22:53:10 CDT)" (scheduled at 2019-04-12 16:53:10.195229-05:00)
+2019-04-12 16:53:10 :: htpc.updater :: INFO :: Running update_needed
+2019-04-12 16:53:10 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-12 16:53:11 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-12 16:53:11 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-12 22:53:10 CDT)" executed successfully
+2019-04-12 22:53:10 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-13 04:53:10 CDT)" (scheduled at 2019-04-12 22:53:10.195229-05:00)
+2019-04-12 22:53:10 :: htpc.updater :: INFO :: Running update_needed
+2019-04-12 22:53:10 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-12 22:53:11 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-12 22:53:11 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-13 04:53:10 CDT)" executed successfully
+2019-04-13 04:53:10 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-13 10:53:10 CDT)" (scheduled at 2019-04-13 04:53:10.195229-05:00)
+2019-04-13 04:53:10 :: htpc.updater :: INFO :: Running update_needed
+2019-04-13 04:53:10 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-13 04:53:11 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-13 04:53:11 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-13 10:53:10 CDT)" executed successfully
+2019-04-13 10:53:10 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-13 16:53:10 CDT)" (scheduled at 2019-04-13 10:53:10.195229-05:00)
+2019-04-13 10:53:10 :: htpc.updater :: INFO :: Running update_needed
+2019-04-13 10:53:10 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-13 10:53:11 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-13 10:53:11 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-13 16:53:10 CDT)" executed successfully
+2019-04-13 14:13:17 :: authentication :: WARNING :: Failed login attempt with username: ************* password: ********** from ip: 10.0.0.11
+2019-04-13 14:13:27 :: modules.plex :: ERROR :: Unable to fetch recent movies! Exception: Invalid URL u'http://:/library/sections': No host supplied
+2019-04-13 14:14:13 :: modules.plex :: INFO :: Sending discovery message: M-SEARCH * HTTP/1.0
+2019-04-13 14:14:14 :: modules.plex :: INFO :: GDM: Servers discovered: 1
+2019-04-13 14:14:47 :: modules.plex :: INFO :: Sending discovery message: M-SEARCH * HTTP/1.0
+2019-04-13 14:14:48 :: modules.plex :: INFO :: GDM: Servers discovered: 1
+2019-04-13 14:15:56 :: modules.plex :: INFO :: Sending discovery message: M-SEARCH * HTTP/1.0
+2019-04-13 14:15:57 :: modules.plex :: INFO :: GDM: Servers discovered: 1
+2019-04-13 14:16:59 :: modules.plex :: INFO :: Sending discovery message: M-SEARCH * HTTP/1.0
+2019-04-13 14:17:00 :: modules.plex :: INFO :: GDM: Servers discovered: 1
+2019-04-13 14:17:14 :: modules.plex :: INFO :: Sending discovery message: M-SEARCH * HTTP/1.0
+2019-04-13 14:17:15 :: modules.plex :: INFO :: GDM: Servers discovered: 1
+2019-04-13 14:17:51 :: modules.plex :: INFO :: Sending discovery message: M-SEARCH * HTTP/1.0
+2019-04-13 14:17:52 :: modules.plex :: INFO :: GDM: Servers discovered: 1
+2019-04-13 14:18:19 :: modules.plex :: INFO :: Sending discovery message: M-SEARCH * HTTP/1.0
+2019-04-13 14:18:20 :: modules.plex :: INFO :: GDM: Servers discovered: 1
+2019-04-13 14:18:29 :: modules.plex :: INFO :: Sending discovery message: M-SEARCH * HTTP/1.0
+2019-04-13 14:18:30 :: modules.plex :: INFO :: GDM: Servers discovered: 1
+2019-04-13 14:18:51 :: modules.plex :: INFO :: Sending discovery message: M-SEARCH * HTTP/1.0
+2019-04-13 14:18:52 :: modules.plex :: INFO :: GDM: Servers discovered: 1
+2019-04-13 14:19:03 :: modules.plex :: INFO :: Sending discovery message: M-SEARCH * HTTP/1.0
+2019-04-13 14:19:04 :: modules.plex :: INFO :: GDM: Servers discovered: 1
+2019-04-13 14:19:17 :: modules.plex :: INFO :: Connected to the Plex Media Server None at http://10.0.0.11:32400
+2019-04-13 14:19:25 :: modules.plex :: INFO :: Sending discovery message: M-SEARCH * HTTP/1.0
+2019-04-13 14:19:26 :: modules.plex :: INFO :: GDM: Servers discovered: 1
+2019-04-13 14:20:05 :: modules.plex :: INFO :: Sending discovery message: M-SEARCH * HTTP/1.0
+2019-04-13 14:20:06 :: modules.plex :: INFO :: GDM: Servers discovered: 1
+2019-04-13 14:20:11 :: modules.plex :: INFO :: Sending discovery message: M-SEARCH * HTTP/1.0
+2019-04-13 14:20:12 :: modules.plex :: INFO :: GDM: Servers discovered: 1
+2019-04-13 14:20:52 :: modules.plex :: INFO :: Sending discovery message: M-SEARCH * HTTP/1.0
+2019-04-13 14:20:53 :: modules.plex :: INFO :: GDM: Servers discovered: 1
+2019-04-13 14:21:24 :: modules.plex :: INFO :: Sending discovery message: M-SEARCH * HTTP/1.0
+2019-04-13 14:21:25 :: modules.plex :: INFO :: GDM: No servers discovered
+2019-04-13 14:22:17 :: modules.plex :: INFO :: Sending discovery message: M-SEARCH * HTTP/1.0
+2019-04-13 14:22:18 :: modules.plex :: INFO :: GDM: Servers discovered: 1
+2019-04-13 14:22:35 :: cherrypy.error.3058616112 :: ERROR :: [13/Apr/2019:14:22:35] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/headphones.py", line 64, in GetThumb
+    return get_image(url, h, w, o)
+  File "/app/htpcmanager/htpc/helpers.py", line 88, in get_image
+    image = resize_image(image, height, width, opacity, mode, resized)
+  File "/app/htpcmanager/htpc/helpers.py", line 283, in resize_image
+    im.save(dest, 'JPEG', quality=95)
+  File "/usr/lib/python2.7/site-packages/PIL/Image.py", line 1969, in save
+    save_handler(self, fp, filename)
+  File "/usr/lib/python2.7/site-packages/PIL/JpegImagePlugin.py", line 622, in _save
+    raise IOError("cannot write mode %s as JPEG" % im.mode)
+IOError: cannot write mode RGBA as JPEG
+2019-04-13 14:22:36 :: cherrypy.error.3058616112 :: ERROR :: [13/Apr/2019:14:22:36] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/headphones.py", line 64, in GetThumb
+    return get_image(url, h, w, o)
+  File "/app/htpcmanager/htpc/helpers.py", line 88, in get_image
+    image = resize_image(image, height, width, opacity, mode, resized)
+  File "/app/htpcmanager/htpc/helpers.py", line 283, in resize_image
+    im.save(dest, 'JPEG', quality=95)
+  File "/usr/lib/python2.7/site-packages/PIL/Image.py", line 1969, in save
+    save_handler(self, fp, filename)
+  File "/usr/lib/python2.7/site-packages/PIL/JpegImagePlugin.py", line 622, in _save
+    raise IOError("cannot write mode %s as JPEG" % im.mode)
+IOError: cannot write mode RGBA as JPEG
+2019-04-13 14:22:36 :: cherrypy.error.3058616112 :: ERROR :: [13/Apr/2019:14:22:36] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/headphones.py", line 64, in GetThumb
+    return get_image(url, h, w, o)
+  File "/app/htpcmanager/htpc/helpers.py", line 88, in get_image
+    image = resize_image(image, height, width, opacity, mode, resized)
+  File "/app/htpcmanager/htpc/helpers.py", line 283, in resize_image
+    im.save(dest, 'JPEG', quality=95)
+  File "/usr/lib/python2.7/site-packages/PIL/Image.py", line 1969, in save
+    save_handler(self, fp, filename)
+  File "/usr/lib/python2.7/site-packages/PIL/JpegImagePlugin.py", line 622, in _save
+    raise IOError("cannot write mode %s as JPEG" % im.mode)
+IOError: cannot write mode RGBA as JPEG
+2019-04-13 14:22:37 :: cherrypy.error.3058616112 :: ERROR :: [13/Apr/2019:14:22:37] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/headphones.py", line 64, in GetThumb
+    return get_image(url, h, w, o)
+  File "/app/htpcmanager/htpc/helpers.py", line 88, in get_image
+    image = resize_image(image, height, width, opacity, mode, resized)
+  File "/app/htpcmanager/htpc/helpers.py", line 283, in resize_image
+    im.save(dest, 'JPEG', quality=95)
+  File "/usr/lib/python2.7/site-packages/PIL/Image.py", line 1969, in save
+    save_handler(self, fp, filename)
+  File "/usr/lib/python2.7/site-packages/PIL/JpegImagePlugin.py", line 622, in _save
+    raise IOError("cannot write mode %s as JPEG" % im.mode)
+IOError: cannot write mode RGBA as JPEG
+2019-04-13 14:22:37 :: cherrypy.error.3058616112 :: ERROR :: [13/Apr/2019:14:22:37] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/headphones.py", line 64, in GetThumb
+    return get_image(url, h, w, o)
+  File "/app/htpcmanager/htpc/helpers.py", line 88, in get_image
+    image = resize_image(image, height, width, opacity, mode, resized)
+  File "/app/htpcmanager/htpc/helpers.py", line 283, in resize_image
+    im.save(dest, 'JPEG', quality=95)
+  File "/usr/lib/python2.7/site-packages/PIL/Image.py", line 1969, in save
+    save_handler(self, fp, filename)
+  File "/usr/lib/python2.7/site-packages/PIL/JpegImagePlugin.py", line 622, in _save
+    raise IOError("cannot write mode %s as JPEG" % im.mode)
+IOError: cannot write mode RGBA as JPEG
+2019-04-13 14:22:38 :: cherrypy.error.3058616112 :: ERROR :: [13/Apr/2019:14:22:38] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/headphones.py", line 64, in GetThumb
+    return get_image(url, h, w, o)
+  File "/app/htpcmanager/htpc/helpers.py", line 88, in get_image
+    image = resize_image(image, height, width, opacity, mode, resized)
+  File "/app/htpcmanager/htpc/helpers.py", line 283, in resize_image
+    im.save(dest, 'JPEG', quality=95)
+  File "/usr/lib/python2.7/site-packages/PIL/Image.py", line 1969, in save
+    save_handler(self, fp, filename)
+  File "/usr/lib/python2.7/site-packages/PIL/JpegImagePlugin.py", line 622, in _save
+    raise IOError("cannot write mode %s as JPEG" % im.mode)
+IOError: cannot write mode RGBA as JPEG
+2019-04-13 14:22:38 :: cherrypy.error.3058616112 :: ERROR :: [13/Apr/2019:14:22:38] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/headphones.py", line 64, in GetThumb
+    return get_image(url, h, w, o)
+  File "/app/htpcmanager/htpc/helpers.py", line 88, in get_image
+    image = resize_image(image, height, width, opacity, mode, resized)
+  File "/app/htpcmanager/htpc/helpers.py", line 283, in resize_image
+    im.save(dest, 'JPEG', quality=95)
+  File "/usr/lib/python2.7/site-packages/PIL/Image.py", line 1969, in save
+    save_handler(self, fp, filename)
+  File "/usr/lib/python2.7/site-packages/PIL/JpegImagePlugin.py", line 622, in _save
+    raise IOError("cannot write mode %s as JPEG" % im.mode)
+IOError: cannot write mode RGBA as JPEG
+2019-04-13 14:22:39 :: cherrypy.error.3058616112 :: ERROR :: [13/Apr/2019:14:22:39] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/headphones.py", line 64, in GetThumb
+    return get_image(url, h, w, o)
+  File "/app/htpcmanager/htpc/helpers.py", line 88, in get_image
+    image = resize_image(image, height, width, opacity, mode, resized)
+  File "/app/htpcmanager/htpc/helpers.py", line 283, in resize_image
+    im.save(dest, 'JPEG', quality=95)
+  File "/usr/lib/python2.7/site-packages/PIL/Image.py", line 1969, in save
+    save_handler(self, fp, filename)
+  File "/usr/lib/python2.7/site-packages/PIL/JpegImagePlugin.py", line 622, in _save
+    raise IOError("cannot write mode %s as JPEG" % im.mode)
+IOError: cannot write mode RGBA as JPEG
+2019-04-13 14:22:39 :: cherrypy.error.3058616112 :: ERROR :: [13/Apr/2019:14:22:39] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/headphones.py", line 64, in GetThumb
+    return get_image(url, h, w, o)
+  File "/app/htpcmanager/htpc/helpers.py", line 88, in get_image
+    image = resize_image(image, height, width, opacity, mode, resized)
+  File "/app/htpcmanager/htpc/helpers.py", line 283, in resize_image
+    im.save(dest, 'JPEG', quality=95)
+  File "/usr/lib/python2.7/site-packages/PIL/Image.py", line 1969, in save
+    save_handler(self, fp, filename)
+  File "/usr/lib/python2.7/site-packages/PIL/JpegImagePlugin.py", line 622, in _save
+    raise IOError("cannot write mode %s as JPEG" % im.mode)
+IOError: cannot write mode RGBA as JPEG
+2019-04-13 14:22:40 :: cherrypy.error.3058616112 :: ERROR :: [13/Apr/2019:14:22:40] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/headphones.py", line 64, in GetThumb
+    return get_image(url, h, w, o)
+  File "/app/htpcmanager/htpc/helpers.py", line 88, in get_image
+    image = resize_image(image, height, width, opacity, mode, resized)
+  File "/app/htpcmanager/htpc/helpers.py", line 283, in resize_image
+    im.save(dest, 'JPEG', quality=95)
+  File "/usr/lib/python2.7/site-packages/PIL/Image.py", line 1969, in save
+    save_handler(self, fp, filename)
+  File "/usr/lib/python2.7/site-packages/PIL/JpegImagePlugin.py", line 622, in _save
+    raise IOError("cannot write mode %s as JPEG" % im.mode)
+IOError: cannot write mode RGBA as JPEG
+2019-04-13 14:22:40 :: cherrypy.error.3058616112 :: ERROR :: [13/Apr/2019:14:22:40] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/headphones.py", line 64, in GetThumb
+    return get_image(url, h, w, o)
+  File "/app/htpcmanager/htpc/helpers.py", line 88, in get_image
+    image = resize_image(image, height, width, opacity, mode, resized)
+  File "/app/htpcmanager/htpc/helpers.py", line 283, in resize_image
+    im.save(dest, 'JPEG', quality=95)
+  File "/usr/lib/python2.7/site-packages/PIL/Image.py", line 1969, in save
+    save_handler(self, fp, filename)
+  File "/usr/lib/python2.7/site-packages/PIL/JpegImagePlugin.py", line 622, in _save
+    raise IOError("cannot write mode %s as JPEG" % im.mode)
+IOError: cannot write mode RGBA as JPEG
+2019-04-13 14:22:41 :: cherrypy.error.3058616112 :: ERROR :: [13/Apr/2019:14:22:41] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/headphones.py", line 64, in GetThumb
+    return get_image(url, h, w, o)
+  File "/app/htpcmanager/htpc/helpers.py", line 88, in get_image
+    image = resize_image(image, height, width, opacity, mode, resized)
+  File "/app/htpcmanager/htpc/helpers.py", line 283, in resize_image
+    im.save(dest, 'JPEG', quality=95)
+  File "/usr/lib/python2.7/site-packages/PIL/Image.py", line 1969, in save
+    save_handler(self, fp, filename)
+  File "/usr/lib/python2.7/site-packages/PIL/JpegImagePlugin.py", line 622, in _save
+    raise IOError("cannot write mode %s as JPEG" % im.mode)
+IOError: cannot write mode RGBA as JPEG
+2019-04-13 14:22:41 :: cherrypy.error.3058616112 :: ERROR :: [13/Apr/2019:14:22:41] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/headphones.py", line 64, in GetThumb
+    return get_image(url, h, w, o)
+  File "/app/htpcmanager/htpc/helpers.py", line 88, in get_image
+    image = resize_image(image, height, width, opacity, mode, resized)
+  File "/app/htpcmanager/htpc/helpers.py", line 283, in resize_image
+    im.save(dest, 'JPEG', quality=95)
+  File "/usr/lib/python2.7/site-packages/PIL/Image.py", line 1969, in save
+    save_handler(self, fp, filename)
+  File "/usr/lib/python2.7/site-packages/PIL/JpegImagePlugin.py", line 622, in _save
+    raise IOError("cannot write mode %s as JPEG" % im.mode)
+IOError: cannot write mode RGBA as JPEG
+2019-04-13 14:22:41 :: cherrypy.error.3058616112 :: ERROR :: [13/Apr/2019:14:22:41] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/headphones.py", line 64, in GetThumb
+    return get_image(url, h, w, o)
+  File "/app/htpcmanager/htpc/helpers.py", line 88, in get_image
+    image = resize_image(image, height, width, opacity, mode, resized)
+  File "/app/htpcmanager/htpc/helpers.py", line 283, in resize_image
+    im.save(dest, 'JPEG', quality=95)
+  File "/usr/lib/python2.7/site-packages/PIL/Image.py", line 1969, in save
+    save_handler(self, fp, filename)
+  File "/usr/lib/python2.7/site-packages/PIL/JpegImagePlugin.py", line 622, in _save
+    raise IOError("cannot write mode %s as JPEG" % im.mode)
+IOError: cannot write mode RGBA as JPEG
+2019-04-13 14:22:42 :: cherrypy.error.3058616112 :: ERROR :: [13/Apr/2019:14:22:42] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/headphones.py", line 64, in GetThumb
+    return get_image(url, h, w, o)
+  File "/app/htpcmanager/htpc/helpers.py", line 88, in get_image
+    image = resize_image(image, height, width, opacity, mode, resized)
+  File "/app/htpcmanager/htpc/helpers.py", line 283, in resize_image
+    im.save(dest, 'JPEG', quality=95)
+  File "/usr/lib/python2.7/site-packages/PIL/Image.py", line 1969, in save
+    save_handler(self, fp, filename)
+  File "/usr/lib/python2.7/site-packages/PIL/JpegImagePlugin.py", line 622, in _save
+    raise IOError("cannot write mode %s as JPEG" % im.mode)
+IOError: cannot write mode RGBA as JPEG
+2019-04-13 14:22:42 :: cherrypy.error.3058616112 :: ERROR :: [13/Apr/2019:14:22:42] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/headphones.py", line 64, in GetThumb
+    return get_image(url, h, w, o)
+  File "/app/htpcmanager/htpc/helpers.py", line 88, in get_image
+    image = resize_image(image, height, width, opacity, mode, resized)
+  File "/app/htpcmanager/htpc/helpers.py", line 283, in resize_image
+    im.save(dest, 'JPEG', quality=95)
+  File "/usr/lib/python2.7/site-packages/PIL/Image.py", line 1969, in save
+    save_handler(self, fp, filename)
+  File "/usr/lib/python2.7/site-packages/PIL/JpegImagePlugin.py", line 622, in _save
+    raise IOError("cannot write mode %s as JPEG" % im.mode)
+IOError: cannot write mode RGBA as JPEG
+2019-04-13 14:22:43 :: cherrypy.error.3058616112 :: ERROR :: [13/Apr/2019:14:22:43] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/headphones.py", line 64, in GetThumb
+    return get_image(url, h, w, o)
+  File "/app/htpcmanager/htpc/helpers.py", line 88, in get_image
+    image = resize_image(image, height, width, opacity, mode, resized)
+  File "/app/htpcmanager/htpc/helpers.py", line 283, in resize_image
+    im.save(dest, 'JPEG', quality=95)
+  File "/usr/lib/python2.7/site-packages/PIL/Image.py", line 1969, in save
+    save_handler(self, fp, filename)
+  File "/usr/lib/python2.7/site-packages/PIL/JpegImagePlugin.py", line 622, in _save
+    raise IOError("cannot write mode %s as JPEG" % im.mode)
+IOError: cannot write mode RGBA as JPEG
+2019-04-13 14:22:43 :: cherrypy.error.3058616112 :: ERROR :: [13/Apr/2019:14:22:43] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/headphones.py", line 64, in GetThumb
+    return get_image(url, h, w, o)
+  File "/app/htpcmanager/htpc/helpers.py", line 88, in get_image
+    image = resize_image(image, height, width, opacity, mode, resized)
+  File "/app/htpcmanager/htpc/helpers.py", line 283, in resize_image
+    im.save(dest, 'JPEG', quality=95)
+  File "/usr/lib/python2.7/site-packages/PIL/Image.py", line 1969, in save
+    save_handler(self, fp, filename)
+  File "/usr/lib/python2.7/site-packages/PIL/JpegImagePlugin.py", line 622, in _save
+    raise IOError("cannot write mode %s as JPEG" % im.mode)
+IOError: cannot write mode RGBA as JPEG
+2019-04-13 14:22:44 :: cherrypy.error.3058616112 :: ERROR :: [13/Apr/2019:14:22:44] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/headphones.py", line 64, in GetThumb
+    return get_image(url, h, w, o)
+  File "/app/htpcmanager/htpc/helpers.py", line 88, in get_image
+    image = resize_image(image, height, width, opacity, mode, resized)
+  File "/app/htpcmanager/htpc/helpers.py", line 283, in resize_image
+    im.save(dest, 'JPEG', quality=95)
+  File "/usr/lib/python2.7/site-packages/PIL/Image.py", line 1969, in save
+    save_handler(self, fp, filename)
+  File "/usr/lib/python2.7/site-packages/PIL/JpegImagePlugin.py", line 622, in _save
+    raise IOError("cannot write mode %s as JPEG" % im.mode)
+IOError: cannot write mode RGBA as JPEG
+2019-04-13 14:22:44 :: cherrypy.error.3058616112 :: ERROR :: [13/Apr/2019:14:22:44] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/headphones.py", line 64, in GetThumb
+    return get_image(url, h, w, o)
+  File "/app/htpcmanager/htpc/helpers.py", line 88, in get_image
+    image = resize_image(image, height, width, opacity, mode, resized)
+  File "/app/htpcmanager/htpc/helpers.py", line 283, in resize_image
+    im.save(dest, 'JPEG', quality=95)
+  File "/usr/lib/python2.7/site-packages/PIL/Image.py", line 1969, in save
+    save_handler(self, fp, filename)
+  File "/usr/lib/python2.7/site-packages/PIL/JpegImagePlugin.py", line 622, in _save
+    raise IOError("cannot write mode %s as JPEG" % im.mode)
+IOError: cannot write mode RGBA as JPEG
+2019-04-13 14:22:45 :: cherrypy.error.3058616112 :: ERROR :: [13/Apr/2019:14:22:45] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/headphones.py", line 64, in GetThumb
+    return get_image(url, h, w, o)
+  File "/app/htpcmanager/htpc/helpers.py", line 88, in get_image
+    image = resize_image(image, height, width, opacity, mode, resized)
+  File "/app/htpcmanager/htpc/helpers.py", line 283, in resize_image
+    im.save(dest, 'JPEG', quality=95)
+  File "/usr/lib/python2.7/site-packages/PIL/Image.py", line 1969, in save
+    save_handler(self, fp, filename)
+  File "/usr/lib/python2.7/site-packages/PIL/JpegImagePlugin.py", line 622, in _save
+    raise IOError("cannot write mode %s as JPEG" % im.mode)
+IOError: cannot write mode RGBA as JPEG
+2019-04-13 14:22:45 :: cherrypy.error.3058616112 :: ERROR :: [13/Apr/2019:14:22:45] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/headphones.py", line 64, in GetThumb
+    return get_image(url, h, w, o)
+  File "/app/htpcmanager/htpc/helpers.py", line 88, in get_image
+    image = resize_image(image, height, width, opacity, mode, resized)
+  File "/app/htpcmanager/htpc/helpers.py", line 283, in resize_image
+    im.save(dest, 'JPEG', quality=95)
+  File "/usr/lib/python2.7/site-packages/PIL/Image.py", line 1969, in save
+    save_handler(self, fp, filename)
+  File "/usr/lib/python2.7/site-packages/PIL/JpegImagePlugin.py", line 622, in _save
+    raise IOError("cannot write mode %s as JPEG" % im.mode)
+IOError: cannot write mode RGBA as JPEG
+2019-04-13 14:22:45 :: cherrypy.error.3058616112 :: ERROR :: [13/Apr/2019:14:22:45] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/headphones.py", line 64, in GetThumb
+    return get_image(url, h, w, o)
+  File "/app/htpcmanager/htpc/helpers.py", line 88, in get_image
+    image = resize_image(image, height, width, opacity, mode, resized)
+  File "/app/htpcmanager/htpc/helpers.py", line 283, in resize_image
+    im.save(dest, 'JPEG', quality=95)
+  File "/usr/lib/python2.7/site-packages/PIL/Image.py", line 1969, in save
+    save_handler(self, fp, filename)
+  File "/usr/lib/python2.7/site-packages/PIL/JpegImagePlugin.py", line 622, in _save
+    raise IOError("cannot write mode %s as JPEG" % im.mode)
+IOError: cannot write mode RGBA as JPEG
+2019-04-13 14:22:46 :: cherrypy.error.3058616112 :: ERROR :: [13/Apr/2019:14:22:46] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/headphones.py", line 64, in GetThumb
+    return get_image(url, h, w, o)
+  File "/app/htpcmanager/htpc/helpers.py", line 88, in get_image
+    image = resize_image(image, height, width, opacity, mode, resized)
+  File "/app/htpcmanager/htpc/helpers.py", line 283, in resize_image
+    im.save(dest, 'JPEG', quality=95)
+  File "/usr/lib/python2.7/site-packages/PIL/Image.py", line 1969, in save
+    save_handler(self, fp, filename)
+  File "/usr/lib/python2.7/site-packages/PIL/JpegImagePlugin.py", line 622, in _save
+    raise IOError("cannot write mode %s as JPEG" % im.mode)
+IOError: cannot write mode RGBA as JPEG
+2019-04-13 14:22:46 :: cherrypy.error.3058616112 :: ERROR :: [13/Apr/2019:14:22:46] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/headphones.py", line 64, in GetThumb
+    return get_image(url, h, w, o)
+  File "/app/htpcmanager/htpc/helpers.py", line 88, in get_image
+    image = resize_image(image, height, width, opacity, mode, resized)
+  File "/app/htpcmanager/htpc/helpers.py", line 283, in resize_image
+    im.save(dest, 'JPEG', quality=95)
+  File "/usr/lib/python2.7/site-packages/PIL/Image.py", line 1969, in save
+    save_handler(self, fp, filename)
+  File "/usr/lib/python2.7/site-packages/PIL/JpegImagePlugin.py", line 622, in _save
+    raise IOError("cannot write mode %s as JPEG" % im.mode)
+IOError: cannot write mode RGBA as JPEG
+2019-04-13 14:22:47 :: cherrypy.error.3058616112 :: ERROR :: [13/Apr/2019:14:22:47] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/headphones.py", line 64, in GetThumb
+    return get_image(url, h, w, o)
+  File "/app/htpcmanager/htpc/helpers.py", line 88, in get_image
+    image = resize_image(image, height, width, opacity, mode, resized)
+  File "/app/htpcmanager/htpc/helpers.py", line 283, in resize_image
+    im.save(dest, 'JPEG', quality=95)
+  File "/usr/lib/python2.7/site-packages/PIL/Image.py", line 1969, in save
+    save_handler(self, fp, filename)
+  File "/usr/lib/python2.7/site-packages/PIL/JpegImagePlugin.py", line 622, in _save
+    raise IOError("cannot write mode %s as JPEG" % im.mode)
+IOError: cannot write mode RGBA as JPEG
+2019-04-13 14:22:47 :: cherrypy.error.3058616112 :: ERROR :: [13/Apr/2019:14:22:47] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/headphones.py", line 64, in GetThumb
+    return get_image(url, h, w, o)
+  File "/app/htpcmanager/htpc/helpers.py", line 88, in get_image
+    image = resize_image(image, height, width, opacity, mode, resized)
+  File "/app/htpcmanager/htpc/helpers.py", line 283, in resize_image
+    im.save(dest, 'JPEG', quality=95)
+  File "/usr/lib/python2.7/site-packages/PIL/Image.py", line 1969, in save
+    save_handler(self, fp, filename)
+  File "/usr/lib/python2.7/site-packages/PIL/JpegImagePlugin.py", line 622, in _save
+    raise IOError("cannot write mode %s as JPEG" % im.mode)
+IOError: cannot write mode RGBA as JPEG
+2019-04-13 14:22:48 :: cherrypy.error.3058616112 :: ERROR :: [13/Apr/2019:14:22:48] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/headphones.py", line 64, in GetThumb
+    return get_image(url, h, w, o)
+  File "/app/htpcmanager/htpc/helpers.py", line 88, in get_image
+    image = resize_image(image, height, width, opacity, mode, resized)
+  File "/app/htpcmanager/htpc/helpers.py", line 283, in resize_image
+    im.save(dest, 'JPEG', quality=95)
+  File "/usr/lib/python2.7/site-packages/PIL/Image.py", line 1969, in save
+    save_handler(self, fp, filename)
+  File "/usr/lib/python2.7/site-packages/PIL/JpegImagePlugin.py", line 622, in _save
+    raise IOError("cannot write mode %s as JPEG" % im.mode)
+IOError: cannot write mode RGBA as JPEG
+2019-04-13 14:22:48 :: cherrypy.error.3058616112 :: ERROR :: [13/Apr/2019:14:22:48] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/headphones.py", line 64, in GetThumb
+    return get_image(url, h, w, o)
+  File "/app/htpcmanager/htpc/helpers.py", line 88, in get_image
+    image = resize_image(image, height, width, opacity, mode, resized)
+  File "/app/htpcmanager/htpc/helpers.py", line 283, in resize_image
+    im.save(dest, 'JPEG', quality=95)
+  File "/usr/lib/python2.7/site-packages/PIL/Image.py", line 1969, in save
+    save_handler(self, fp, filename)
+  File "/usr/lib/python2.7/site-packages/PIL/JpegImagePlugin.py", line 622, in _save
+    raise IOError("cannot write mode %s as JPEG" % im.mode)
+IOError: cannot write mode RGBA as JPEG
+2019-04-13 14:22:49 :: cherrypy.error.3058616112 :: ERROR :: [13/Apr/2019:14:22:49] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/headphones.py", line 64, in GetThumb
+    return get_image(url, h, w, o)
+  File "/app/htpcmanager/htpc/helpers.py", line 88, in get_image
+    image = resize_image(image, height, width, opacity, mode, resized)
+  File "/app/htpcmanager/htpc/helpers.py", line 283, in resize_image
+    im.save(dest, 'JPEG', quality=95)
+  File "/usr/lib/python2.7/site-packages/PIL/Image.py", line 1969, in save
+    save_handler(self, fp, filename)
+  File "/usr/lib/python2.7/site-packages/PIL/JpegImagePlugin.py", line 622, in _save
+    raise IOError("cannot write mode %s as JPEG" % im.mode)
+IOError: cannot write mode RGBA as JPEG
+2019-04-13 14:22:49 :: cherrypy.error.3058616112 :: ERROR :: [13/Apr/2019:14:22:49] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/headphones.py", line 64, in GetThumb
+    return get_image(url, h, w, o)
+  File "/app/htpcmanager/htpc/helpers.py", line 88, in get_image
+    image = resize_image(image, height, width, opacity, mode, resized)
+  File "/app/htpcmanager/htpc/helpers.py", line 283, in resize_image
+    im.save(dest, 'JPEG', quality=95)
+  File "/usr/lib/python2.7/site-packages/PIL/Image.py", line 1969, in save
+    save_handler(self, fp, filename)
+  File "/usr/lib/python2.7/site-packages/PIL/JpegImagePlugin.py", line 622, in _save
+    raise IOError("cannot write mode %s as JPEG" % im.mode)
+IOError: cannot write mode RGBA as JPEG
+2019-04-13 14:22:49 :: cherrypy.error.3058616112 :: ERROR :: [13/Apr/2019:14:22:49] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/headphones.py", line 64, in GetThumb
+    return get_image(url, h, w, o)
+  File "/app/htpcmanager/htpc/helpers.py", line 88, in get_image
+    image = resize_image(image, height, width, opacity, mode, resized)
+  File "/app/htpcmanager/htpc/helpers.py", line 283, in resize_image
+    im.save(dest, 'JPEG', quality=95)
+  File "/usr/lib/python2.7/site-packages/PIL/Image.py", line 1969, in save
+    save_handler(self, fp, filename)
+  File "/usr/lib/python2.7/site-packages/PIL/JpegImagePlugin.py", line 622, in _save
+    raise IOError("cannot write mode %s as JPEG" % im.mode)
+IOError: cannot write mode RGBA as JPEG
+2019-04-13 14:22:50 :: cherrypy.error.3058616112 :: ERROR :: [13/Apr/2019:14:22:50] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/headphones.py", line 64, in GetThumb
+    return get_image(url, h, w, o)
+  File "/app/htpcmanager/htpc/helpers.py", line 88, in get_image
+    image = resize_image(image, height, width, opacity, mode, resized)
+  File "/app/htpcmanager/htpc/helpers.py", line 283, in resize_image
+    im.save(dest, 'JPEG', quality=95)
+  File "/usr/lib/python2.7/site-packages/PIL/Image.py", line 1969, in save
+    save_handler(self, fp, filename)
+  File "/usr/lib/python2.7/site-packages/PIL/JpegImagePlugin.py", line 622, in _save
+    raise IOError("cannot write mode %s as JPEG" % im.mode)
+IOError: cannot write mode RGBA as JPEG
+2019-04-13 14:22:50 :: cherrypy.error.3058616112 :: ERROR :: [13/Apr/2019:14:22:50] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/headphones.py", line 64, in GetThumb
+    return get_image(url, h, w, o)
+  File "/app/htpcmanager/htpc/helpers.py", line 88, in get_image
+    image = resize_image(image, height, width, opacity, mode, resized)
+  File "/app/htpcmanager/htpc/helpers.py", line 283, in resize_image
+    im.save(dest, 'JPEG', quality=95)
+  File "/usr/lib/python2.7/site-packages/PIL/Image.py", line 1969, in save
+    save_handler(self, fp, filename)
+  File "/usr/lib/python2.7/site-packages/PIL/JpegImagePlugin.py", line 622, in _save
+    raise IOError("cannot write mode %s as JPEG" % im.mode)
+IOError: cannot write mode RGBA as JPEG
+2019-04-13 14:22:51 :: cherrypy.error.3058616112 :: ERROR :: [13/Apr/2019:14:22:51] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/headphones.py", line 64, in GetThumb
+    return get_image(url, h, w, o)
+  File "/app/htpcmanager/htpc/helpers.py", line 88, in get_image
+    image = resize_image(image, height, width, opacity, mode, resized)
+  File "/app/htpcmanager/htpc/helpers.py", line 283, in resize_image
+    im.save(dest, 'JPEG', quality=95)
+  File "/usr/lib/python2.7/site-packages/PIL/Image.py", line 1969, in save
+    save_handler(self, fp, filename)
+  File "/usr/lib/python2.7/site-packages/PIL/JpegImagePlugin.py", line 622, in _save
+    raise IOError("cannot write mode %s as JPEG" % im.mode)
+IOError: cannot write mode RGBA as JPEG
+2019-04-13 14:22:51 :: cherrypy.error.3058616112 :: ERROR :: [13/Apr/2019:14:22:51] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/headphones.py", line 64, in GetThumb
+    return get_image(url, h, w, o)
+  File "/app/htpcmanager/htpc/helpers.py", line 88, in get_image
+    image = resize_image(image, height, width, opacity, mode, resized)
+  File "/app/htpcmanager/htpc/helpers.py", line 283, in resize_image
+    im.save(dest, 'JPEG', quality=95)
+  File "/usr/lib/python2.7/site-packages/PIL/Image.py", line 1969, in save
+    save_handler(self, fp, filename)
+  File "/usr/lib/python2.7/site-packages/PIL/JpegImagePlugin.py", line 622, in _save
+    raise IOError("cannot write mode %s as JPEG" % im.mode)
+IOError: cannot write mode RGBA as JPEG
+2019-04-13 14:22:52 :: cherrypy.error.3058616112 :: ERROR :: [13/Apr/2019:14:22:52] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/headphones.py", line 64, in GetThumb
+    return get_image(url, h, w, o)
+  File "/app/htpcmanager/htpc/helpers.py", line 88, in get_image
+    image = resize_image(image, height, width, opacity, mode, resized)
+  File "/app/htpcmanager/htpc/helpers.py", line 283, in resize_image
+    im.save(dest, 'JPEG', quality=95)
+  File "/usr/lib/python2.7/site-packages/PIL/Image.py", line 1969, in save
+    save_handler(self, fp, filename)
+  File "/usr/lib/python2.7/site-packages/PIL/JpegImagePlugin.py", line 622, in _save
+    raise IOError("cannot write mode %s as JPEG" % im.mode)
+IOError: cannot write mode RGBA as JPEG
+2019-04-13 14:22:53 :: cherrypy.error.3058616112 :: ERROR :: [13/Apr/2019:14:22:53] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/headphones.py", line 64, in GetThumb
+    return get_image(url, h, w, o)
+  File "/app/htpcmanager/htpc/helpers.py", line 88, in get_image
+    image = resize_image(image, height, width, opacity, mode, resized)
+  File "/app/htpcmanager/htpc/helpers.py", line 283, in resize_image
+    im.save(dest, 'JPEG', quality=95)
+  File "/usr/lib/python2.7/site-packages/PIL/Image.py", line 1969, in save
+    save_handler(self, fp, filename)
+  File "/usr/lib/python2.7/site-packages/PIL/JpegImagePlugin.py", line 622, in _save
+    raise IOError("cannot write mode %s as JPEG" % im.mode)
+IOError: cannot write mode RGBA as JPEG
+2019-04-13 14:22:54 :: cherrypy.error.3058616112 :: ERROR :: [13/Apr/2019:14:22:54] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/headphones.py", line 64, in GetThumb
+    return get_image(url, h, w, o)
+  File "/app/htpcmanager/htpc/helpers.py", line 88, in get_image
+    image = resize_image(image, height, width, opacity, mode, resized)
+  File "/app/htpcmanager/htpc/helpers.py", line 283, in resize_image
+    im.save(dest, 'JPEG', quality=95)
+  File "/usr/lib/python2.7/site-packages/PIL/Image.py", line 1969, in save
+    save_handler(self, fp, filename)
+  File "/usr/lib/python2.7/site-packages/PIL/JpegImagePlugin.py", line 622, in _save
+    raise IOError("cannot write mode %s as JPEG" % im.mode)
+IOError: cannot write mode RGBA as JPEG
+2019-04-13 14:22:54 :: cherrypy.error.3058616112 :: ERROR :: [13/Apr/2019:14:22:54] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/headphones.py", line 64, in GetThumb
+    return get_image(url, h, w, o)
+  File "/app/htpcmanager/htpc/helpers.py", line 88, in get_image
+    image = resize_image(image, height, width, opacity, mode, resized)
+  File "/app/htpcmanager/htpc/helpers.py", line 283, in resize_image
+    im.save(dest, 'JPEG', quality=95)
+  File "/usr/lib/python2.7/site-packages/PIL/Image.py", line 1969, in save
+    save_handler(self, fp, filename)
+  File "/usr/lib/python2.7/site-packages/PIL/JpegImagePlugin.py", line 622, in _save
+    raise IOError("cannot write mode %s as JPEG" % im.mode)
+IOError: cannot write mode RGBA as JPEG
+2019-04-13 14:22:54 :: cherrypy.error.3058616112 :: ERROR :: [13/Apr/2019:14:22:54] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/headphones.py", line 64, in GetThumb
+    return get_image(url, h, w, o)
+  File "/app/htpcmanager/htpc/helpers.py", line 88, in get_image
+    image = resize_image(image, height, width, opacity, mode, resized)
+  File "/app/htpcmanager/htpc/helpers.py", line 283, in resize_image
+    im.save(dest, 'JPEG', quality=95)
+  File "/usr/lib/python2.7/site-packages/PIL/Image.py", line 1969, in save
+    save_handler(self, fp, filename)
+  File "/usr/lib/python2.7/site-packages/PIL/JpegImagePlugin.py", line 622, in _save
+    raise IOError("cannot write mode %s as JPEG" % im.mode)
+IOError: cannot write mode RGBA as JPEG
+2019-04-13 14:22:55 :: cherrypy.error.3058616112 :: ERROR :: [13/Apr/2019:14:22:55] HTTP 
+Traceback (most recent call last):
+  File "/app/htpcmanager/libs/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/app/htpcmanager/libs/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/app/htpcmanager/libs/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/app/htpcmanager/modules/headphones.py", line 64, in GetThumb
+    return get_image(url, h, w, o)
+  File "/app/htpcmanager/htpc/helpers.py", line 88, in get_image
+    image = resize_image(image, height, width, opacity, mode, resized)
+  File "/app/htpcmanager/htpc/helpers.py", line 283, in resize_image
+    im.save(dest, 'JPEG', quality=95)
+  File "/usr/lib/python2.7/site-packages/PIL/Image.py", line 1969, in save
+    save_handler(self, fp, filename)
+  File "/usr/lib/python2.7/site-packages/PIL/JpegImagePlugin.py", line 622, in _save
+    raise IOError("cannot write mode %s as JPEG" % im.mode)
+IOError: cannot write mode RGBA as JPEG
+2019-04-13 16:53:10 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-13 22:53:10 CDT)" (scheduled at 2019-04-13 16:53:10.195229-05:00)
+2019-04-13 16:53:10 :: htpc.updater :: INFO :: Running update_needed
+2019-04-13 16:53:10 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-13 16:53:11 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-13 16:53:11 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-13 22:53:10 CDT)" executed successfully
+2019-04-13 22:53:11 :: apscheduler.executors.default :: WARNING :: Run time of job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-14 04:53:10 CDT)" was missed by 0:00:01.354178
+2019-04-14 04:53:11 :: apscheduler.executors.default :: WARNING :: Run time of job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-14 10:53:10 CDT)" was missed by 0:00:01.373516
+2019-04-14 10:53:10 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-14 16:53:10 CDT)" (scheduled at 2019-04-14 10:53:10.195229-05:00)
+2019-04-14 10:53:10 :: htpc.updater :: INFO :: Running update_needed
+2019-04-14 10:53:10 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-14 10:53:14 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-14 10:53:14 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-14 16:53:10 CDT)" executed successfully
+2019-04-14 16:53:10 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-14 22:53:10 CDT)" (scheduled at 2019-04-14 16:53:10.195229-05:00)
+2019-04-14 16:53:10 :: htpc.updater :: INFO :: Running update_needed
+2019-04-14 16:53:10 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-14 16:53:11 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-14 16:53:11 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-14 22:53:10 CDT)" executed successfully
+2019-04-14 22:39:42 :: cherrypy.error :: INFO :: [14/Apr/2019:22:39:42] ENGINE Caught signal SIGTERM.
+2019-04-14 22:39:42 :: cherrypy.error :: INFO :: [14/Apr/2019:22:39:42] ENGINE Bus STOPPING
+2019-04-14 22:39:42 :: apscheduler.scheduler :: INFO :: Scheduler has been shut down
+2019-04-14 22:39:42 :: cherrypy.error :: INFO :: [14/Apr/2019:22:39:42] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8085)) shut down
+2019-04-14 22:39:42 :: cherrypy.error :: INFO :: [14/Apr/2019:22:39:42] ENGINE Stopped thread 'Session cleanup'.
+2019-04-14 22:39:42 :: cherrypy.error :: INFO :: [14/Apr/2019:22:39:42] ENGINE Bus STOPPED
+2019-04-14 22:39:42 :: cherrypy.error :: INFO :: [14/Apr/2019:22:39:42] ENGINE Bus EXITING
+2019-04-14 22:39:42 :: cherrypy.error :: INFO :: [14/Apr/2019:22:39:42] ENGINE Bus EXITED
+2019-04-14 22:39:42 :: cherrypy.error :: INFO :: [14/Apr/2019:22:39:42] ENGINE Waiting for child threads to terminate...

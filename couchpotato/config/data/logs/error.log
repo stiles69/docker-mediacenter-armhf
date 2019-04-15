@@ -2727,3 +2727,425 @@ Traceback (most recent call last):
   File "/app/couchpotato/couchpotato/runner.py", line 131, in runCouchPotato
     os.remove(os.path.join(backup_path, eb[1]))
 OSError: [Errno 2] No such file or directory: '/config/data/db_backup/1549657784.tar.gz'
+03:31:30 CRITICAL [                 __main__] Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 131, in runCouchPotato
+    os.remove(os.path.join(backup_path, eb[1]))
+OSError: [Errno 2] No such file or directory: '/config/data/db_backup/1553605883.tar.gz'
+Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 131, in runCouchPotato
+    os.remove(os.path.join(backup_path, eb[1]))
+OSError: [Errno 2] No such file or directory: '/config/data/db_backup/1553605883.tar.gz'
+03:31:36 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+[0m
+Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+03:31:42 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+[0m
+Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+03:31:48 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+[0m
+Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+03:31:53 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+[0m
+Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+03:31:59 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+[0m
+Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+03:32:05 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+[0m
+Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+03:32:10 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+[0m
+Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+03:32:16 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+[0m
+Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+03:32:22 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+[0m
+Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+03:32:27 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+[0m
+Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+03:32:33 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+[0m
+Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+03:32:39 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+[0m
+Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+03:32:44 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+[0m
+Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+03:32:54 CRITICAL [31m[                 __main__] Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
+[0m
+Traceback (most recent call last):
+  File "/app/couchpotato/CouchPotato.py", line 135, in <module>
+    l.run()
+  File "/app/couchpotato/CouchPotato.py", line 89, in run
+    runCouchPotato(self.options, base_path, sys.argv[1:], data_dir = self.data_dir, log_dir = self.log_dir, Env = Env)
+  File "/app/couchpotato/couchpotato/runner.py", line 353, in runCouchPotato
+    server.listen(config['port'], config['host'])
+  File "/app/couchpotato/libs/tornado/tcpserver.py", line 125, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/app/couchpotato/libs/tornado/netutil.py", line 145, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] Address in use
