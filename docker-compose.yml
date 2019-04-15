@@ -2,13 +2,17 @@ version: '2'
 
 services:
   sabnzbd:
-          #    build:
-          #       context: ./sabnzbd
-          #       dockerfile: Dockerfile
-          #    image: lsioarmhf/sabnzbd:latest
+    #build:
+      #context: ./sabnzbd
+      #dockerfile: Dockerfile
+      #image: lsioarmhf/sabnzbd:latest
     image: stiles/sabnzbd_image:latest
     container_name: sabnzbd_container_compose
     restart: always
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=America/Chicago
     dns:
       - '1.1.1.1'
       - '8.8.8.8'
@@ -22,8 +26,6 @@ services:
       - "/downloads/scripts:/downloads/scripts"
       - "/downloads:/downloads"
       - "/downloads/incomplete:/downloads/incomplete"
-    env_file: 
-      - './common.env'
     network_mode: "host"
 
   couchpotato:
@@ -36,8 +38,10 @@ services:
       - "/home/brettsalemink/development/Docker/docker-mediacenter-armhf/couchpotato/config:/config"
       - "/downloads:/downloads"
       - "/downloads/completed/couchpotato:/downloads/completed/couchpotato"
-    env_file:
-      - './common.env'
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=America/Chicago
     network_mode: 'host'
     depends_on:
       - sabnzbd
@@ -52,8 +56,10 @@ services:
       - "/home/brettsalemink/development/Docker/docker-mediacenter-armhf/sonarr/config:/config"
       - "/downloads:/downloads"
       - "/downloads/completed/sonarr:/downloads/completed/sonarr"
-    env_file:
-      - './common.env'
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=America/Chicago
     network_mode: 'host'
     depends_on:
       - sabnzbd
@@ -69,8 +75,10 @@ services:
       - "/home/brettsalemink/development/Docker/docker-mediacenter-armhf/headphones/config:/config"
       - "/downloads:/downloads"
       - "/downloads/completed/headphones:/downloads/completed/headphones"
-    env_file:
-      - './common.env'
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=America/Chicago
     network_mode: "host"
     depends_on: 
       - sabnzbd
@@ -85,8 +93,10 @@ services:
       - '8085:8085'
     volumes:
       - "/home/brettsalemink/development/Docker/docker-mediacenter-armhf/htpcmanager/config:/config"
-    env_file: 
-      - "./common.env"
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=America/Chicago
     network_mode: "host"
     depends_on:
       - sabnzbd
