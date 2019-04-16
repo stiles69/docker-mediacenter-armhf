@@ -5806,3 +5806,33 @@ database is locked
 19-4-16 04:22:41.9|Info|OwinHostController|Listening on the following URLs:
 19-4-16 04:22:41.9|Info|OwinHostController|  http://*:8989/
 19-4-16 04:22:43.1|Info|NancyBootstrapper|Starting Web Server
+19-4-16 04:25:56.5|Info|Bootstrap|Starting Sonarr - /opt/NzbDrone/NzbDrone.exe - Version 2.0.0.5252
+19-4-16 04:26:00.8|Info|AppFolderInfo|Data directory is being overridden to [/config]
+19-4-16 04:26:01.9|Info|Router|Application mode: Interactive
+19-4-16 04:26:03.4|Info|MigrationLogger|*** Migrating data source=/config/nzbdrone.db;cache size=-10485760;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+19-4-16 04:26:05.0|Info|MigrationLogger|*** Migrating data source=/config/logs.db;cache size=-10485760;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+19-4-16 04:26:05.2|Info|OwinHostController|Listening on the following URLs:
+19-4-16 04:26:05.2|Info|OwinHostController|  http://*:8989/
+19-4-16 04:26:06.5|Info|NancyBootstrapper|Starting Web Server
+19-4-16 04:26:47.0|Info|RssSyncService|Starting RSS Sync
+19-4-16 04:26:54.2|Info|DownloadDecisionMaker|Processing 100 releases
+19-4-16 04:26:58.0|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-4-16 04:37:18.0|Info|RssSyncService|Starting RSS Sync
+19-4-16 04:37:19.1|Info|DownloadDecisionMaker|Processing 100 releases
+19-4-16 04:37:20.9|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-4-16 04:47:49.4|Info|RssSyncService|Starting RSS Sync
+19-4-16 04:47:50.7|Info|DownloadDecisionMaker|Processing 100 releases
+19-4-16 04:47:52.5|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-4-16 04:57:53.2|Info|RssSyncService|Starting RSS Sync
+19-4-16 04:57:56.0|Info|DownloadDecisionMaker|Processing 100 releases
+19-4-16 04:57:57.8|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-4-16 05:08:24.6|Info|RssSyncService|Starting RSS Sync
+19-4-16 05:08:25.8|Info|DownloadDecisionMaker|Processing 100 releases
+19-4-16 05:08:28.3|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-4-16 05:15:55.5|Info|SceneMappingService|Updating Scene mappings
+19-4-16 05:18:55.8|Info|RssSyncService|Starting RSS Sync
+19-4-16 05:18:59.1|Info|DownloadDecisionMaker|Processing 100 releases
+19-4-16 05:19:01.2|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-4-16 05:29:27.6|Info|RssSyncService|Starting RSS Sync
+19-4-16 05:29:30.8|Info|DownloadDecisionMaker|Processing 100 releases
+19-4-16 05:29:32.7|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
