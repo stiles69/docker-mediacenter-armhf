@@ -39,6 +39,7 @@ services:
       - "/home/brettsalemink/development/Docker/docker-mediacenter-armhf/couchpotato/config:/config"
       - "/downloads:/downloads"
       - "/downloads/completed/movies:/downloads/completed/movies"
+      - "/media/samba_share/Video/Movies:/media/samba_share/Video/Movies" 
     environment:
       - PUID=1000
       - PGID=1000
@@ -76,6 +77,7 @@ services:
       - "/home/brettsalemink/development/Docker/docker-mediacenter-armhf/headphones/config:/config"
       - "/downloads:/downloads"
       - "/downloads/completed/audio:/downloads/completed/audio"
+      - "/media/samba_share:/media/samba_share"
     environment:
       - PUID=1000
       - PGID=1000

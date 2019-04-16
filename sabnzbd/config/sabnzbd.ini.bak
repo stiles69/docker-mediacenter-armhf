@@ -38,7 +38,7 @@ enable_7zip = 1
 rating_filter_pause_audio = 0
 rss_filenames = 0
 password = "Vizio#2013"
-permissions = 774
+permissions = 777
 quota_day = ""
 ssl_ciphers = ""
 auto_disconnect = 0
@@ -348,46 +348,6 @@ script = Default
 newzbin = software
 order = 0
 dir = software
-[[headphones]]
-priority = -100
-pp = ""
-name = headphones
-script = Default
-newzbin = audio
-order = 0
-dir = audio
-[[movies]]
-priority = -100
-pp = ""
-name = movies
-script = Default
-newzbin = movies
-order = 0
-dir = movies
-[[couchpotato]]
-priority = -100
-pp = ""
-name = couchpotato
-script = Default
-newzbin = movies
-order = 0
-dir = movies
-[[adult]]
-priority = -100
-pp = ""
-name = adult
-script = Default
-newzbin = xxx
-order = 0
-dir = adult
-[[audio]]
-priority = -100
-pp = ""
-name = audio
-script = Default
-newzbin = audio
-order = 0
-dir = audio
 [[sonarr]]
 priority = -100
 pp = ""
@@ -404,4 +364,36 @@ script = Default
 newzbin = tv
 order = 0
 dir = /media/samba_share/Video/TV-Shows*
+[[couchpotato]]
+priority = -100
+pp = ""
+name = couchpotato
+script = Default
+newzbin = movies
+order = 0
+dir = /media/samba_share/Video/Movies*
+[[movies]]
+priority = -100
+pp = ""
+name = movies
+script = Default
+newzbin = movies
+order = 0
+dir = /media/samba_share/Video/Movies*
+[[audio]]
+priority = -100
+pp = ""
+name = audio
+script = Default
+newzbin = audio
+order = 0
+dir = /media/samba_share/Music*
+[[headphones]]
+priority = -100
+pp = ""
+name = headphones
+script = Default
+newzbin = audio
+order = 0
+dir = /media/samba_share/Music*
 [rss]
