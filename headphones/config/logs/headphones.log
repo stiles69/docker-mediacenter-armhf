@@ -1155,3 +1155,29 @@
 16-Apr-2019 05:34:20 - INFO    :: MainThread : Signal 15 caught, saving and exiting...
 16-Apr-2019 05:34:20 - INFO    :: MainThread : Writing configuration to file
 16-Apr-2019 05:34:21 - INFO    :: MainThread : Headphones is shutting down...
+16-Apr-2019 05:37:09 - INFO    :: MainThread : Checking to see if the database has all tables....
+16-Apr-2019 05:37:09 - INFO    :: MainThread : Retrieving latest version information from GitHub
+16-Apr-2019 05:37:10 - INFO    :: MainThread : Comparing currently installed version with latest GitHub version
+16-Apr-2019 05:37:10 - INFO    :: MainThread : New version is available. You are 6 commits behind
+16-Apr-2019 05:37:10 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+16-Apr-2019 05:37:11 - INFO    :: MainThread : Scheduled background task: Search for Wanted
+16-Apr-2019 05:37:11 - INFO    :: MainThread : Scheduled background task: Download Scan
+16-Apr-2019 05:37:11 - INFO    :: MainThread : Scheduled background task: Library Scan
+16-Apr-2019 05:37:11 - INFO    :: MainThread : Scheduled background task: MusicBrainz Update
+16-Apr-2019 05:37:11 - INFO    :: MainThread : Scheduled background task: Check GitHub for updates
+16-Apr-2019 05:37:11 - INFO    :: MainThread : Scheduled background task: Torrent removal check
+16-Apr-2019 05:38:49 - INFO    :: MainThread : Signal 15 caught, saving and exiting...
+16-Apr-2019 05:43:25 - INFO    :: MainThread : Checking to see if the database has all tables....
+16-Apr-2019 05:43:25 - INFO    :: MainThread : Retrieving latest version information from GitHub
+16-Apr-2019 05:43:26 - INFO    :: MainThread : Comparing currently installed version with latest GitHub version
+16-Apr-2019 05:43:27 - INFO    :: MainThread : New version is available. You are 6 commits behind
+16-Apr-2019 05:43:27 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+16-Apr-2019 05:43:28 - INFO    :: MainThread : Scheduled background task: Search for Wanted
+16-Apr-2019 05:43:28 - INFO    :: MainThread : Scheduled background task: Download Scan
+16-Apr-2019 05:43:28 - INFO    :: MainThread : Scheduled background task: Library Scan
+16-Apr-2019 05:43:28 - INFO    :: MainThread : Scheduled background task: MusicBrainz Update
+16-Apr-2019 05:43:28 - INFO    :: MainThread : Scheduled background task: Check GitHub for updates
+16-Apr-2019 05:43:28 - INFO    :: MainThread : Scheduled background task: Torrent removal check
+16-Apr-2019 06:01:27 - INFO    :: MainThread : Signal 15 caught, saving and exiting...
+16-Apr-2019 06:01:27 - INFO    :: MainThread : Writing configuration to file
+16-Apr-2019 06:01:28 - INFO    :: MainThread : Headphones is shutting down...

@@ -5836,3 +5836,70 @@ database is locked
 19-4-16 05:29:27.6|Info|RssSyncService|Starting RSS Sync
 19-4-16 05:29:30.8|Info|DownloadDecisionMaker|Processing 100 releases
 19-4-16 05:29:32.7|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-4-16 05:35:55.8|Info|Bootstrap|Starting Sonarr - /opt/NzbDrone/NzbDrone.exe - Version 2.0.0.5252
+19-4-16 05:36:01.0|Info|AppFolderInfo|Data directory is being overridden to [/config]
+19-4-16 05:36:03.7|Info|Router|Application mode: Interactive
+19-4-16 05:36:05.6|Info|MigrationLogger|*** Migrating data source=/config/nzbdrone.db;cache size=-10485760;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+19-4-16 05:36:08.3|Info|MigrationLogger|*** Migrating data source=/config/logs.db;cache size=-10485760;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+19-4-16 05:36:08.5|Info|OwinHostController|Listening on the following URLs:
+19-4-16 05:36:08.5|Info|OwinHostController|  http://*:8989/
+19-4-16 05:36:09.6|Info|NancyBootstrapper|Starting Web Server
+19-4-16 05:42:38.2|Info|Bootstrap|Starting Sonarr - /opt/NzbDrone/NzbDrone.exe - Version 2.0.0.5252
+19-4-16 05:42:42.8|Info|AppFolderInfo|Data directory is being overridden to [/config]
+19-4-16 05:42:43.6|Info|Router|Application mode: Interactive
+19-4-16 05:42:45.4|Info|MigrationLogger|*** Migrating data source=/config/nzbdrone.db;cache size=-10485760;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+19-4-16 05:42:46.9|Info|MigrationLogger|*** Migrating data source=/config/logs.db;cache size=-10485760;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+19-4-16 05:42:47.8|Info|OwinHostController|Listening on the following URLs:
+19-4-16 05:42:47.8|Info|OwinHostController|  http://*:8989/
+19-4-16 05:42:49.2|Info|NancyBootstrapper|Starting Web Server
+19-4-16 05:43:28.8|Info|RssSyncService|Starting RSS Sync
+19-4-16 05:43:39.1|Info|DownloadDecisionMaker|Processing 100 releases
+19-4-16 05:43:41.9|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-4-16 05:43:56.6|Info|NzbSearchService|Searching 2 indexers for [Knightfall : S02E04]
+19-4-16 05:43:59.3|Info|DownloadDecisionMaker|Processing 7 releases
+19-4-16 05:44:01.3|Info|Sabnzbd|Adding report [Knightfall.S02E04.iNTERNAL.720p.WEB.h264-BAMBOOZLE-Obfuscated] to the queue.
+19-4-16 05:44:02.5|Info|DownloadService|Report sent to Sabnzbd. Knightfall.S02E04.iNTERNAL.720p.WEB.h264-BAMBOOZLE-Obfuscated
+19-4-16 05:44:04.5|Info|EpisodeSearchService|Episode search completed. 1 reports downloaded.
+19-4-16 05:51:12.5|Warn|ImportApprovedEpisodes|Couldn't import episode /downloads/completed/tv-shows/Knightfall.S02E04.iNTERNAL.720p.WEB.h264-BAMBOOZLE-Obfuscated/9a44db63068742e6bbfa9354f0ed58bb.mkv
+
+[v2.0.0.5252] System.UnauthorizedAccessException: Access to the path is denied.
+  at System.IO.File.Move (System.String sourceFileName, System.String destFileName) [0x00116] in <0f8aeac9d63d4b8aa575761bb4e65b79>:0 
+  at NzbDrone.Common.Disk.DiskProviderBase.MoveFileInternal (System.String source, System.String destination) [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Disk\DiskProviderBase.cs:232 
+  at NzbDrone.Mono.Disk.DiskProvider.MoveFileInternal (System.String source, System.String destination) [0x00076] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Mono\Disk\DiskProvider.cs:170 
+  at NzbDrone.Common.Disk.DiskProviderBase.MoveFile (System.String source, System.String destination, System.Boolean overwrite) [0x000e3] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Disk\DiskProviderBase.cs:227 
+  at NzbDrone.Common.Disk.DiskTransferService.TryMoveFileTransactional (System.String sourcePath, System.String targetPath, System.Int64 originalSize, NzbDrone.Common.Disk.DiskTransferVerificationMode verificationMode) [0x0008f] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Disk\DiskTransferService.cs:490 
+  at NzbDrone.Common.Disk.DiskTransferService.TransferFile (System.String sourcePath, System.String targetPath, NzbDrone.Common.Disk.TransferMode mode, System.Boolean overwrite, NzbDrone.Common.Disk.DiskTransferVerificationMode verificationMode) [0x003ce] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Disk\DiskTransferService.cs:312 
+  at NzbDrone.Common.Disk.DiskTransferService.TransferFile (System.String sourcePath, System.String targetPath, NzbDrone.Common.Disk.TransferMode mode, System.Boolean overwrite, System.Boolean verified) [0x0000e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Disk\DiskTransferService.cs:196 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x0012c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:119 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-4-16 05:52:41.1|Warn|ImportApprovedEpisodes|Couldn't import episode /downloads/completed/tv-shows/Knightfall.S02E04.iNTERNAL.720p.WEB.h264-BAMBOOZLE-Obfuscated/9a44db63068742e6bbfa9354f0ed58bb.mkv
+
+[v2.0.0.5252] System.UnauthorizedAccessException: Access to the path is denied.
+  at System.IO.File.Move (System.String sourceFileName, System.String destFileName) [0x00116] in <0f8aeac9d63d4b8aa575761bb4e65b79>:0 
+  at NzbDrone.Common.Disk.DiskProviderBase.MoveFileInternal (System.String source, System.String destination) [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Disk\DiskProviderBase.cs:232 
+  at NzbDrone.Mono.Disk.DiskProvider.MoveFileInternal (System.String source, System.String destination) [0x00076] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Mono\Disk\DiskProvider.cs:170 
+  at NzbDrone.Common.Disk.DiskProviderBase.MoveFile (System.String source, System.String destination, System.Boolean overwrite) [0x000e3] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Disk\DiskProviderBase.cs:227 
+  at NzbDrone.Common.Disk.DiskTransferService.TryMoveFileTransactional (System.String sourcePath, System.String targetPath, System.Int64 originalSize, NzbDrone.Common.Disk.DiskTransferVerificationMode verificationMode) [0x0008f] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Disk\DiskTransferService.cs:490 
+  at NzbDrone.Common.Disk.DiskTransferService.TransferFile (System.String sourcePath, System.String targetPath, NzbDrone.Common.Disk.TransferMode mode, System.Boolean overwrite, NzbDrone.Common.Disk.DiskTransferVerificationMode verificationMode) [0x003ce] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Disk\DiskTransferService.cs:312 
+  at NzbDrone.Common.Disk.DiskTransferService.TransferFile (System.String sourcePath, System.String targetPath, NzbDrone.Common.Disk.TransferMode mode, System.Boolean overwrite, System.Boolean verified) [0x0000e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Disk\DiskTransferService.cs:196 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x0012c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:119 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-4-16 05:54:10.6|Info|RssSyncService|Starting RSS Sync
+19-4-16 05:54:13.1|Info|DownloadDecisionMaker|Processing 100 releases
+19-4-16 05:54:15.0|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-4-16 05:56:14.6|Info|SceneMappingService|Updating Scene mappings
+19-4-16 05:56:21.7|Info|RefreshSeriesService|Updating Info for Knightfall
+19-4-16 05:56:22.4|Info|RefreshEpisodeService|Starting episode info refresh for: [323608][Knightfall]
+19-4-16 05:56:22.7|Info|RefreshEpisodeService|Finished episode refresh for series: [323608][Knightfall].
+19-4-16 05:56:22.8|Info|DiskScanService|Scanning disk for Knightfall
+19-4-16 05:56:23.7|Info|DiskScanService|Completed scanning disk for Knightfall
+19-4-16 05:56:24.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+19-4-16 05:56:24.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+19-4-16 05:56:24.1|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+19-4-16 05:56:24.1|Info|ExistingExtraFileService|Found 0 extra files
