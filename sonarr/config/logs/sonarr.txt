@@ -5903,3 +5903,48 @@ database is locked
 19-4-16 05:56:24.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
 19-4-16 05:56:24.1|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
 19-4-16 05:56:24.1|Info|ExistingExtraFileService|Found 0 extra files
+19-4-16 06:09:19.7|Info|Bootstrap|Starting Sonarr - /opt/NzbDrone/NzbDrone.exe - Version 2.0.0.5252
+19-4-16 06:09:24.1|Info|AppFolderInfo|Data directory is being overridden to [/config]
+19-4-16 06:09:25.2|Info|Router|Application mode: Interactive
+19-4-16 06:09:26.8|Info|MigrationLogger|*** Migrating data source=/config/nzbdrone.db;cache size=-10485760;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+19-4-16 06:09:29.4|Info|MigrationLogger|*** Migrating data source=/config/logs.db;cache size=-10485760;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+19-4-16 06:09:30.0|Info|OwinHostController|Listening on the following URLs:
+19-4-16 06:09:30.1|Info|OwinHostController|  http://*:8989/
+19-4-16 06:09:31.3|Info|NancyBootstrapper|Starting Web Server
+19-4-16 06:10:11.3|Info|RssSyncService|Starting RSS Sync
+19-4-16 06:10:17.6|Info|DownloadDecisionMaker|Processing 100 releases
+19-4-16 06:10:23.6|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-4-16 06:19:37.5|Info|NzbSearchService|Searching 2 indexers for [Knightfall : S02E04]
+19-4-16 06:19:41.4|Info|DownloadDecisionMaker|Processing 7 releases
+19-4-16 06:19:43.4|Info|Sabnzbd|Adding report [Knightfall.S02E04.iNTERNAL.720p.WEB.h264-BAMBOOZLE-Obfuscated] to the queue.
+19-4-16 06:19:44.2|Info|DownloadService|Report sent to Sabnzbd. Knightfall.S02E04.iNTERNAL.720p.WEB.h264-BAMBOOZLE-Obfuscated
+19-4-16 06:19:46.2|Info|EpisodeSearchService|Episode search completed. 1 reports downloaded.
+19-4-16 06:20:57.8|Info|RssSyncService|Starting RSS Sync
+19-4-16 06:20:59.3|Info|DownloadDecisionMaker|Processing 100 releases
+19-4-16 06:21:01.9|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-4-16 06:26:12.3|Info|NzbSearchService|Searching 2 indexers for [Knightfall : S02E04]
+19-4-16 06:26:17.2|Info|DownloadDecisionMaker|Processing 7 releases
+19-4-16 06:26:20.9|Info|DownloadService|Report sent to Deluge SLAVE1. Knightfall.S02E04.iNTERNAL.720p.WEB.h264-BAMBOOZLE
+19-4-16 06:26:21.7|Info|EpisodeSearchService|Episode search completed. 1 reports downloaded.
+19-4-16 06:31:11.1|Info|RssSyncService|Starting RSS Sync
+19-4-16 06:31:12.4|Info|DownloadDecisionMaker|Processing 100 releases
+19-4-16 06:31:14.9|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-4-16 06:36:42.1|Error|DownloadedEpisodesImportService|Import failed, path does not exist or is not accessible by Sonarr: /downloads/completed/Knightfall.S02E04.iNTERNAL.720p.WEB.h264-BAMBOOZLE
+19-4-16 06:38:12.1|Error|DownloadedEpisodesImportService|Import failed, path does not exist or is not accessible by Sonarr: /downloads/completed/Knightfall.S02E04.iNTERNAL.720p.WEB.h264-BAMBOOZLE
+19-4-16 06:39:52.5|Info|NzbSearchService|Searching 2 indexers for [Knightfall : S02E04]
+19-4-16 06:39:55.8|Info|DownloadDecisionMaker|Processing 7 releases
+19-4-16 06:39:57.6|Info|DownloadService|Report sent to Deluge SLAVE1. Knightfall.S02E04.iNTERNAL.720p.WEB.h264-BAMBOOZLE
+19-4-16 06:39:58.3|Info|EpisodeSearchService|Episode search completed. 1 reports downloaded.
+19-4-16 06:41:40.8|Info|NzbSearchService|Searching 2 indexers for [Knightfall : S02E04]
+19-4-16 06:41:42.4|Info|DownloadDecisionMaker|Processing 7 releases
+19-4-16 06:41:42.4|Info|RssSyncService|Starting RSS Sync
+19-4-16 06:41:43.9|Info|DownloadDecisionMaker|Processing 100 releases
+19-4-16 06:41:46.0|Info|Sabnzbd|Adding report [Knightfall.S02E04.iNTERNAL.720p.HEVC.x265-MeGusta-Obfuscated] to the queue.
+19-4-16 06:41:46.1|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-4-16 06:41:47.1|Info|DownloadService|Report sent to Sabnzbd. Knightfall.S02E04.iNTERNAL.720p.HEVC.x265-MeGusta-Obfuscated
+19-4-16 06:41:48.2|Info|EpisodeSearchService|Episode search completed. 1 reports downloaded.
+19-4-16 06:43:28.4|Info|NzbSearchService|Searching 2 indexers for [Knightfall : S02E04]
+19-4-16 06:43:32.1|Info|DownloadDecisionMaker|Processing 7 releases
+19-4-16 06:43:33.5|Info|Sabnzbd|Adding report [Knightfall.S02E04.720p.HEVC.x265-MeGusta-Obfuscated] to the queue.
+19-4-16 06:43:34.2|Info|DownloadService|Report sent to Sabnzbd. Knightfall.S02E04.720p.HEVC.x265-MeGusta-Obfuscated
+19-4-16 06:43:35.0|Info|EpisodeSearchService|Episode search completed. 1 reports downloaded.
