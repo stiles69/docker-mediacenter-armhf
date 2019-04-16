@@ -405,12 +405,3 @@ newzbin = tv
 order = 0
 dir = tv-shows
 [rss]
-[[Jackett-GimmePeers]]
-pp = ""
-enable = 0
-name = Jackett-GimmePeers
-script = ""
-uri = http://10.0.0.12:9117/api/v2.0/indexers/gimmepeers/results/torznab/api?apikey=47jjl4xrn810bql34j8vrko315ofvh4b&t=search&cat=&q=,
-cat = ""
-priority = -100
-filter0 = "", "", "", A, *mom, -100, 1

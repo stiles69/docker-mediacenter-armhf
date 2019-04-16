@@ -4608,3 +4608,199 @@ IOError: cannot write mode RGBA as JPEG
 2019-04-14 22:39:42 :: cherrypy.error :: INFO :: [14/Apr/2019:22:39:42] ENGINE Bus EXITING
 2019-04-14 22:39:42 :: cherrypy.error :: INFO :: [14/Apr/2019:22:39:42] ENGINE Bus EXITED
 2019-04-14 22:39:42 :: cherrypy.error :: INFO :: [14/Apr/2019:22:39:42] ENGINE Waiting for child threads to terminate...
+2019-04-14 22:49:35 :: root :: INFO :: Welcome to Hellowlol's HTPC Manager fork
+2019-04-14 22:49:35 :: root :: INFO :: Loglevel set to info
+2019-04-14 22:49:35 :: htpc.updater :: INFO :: Using GitUpdater engine
+2019-04-14 22:49:35 :: apscheduler.scheduler :: INFO :: Added job "Updater.update_needed" to job store "default"
+2019-04-14 22:49:35 :: modules.kodi :: WARNING :: No configured kodi-Servers.
+2019-04-14 22:49:36 :: modules.newznab :: ERROR :: Invalid indexer. Selecting first Available.
+2019-04-14 22:49:36 :: modules.stats :: ERROR :: Required package 'smartmontools' is not installed, or 'smartctl'
+component is not on the system path. Please install and try again.The current env path is: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+2019-04-14 22:49:37 :: htpc.server :: INFO :: Starting up webserver
+2019-04-14 22:49:37 :: cherrypy.error :: INFO :: [14/Apr/2019:22:49:37] ENGINE Listening for SIGHUP.
+2019-04-14 22:49:37 :: cherrypy.error :: INFO :: [14/Apr/2019:22:49:37] ENGINE Listening for SIGTERM.
+2019-04-14 22:49:37 :: cherrypy.error :: INFO :: [14/Apr/2019:22:49:37] ENGINE Listening for SIGUSR1.
+2019-04-14 22:49:37 :: cherrypy.error :: INFO :: [14/Apr/2019:22:49:37] ENGINE Bus STARTING
+2019-04-14 22:49:38 :: cherrypy.error :: INFO :: [14/Apr/2019:22:49:38] ENGINE Serving on http://0.0.0.0:8085
+2019-04-14 22:49:38 :: cherrypy.error :: INFO :: [14/Apr/2019:22:49:38] ENGINE Bus STARTED
+2019-04-14 22:53:54 :: cherrypy.error :: INFO :: [14/Apr/2019:22:53:54] ENGINE Caught signal SIGTERM.
+2019-04-14 22:53:54 :: cherrypy.error :: INFO :: [14/Apr/2019:22:53:54] ENGINE Bus STOPPING
+2019-04-14 22:53:54 :: apscheduler.scheduler :: INFO :: Scheduler has been shut down
+2019-04-14 22:53:54 :: cherrypy.error :: INFO :: [14/Apr/2019:22:53:54] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8085)) shut down
+2019-04-14 22:53:54 :: cherrypy.error :: INFO :: [14/Apr/2019:22:53:54] ENGINE Bus STOPPED
+2019-04-14 22:53:54 :: cherrypy.error :: INFO :: [14/Apr/2019:22:53:54] ENGINE Bus EXITING
+2019-04-14 22:53:54 :: cherrypy.error :: INFO :: [14/Apr/2019:22:53:54] ENGINE Bus EXITED
+2019-04-14 22:53:54 :: cherrypy.error :: INFO :: [14/Apr/2019:22:53:54] ENGINE Waiting for child threads to terminate...
+2019-04-14 22:56:20 :: root :: INFO :: Welcome to Hellowlol's HTPC Manager fork
+2019-04-14 22:56:20 :: root :: INFO :: Loglevel set to info
+2019-04-14 22:56:21 :: htpc.updater :: INFO :: Using GitUpdater engine
+2019-04-14 22:56:21 :: apscheduler.scheduler :: INFO :: Added job "Updater.update_needed" to job store "default"
+2019-04-14 22:56:21 :: modules.kodi :: WARNING :: No configured kodi-Servers.
+2019-04-14 22:56:21 :: modules.newznab :: ERROR :: Invalid indexer. Selecting first Available.
+2019-04-14 22:56:21 :: modules.stats :: ERROR :: Required package 'smartmontools' is not installed, or 'smartctl'
+component is not on the system path. Please install and try again.The current env path is: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+2019-04-14 22:56:22 :: htpc.server :: INFO :: Starting up webserver
+2019-04-14 22:56:22 :: cherrypy.error :: INFO :: [14/Apr/2019:22:56:22] ENGINE Listening for SIGHUP.
+2019-04-14 22:56:22 :: cherrypy.error :: INFO :: [14/Apr/2019:22:56:22] ENGINE Listening for SIGTERM.
+2019-04-14 22:56:22 :: cherrypy.error :: INFO :: [14/Apr/2019:22:56:22] ENGINE Listening for SIGUSR1.
+2019-04-14 22:56:22 :: cherrypy.error :: INFO :: [14/Apr/2019:22:56:22] ENGINE Bus STARTING
+2019-04-14 22:56:22 :: cherrypy.error :: INFO :: [14/Apr/2019:22:56:22] ENGINE Serving on http://0.0.0.0:8085
+2019-04-14 22:56:22 :: cherrypy.error :: INFO :: [14/Apr/2019:22:56:22] ENGINE Bus STARTED
+2019-04-14 22:59:10 :: cherrypy.error :: INFO :: [14/Apr/2019:22:59:10] ENGINE Caught signal SIGTERM.
+2019-04-14 22:59:10 :: cherrypy.error :: INFO :: [14/Apr/2019:22:59:10] ENGINE Bus STOPPING
+2019-04-14 22:59:10 :: apscheduler.scheduler :: INFO :: Scheduler has been shut down
+2019-04-14 22:59:10 :: cherrypy.error :: INFO :: [14/Apr/2019:22:59:10] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8085)) shut down
+2019-04-14 22:59:10 :: cherrypy.error :: INFO :: [14/Apr/2019:22:59:10] ENGINE Bus STOPPED
+2019-04-14 22:59:10 :: cherrypy.error :: INFO :: [14/Apr/2019:22:59:10] ENGINE Bus EXITING
+2019-04-14 22:59:10 :: cherrypy.error :: INFO :: [14/Apr/2019:22:59:10] ENGINE Bus EXITED
+2019-04-14 22:59:10 :: cherrypy.error :: INFO :: [14/Apr/2019:22:59:10] ENGINE Waiting for child threads to terminate...
+2019-04-14 23:01:36 :: root :: INFO :: Welcome to Hellowlol's HTPC Manager fork
+2019-04-14 23:01:36 :: root :: INFO :: Loglevel set to info
+2019-04-14 23:01:37 :: htpc.updater :: INFO :: Using GitUpdater engine
+2019-04-14 23:01:37 :: apscheduler.scheduler :: INFO :: Added job "Updater.update_needed" to job store "default"
+2019-04-14 23:01:37 :: modules.kodi :: WARNING :: No configured kodi-Servers.
+2019-04-14 23:01:37 :: modules.newznab :: ERROR :: Invalid indexer. Selecting first Available.
+2019-04-14 23:01:38 :: modules.stats :: ERROR :: Required package 'smartmontools' is not installed, or 'smartctl'
+component is not on the system path. Please install and try again.The current env path is: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+2019-04-14 23:01:39 :: htpc.server :: INFO :: Starting up webserver
+2019-04-14 23:01:39 :: cherrypy.error :: INFO :: [14/Apr/2019:23:01:39] ENGINE Listening for SIGHUP.
+2019-04-14 23:01:39 :: cherrypy.error :: INFO :: [14/Apr/2019:23:01:39] ENGINE Listening for SIGTERM.
+2019-04-14 23:01:39 :: cherrypy.error :: INFO :: [14/Apr/2019:23:01:39] ENGINE Listening for SIGUSR1.
+2019-04-14 23:01:39 :: cherrypy.error :: INFO :: [14/Apr/2019:23:01:39] ENGINE Bus STARTING
+2019-04-14 23:01:40 :: cherrypy.error :: INFO :: [14/Apr/2019:23:01:40] ENGINE Serving on http://0.0.0.0:8085
+2019-04-14 23:01:40 :: cherrypy.error :: INFO :: [14/Apr/2019:23:01:40] ENGINE Bus STARTED
+2019-04-14 23:07:15 :: cherrypy.error :: INFO :: [14/Apr/2019:23:07:15] ENGINE Caught signal SIGTERM.
+2019-04-14 23:07:15 :: cherrypy.error :: INFO :: [14/Apr/2019:23:07:15] ENGINE Bus STOPPING
+2019-04-14 23:07:15 :: apscheduler.scheduler :: INFO :: Scheduler has been shut down
+2019-04-14 23:07:15 :: cherrypy.error :: INFO :: [14/Apr/2019:23:07:15] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8085)) shut down
+2019-04-14 23:07:15 :: cherrypy.error :: INFO :: [14/Apr/2019:23:07:15] ENGINE Bus STOPPED
+2019-04-14 23:07:15 :: cherrypy.error :: INFO :: [14/Apr/2019:23:07:15] ENGINE Bus EXITING
+2019-04-14 23:07:15 :: cherrypy.error :: INFO :: [14/Apr/2019:23:07:15] ENGINE Bus EXITED
+2019-04-14 23:07:15 :: cherrypy.error :: INFO :: [14/Apr/2019:23:07:15] ENGINE Waiting for child threads to terminate...
+2019-04-14 23:09:40 :: root :: INFO :: Welcome to Hellowlol's HTPC Manager fork
+2019-04-14 23:09:40 :: root :: INFO :: Loglevel set to info
+2019-04-14 23:09:40 :: htpc.updater :: INFO :: Using GitUpdater engine
+2019-04-14 23:09:40 :: apscheduler.scheduler :: INFO :: Added job "Updater.update_needed" to job store "default"
+2019-04-14 23:09:40 :: modules.kodi :: WARNING :: No configured kodi-Servers.
+2019-04-14 23:09:40 :: modules.newznab :: ERROR :: Invalid indexer. Selecting first Available.
+2019-04-14 23:09:41 :: modules.stats :: ERROR :: Required package 'smartmontools' is not installed, or 'smartctl'
+component is not on the system path. Please install and try again.The current env path is: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+2019-04-14 23:09:42 :: htpc.server :: INFO :: Starting up webserver
+2019-04-14 23:09:42 :: cherrypy.error :: INFO :: [14/Apr/2019:23:09:42] ENGINE Listening for SIGHUP.
+2019-04-14 23:09:42 :: cherrypy.error :: INFO :: [14/Apr/2019:23:09:42] ENGINE Listening for SIGTERM.
+2019-04-14 23:09:42 :: cherrypy.error :: INFO :: [14/Apr/2019:23:09:42] ENGINE Listening for SIGUSR1.
+2019-04-14 23:09:42 :: cherrypy.error :: INFO :: [14/Apr/2019:23:09:42] ENGINE Bus STARTING
+2019-04-14 23:09:42 :: cherrypy.error :: INFO :: [14/Apr/2019:23:09:42] ENGINE Serving on http://0.0.0.0:8085
+2019-04-14 23:09:42 :: cherrypy.error :: INFO :: [14/Apr/2019:23:09:42] ENGINE Bus STARTED
+2019-04-14 23:11:25 :: cherrypy.error :: INFO :: [14/Apr/2019:23:11:25] ENGINE Caught signal SIGTERM.
+2019-04-14 23:11:25 :: cherrypy.error :: INFO :: [14/Apr/2019:23:11:25] ENGINE Bus STOPPING
+2019-04-14 23:11:25 :: apscheduler.scheduler :: INFO :: Scheduler has been shut down
+2019-04-14 23:11:25 :: cherrypy.error :: INFO :: [14/Apr/2019:23:11:25] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8085)) shut down
+2019-04-14 23:11:25 :: cherrypy.error :: INFO :: [14/Apr/2019:23:11:25] ENGINE Bus STOPPED
+2019-04-14 23:11:25 :: cherrypy.error :: INFO :: [14/Apr/2019:23:11:25] ENGINE Bus EXITING
+2019-04-14 23:11:25 :: cherrypy.error :: INFO :: [14/Apr/2019:23:11:25] ENGINE Bus EXITED
+2019-04-14 23:11:25 :: cherrypy.error :: INFO :: [14/Apr/2019:23:11:25] ENGINE Waiting for child threads to terminate...
+2019-04-14 23:12:25 :: root :: INFO :: Welcome to Hellowlol's HTPC Manager fork
+2019-04-14 23:12:25 :: root :: INFO :: Loglevel set to info
+2019-04-14 23:12:24 :: htpc.updater :: INFO :: Using GitUpdater engine
+2019-04-14 23:12:24 :: apscheduler.scheduler :: INFO :: Added job "Updater.update_needed" to job store "default"
+2019-04-14 23:12:24 :: modules.kodi :: WARNING :: No configured kodi-Servers.
+2019-04-14 23:12:25 :: modules.newznab :: ERROR :: Invalid indexer. Selecting first Available.
+2019-04-14 23:12:25 :: modules.stats :: ERROR :: Required package 'smartmontools' is not installed, or 'smartctl'
+component is not on the system path. Please install and try again.The current env path is: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+2019-04-14 23:12:26 :: htpc.server :: INFO :: Starting up webserver
+2019-04-14 23:12:26 :: cherrypy.error :: INFO :: [14/Apr/2019:23:12:26] ENGINE Listening for SIGHUP.
+2019-04-14 23:12:26 :: cherrypy.error :: INFO :: [14/Apr/2019:23:12:26] ENGINE Listening for SIGTERM.
+2019-04-14 23:12:26 :: cherrypy.error :: INFO :: [14/Apr/2019:23:12:26] ENGINE Listening for SIGUSR1.
+2019-04-14 23:12:26 :: cherrypy.error :: INFO :: [14/Apr/2019:23:12:26] ENGINE Bus STARTING
+2019-04-14 23:12:26 :: cherrypy.error :: INFO :: [14/Apr/2019:23:12:26] ENGINE Serving on http://0.0.0.0:8085
+2019-04-14 23:12:26 :: cherrypy.error :: INFO :: [14/Apr/2019:23:12:26] ENGINE Bus STARTED
+2019-04-15 00:35:21 :: root :: INFO :: Welcome to Hellowlol's HTPC Manager fork
+2019-04-15 00:35:21 :: root :: INFO :: Loglevel set to info
+2019-04-15 00:35:21 :: htpc.updater :: INFO :: Using GitUpdater engine
+2019-04-15 00:35:21 :: apscheduler.scheduler :: INFO :: Added job "Updater.update_needed" to job store "default"
+2019-04-15 00:35:21 :: modules.kodi :: WARNING :: No configured kodi-Servers.
+2019-04-15 00:35:21 :: modules.newznab :: ERROR :: Invalid indexer. Selecting first Available.
+2019-04-15 00:35:22 :: modules.stats :: ERROR :: Required package 'smartmontools' is not installed, or 'smartctl'
+component is not on the system path. Please install and try again.The current env path is: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+2019-04-15 00:35:23 :: htpc.server :: INFO :: Starting up webserver
+2019-04-15 00:35:23 :: cherrypy.error :: INFO :: [15/Apr/2019:00:35:23] ENGINE Listening for SIGHUP.
+2019-04-15 00:35:23 :: cherrypy.error :: INFO :: [15/Apr/2019:00:35:23] ENGINE Listening for SIGTERM.
+2019-04-15 00:35:23 :: cherrypy.error :: INFO :: [15/Apr/2019:00:35:23] ENGINE Listening for SIGUSR1.
+2019-04-15 00:35:23 :: cherrypy.error :: INFO :: [15/Apr/2019:00:35:23] ENGINE Bus STARTING
+2019-04-15 00:35:23 :: cherrypy.error :: INFO :: [15/Apr/2019:00:35:23] ENGINE Serving on http://0.0.0.0:8085
+2019-04-15 00:35:23 :: cherrypy.error :: INFO :: [15/Apr/2019:00:35:23] ENGINE Bus STARTED
+2019-04-15 00:36:43 :: cherrypy.error :: INFO :: [15/Apr/2019:00:36:43] ENGINE Caught signal SIGTERM.
+2019-04-15 00:36:43 :: cherrypy.error :: INFO :: [15/Apr/2019:00:36:43] ENGINE Bus STOPPING
+2019-04-15 00:36:43 :: apscheduler.scheduler :: INFO :: Scheduler has been shut down
+2019-04-15 00:36:43 :: cherrypy.error :: INFO :: [15/Apr/2019:00:36:43] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8085)) shut down
+2019-04-15 00:36:43 :: cherrypy.error :: INFO :: [15/Apr/2019:00:36:43] ENGINE Bus STOPPED
+2019-04-15 00:36:43 :: cherrypy.error :: INFO :: [15/Apr/2019:00:36:43] ENGINE Bus EXITING
+2019-04-15 00:36:43 :: cherrypy.error :: INFO :: [15/Apr/2019:00:36:43] ENGINE Bus EXITED
+2019-04-15 00:36:43 :: cherrypy.error :: INFO :: [15/Apr/2019:00:36:43] ENGINE Waiting for child threads to terminate...
+2019-04-15 00:41:16 :: root :: INFO :: Welcome to Hellowlol's HTPC Manager fork
+2019-04-15 00:41:16 :: root :: INFO :: Loglevel set to info
+2019-04-15 00:41:16 :: htpc.updater :: INFO :: Using GitUpdater engine
+2019-04-15 00:41:16 :: apscheduler.scheduler :: INFO :: Added job "Updater.update_needed" to job store "default"
+2019-04-15 00:41:16 :: modules.kodi :: WARNING :: No configured kodi-Servers.
+2019-04-15 00:41:16 :: modules.newznab :: ERROR :: Invalid indexer. Selecting first Available.
+2019-04-15 00:41:17 :: modules.stats :: ERROR :: Required package 'smartmontools' is not installed, or 'smartctl'
+component is not on the system path. Please install and try again.The current env path is: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+2019-04-15 00:41:17 :: htpc.server :: INFO :: Starting up webserver
+2019-04-15 00:41:17 :: cherrypy.error :: INFO :: [15/Apr/2019:00:41:17] ENGINE Listening for SIGHUP.
+2019-04-15 00:41:17 :: cherrypy.error :: INFO :: [15/Apr/2019:00:41:17] ENGINE Listening for SIGTERM.
+2019-04-15 00:41:17 :: cherrypy.error :: INFO :: [15/Apr/2019:00:41:17] ENGINE Listening for SIGUSR1.
+2019-04-15 00:41:17 :: cherrypy.error :: INFO :: [15/Apr/2019:00:41:17] ENGINE Bus STARTING
+2019-04-15 00:41:18 :: cherrypy.error :: INFO :: [15/Apr/2019:00:41:18] ENGINE Serving on http://0.0.0.0:8085
+2019-04-15 00:41:18 :: cherrypy.error :: INFO :: [15/Apr/2019:00:41:18] ENGINE Bus STARTED
+2019-04-15 01:58:10 :: cherrypy.error :: INFO :: [15/Apr/2019:01:58:10] ENGINE Caught signal SIGTERM.
+2019-04-15 01:58:10 :: cherrypy.error :: INFO :: [15/Apr/2019:01:58:10] ENGINE Bus STOPPING
+2019-04-15 01:58:10 :: apscheduler.scheduler :: INFO :: Scheduler has been shut down
+2019-04-15 01:58:11 :: cherrypy.error :: INFO :: [15/Apr/2019:01:58:11] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8085)) shut down
+2019-04-15 01:58:11 :: cherrypy.error :: INFO :: [15/Apr/2019:01:58:11] ENGINE Bus STOPPED
+2019-04-15 01:58:11 :: cherrypy.error :: INFO :: [15/Apr/2019:01:58:11] ENGINE Bus EXITING
+2019-04-15 01:58:11 :: cherrypy.error :: INFO :: [15/Apr/2019:01:58:11] ENGINE Bus EXITED
+2019-04-15 01:58:11 :: cherrypy.error :: INFO :: [15/Apr/2019:01:58:11] ENGINE Waiting for child threads to terminate...
+2019-04-15 01:59:31 :: root :: INFO :: Welcome to Hellowlol's HTPC Manager fork
+2019-04-15 01:59:31 :: root :: INFO :: Loglevel set to info
+2019-04-15 01:59:31 :: htpc.updater :: INFO :: Using GitUpdater engine
+2019-04-15 01:59:31 :: apscheduler.scheduler :: INFO :: Added job "Updater.update_needed" to job store "default"
+2019-04-15 01:59:31 :: modules.kodi :: WARNING :: No configured kodi-Servers.
+2019-04-15 01:59:32 :: modules.newznab :: ERROR :: Invalid indexer. Selecting first Available.
+2019-04-15 01:59:32 :: modules.stats :: ERROR :: Required package 'smartmontools' is not installed, or 'smartctl'
+component is not on the system path. Please install and try again.The current env path is: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+2019-04-15 01:59:33 :: htpc.server :: INFO :: Starting up webserver
+2019-04-15 01:59:33 :: cherrypy.error :: INFO :: [15/Apr/2019:01:59:33] ENGINE Listening for SIGHUP.
+2019-04-15 01:59:33 :: cherrypy.error :: INFO :: [15/Apr/2019:01:59:33] ENGINE Listening for SIGTERM.
+2019-04-15 01:59:33 :: cherrypy.error :: INFO :: [15/Apr/2019:01:59:33] ENGINE Listening for SIGUSR1.
+2019-04-15 01:59:33 :: cherrypy.error :: INFO :: [15/Apr/2019:01:59:33] ENGINE Bus STARTING
+2019-04-15 01:59:33 :: cherrypy.error :: INFO :: [15/Apr/2019:01:59:33] ENGINE Serving on http://0.0.0.0:8085
+2019-04-15 01:59:33 :: cherrypy.error :: INFO :: [15/Apr/2019:01:59:33] ENGINE Bus STARTED
+2019-04-15 07:59:31 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-15 13:59:31 CDT)" (scheduled at 2019-04-15 07:59:31.933661-05:00)
+2019-04-15 07:59:31 :: htpc.updater :: INFO :: Running update_needed
+2019-04-15 07:59:31 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-15 07:59:33 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-15 07:59:33 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-15 13:59:31 CDT)" executed successfully
+2019-04-15 13:59:31 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-15 19:59:31 CDT)" (scheduled at 2019-04-15 13:59:31.933661-05:00)
+2019-04-15 13:59:31 :: htpc.updater :: INFO :: Running update_needed
+2019-04-15 13:59:31 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-15 13:59:33 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-15 13:59:33 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-15 19:59:31 CDT)" executed successfully
+2019-04-15 19:59:31 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-16 01:59:31 CDT)" (scheduled at 2019-04-15 19:59:31.933661-05:00)
+2019-04-15 19:59:31 :: htpc.updater :: INFO :: Running update_needed
+2019-04-15 19:59:31 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-15 19:59:33 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-15 19:59:33 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-16 01:59:31 CDT)" executed successfully
+2019-04-16 01:59:31 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-16 07:59:31 CDT)" (scheduled at 2019-04-16 01:59:31.933661-05:00)
+2019-04-16 01:59:31 :: htpc.updater :: INFO :: Running update_needed
+2019-04-16 01:59:31 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-16 01:59:33 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-16 01:59:33 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-16 07:59:31 CDT)" executed successfully
+2019-04-16 03:51:40 :: cherrypy.error :: INFO :: [16/Apr/2019:03:51:40] ENGINE Caught signal SIGTERM.
+2019-04-16 03:51:40 :: cherrypy.error :: INFO :: [16/Apr/2019:03:51:40] ENGINE Bus STOPPING
+2019-04-16 03:51:40 :: apscheduler.scheduler :: INFO :: Scheduler has been shut down
+2019-04-16 03:51:40 :: cherrypy.error :: INFO :: [16/Apr/2019:03:51:40] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8085)) shut down
+2019-04-16 03:51:40 :: cherrypy.error :: INFO :: [16/Apr/2019:03:51:40] ENGINE Bus STOPPED
+2019-04-16 03:51:40 :: cherrypy.error :: INFO :: [16/Apr/2019:03:51:40] ENGINE Bus EXITING
+2019-04-16 03:51:40 :: cherrypy.error :: INFO :: [16/Apr/2019:03:51:40] ENGINE Bus EXITED
+2019-04-16 03:51:40 :: cherrypy.error :: INFO :: [16/Apr/2019:03:51:40] ENGINE Waiting for child threads to terminate...

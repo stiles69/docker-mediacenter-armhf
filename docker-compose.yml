@@ -37,7 +37,7 @@ services:
     volumes:
       - "/home/brettsalemink/development/Docker/docker-mediacenter-armhf/couchpotato/config:/config"
       - "/downloads:/downloads"
-      - "/downloads/completed/couchpotato:/downloads/completed/couchpotato"
+      - "/downloads/completed/movies:/downloads/completed/movies"
     environment:
       - PUID=1000
       - PGID=1000
@@ -55,7 +55,7 @@ services:
     volumes:
       - "/home/brettsalemink/development/Docker/docker-mediacenter-armhf/sonarr/config:/config"
       - "/downloads:/downloads"
-      - "/downloads/completed/sonarr:/downloads/completed/sonarr"
+      - "/downloads/completed/tv-shows:/downloads/completed/tv-shows"
     environment:
       - PUID=1000
       - PGID=1000
@@ -74,7 +74,7 @@ services:
     volumes:
       - "/home/brettsalemink/development/Docker/docker-mediacenter-armhf/headphones/config:/config"
       - "/downloads:/downloads"
-      - "/downloads/completed/headphones:/downloads/completed/headphones"
+      - "/downloads/completed/audio:/downloads/completed/audio"
     environment:
       - PUID=1000
       - PGID=1000
