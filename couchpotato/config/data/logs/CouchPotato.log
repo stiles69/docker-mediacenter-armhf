@@ -2214,3 +2214,811 @@ AttributeError: 'DelugeClient' object has no attribute 'label'
 04-16 02:00:18 INFO [0m[chpotato.core._base._core] Waiting on plugins to finish: ['Searcher.getSearchProtocols'][0m
 04-16 02:00:19 INFO [0m[chpotato.core._base._core] Waiting on plugins to finish: ['Searcher.getSearchProtocols'][0m
 04-16 02:00:20 INFO [0m[chpotato.core._base._core] Waiting on plugins to finish: ['Searcher.getSearchProtocols'][0m
+04-16 04:16:00 INFO [0m[  couchpotato.core.loader] Loaded core: _core[0m
+04-16 04:16:00 INFO [0m[  couchpotato.core.loader] Loaded core: clientscript[0m
+04-16 04:16:00 INFO [0m[  couchpotato.core.loader] Loaded core: desktop[0m
+04-16 04:16:00 INFO [0m[  couchpotato.core.loader] Loaded core: downloader[0m
+04-16 04:16:00 INFO [0m[  couchpotato.core.loader] Loaded core: scheduler[0m
+04-16 04:16:00 INFO [0m[  couchpotato.core.loader] Loaded core: updater[0m
+04-16 04:16:00 INFO [0m[  couchpotato.core.loader] Loaded plugin: automation[0m
+04-16 04:16:00 INFO [0m[  couchpotato.core.loader] Loaded plugin: browser[0m
+04-16 04:16:00 INFO [0m[  couchpotato.core.loader] Loaded plugin: category[0m
+04-16 04:16:00 INFO [0m[  couchpotato.core.loader] Loaded plugin: custom[0m
+04-16 04:16:00 INFO [0m[  couchpotato.core.loader] Loaded plugin: dashboard[0m
+04-16 04:16:00 INFO [0m[tato.core._base.scheduler] Scheduling file.cleanup, interval: hours = 24, minutes = 0, seconds = 0[0m
+04-16 04:16:00 INFO [0m[  couchpotato.core.loader] Loaded plugin: file[0m
+04-16 04:16:00 INFO [0m[  couchpotato.core.loader] Loaded plugin: log[0m
+04-16 04:16:00 INFO [0m[  couchpotato.core.loader] Loaded plugin: manage[0m
+04-16 04:16:01 INFO [0m[  couchpotato.core.loader] Loaded plugin: profile[0m
+04-16 04:16:01 INFO [0m[  couchpotato.core.loader] Loaded plugin: quality[0m
+04-16 04:16:01 INFO [0m[tato.core._base.scheduler] Scheduling movie.clean_releases, interval: hours = 12, minutes = 0, seconds = 0[0m
+04-16 04:16:01 INFO [0m[  couchpotato.core.loader] Loaded plugin: release[0m
+04-16 04:16:01 INFO [0m[  couchpotato.core.loader] Loaded plugin: renamer[0m
+04-16 04:16:05 INFO [0m[  couchpotato.core.loader] Loaded plugin: scanner[0m
+04-16 04:16:05 INFO [0m[  couchpotato.core.loader] Loaded plugin: score[0m
+04-16 04:16:05 INFO [0m[  couchpotato.core.loader] Loaded plugin: subtitle[0m
+04-16 04:16:05 INFO [0m[  couchpotato.core.loader] Loaded plugin: trailer[0m
+04-16 04:16:05 INFO [0m[  couchpotato.core.loader] Loaded plugin: userscript[0m
+04-16 04:16:05 INFO [0m[  couchpotato.core.loader] Loaded plugin: wizard[0m
+04-16 04:16:06 INFO [0m[  couchpotato.core.loader] Loaded downloaders: blackhole[0m
+04-16 04:16:06 INFO [0m[  couchpotato.core.loader] Loaded downloaders: deluge[0m
+04-16 04:16:06 INFO [0m[  couchpotato.core.loader] Loaded downloaders: hadouken[0m
+04-16 04:16:07 INFO [0m[  couchpotato.core.loader] Loaded downloaders: nzbget[0m
+04-16 04:16:07 INFO [0m[  couchpotato.core.loader] Loaded downloaders: nzbvortex[0m
+04-16 04:16:07 INFO [0m[  couchpotato.core.loader] Loaded downloaders: pneumatic[0m
+04-16 04:16:07 INFO [0m[  couchpotato.core.loader] Loaded downloaders: putio[0m
+04-16 04:16:07 INFO [0m[  couchpotato.core.loader] Loaded downloaders: qbittorrent_[0m
+04-16 04:16:07 INFO [0m[  couchpotato.core.loader] Loaded downloaders: rtorrent_[0m
+04-16 04:16:07 INFO [0m[  couchpotato.core.loader] Loaded downloaders: sabnzbd[0m
+04-16 04:16:07 INFO [0m[  couchpotato.core.loader] Loaded downloaders: synology[0m
+04-16 04:16:07 INFO [0m[  couchpotato.core.loader] Loaded downloaders: transmission[0m
+04-16 04:16:07 INFO [0m[  couchpotato.core.loader] Loaded downloaders: utorrent[0m
+04-16 04:16:07 INFO [0m[  couchpotato.core.loader] Loaded notifications: androidpn[0m
+04-16 04:16:07 INFO [0m[  couchpotato.core.loader] Loaded notifications: boxcar2[0m
+04-16 04:16:07 INFO [0m[tato.core._base.scheduler] Scheduling core.check_messages, interval: hours = 12, minutes = 0, seconds = 0[0m
+04-16 04:16:07 INFO [0m[tato.core._base.scheduler] Scheduling core.clean_messages, interval: hours = 0, minutes = 0, seconds = 15[0m
+04-16 04:16:07 INFO [0m[  couchpotato.core.loader] Loaded notifications: core[0m
+04-16 04:16:07 INFO [0m[  couchpotato.core.loader] Loaded notifications: discord[0m
+04-16 04:16:07 INFO [0m[  couchpotato.core.loader] Loaded notifications: email_[0m
+04-16 04:16:07 INFO [0m[  couchpotato.core.loader] Loaded notifications: emby[0m
+04-16 04:16:07 INFO [0m[  couchpotato.core.loader] Loaded notifications: growl[0m
+04-16 04:16:08 INFO [0m[  couchpotato.core.loader] Loaded notifications: homey[0m
+04-16 04:16:08 INFO [0m[  couchpotato.core.loader] Loaded notifications: join[0m
+04-16 04:16:09 INFO [0m[  couchpotato.core.loader] Loaded notifications: nmj[0m
+04-16 04:16:09 INFO [0m[  couchpotato.core.loader] Loaded notifications: notifymyandroid[0m
+04-16 04:16:09 INFO [0m[  couchpotato.core.loader] Loaded notifications: plex[0m
+04-16 04:16:09 INFO [0m[  couchpotato.core.loader] Loaded notifications: prowl[0m
+04-16 04:16:09 INFO [0m[  couchpotato.core.loader] Loaded notifications: pushalot[0m
+04-16 04:16:09 INFO [0m[  couchpotato.core.loader] Loaded notifications: pushbullet[0m
+04-16 04:16:09 INFO [0m[  couchpotato.core.loader] Loaded notifications: pushover[0m
+04-16 04:16:09 INFO [0m[  couchpotato.core.loader] Loaded notifications: script[0m
+04-16 04:16:09 INFO [0m[  couchpotato.core.loader] Loaded notifications: slack[0m
+04-16 04:16:09 INFO [0m[  couchpotato.core.loader] Loaded notifications: synoindex[0m
+04-16 04:16:09 INFO [0m[  couchpotato.core.loader] Loaded notifications: telegrambot[0m
+04-16 04:16:09 INFO [0m[  couchpotato.core.loader] Loaded notifications: toasty[0m
+04-16 04:16:09 INFO [0m[  couchpotato.core.loader] Loaded notifications: trakt[0m
+04-16 04:16:11 INFO [0m[  couchpotato.core.loader] Loaded notifications: twitter[0m
+04-16 04:16:11 INFO [0m[  couchpotato.core.loader] Loaded notifications: webhook[0m
+04-16 04:16:11 INFO [0m[  couchpotato.core.loader] Loaded notifications: xbmc[0m
+04-16 04:16:11 INFO [0m[  couchpotato.core.loader] Loaded notifications: xmpp_[0m
+04-16 04:16:11 INFO [0m[  couchpotato.core.loader] Loaded media__base: library[0m
+04-16 04:16:11 INFO [0m[  couchpotato.core.loader] Loaded media__base_matcher: matcher[0m
+04-16 04:16:11 INFO [0m[  couchpotato.core.loader] Loaded media__base_media: media[0m
+04-16 04:16:11 INFO [0m[  couchpotato.core.loader] Loaded media__base_search: search[0m
+04-16 04:16:11 INFO [0m[  couchpotato.core.loader] Loaded media__base: searcher[0m
+04-16 04:16:11 INFO [0m[  couchpotato.core.loader] Loaded media_movie__base: _base[0m
+04-16 04:16:11 INFO [0m[  couchpotato.core.loader] Loaded media_movie: charts[0m
+04-16 04:16:11 INFO [0m[  couchpotato.core.loader] Loaded media_movie: library[0m
+04-16 04:16:11 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: bluray[0m
+04-16 04:16:11 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: crowdai[0m
+04-16 04:16:11 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: flixster[0m
+04-16 04:16:11 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: goodfilms[0m
+04-16 04:16:11 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: hummingbird[0m
+04-16 04:16:11 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: imdb[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: itunes[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: letterboxd[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: popularmovies[0m
+04-16 04:16:12 INFO [0m[tato.core._base.scheduler] Scheduling updater.check, interval: hours = 24, minutes = 0, seconds = 0[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation_trakt: trakt[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_info: _modifier[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_info: couchpotatoapi[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_info: fanarttv[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_info: omdbapi[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_info: themoviedb[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_metadata: mediabrowser[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_metadata: ps3[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_metadata: wdtv[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_metadata: wmc[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_metadata: xbmc[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_nzb: binsearch[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_nzb: newznab[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_nzb: nzbclub[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_nzb: omgwtfnzbs[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: alpharatio[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: awesomehd[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: bithdtv[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: bitsoup[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: hd4free[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: hdbits[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: ilovetorrents[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: iptorrents[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: kickasstorrents[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: magnetdl[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: morethantv[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: passthepopcorn[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: rarbg[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: sceneaccess[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: scenetime[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: thepiratebay[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: torrentbytes[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: torrentday[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: torrentleech[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: torrentpotato[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: torrentshack[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: torrentz[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: yts[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_trailer: hdtrailers[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: allocine[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: appletrailers[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: criticker[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: filmcentrum[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: filmstarts[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: filmweb[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: flickchart[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: imdb[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: letterboxd[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: moviemeter[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: moviesio[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: reddit[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: rottentomatoes[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: tmdb[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: trakt[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: youteather[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie: searcher[0m
+04-16 04:16:12 INFO [0m[  couchpotato.core.loader] Loaded media_movie: suggestion[0m
+04-16 04:19:30 INFO [0m[  couchpotato.core.loader] Loaded core: _core[0m
+04-16 04:19:30 INFO [0m[  couchpotato.core.loader] Loaded core: clientscript[0m
+04-16 04:19:30 INFO [0m[  couchpotato.core.loader] Loaded core: desktop[0m
+04-16 04:19:30 INFO [0m[  couchpotato.core.loader] Loaded core: downloader[0m
+04-16 04:19:31 INFO [0m[  couchpotato.core.loader] Loaded core: scheduler[0m
+04-16 04:19:32 INFO [0m[  couchpotato.core.loader] Loaded core: updater[0m
+04-16 04:19:32 INFO [0m[  couchpotato.core.loader] Loaded plugin: automation[0m
+04-16 04:19:32 INFO [0m[  couchpotato.core.loader] Loaded plugin: browser[0m
+04-16 04:19:32 INFO [0m[  couchpotato.core.loader] Loaded plugin: category[0m
+04-16 04:19:32 INFO [0m[  couchpotato.core.loader] Loaded plugin: custom[0m
+04-16 04:19:32 INFO [0m[  couchpotato.core.loader] Loaded plugin: dashboard[0m
+04-16 04:19:32 INFO [0m[tato.core._base.scheduler] Scheduling file.cleanup, interval: hours = 24, minutes = 0, seconds = 0[0m
+04-16 04:19:32 INFO [0m[  couchpotato.core.loader] Loaded plugin: file[0m
+04-16 04:19:32 INFO [0m[  couchpotato.core.loader] Loaded plugin: log[0m
+04-16 04:19:32 INFO [0m[  couchpotato.core.loader] Loaded plugin: manage[0m
+04-16 04:19:32 INFO [0m[  couchpotato.core.loader] Loaded plugin: profile[0m
+04-16 04:19:32 INFO [0m[  couchpotato.core.loader] Loaded plugin: quality[0m
+04-16 04:19:32 INFO [0m[tato.core._base.scheduler] Scheduling movie.clean_releases, interval: hours = 12, minutes = 0, seconds = 0[0m
+04-16 04:19:32 INFO [0m[  couchpotato.core.loader] Loaded plugin: release[0m
+04-16 04:19:32 INFO [0m[  couchpotato.core.loader] Loaded plugin: renamer[0m
+04-16 04:19:34 INFO [0m[  couchpotato.core.loader] Loaded plugin: scanner[0m
+04-16 04:19:34 INFO [0m[  couchpotato.core.loader] Loaded plugin: score[0m
+04-16 04:19:34 INFO [0m[  couchpotato.core.loader] Loaded plugin: subtitle[0m
+04-16 04:19:34 INFO [0m[  couchpotato.core.loader] Loaded plugin: trailer[0m
+04-16 04:19:34 INFO [0m[  couchpotato.core.loader] Loaded plugin: userscript[0m
+04-16 04:19:34 INFO [0m[  couchpotato.core.loader] Loaded plugin: wizard[0m
+04-16 04:19:34 INFO [0m[  couchpotato.core.loader] Loaded downloaders: blackhole[0m
+04-16 04:19:34 INFO [0m[  couchpotato.core.loader] Loaded downloaders: deluge[0m
+04-16 04:19:35 INFO [0m[  couchpotato.core.loader] Loaded downloaders: hadouken[0m
+04-16 04:19:35 INFO [0m[  couchpotato.core.loader] Loaded downloaders: nzbget[0m
+04-16 04:19:35 INFO [0m[  couchpotato.core.loader] Loaded downloaders: nzbvortex[0m
+04-16 04:19:35 INFO [0m[  couchpotato.core.loader] Loaded downloaders: pneumatic[0m
+04-16 04:19:35 INFO [0m[  couchpotato.core.loader] Loaded downloaders: putio[0m
+04-16 04:19:35 INFO [0m[  couchpotato.core.loader] Loaded downloaders: qbittorrent_[0m
+04-16 04:19:36 INFO [0m[  couchpotato.core.loader] Loaded downloaders: rtorrent_[0m
+04-16 04:19:36 INFO [0m[  couchpotato.core.loader] Loaded downloaders: sabnzbd[0m
+04-16 04:19:36 INFO [0m[  couchpotato.core.loader] Loaded downloaders: synology[0m
+04-16 04:19:36 INFO [0m[  couchpotato.core.loader] Loaded downloaders: transmission[0m
+04-16 04:19:36 INFO [0m[  couchpotato.core.loader] Loaded downloaders: utorrent[0m
+04-16 04:19:36 INFO [0m[  couchpotato.core.loader] Loaded notifications: androidpn[0m
+04-16 04:19:36 INFO [0m[  couchpotato.core.loader] Loaded notifications: boxcar2[0m
+04-16 04:19:36 INFO [0m[tato.core._base.scheduler] Scheduling core.check_messages, interval: hours = 12, minutes = 0, seconds = 0[0m
+04-16 04:19:36 INFO [0m[tato.core._base.scheduler] Scheduling core.clean_messages, interval: hours = 0, minutes = 0, seconds = 15[0m
+04-16 04:19:36 INFO [0m[  couchpotato.core.loader] Loaded notifications: core[0m
+04-16 04:19:36 INFO [0m[  couchpotato.core.loader] Loaded notifications: discord[0m
+04-16 04:19:36 INFO [0m[  couchpotato.core.loader] Loaded notifications: email_[0m
+04-16 04:19:36 INFO [0m[  couchpotato.core.loader] Loaded notifications: emby[0m
+04-16 04:19:36 INFO [0m[  couchpotato.core.loader] Loaded notifications: growl[0m
+04-16 04:19:36 INFO [0m[  couchpotato.core.loader] Loaded notifications: homey[0m
+04-16 04:19:36 INFO [0m[  couchpotato.core.loader] Loaded notifications: join[0m
+04-16 04:19:36 INFO [0m[  couchpotato.core.loader] Loaded notifications: nmj[0m
+04-16 04:19:36 INFO [0m[  couchpotato.core.loader] Loaded notifications: notifymyandroid[0m
+04-16 04:19:36 INFO [0m[  couchpotato.core.loader] Loaded notifications: plex[0m
+04-16 04:19:36 INFO [0m[  couchpotato.core.loader] Loaded notifications: prowl[0m
+04-16 04:19:36 INFO [0m[  couchpotato.core.loader] Loaded notifications: pushalot[0m
+04-16 04:19:36 INFO [0m[  couchpotato.core.loader] Loaded notifications: pushbullet[0m
+04-16 04:19:36 INFO [0m[  couchpotato.core.loader] Loaded notifications: pushover[0m
+04-16 04:19:36 INFO [0m[  couchpotato.core.loader] Loaded notifications: script[0m
+04-16 04:19:37 INFO [0m[  couchpotato.core.loader] Loaded notifications: slack[0m
+04-16 04:19:37 INFO [0m[  couchpotato.core.loader] Loaded notifications: synoindex[0m
+04-16 04:19:37 INFO [0m[  couchpotato.core.loader] Loaded notifications: telegrambot[0m
+04-16 04:19:37 INFO [0m[  couchpotato.core.loader] Loaded notifications: toasty[0m
+04-16 04:19:37 INFO [0m[  couchpotato.core.loader] Loaded notifications: trakt[0m
+04-16 04:19:37 INFO [0m[  couchpotato.core.loader] Loaded notifications: twitter[0m
+04-16 04:19:37 INFO [0m[  couchpotato.core.loader] Loaded notifications: webhook[0m
+04-16 04:19:37 INFO [0m[  couchpotato.core.loader] Loaded notifications: xbmc[0m
+04-16 04:19:38 INFO [0m[  couchpotato.core.loader] Loaded notifications: xmpp_[0m
+04-16 04:19:38 INFO [0m[  couchpotato.core.loader] Loaded media__base: library[0m
+04-16 04:19:38 INFO [0m[  couchpotato.core.loader] Loaded media__base_matcher: matcher[0m
+04-16 04:19:38 INFO [0m[  couchpotato.core.loader] Loaded media__base_media: media[0m
+04-16 04:19:38 INFO [0m[  couchpotato.core.loader] Loaded media__base_search: search[0m
+04-16 04:19:38 INFO [0m[  couchpotato.core.loader] Loaded media__base: searcher[0m
+04-16 04:19:38 INFO [0m[  couchpotato.core.loader] Loaded media_movie__base: _base[0m
+04-16 04:19:38 INFO [0m[  couchpotato.core.loader] Loaded media_movie: charts[0m
+04-16 04:19:38 INFO [0m[  couchpotato.core.loader] Loaded media_movie: library[0m
+04-16 04:19:38 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: bluray[0m
+04-16 04:19:38 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: crowdai[0m
+04-16 04:19:38 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: flixster[0m
+04-16 04:19:38 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: goodfilms[0m
+04-16 04:19:38 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: hummingbird[0m
+04-16 04:19:38 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: imdb[0m
+04-16 04:19:38 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: itunes[0m
+04-16 04:19:38 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: letterboxd[0m
+04-16 04:19:38 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: popularmovies[0m
+04-16 04:19:38 INFO [0m[tato.core._base.scheduler] Scheduling updater.check, interval: hours = 24, minutes = 0, seconds = 0[0m
+04-16 04:19:38 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation_trakt: trakt[0m
+04-16 04:19:38 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_info: _modifier[0m
+04-16 04:19:38 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_info: couchpotatoapi[0m
+04-16 04:19:38 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_info: fanarttv[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_info: omdbapi[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_info: themoviedb[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_metadata: mediabrowser[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_metadata: ps3[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_metadata: wdtv[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_metadata: wmc[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_metadata: xbmc[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_nzb: binsearch[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_nzb: newznab[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_nzb: nzbclub[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_nzb: omgwtfnzbs[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: alpharatio[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: awesomehd[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: bithdtv[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: bitsoup[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: hd4free[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: hdbits[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: ilovetorrents[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: iptorrents[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: kickasstorrents[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: magnetdl[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: morethantv[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: passthepopcorn[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: rarbg[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: sceneaccess[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: scenetime[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: thepiratebay[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: torrentbytes[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: torrentday[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: torrentleech[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: torrentpotato[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: torrentshack[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: torrentz[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: yts[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_trailer: hdtrailers[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: allocine[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: appletrailers[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: criticker[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: filmcentrum[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: filmstarts[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: filmweb[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: flickchart[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: imdb[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: letterboxd[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: moviemeter[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: moviesio[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: reddit[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: rottentomatoes[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: tmdb[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: trakt[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: youteather[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie: searcher[0m
+04-16 04:19:39 INFO [0m[  couchpotato.core.loader] Loaded media_movie: suggestion[0m
+04-16 04:19:45 INFO [0m[       couchpotato.runner] Starting server on port 5050[0m
+04-16 04:19:45 INFO [0m[tato.core._base.scheduler] Scheduling updater.check, interval: hours = 24, minutes = 0, seconds = 0[0m
+04-16 04:19:45 INFO [0m[tato.core._base.scheduler] Scheduling automation.add_movies, interval: hours = 12, minutes = 0, seconds = 0[0m
+04-16 04:19:45 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.themoviedb.org/3/configuration?api_key=xxx[0m
+04-16 04:19:45 ERROR [31m[otato.core.plugins.manage] Directory doesn't exist: /root/downloads/completed/couchpotato[0m
+04-16 04:19:45 INFO [0m[tato.core._base.scheduler] Scheduling "movie.searcher.all", cron: day = *, hour = */4, minute = 58[0m
+04-16 04:19:45 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/messages/?last_check=1384713000, data: [][0m
+04-16 04:19:45 INFO [0m[potato.core._base.updater] === VERSION git:(CouchPotato:CouchPotatoServer master) 12ca4c22 (2018-03-31 16:29:42), using GitUpdater ===[0m
+04-16 04:19:45 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.cat, data: [][0m
+04-16 04:19:45 INFO [0m[hpotato.core.plugins.base] Opening url: get http://flowtorrent.com, data: [][0m
+04-16 04:19:46 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/zSouWWrySXshPCT4t3UKCQGayyo.jpg, data: [][0m
+04-16 04:19:46 INFO [0m[hpotato.core.plugins.base] Opening url: get http://katcr.to/span, data: [][0m
+04-16 04:19:46 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/sM33SANp9z6rXW8Itn7NnG1GOEs.jpg, data: [][0m
+04-16 04:19:46 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/kSBXou5Ac7vEqKd97wotJumyJvU.jpg, data: [][0m
+04-16 04:19:46 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/cGOPbv9wA5gEejkUN892JrveARt.jpg, data: [][0m
+04-16 04:19:46 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/vOipe2myi26UDwP978hsYOrnUWC.jpg, data: [][0m
+04-16 04:19:46 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/inVq3FRqcYIRl2la8iZikYYxFNR.jpg, data: [][0m
+04-16 04:19:48 INFO [0m[core.media.movie.searcher] Search for Ad Astra in Screener[0m
+04-16 04:19:48 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/1337x/results/potato/?imdbid=tt2935510&search=Ad+Astra+2019&user=&passkey=xxx[0m
+04-16 04:19:48 INFO [0m[hpotato.core.plugins.base] Opening url: post https://www.sceneaccess.eu/login, data: ['username', 'password', 'submit'][0m
+04-16 04:19:48 INFO [0m[hpotato.core.plugins.base] Opening url: get https://hd4free.xyz/searchapi.php?apikey=&username=&imdbid=tt2935510&internal=False, data: [][0m
+04-16 04:19:48 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.0.12:9117/api/v2.0/indexers/1337x/results/potato/?imdbid=tt2935510&search=Ad+Astra+2019&user=&passkey=xxx&search=Ad+Astra+2019&user=&passkey=xxx[0m
+04-16 04:19:49 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/btbit/results/potato/?imdbid=tt2935510&search=Ad+Astra+2019&user=&passkey=xxx[0m
+04-16 04:19:49 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.0.12:9117/api/v2.0/indexers/btbit/results/potato/?imdbid=tt2935510&search=Ad+Astra+2019&user=&passkey=xxx&search=Ad+Astra+2019&user=&passkey=xxx[0m
+04-16 04:19:49 ERROR [31m[edia._base.providers.base] Failed to login SceneAccess: unknown[0m
+04-16 04:19:49 ERROR [31m[edia._base.providers.base] Failed to login to: SceneAccess[0m
+04-16 04:19:49 ERROR [31m[edia._base.providers.base] Failed to parsing HD4Free: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-16 04:19:50 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/extratorrent-ag/results/potato/?imdbid=tt2935510&search=Ad+Astra+2019&user=&passkey=xxx[0m
+04-16 04:19:50 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.0.12:9117/api/v2.0/indexers/extratorrent-ag/results/potato/?imdbid=tt2935510&search=Ad+Astra+2019&user=&passkey=xxx&search=Ad+Astra+2019&user=&passkey=xxx[0m
+04-16 04:19:51 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/gimmepeers/results/potato/?imdbid=tt2935510&search=Ad+Astra+2019&user=&passkey=xxx[0m
+04-16 04:19:51 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.0.12:9117/api/v2.0/indexers/gimmepeers/results/potato/?imdbid=tt2935510&search=Ad+Astra+2019&user=&passkey=xxx&search=Ad+Astra+2019&user=&passkey=xxx[0m
+04-16 04:19:51 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/a/ad-astra-2019/se/desc/1/, data: [][0m
+04-16 04:19:51 INFO [0m[hpotato.core.plugins.base] Opening url: get http://katcr.to/span/m-i2935510/, data: [][0m
+04-16 04:19:51 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.cat/search/%22Ad+Astra+2019%22/0/7/201, data: [][0m
+04-16 04:19:51 INFO [0m[hpotato.core.plugins.base] Opening url: get https://yts.am/api/v2/list_movies.json?query_term=tt2935510&limit=10&page=1, data: [][0m
+04-16 04:19:51 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentz2.eu/feed?f=ad+astra+2019%20seed%20%3E%200, data: [][0m
+04-16 04:19:51 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentapi.org/pubapi_v2.php?get_token=get_token&app_id=couchpotato, data: [][0m
+04-16 04:19:53 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentapi.org/pubapi_v2.php?token=5hdzo9s1u3&mode=search&search_imdb=tt2935510&min_seeders=10&min_leechers=0&ranked=1&category=movies&format=json_extended&app_id=couchpotato, data: [][0m
+04-16 04:19:53 ERROR [31mFailed encoding stuff to log "Cant find imdb in database. Are you sure this imdb exists?": not all arguments converted during string formatting[0m
+04-16 04:19:53 ERROR [31m[e.providers.torrent.rarbg] Cant find imdb in database. Are you sure this imdb exists?[0m
+04-16 04:19:54 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.nzbclub.com/nzbrss.aspx?q=Ad+Astra+2019&rpp=200&sp=1&ns=1&ig=1&st=5, data: [][0m
+04-16 04:19:54 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.nzbgeek.info/api?imdbid=2935510&apikey=xxx&t=movie&extended=1&cat=2000, data: [][0m
+04-16 04:19:54 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.binsearch.info/index.php?q=tt2935510&adv_nfo=on&xminsize=600&adv_age=1500&max=400&xmaxsize=1600&m=n&adv_sort=date&adv_col=on, data: [][0m
+04-16 04:20:14 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.blu-ray.com/rss/newreleasesfeed.xml, data: [][0m
+04-16 04:20:14 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/search/pet+shop+boys%3A+inner+sanctum+2018/?limit=1, data: [][0m
+04-16 04:20:15 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.omdbapi.com/?apikey=xxx&type=movie&y=2018&t=pet+shop+boys+inner+sanctum, data: [][0m
+04-16 04:20:15 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.themoviedb.org/3/search/movie?api_key=xxx&search_type=phrase&query=pet+shop+boys+inner+sanctum&year=2018, data: [][0m
+04-16 04:20:15 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.themoviedb.org/3/movie/572348?api_key=xxx&append_to_response=alternative_titles&language=en, data: [][0m
+04-16 04:20:15 INFO [0m[providers.info.themoviedb] Found: [u'Pet Shop Boys: Inner Sanctum (2018)'][0m
+04-16 04:20:15 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/search/weber%3A+der+freisch%C3%BCtz+2017/?limit=1, data: [][0m
+04-16 04:20:15 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.omdbapi.com/?apikey=xxx&type=movie&y=2017&t=weber+der+freischutz, data: [][0m
+04-16 04:20:16 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.themoviedb.org/3/search/movie?api_key=xxx&search_type=phrase&query=weber+der+freischutz&year=2017, data: [][0m
+04-16 04:20:16 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/search/new+year%27s+eve+concert+2018+2018/?limit=1, data: [][0m
+04-16 04:20:16 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.omdbapi.com/?apikey=xxx&type=movie&y=2018&t=new+year+s+eve+concert+2018, data: [][0m
+04-16 04:20:16 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.themoviedb.org/3/search/movie?api_key=xxx&search_type=phrase&query=new+year+s+eve+concert+2018&year=2018, data: [][0m
+04-16 04:20:16 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/search/vaccaj%3A+giulietta+e+romeo+2018/?limit=1, data: [][0m
+04-16 04:20:16 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.omdbapi.com/?apikey=xxx&type=movie&y=2018&t=vaccaj+giulietta+e+romeo, data: [][0m
+04-16 04:20:17 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.themoviedb.org/3/search/movie?api_key=xxx&search_type=phrase&query=vaccaj+giulietta+e+romeo&year=2018, data: [][0m
+04-16 04:20:17 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/search/fantasex+1976/?limit=1, data: [][0m
+04-16 04:20:17 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.omdbapi.com/?apikey=xxx&type=movie&y=1976&t=fantasex, data: [][0m
+04-16 04:20:17 INFO [0m[ie.providers.info.omdbapi] Found: Fantasex (1976)[0m
+04-16 04:20:17 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.themoviedb.org/3/search/movie?api_key=xxx&search_type=phrase&query=fantasex&year=1976, data: [][0m
+04-16 04:20:17 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/ismovie/tt0194864/?ignore=1, data: [][0m
+04-16 04:20:17 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/search/blackout+1978/?limit=1, data: [][0m
+04-16 04:20:17 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.omdbapi.com/?apikey=xxx&type=movie&y=1978&t=blackout, data: [][0m
+04-16 04:20:17 INFO [0m[ie.providers.info.omdbapi] Found: Blackout (1978)[0m
+04-16 04:20:17 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.themoviedb.org/3/search/movie?api_key=xxx&search_type=phrase&query=blackout&year=1978, data: [][0m
+04-16 04:20:18 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/ismovie/tt0077241/?ignore=1, data: [][0m
+04-16 04:20:18 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/search/a+dog%27s+way+home+2019/?limit=1, data: [][0m
+04-16 04:20:18 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.omdbapi.com/?apikey=xxx&type=movie&y=2019&t=a+dog+s+way+home, data: [][0m
+04-16 04:20:18 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.themoviedb.org/3/search/movie?api_key=xxx&search_type=phrase&query=a+dog+s+way+home&year=2019, data: [][0m
+04-16 04:20:18 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/ismovie/tt7616798/?ignore=1, data: [][0m
+04-16 04:20:18 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/search/mirai+2018/?limit=1, data: [][0m
+04-16 04:20:18 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.omdbapi.com/?apikey=xxx&type=movie&y=2018&t=mirai, data: [][0m
+04-16 04:20:18 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.themoviedb.org/3/search/movie?api_key=xxx&search_type=phrase&query=mirai&year=2018, data: [][0m
+04-16 04:20:18 INFO [0m[ie.providers.info.omdbapi] Found: Mirai (2018)[0m
+04-16 04:20:18 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/ismovie/tt6900448/?ignore=1, data: [][0m
+04-16 04:20:19 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.themoviedb.org/3/search/movie?api_key=xxx&search_type=phrase&query=on+the+basis+of+sex&year=2018, data: [][0m
+04-16 04:20:19 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/search/on+the+basis+of+sex+2018/?limit=1, data: [][0m
+04-16 04:20:19 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.omdbapi.com/?apikey=xxx&type=movie&y=2018&t=on+the+basis+of+sex, data: [][0m
+04-16 04:20:19 INFO [0m[ie.providers.info.omdbapi] Found: On the Basis of Sex (2018)[0m
+04-16 04:20:19 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/ismovie/tt4669788/?ignore=1, data: [][0m
+04-16 04:20:19 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.themoviedb.org/3/search/movie?api_key=xxx&search_type=phrase&query=holmes+watson&year=2018, data: [][0m
+04-16 04:20:19 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/search/holmes+%26+watson+2018/?limit=1, data: [][0m
+04-16 04:20:19 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.omdbapi.com/?apikey=xxx&type=movie&y=2018&t=holmes+watson, data: [][0m
+04-16 04:20:19 INFO [0m[ie.providers.info.omdbapi] Found: Holmes & Watson (2018)[0m
+04-16 04:20:19 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/ismovie/tt1255919/?ignore=1, data: [][0m
+04-16 04:20:19 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/search/welcome+to+marwen+2018/?limit=1, data: [][0m
+04-16 04:20:19 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.omdbapi.com/?apikey=xxx&type=movie&y=2018&t=welcome+to+marwen, data: [][0m
+04-16 04:20:19 INFO [0m[ie.providers.info.omdbapi] Found: Welcome to Marwen (2018)[0m
+04-16 04:20:19 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/ismovie/tt3289724/?ignore=1, data: [][0m
+04-16 04:20:20 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/search/project+blue+book%3A+season+1+2019/?limit=1, data: [][0m
+04-16 04:20:20 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.omdbapi.com/?apikey=xxx&type=movie&y=2019&t=project+blue+book+season+1, data: [][0m
+04-16 04:20:20 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/search/the+legend+of+the+7+golden+vampires+1974/?limit=1, data: [][0m
+04-16 04:20:20 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.omdbapi.com/?apikey=xxx&type=movie&y=1974&t=the+legend+of+the+7+golden+vampires, data: [][0m
+04-16 04:20:20 INFO [0m[ie.providers.info.omdbapi] Found: The Legend of the 7 Golden Vampires (1974)[0m
+04-16 04:20:20 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/ismovie/tt0070297/?ignore=1, data: [][0m
+04-16 04:20:20 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/search/black+clover%3A+season+1%2C+part+4+2017/?limit=1, data: [][0m
+04-16 04:20:20 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.omdbapi.com/?apikey=xxx&type=movie&y=2017&t=black+clover+season+1+part+4, data: [][0m
+04-16 04:20:20 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/search/is+it+wrong+to+expect+a+hot+spring+in+a+dungeon%3F+2016/?limit=1, data: [][0m
+04-16 04:20:20 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.omdbapi.com/?apikey=xxx&type=movie&y=2016&t=is+it+wrong+to+expect+a+hot+spring+in+a+dungeon, data: [][0m
+04-16 04:20:21 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/search/boruto%3A+naruto+next+generations+-+vol.+1+2017/?limit=1, data: [][0m
+04-16 04:20:21 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.omdbapi.com/?apikey=xxx&type=movie&y=2017&t=boruto+naruto+next+generations+vol+1, data: [][0m
+04-16 04:20:21 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/search/frankenstein+1970+1958/?limit=1, data: [][0m
+04-16 04:20:21 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.omdbapi.com/?apikey=xxx&type=movie&y=1958&t=frankenstein+1970, data: [][0m
+04-16 04:20:21 INFO [0m[ie.providers.info.omdbapi] Found: Frankenstein 1970 (1958)[0m
+04-16 04:20:23 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/ismovie/tt0051630/?ignore=1, data: [][0m
+04-16 04:20:23 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/search/man+on+a+ledge+4k+2012/?limit=1, data: [][0m
+04-16 04:20:23 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.omdbapi.com/?apikey=xxx&type=movie&y=2012&t=man+on+a+ledge+4k, data: [][0m
+04-16 04:20:23 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/search/the+amityville+murders+2018/?limit=1, data: [][0m
+04-16 04:20:23 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.omdbapi.com/?apikey=xxx&type=movie&y=2018&t=the+amityville+murders, data: [][0m
+04-16 04:20:23 INFO [0m[ie.providers.info.omdbapi] Found: The Amityville Murders (2018)[0m
+04-16 04:20:23 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/ismovie/tt6984258/?ignore=1, data: [][0m
+04-16 04:20:24 ERROR [31m[hpotato.core.plugins.base] Failed opening url in NZBClub: https://www.nzbclub.com/nzbrss.aspx?q=Ad+Astra+2019&rpp=200&sp=1&ns=1&ig=1&st=5 Traceback (most recent call last):
+ConnectTimeout: HTTPSConnectionPool(host='www.nzbclub.com', port=443): Max retries exceeded with url: /nzbrss.aspx?q=Ad+Astra+2019&rpp=200&sp=1&ns=1&ig=1&st=5 (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0xb4d89190>, 'Connection to www.nzbclub.com timed out. (connect timeout=30)'))
+[0m
+04-16 04:20:24 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/eta/tt1560220/, data: [][0m
+04-16 04:20:24 INFO [0m[core.media.movie.searcher] Search for Joker in Screener[0m
+04-16 04:20:24 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/1337x/results/potato/?imdbid=tt7286456&search=Joker+2019&user=&passkey=xxx[0m
+04-16 04:20:24 INFO [0m[hpotato.core.plugins.base] Opening url: get https://hd4free.xyz/searchapi.php?apikey=&username=&imdbid=tt7286456&internal=False, data: [][0m
+04-16 04:20:24 INFO [0m[hpotato.core.plugins.base] Opening url: post https://www.sceneaccess.eu/login, data: ['username', 'password', 'submit'][0m
+04-16 04:20:24 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.0.12:9117/api/v2.0/indexers/1337x/results/potato/?imdbid=tt7286456&search=Joker+2019&user=&passkey=xxx&search=Joker+2019&user=&passkey=xxx[0m
+04-16 04:20:25 ERROR [31m[edia._base.providers.base] Failed to login SceneAccess: unknown[0m
+04-16 04:20:25 ERROR [31m[edia._base.providers.base] Failed to login to: SceneAccess[0m
+04-16 04:20:25 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/btbit/results/potato/?imdbid=tt7286456&search=Joker+2019&user=&passkey=xxx[0m
+04-16 04:20:25 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.0.12:9117/api/v2.0/indexers/btbit/results/potato/?imdbid=tt7286456&search=Joker+2019&user=&passkey=xxx&search=Joker+2019&user=&passkey=xxx[0m
+04-16 04:20:25 ERROR [31m[edia._base.providers.base] Failed to parsing HD4Free: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-16 04:20:26 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/extratorrent-ag/results/potato/?imdbid=tt7286456&search=Joker+2019&user=&passkey=xxx[0m
+04-16 04:20:26 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.0.12:9117/api/v2.0/indexers/extratorrent-ag/results/potato/?imdbid=tt7286456&search=Joker+2019&user=&passkey=xxx&search=Joker+2019&user=&passkey=xxx[0m
+04-16 04:20:27 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/gimmepeers/results/potato/?imdbid=tt7286456&search=Joker+2019&user=&passkey=xxx[0m
+04-16 04:20:27 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.0.12:9117/api/v2.0/indexers/gimmepeers/results/potato/?imdbid=tt7286456&search=Joker+2019&user=&passkey=xxx&search=Joker+2019&user=&passkey=xxx[0m
+04-16 04:20:27 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.cat/search/%22Joker+2019%22/0/7/201, data: [][0m
+04-16 04:20:27 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentz2.eu/feed?f=joker+2019%20seed%20%3E%200, data: [][0m
+04-16 04:20:27 INFO [0m[hpotato.core.plugins.base] Opening url: get http://katcr.to/span/m-i7286456/, data: [][0m
+04-16 04:20:27 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/j/joker-2019/se/desc/1/, data: [][0m
+04-16 04:20:27 INFO [0m[hpotato.core.plugins.base] Opening url: get https://yts.am/api/v2/list_movies.json?query_term=tt7286456&limit=10&page=1, data: [][0m
+04-16 04:20:27 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentapi.org/pubapi_v2.php?token=5hdzo9s1u3&mode=search&search_imdb=tt7286456&min_seeders=10&min_leechers=0&ranked=1&category=movies&format=json_extended&app_id=couchpotato, data: [][0m
+04-16 04:20:29 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/9O7gLzmreU0nGkIB6K3BsJbzvNv.jpg, data: [][0m
+04-16 04:20:30 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/rPdtLWNsZmAtoZl9PK7S2wE3qiS.jpg, data: [][0m
+04-16 04:20:30 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/bVq65huQ8vHDd1a4Z37QtuyEvpA.jpg, data: [][0m
+04-16 04:20:30 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/1hRoyzDtpgMU7Dz4JF22RANzQO7.jpg, data: [][0m
+04-16 04:20:30 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.nzbclub.com/nzbrss.aspx?q=Joker+2019&rpp=200&sp=1&ns=1&ig=1&st=5, data: [][0m
+04-16 04:20:30 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.nzbgeek.info/api?imdbid=7286456&apikey=xxx&t=movie&extended=1&cat=2000, data: [][0m
+04-16 04:20:30 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.binsearch.info/index.php?q=tt7286456&adv_nfo=on&xminsize=600&adv_age=1500&max=400&xmaxsize=1600&m=n&adv_sort=date&adv_col=on, data: [][0m
+04-16 04:20:30 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/3W0v956XxSG5xgm7LB6qu8ExYJ2.jpg, data: [][0m
+04-16 04:20:30 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/yPisjyLweCl1tbgwgtzBCNCBle.jpg, data: [][0m
+04-16 04:20:30 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg, data: [][0m
+04-16 04:20:30 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/dM2w364MScsjFf8pfMbaWUcWrR.jpg, data: [][0m
+04-16 04:20:30 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/wfPHdfofBD5PN96dV96a51B3Ja2.jpg, data: [][0m
+04-16 04:20:30 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/adw6Lq9FiC9zjYEpOqfq03ituwp.jpg, data: [][0m
+04-16 04:20:30 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/nUXCJMnAiwCpNPZuJH2n6h5hGtF.jpg, data: [][0m
+04-16 04:20:30 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/gEkKHiiQRVUSX15Iwo8VFydXrtu.jpg, data: [][0m
+04-16 04:20:30 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg, data: [][0m
+04-16 04:20:31 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/cFOQL6x4pWigGDWWzkFq2yfrRZN.jpg, data: [][0m
+04-16 04:20:31 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/wElOvH7H6sLElsTOLu1MY6oWRUx.jpg, data: [][0m
+04-16 04:20:31 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/fgVoQyioqX2Q78lnBO7CYqQ8eOZ.jpg, data: [][0m
+04-16 04:20:31 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/nQTtqHBsaGs415Pwh1e05n5jxQT.jpg, data: [][0m
+04-16 04:20:31 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/jWfJhvNxAy48QwQ3RI3MSPUMbj3.jpg, data: [][0m
+04-16 04:20:31 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/aFPqJZ9vOcH7QroNxXV5wefX2qe.jpg, data: [][0m
+04-16 04:20:31 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/lSeGyQN4cMCcZChqRXAXIG51syA.jpg, data: [][0m
+04-16 04:20:31 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/xnopI5Xtky18MPhK40cZAGAOVeV.jpg, data: [][0m
+04-16 04:20:31 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/279PwJAcelI4VuBtdzrZASqDPQr.jpg, data: [][0m
+04-16 04:20:31 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg, data: [][0m
+04-16 04:20:31 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/4pA9318BY7CSnXVi3xKBtPYMe1T.jpg, data: [][0m
+04-16 04:20:31 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/kreTuJBkUjVWePRfhHZuYfhNE1T.jpg, data: [][0m
+04-16 04:20:31 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/8KomINZhIuJeB4oB7k7tkq8tmE.jpg, data: [][0m
+04-16 04:20:31 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg, data: [][0m
+04-16 04:20:31 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/ddyDGQBLbG1LjK01dz9Nb1NQstf.jpg, data: [][0m
+04-16 04:20:32 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/pZn87R7gtmMCGGO8KeaAfZDhXLg.jpg, data: [][0m
+04-16 04:20:32 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/b9XvI4Nehzi0nXyNVD6DtT39P6l.jpg, data: [][0m
+04-16 04:20:32 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/izY9Le3QWtu7xkHq7bjJnuE5yGI.jpg, data: [][0m
+04-16 04:20:32 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/orEUlKndjV1rEcWqXbbjegjfv97.jpg, data: [][0m
+04-16 04:20:32 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/o45VIAUYDcVCGuzd43l8Sr5Dfti.jpg, data: [][0m
+04-16 04:20:32 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/gidYW1wR6Gd0TS00Dn3Np5l77VO.jpg, data: [][0m
+04-16 04:20:32 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/mKbvZDkIqY4rk67iITuLsH9lMK.jpg, data: [][0m
+04-16 04:20:32 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/czMYViYqaNrvxaRyhUR0PTPyOig.jpg, data: [][0m
+04-16 04:21:00 ERROR [31m[hpotato.core.plugins.base] Failed opening url in NZBClub: https://www.nzbclub.com/nzbrss.aspx?q=Joker+2019&rpp=200&sp=1&ns=1&ig=1&st=5 Traceback (most recent call last):
+ConnectTimeout: HTTPSConnectionPool(host='www.nzbclub.com', port=443): Max retries exceeded with url: /nzbrss.aspx?q=Joker+2019&rpp=200&sp=1&ns=1&ig=1&st=5 (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0xb4dd24f0>, 'Connection to www.nzbclub.com timed out. (connect timeout=30)'))
+[0m
+04-16 04:21:00 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/eta/tt2527338/, data: [][0m
+04-16 04:21:02 INFO [0m[core.media.movie.searcher] Search for Midsommar in Screener[0m
+04-16 04:21:02 INFO [0m[hpotato.core.plugins.base] Opening url: get https://hd4free.xyz/searchapi.php?apikey=&username=&imdbid=tt8772262&internal=False, data: [][0m
+04-16 04:21:02 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/1337x/results/potato/?imdbid=tt8772262&search=Midsommar+2019&user=&passkey=xxx[0m
+04-16 04:21:02 INFO [0m[hpotato.core.plugins.base] Opening url: post https://www.sceneaccess.eu/login, data: ['username', 'password', 'submit'][0m
+04-16 04:21:03 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.0.12:9117/api/v2.0/indexers/1337x/results/potato/?imdbid=tt8772262&search=Midsommar+2019&user=&passkey=xxx&search=Midsommar+2019&user=&passkey=xxx[0m
+04-16 04:21:03 ERROR [31m[edia._base.providers.base] Failed to parsing HD4Free: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-16 04:21:03 ERROR [31m[edia._base.providers.base] Failed to login SceneAccess: unknown[0m
+04-16 04:21:03 ERROR [31m[edia._base.providers.base] Failed to login to: SceneAccess[0m
+04-16 04:21:03 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/btbit/results/potato/?imdbid=tt8772262&search=Midsommar+2019&user=&passkey=xxx[0m
+04-16 04:21:04 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.0.12:9117/api/v2.0/indexers/btbit/results/potato/?imdbid=tt8772262&search=Midsommar+2019&user=&passkey=xxx&search=Midsommar+2019&user=&passkey=xxx[0m
+04-16 04:21:04 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/extratorrent-ag/results/potato/?imdbid=tt8772262&search=Midsommar+2019&user=&passkey=xxx[0m
+04-16 04:21:05 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.0.12:9117/api/v2.0/indexers/extratorrent-ag/results/potato/?imdbid=tt8772262&search=Midsommar+2019&user=&passkey=xxx&search=Midsommar+2019&user=&passkey=xxx[0m
+04-16 04:21:05 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/gimmepeers/results/potato/?imdbid=tt8772262&search=Midsommar+2019&user=&passkey=xxx[0m
+04-16 04:21:06 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.0.12:9117/api/v2.0/indexers/gimmepeers/results/potato/?imdbid=tt8772262&search=Midsommar+2019&user=&passkey=xxx&search=Midsommar+2019&user=&passkey=xxx[0m
+04-16 04:21:06 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.cat/search/%22Midsommar+2019%22/0/7/201, data: [][0m
+04-16 04:21:06 INFO [0m[hpotato.core.plugins.base] Opening url: get http://katcr.to/span/m-i8772262/, data: [][0m
+04-16 04:21:06 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentz2.eu/feed?f=midsommar+2019%20seed%20%3E%200, data: [][0m
+04-16 04:21:06 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/m/midsommar-2019/se/desc/1/, data: [][0m
+04-16 04:21:06 INFO [0m[hpotato.core.plugins.base] Opening url: get https://yts.am/api/v2/list_movies.json?query_term=tt8772262&limit=10&page=1, data: [][0m
+04-16 04:21:06 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentapi.org/pubapi_v2.php?token=5hdzo9s1u3&mode=search&search_imdb=tt8772262&min_seeders=10&min_leechers=0&ranked=1&category=movies&format=json_extended&app_id=couchpotato, data: [][0m
+04-16 04:21:08 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.nzbgeek.info/api?imdbid=8772262&apikey=xxx&t=movie&extended=1&cat=2000, data: [][0m
+04-16 04:21:08 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.nzbclub.com/nzbrss.aspx?q=Midsommar+2019&rpp=200&sp=1&ns=1&ig=1&st=5, data: [][0m
+04-16 04:21:08 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.binsearch.info/index.php?q=tt8772262&adv_nfo=on&xminsize=600&adv_age=1500&max=400&xmaxsize=1600&m=n&adv_sort=date&adv_col=on, data: [][0m
+04-16 04:21:38 ERROR [31m[hpotato.core.plugins.base] Failed opening url in NZBClub: https://www.nzbclub.com/nzbrss.aspx?q=Midsommar+2019&rpp=200&sp=1&ns=1&ig=1&st=5 Traceback (most recent call last):
+ConnectTimeout: HTTPSConnectionPool(host='www.nzbclub.com', port=443): Max retries exceeded with url: /nzbrss.aspx?q=Midsommar+2019&rpp=200&sp=1&ns=1&ig=1&st=5 (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0xb59ec6f0>, 'Connection to www.nzbclub.com timed out. (connect timeout=30)'))
+[0m
+04-16 04:21:38 INFO [0m[core.media.movie.searcher] Search for Deadpool: No Good Deed in 720p[0m
+04-16 04:21:38 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/1337x/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-16 04:21:38 INFO [0m[hpotato.core.plugins.base] Opening url: get https://hd4free.xyz/searchapi.php?apikey=&username=&imdbid=tt6612630&internal=False, data: [][0m
+04-16 04:21:38 INFO [0m[hpotato.core.plugins.base] Opening url: post https://www.sceneaccess.eu/login, data: ['username', 'password', 'submit'][0m
+04-16 04:21:38 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.0.12:9117/api/v2.0/indexers/1337x/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-16 04:21:39 ERROR [31m[edia._base.providers.base] Failed to login SceneAccess: unknown[0m
+04-16 04:21:39 ERROR [31m[edia._base.providers.base] Failed to login to: SceneAccess[0m
+04-16 04:21:39 ERROR [31m[edia._base.providers.base] Failed to parsing HD4Free: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-16 04:21:39 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/btbit/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-16 04:21:39 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.0.12:9117/api/v2.0/indexers/btbit/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-16 04:21:40 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/extratorrent-ag/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-16 04:21:40 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.0.12:9117/api/v2.0/indexers/extratorrent-ag/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-16 04:21:41 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/gimmepeers/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-16 04:21:41 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.0.12:9117/api/v2.0/indexers/gimmepeers/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-16 04:21:41 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.cat/search/%22Deadpool%3A+No+Good+Deed+2017%22/0/7/207, data: [][0m
+04-16 04:21:41 INFO [0m[hpotato.core.plugins.base] Opening url: get https://yts.am/api/v2/list_movies.json?query_term=tt6612630&limit=10&page=1, data: [][0m
+04-16 04:21:41 INFO [0m[hpotato.core.plugins.base] Opening url: get http://katcr.to/span/m-i6612630/, data: [][0m
+04-16 04:21:41 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentz2.eu/feed?f=deadpool+no+good+deed+2017%20seed%20%3E%200, data: [][0m
+04-16 04:21:41 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+04-16 04:21:41 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentapi.org/pubapi_v2.php?token=5hdzo9s1u3&mode=search&search_imdb=tt6612630&min_seeders=10&min_leechers=0&ranked=1&category=movies&format=json_extended&app_id=couchpotato, data: [][0m
+04-16 04:21:42 ERROR [31mFailed encoding stuff to log "Cant find imdb in database. Are you sure this imdb exists?": not all arguments converted during string formatting[0m
+04-16 04:21:42 ERROR [31m[e.providers.torrent.rarbg] Cant find imdb in database. Are you sure this imdb exists?[0m
+04-16 04:21:42 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentz2.eu/feed?f=deadpool%3A+no+good+deed+2017%20seed%20%3E%200, data: [][0m
+04-16 04:21:43 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+04-16 04:21:43 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.nzbgeek.info/api?imdbid=6612630&apikey=xxx&t=movie&extended=1&cat=2000, data: [][0m
+04-16 04:21:43 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.nzbclub.com/nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5, data: [][0m
+04-16 04:21:43 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.binsearch.info/index.php?q=tt6612630&adv_nfo=on&xminsize=3000&adv_age=1500&max=400&xmaxsize=10000&m=n&adv_sort=date&adv_col=on, data: [][0m
+04-16 04:21:51 INFO [0m[chpotato.core._base._core] Shutting down[0m
+04-16 04:21:51 INFO [0mShutting down thread pool[0m
+04-16 04:22:32 INFO [0m[  couchpotato.core.loader] Loaded core: _core[0m
+04-16 04:22:32 INFO [0m[  couchpotato.core.loader] Loaded core: clientscript[0m
+04-16 04:22:32 INFO [0m[  couchpotato.core.loader] Loaded core: desktop[0m
+04-16 04:22:32 INFO [0m[  couchpotato.core.loader] Loaded core: downloader[0m
+04-16 04:22:32 INFO [0m[  couchpotato.core.loader] Loaded core: scheduler[0m
+04-16 04:22:33 INFO [0m[  couchpotato.core.loader] Loaded core: updater[0m
+04-16 04:22:33 INFO [0m[  couchpotato.core.loader] Loaded plugin: automation[0m
+04-16 04:22:33 INFO [0m[  couchpotato.core.loader] Loaded plugin: browser[0m
+04-16 04:22:33 INFO [0m[  couchpotato.core.loader] Loaded plugin: category[0m
+04-16 04:22:33 INFO [0m[  couchpotato.core.loader] Loaded plugin: custom[0m
+04-16 04:22:33 INFO [0m[  couchpotato.core.loader] Loaded plugin: dashboard[0m
+04-16 04:22:33 INFO [0m[tato.core._base.scheduler] Scheduling file.cleanup, interval: hours = 24, minutes = 0, seconds = 0[0m
+04-16 04:22:33 INFO [0m[  couchpotato.core.loader] Loaded plugin: file[0m
+04-16 04:22:33 INFO [0m[  couchpotato.core.loader] Loaded plugin: log[0m
+04-16 04:22:33 INFO [0m[  couchpotato.core.loader] Loaded plugin: manage[0m
+04-16 04:22:33 INFO [0m[  couchpotato.core.loader] Loaded plugin: profile[0m
+04-16 04:22:33 INFO [0m[  couchpotato.core.loader] Loaded plugin: quality[0m
+04-16 04:22:33 INFO [0m[tato.core._base.scheduler] Scheduling movie.clean_releases, interval: hours = 12, minutes = 0, seconds = 0[0m
+04-16 04:22:33 INFO [0m[  couchpotato.core.loader] Loaded plugin: release[0m
+04-16 04:22:33 INFO [0m[  couchpotato.core.loader] Loaded plugin: renamer[0m
+04-16 04:22:34 INFO [0m[  couchpotato.core.loader] Loaded plugin: scanner[0m
+04-16 04:22:34 INFO [0m[  couchpotato.core.loader] Loaded plugin: score[0m
+04-16 04:22:34 INFO [0m[  couchpotato.core.loader] Loaded plugin: subtitle[0m
+04-16 04:22:34 INFO [0m[  couchpotato.core.loader] Loaded plugin: trailer[0m
+04-16 04:22:34 INFO [0m[  couchpotato.core.loader] Loaded plugin: userscript[0m
+04-16 04:22:34 INFO [0m[  couchpotato.core.loader] Loaded plugin: wizard[0m
+04-16 04:22:34 INFO [0m[  couchpotato.core.loader] Loaded downloaders: blackhole[0m
+04-16 04:22:34 INFO [0m[  couchpotato.core.loader] Loaded downloaders: deluge[0m
+04-16 04:22:34 INFO [0m[  couchpotato.core.loader] Loaded downloaders: hadouken[0m
+04-16 04:22:34 INFO [0m[  couchpotato.core.loader] Loaded downloaders: nzbget[0m
+04-16 04:22:34 INFO [0m[  couchpotato.core.loader] Loaded downloaders: nzbvortex[0m
+04-16 04:22:34 INFO [0m[  couchpotato.core.loader] Loaded downloaders: pneumatic[0m
+04-16 04:22:34 INFO [0m[  couchpotato.core.loader] Loaded downloaders: putio[0m
+04-16 04:22:34 INFO [0m[  couchpotato.core.loader] Loaded downloaders: qbittorrent_[0m
+04-16 04:22:34 INFO [0m[  couchpotato.core.loader] Loaded downloaders: rtorrent_[0m
+04-16 04:22:34 INFO [0m[  couchpotato.core.loader] Loaded downloaders: sabnzbd[0m
+04-16 04:22:34 INFO [0m[  couchpotato.core.loader] Loaded downloaders: synology[0m
+04-16 04:22:34 INFO [0m[  couchpotato.core.loader] Loaded downloaders: transmission[0m
+04-16 04:22:34 INFO [0m[  couchpotato.core.loader] Loaded downloaders: utorrent[0m
+04-16 04:22:34 INFO [0m[  couchpotato.core.loader] Loaded notifications: androidpn[0m
+04-16 04:22:34 INFO [0m[  couchpotato.core.loader] Loaded notifications: boxcar2[0m
+04-16 04:22:35 INFO [0m[tato.core._base.scheduler] Scheduling core.check_messages, interval: hours = 12, minutes = 0, seconds = 0[0m
+04-16 04:22:35 INFO [0m[tato.core._base.scheduler] Scheduling core.clean_messages, interval: hours = 0, minutes = 0, seconds = 15[0m
+04-16 04:22:35 INFO [0m[  couchpotato.core.loader] Loaded notifications: core[0m
+04-16 04:22:35 INFO [0m[  couchpotato.core.loader] Loaded notifications: discord[0m
+04-16 04:22:35 INFO [0m[  couchpotato.core.loader] Loaded notifications: email_[0m
+04-16 04:22:35 INFO [0m[  couchpotato.core.loader] Loaded notifications: emby[0m
+04-16 04:22:35 INFO [0m[  couchpotato.core.loader] Loaded notifications: growl[0m
+04-16 04:22:35 INFO [0m[  couchpotato.core.loader] Loaded notifications: homey[0m
+04-16 04:22:35 INFO [0m[  couchpotato.core.loader] Loaded notifications: join[0m
+04-16 04:22:35 INFO [0m[  couchpotato.core.loader] Loaded notifications: nmj[0m
+04-16 04:22:35 INFO [0m[  couchpotato.core.loader] Loaded notifications: notifymyandroid[0m
+04-16 04:22:35 INFO [0m[  couchpotato.core.loader] Loaded notifications: plex[0m
+04-16 04:22:35 INFO [0m[  couchpotato.core.loader] Loaded notifications: prowl[0m
+04-16 04:22:35 INFO [0m[  couchpotato.core.loader] Loaded notifications: pushalot[0m
+04-16 04:22:35 INFO [0m[  couchpotato.core.loader] Loaded notifications: pushbullet[0m
+04-16 04:22:35 INFO [0m[  couchpotato.core.loader] Loaded notifications: pushover[0m
+04-16 04:22:35 INFO [0m[  couchpotato.core.loader] Loaded notifications: script[0m
+04-16 04:22:35 INFO [0m[  couchpotato.core.loader] Loaded notifications: slack[0m
+04-16 04:22:35 INFO [0m[  couchpotato.core.loader] Loaded notifications: synoindex[0m
+04-16 04:22:35 INFO [0m[  couchpotato.core.loader] Loaded notifications: telegrambot[0m
+04-16 04:22:35 INFO [0m[  couchpotato.core.loader] Loaded notifications: toasty[0m
+04-16 04:22:35 INFO [0m[  couchpotato.core.loader] Loaded notifications: trakt[0m
+04-16 04:22:35 INFO [0m[  couchpotato.core.loader] Loaded notifications: twitter[0m
+04-16 04:22:35 INFO [0m[  couchpotato.core.loader] Loaded notifications: webhook[0m
+04-16 04:22:35 INFO [0m[  couchpotato.core.loader] Loaded notifications: xbmc[0m
+04-16 04:22:35 INFO [0m[  couchpotato.core.loader] Loaded notifications: xmpp_[0m
+04-16 04:22:35 INFO [0m[  couchpotato.core.loader] Loaded media__base: library[0m
+04-16 04:22:35 INFO [0m[  couchpotato.core.loader] Loaded media__base_matcher: matcher[0m
+04-16 04:22:35 INFO [0m[  couchpotato.core.loader] Loaded media__base_media: media[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media__base_search: search[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media__base: searcher[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie__base: _base[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie: charts[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie: library[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: bluray[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: crowdai[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: flixster[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: goodfilms[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: hummingbird[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: imdb[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: itunes[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: letterboxd[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: popularmovies[0m
+04-16 04:22:36 INFO [0m[tato.core._base.scheduler] Scheduling updater.check, interval: hours = 24, minutes = 0, seconds = 0[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation_trakt: trakt[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_info: _modifier[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_info: couchpotatoapi[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_info: fanarttv[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_info: omdbapi[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_info: themoviedb[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_metadata: mediabrowser[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_metadata: ps3[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_metadata: wdtv[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_metadata: wmc[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_metadata: xbmc[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_nzb: binsearch[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_nzb: newznab[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_nzb: nzbclub[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_nzb: omgwtfnzbs[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: alpharatio[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: awesomehd[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: bithdtv[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: bitsoup[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: hd4free[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: hdbits[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: ilovetorrents[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: iptorrents[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: kickasstorrents[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: magnetdl[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: morethantv[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: passthepopcorn[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: rarbg[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: sceneaccess[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: scenetime[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: thepiratebay[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: torrentbytes[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: torrentday[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: torrentleech[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: torrentpotato[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: torrentshack[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: torrentz[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: yts[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_trailer: hdtrailers[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: allocine[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: appletrailers[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: criticker[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: filmcentrum[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: filmstarts[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: filmweb[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: flickchart[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: imdb[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: letterboxd[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: moviemeter[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: moviesio[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: reddit[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: rottentomatoes[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: tmdb[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: trakt[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: youteather[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie: searcher[0m
+04-16 04:22:36 INFO [0m[  couchpotato.core.loader] Loaded media_movie: suggestion[0m
+04-16 04:22:36 INFO [0m[       couchpotato.runner] Starting server on port 5050[0m
+04-16 04:22:36 INFO [0m[tato.core._base.scheduler] Scheduling automation.add_movies, interval: hours = 12, minutes = 0, seconds = 0[0m
+04-16 04:22:36 INFO [0m[tato.core._base.scheduler] Scheduling "movie.searcher.all", cron: day = *, hour = */4, minute = 58[0m
+04-16 04:22:36 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.themoviedb.org/3/configuration?api_key=xxx[0m
+04-16 04:22:36 ERROR [31m[otato.core.plugins.manage] Directory doesn't exist: /root/downloads/completed/couchpotato[0m
+04-16 04:22:36 INFO [0m[tato.core._base.scheduler] Scheduling updater.check, interval: hours = 24, minutes = 0, seconds = 0[0m
+04-16 04:22:37 INFO [0m[potato.core._base.updater] === VERSION git:(CouchPotato:CouchPotatoServer master) 12ca4c22 (2018-03-31 16:29:42), using GitUpdater ===[0m
+04-16 04:22:37 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/messages/?last_check=1384713000, data: [][0m
+04-16 04:22:37 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.cat, data: [][0m
+04-16 04:22:37 INFO [0m[hpotato.core.plugins.base] Opening url: get http://katcr.to/span, data: [][0m
+04-16 04:22:37 INFO [0m[hpotato.core.plugins.base] Opening url: post https://api.couchpota.to/suggest/, data: ['ignore', 'movies'][0m
+04-16 04:22:39 INFO [0m[core.media.movie.searcher] Search for Ad Astra in Screener[0m
+04-16 04:22:39 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.binsearch.info/index.php?q=tt2935510&adv_nfo=on&xminsize=600&adv_age=1500&max=400&xmaxsize=1600&m=n&adv_sort=date&adv_col=on, data: [][0m
+04-16 04:22:39 INFO [0m[iders.info.couchpotatoapi] Found suggestions for 12 movies, 0 ignored[0m
+04-16 04:22:39 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.nzbclub.com/nzbrss.aspx?q=Ad+Astra+2019&rpp=200&sp=1&ns=1&ig=1&st=5, data: [][0m
+04-16 04:22:39 INFO [0m[hpotato.core.plugins.base] Opening url: get https://image.tmdb.org/t/p/w154/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg, data: [][0m
+04-16 04:23:09 ERROR [31m[hpotato.core.plugins.base] Failed opening url in NZBClub: https://www.nzbclub.com/nzbrss.aspx?q=Ad+Astra+2019&rpp=200&sp=1&ns=1&ig=1&st=5 Traceback (most recent call last):
+ConnectTimeout: HTTPSConnectionPool(host='www.nzbclub.com', port=443): Max retries exceeded with url: /nzbrss.aspx?q=Ad+Astra+2019&rpp=200&sp=1&ns=1&ig=1&st=5 (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0xb45d9870>, 'Connection to www.nzbclub.com timed out. (connect timeout=30)'))
+[0m
+04-16 04:23:09 INFO [0m[hpotato.core.plugins.base] Opening url: post https://www.sceneaccess.eu/login, data: ['username', 'password', 'submit'][0m
+04-16 04:23:09 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/1337x/results/potato/?imdbid=tt2935510&search=Ad+Astra+2019&user=&passkey=xxx[0m
+04-16 04:23:09 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.0.12:9117/api/v2.0/indexers/1337x/results/potato/?imdbid=tt2935510&search=Ad+Astra+2019&user=&passkey=xxx&search=Ad+Astra+2019&user=&passkey=xxx[0m
+04-16 04:23:09 ERROR [31m[edia._base.providers.base] Failed to parsing HD4Free: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-16 04:23:10 ERROR [31m[edia._base.providers.base] Failed to login SceneAccess: unknown[0m
+04-16 04:23:10 ERROR [31m[edia._base.providers.base] Failed to login to: SceneAccess[0m
+04-16 04:23:10 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/btbit/results/potato/?imdbid=tt2935510&search=Ad+Astra+2019&user=&passkey=xxx[0m
+04-16 04:23:10 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.0.12:9117/api/v2.0/indexers/btbit/results/potato/?imdbid=tt2935510&search=Ad+Astra+2019&user=&passkey=xxx&search=Ad+Astra+2019&user=&passkey=xxx[0m
+04-16 04:23:11 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/extratorrent-ag/results/potato/?imdbid=tt2935510&search=Ad+Astra+2019&user=&passkey=xxx[0m
+04-16 04:23:11 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.0.12:9117/api/v2.0/indexers/extratorrent-ag/results/potato/?imdbid=tt2935510&search=Ad+Astra+2019&user=&passkey=xxx&search=Ad+Astra+2019&user=&passkey=xxx[0m
+04-16 04:23:12 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/gimmepeers/results/potato/?imdbid=tt2935510&search=Ad+Astra+2019&user=&passkey=xxx[0m
+04-16 04:23:12 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.0.12:9117/api/v2.0/indexers/gimmepeers/results/potato/?imdbid=tt2935510&search=Ad+Astra+2019&user=&passkey=xxx&search=Ad+Astra+2019&user=&passkey=xxx[0m
+04-16 04:23:12 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/a/ad-astra-2019/se/desc/1/, data: [][0m
+04-16 04:23:12 ERROR [31mFailed encoding stuff to log "Cant find imdb in database. Are you sure this imdb exists?": not all arguments converted during string formatting[0m
+04-16 04:23:12 ERROR [31m[e.providers.torrent.rarbg] Cant find imdb in database. Are you sure this imdb exists?[0m
+04-16 04:23:14 INFO [0m[core.media.movie.searcher] Search for Midsommar in Screener[0m
+04-16 04:23:14 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.nzbclub.com/nzbrss.aspx?q=Midsommar+2019&rpp=200&sp=1&ns=1&ig=1&st=5, data: [][0m
+04-16 04:23:44 ERROR [31m[hpotato.core.plugins.base] Failed opening url in NZBClub: https://www.nzbclub.com/nzbrss.aspx?q=Midsommar+2019&rpp=200&sp=1&ns=1&ig=1&st=5 Traceback (most recent call last):
+ConnectTimeout: HTTPSConnectionPool(host='www.nzbclub.com', port=443): Max retries exceeded with url: /nzbrss.aspx?q=Midsommar+2019&rpp=200&sp=1&ns=1&ig=1&st=5 (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0xb45c9cf0>, 'Connection to www.nzbclub.com timed out. (connect timeout=30)'))
+[0m
+04-16 04:23:44 INFO [0m[hpotato.core.plugins.base] Opening url: post https://www.sceneaccess.eu/login, data: ['username', 'password', 'submit'][0m
+04-16 04:23:44 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/1337x/results/potato/?imdbid=tt8772262&search=Midsommar+2019&user=&passkey=xxx[0m
+04-16 04:23:44 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.0.12:9117/api/v2.0/indexers/1337x/results/potato/?imdbid=tt8772262&search=Midsommar+2019&user=&passkey=xxx&search=Midsommar+2019&user=&passkey=xxx[0m
+04-16 04:23:44 ERROR [31m[edia._base.providers.base] Failed to parsing HD4Free: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-16 04:23:44 ERROR [31m[edia._base.providers.base] Failed to login SceneAccess: unknown[0m
+04-16 04:23:44 ERROR [31m[edia._base.providers.base] Failed to login to: SceneAccess[0m
+04-16 04:23:45 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/btbit/results/potato/?imdbid=tt8772262&search=Midsommar+2019&user=&passkey=xxx[0m
+04-16 04:23:45 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.0.12:9117/api/v2.0/indexers/btbit/results/potato/?imdbid=tt8772262&search=Midsommar+2019&user=&passkey=xxx&search=Midsommar+2019&user=&passkey=xxx[0m
+04-16 04:23:46 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/extratorrent-ag/results/potato/?imdbid=tt8772262&search=Midsommar+2019&user=&passkey=xxx[0m
+04-16 04:23:46 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.0.12:9117/api/v2.0/indexers/extratorrent-ag/results/potato/?imdbid=tt8772262&search=Midsommar+2019&user=&passkey=xxx&search=Midsommar+2019&user=&passkey=xxx[0m
+04-16 04:23:47 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/gimmepeers/results/potato/?imdbid=tt8772262&search=Midsommar+2019&user=&passkey=xxx[0m
+04-16 04:23:47 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.0.12:9117/api/v2.0/indexers/gimmepeers/results/potato/?imdbid=tt8772262&search=Midsommar+2019&user=&passkey=xxx&search=Midsommar+2019&user=&passkey=xxx[0m
+04-16 04:23:47 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/m/midsommar-2019/se/desc/1/, data: [][0m
+04-16 04:23:47 INFO [0m[core.media.movie.searcher] Search for Deadpool: No Good Deed in 720p[0m
+04-16 04:23:47 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.nzbclub.com/nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5, data: [][0m
+04-16 04:24:18 ERROR [31m[hpotato.core.plugins.base] Failed opening url in NZBClub: https://www.nzbclub.com/nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5 Traceback (most recent call last):
+ConnectTimeout: HTTPSConnectionPool(host='www.nzbclub.com', port=443): Max retries exceeded with url: /nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5 (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0xb478bfb0>, 'Connection to www.nzbclub.com timed out. (connect timeout=30)'))
+[0m
+04-16 04:24:18 INFO [0m[hpotato.core.plugins.base] Opening url: post https://www.sceneaccess.eu/login, data: ['username', 'password', 'submit'][0m
+04-16 04:24:18 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/1337x/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-16 04:24:18 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.0.12:9117/api/v2.0/indexers/1337x/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-16 04:24:18 ERROR [31m[edia._base.providers.base] Failed to parsing HD4Free: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-16 04:24:18 ERROR [31m[edia._base.providers.base] Failed to login SceneAccess: unknown[0m
+04-16 04:24:18 ERROR [31m[edia._base.providers.base] Failed to login to: SceneAccess[0m
+04-16 04:24:19 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/btbit/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-16 04:24:19 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.0.12:9117/api/v2.0/indexers/btbit/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-16 04:24:20 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/extratorrent-ag/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-16 04:24:20 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.0.12:9117/api/v2.0/indexers/extratorrent-ag/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-16 04:24:21 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/gimmepeers/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-16 04:24:21 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.0.12:9117/api/v2.0/indexers/gimmepeers/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-16 04:24:21 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+04-16 04:24:21 ERROR [31mFailed encoding stuff to log "Cant find imdb in database. Are you sure this imdb exists?": not all arguments converted during string formatting[0m
+04-16 04:24:21 ERROR [31m[e.providers.torrent.rarbg] Cant find imdb in database. Are you sure this imdb exists?[0m
+04-16 04:24:22 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+04-16 04:24:23 INFO [0m[core.media.movie.searcher] Search for Deadpool: No Good Deed in 1080p[0m
+04-16 04:24:23 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.binsearch.info/index.php?q=tt6612630&adv_nfo=on&xminsize=4000&adv_age=1500&max=400&xmaxsize=20000&m=n&adv_sort=date&adv_col=on, data: [][0m
+04-16 04:24:23 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.nzbclub.com/nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5, data: [][0m
+04-16 04:24:43 INFO [0m[chpotato.core._base._core] Shutting down[0m
