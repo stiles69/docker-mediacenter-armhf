@@ -5011,3 +5011,111 @@ component is not on the system path. Please install and try again.The current en
 2019-04-16 17:24:53 :: cherrypy.error :: INFO :: [16/Apr/2019:17:24:53] ENGINE Bus EXITING
 2019-04-16 17:24:53 :: cherrypy.error :: INFO :: [16/Apr/2019:17:24:53] ENGINE Bus EXITED
 2019-04-16 17:24:53 :: cherrypy.error :: INFO :: [16/Apr/2019:17:24:53] ENGINE Waiting for child threads to terminate...
+2019-04-16 17:28:10 :: root :: INFO :: Welcome to Hellowlol's HTPC Manager fork
+2019-04-16 17:28:10 :: root :: INFO :: Loglevel set to info
+2019-04-16 17:28:10 :: htpc.updater :: INFO :: Using GitUpdater engine
+2019-04-16 17:28:10 :: apscheduler.scheduler :: INFO :: Added job "Updater.update_needed" to job store "default"
+2019-04-16 17:28:10 :: modules.kodi :: WARNING :: No configured kodi-Servers.
+2019-04-16 17:28:10 :: modules.newznab :: ERROR :: Invalid indexer. Selecting first Available.
+2019-04-16 17:28:11 :: modules.stats :: ERROR :: Required package 'smartmontools' is not installed, or 'smartctl'
+component is not on the system path. Please install and try again.The current env path is: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+2019-04-16 17:28:11 :: htpc.server :: INFO :: Starting up webserver
+2019-04-16 17:28:11 :: cherrypy.error :: INFO :: [16/Apr/2019:17:28:11] ENGINE Listening for SIGHUP.
+2019-04-16 17:28:11 :: cherrypy.error :: INFO :: [16/Apr/2019:17:28:11] ENGINE Listening for SIGTERM.
+2019-04-16 17:28:11 :: cherrypy.error :: INFO :: [16/Apr/2019:17:28:11] ENGINE Listening for SIGUSR1.
+2019-04-16 17:28:11 :: cherrypy.error :: INFO :: [16/Apr/2019:17:28:11] ENGINE Bus STARTING
+2019-04-16 17:28:11 :: cherrypy.error :: INFO :: [16/Apr/2019:17:28:11] ENGINE Serving on http://0.0.0.0:8085
+2019-04-16 17:28:11 :: cherrypy.error :: INFO :: [16/Apr/2019:17:28:11] ENGINE Bus STARTED
+2019-04-16 23:28:10 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-17 05:28:10 CDT)" (scheduled at 2019-04-16 23:28:10.422711-05:00)
+2019-04-16 23:28:10 :: htpc.updater :: INFO :: Running update_needed
+2019-04-16 23:28:10 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-16 23:28:11 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-16 23:28:11 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-17 05:28:10 CDT)" executed successfully
+2019-04-17 03:18:28 :: cherrypy.error :: INFO :: [17/Apr/2019:03:18:28] ENGINE Started monitor thread 'Session cleanup'.
+2019-04-17 03:18:44 :: authentication :: WARNING :: Failed login attempt with username: ************* password: ********** from ip: 10.0.0.100
+2019-04-17 03:19:00 :: modules.headphones :: ERROR :: Error calling api http://localhost:8181/api?apikey=********************************&cmd=getWanted: ('Connection aborted.', error(111, 'Connection refused'))
+2019-04-17 05:28:10 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-17 11:28:10 CDT)" (scheduled at 2019-04-17 05:28:10.422711-05:00)
+2019-04-17 05:28:10 :: htpc.updater :: INFO :: Running update_needed
+2019-04-17 05:28:10 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-17 05:28:11 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-17 05:28:11 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-17 11:28:10 CDT)" executed successfully
+2019-04-17 11:28:10 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-17 17:28:10 CDT)" (scheduled at 2019-04-17 11:28:10.422711-05:00)
+2019-04-17 11:28:10 :: htpc.updater :: INFO :: Running update_needed
+2019-04-17 11:28:10 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-17 11:28:12 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-17 11:28:12 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-17 17:28:10 CDT)" executed successfully
+2019-04-17 17:28:10 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-17 23:28:10 CDT)" (scheduled at 2019-04-17 17:28:10.422711-05:00)
+2019-04-17 17:28:10 :: htpc.updater :: INFO :: Running update_needed
+2019-04-17 17:28:10 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-17 17:28:11 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-17 17:28:11 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-17 23:28:10 CDT)" executed successfully
+2019-04-17 23:28:10 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-17 23:28:10 CDT)" (scheduled at 2019-04-17 23:28:10.422711-05:00)
+2019-04-17 23:28:10 :: htpc.updater :: INFO :: Running update_needed
+2019-04-17 23:28:10 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-17 23:28:10 :: htpc.updater :: ERROR :: Failed to get last commit from github HTTP Error 403: Forbidden
+2019-04-17 23:28:10 :: htpc.updater :: ERROR :: Failed to determine the latest version for HTPC Manager.
+2019-04-17 23:28:10 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-18 05:28:10 CDT)" executed successfully
+2019-04-18 05:28:10 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-18 11:28:10 CDT)" (scheduled at 2019-04-18 05:28:10.422711-05:00)
+2019-04-18 05:28:10 :: htpc.updater :: INFO :: Running update_needed
+2019-04-18 05:28:10 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-18 05:28:15 :: htpc.updater :: ERROR :: Failed to get last commit from github <urlopen error [Errno -3] Try again>
+2019-04-18 05:28:15 :: htpc.updater :: ERROR :: Failed to determine the latest version for HTPC Manager.
+2019-04-18 05:28:15 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-18 11:28:10 CDT)" executed successfully
+2019-04-18 11:28:10 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-18 17:28:10 CDT)" (scheduled at 2019-04-18 11:28:10.422711-05:00)
+2019-04-18 11:28:10 :: htpc.updater :: INFO :: Running update_needed
+2019-04-18 11:28:10 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-18 11:28:15 :: htpc.updater :: ERROR :: Failed to get last commit from github <urlopen error [Errno -3] Try again>
+2019-04-18 11:28:15 :: htpc.updater :: ERROR :: Failed to determine the latest version for HTPC Manager.
+2019-04-18 11:28:15 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-18 17:28:10 CDT)" executed successfully
+2019-04-18 17:28:10 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-18 17:28:10 CDT)" (scheduled at 2019-04-18 17:28:10.422711-05:00)
+2019-04-18 17:28:10 :: htpc.updater :: INFO :: Running update_needed
+2019-04-18 17:28:10 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-18 17:28:15 :: htpc.updater :: ERROR :: Failed to get last commit from github <urlopen error [Errno -3] Try again>
+2019-04-18 17:28:15 :: htpc.updater :: ERROR :: Failed to determine the latest version for HTPC Manager.
+2019-04-18 17:28:15 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-18 23:28:10 CDT)" executed successfully
+2019-04-18 23:28:10 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-19 05:28:10 CDT)" (scheduled at 2019-04-18 23:28:10.422711-05:00)
+2019-04-18 23:28:10 :: htpc.updater :: INFO :: Running update_needed
+2019-04-18 23:28:10 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-18 23:28:15 :: htpc.updater :: ERROR :: Failed to get last commit from github <urlopen error [Errno -3] Try again>
+2019-04-18 23:28:15 :: htpc.updater :: ERROR :: Failed to determine the latest version for HTPC Manager.
+2019-04-18 23:28:15 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-19 05:28:10 CDT)" executed successfully
+2019-04-19 05:28:10 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-19 11:28:10 CDT)" (scheduled at 2019-04-19 05:28:10.422711-05:00)
+2019-04-19 05:28:10 :: htpc.updater :: INFO :: Running update_needed
+2019-04-19 05:28:10 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-19 05:28:15 :: htpc.updater :: ERROR :: Failed to get last commit from github <urlopen error [Errno -3] Try again>
+2019-04-19 05:28:15 :: htpc.updater :: ERROR :: Failed to determine the latest version for HTPC Manager.
+2019-04-19 05:28:15 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-19 11:28:10 CDT)" executed successfully
+2019-04-19 11:28:10 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-19 11:28:10 CDT)" (scheduled at 2019-04-19 11:28:10.422711-05:00)
+2019-04-19 11:28:10 :: htpc.updater :: INFO :: Running update_needed
+2019-04-19 11:28:10 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-19 11:28:15 :: htpc.updater :: ERROR :: Failed to get last commit from github <urlopen error [Errno -3] Try again>
+2019-04-19 11:28:15 :: htpc.updater :: ERROR :: Failed to determine the latest version for HTPC Manager.
+2019-04-19 11:28:15 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-19 17:28:10 CDT)" executed successfully
+2019-04-19 16:48:03 :: root :: INFO :: Welcome to Hellowlol's HTPC Manager fork
+2019-04-19 16:48:03 :: root :: INFO :: Loglevel set to info
+2019-04-19 16:48:04 :: htpc.updater :: INFO :: Using GitUpdater engine
+2019-04-19 16:48:04 :: apscheduler.scheduler :: INFO :: Added job "Updater.update_needed" to job store "default"
+2019-04-19 16:48:04 :: modules.kodi :: WARNING :: No configured kodi-Servers.
+2019-04-19 16:48:04 :: modules.newznab :: ERROR :: Invalid indexer. Selecting first Available.
+2019-04-19 16:48:05 :: modules.stats :: ERROR :: Required package 'smartmontools' is not installed, or 'smartctl'
+component is not on the system path. Please install and try again.The current env path is: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+2019-04-19 16:48:05 :: htpc.server :: INFO :: Starting up webserver
+2019-04-19 16:48:05 :: cherrypy.error :: INFO :: [19/Apr/2019:16:48:05] ENGINE Listening for SIGHUP.
+2019-04-19 16:48:05 :: cherrypy.error :: INFO :: [19/Apr/2019:16:48:05] ENGINE Listening for SIGTERM.
+2019-04-19 16:48:05 :: cherrypy.error :: INFO :: [19/Apr/2019:16:48:05] ENGINE Listening for SIGUSR1.
+2019-04-19 16:48:05 :: cherrypy.error :: INFO :: [19/Apr/2019:16:48:05] ENGINE Bus STARTING
+2019-04-19 16:48:06 :: cherrypy.error :: INFO :: [19/Apr/2019:16:48:06] ENGINE Serving on http://0.0.0.0:8085
+2019-04-19 16:48:06 :: cherrypy.error :: INFO :: [19/Apr/2019:16:48:06] ENGINE Bus STARTED
+2019-04-19 22:48:04 :: apscheduler.executors.default :: INFO :: Running job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-20 04:48:04 CDT)" (scheduled at 2019-04-19 22:48:04.259437-05:00)
+2019-04-19 22:48:04 :: htpc.updater :: INFO :: Running update_needed
+2019-04-19 22:48:04 :: htpc.updater :: INFO :: Checking for updates from Git.
+2019-04-19 22:48:05 :: htpc.updater :: INFO :: Currently 4 commits behind.
+2019-04-19 22:48:05 :: apscheduler.executors.default :: INFO :: Job "Updater.update_needed (trigger: interval[6:00:00], next run at: 2019-04-20 04:48:04 CDT)" executed successfully
+2019-04-20 03:34:06 :: cherrypy.error :: INFO :: [20/Apr/2019:03:34:06] ENGINE Caught signal SIGTERM.
+2019-04-20 03:34:06 :: cherrypy.error :: INFO :: [20/Apr/2019:03:34:06] ENGINE Bus STOPPING
+2019-04-20 03:34:06 :: apscheduler.scheduler :: INFO :: Scheduler has been shut down
+2019-04-20 03:34:06 :: cherrypy.error :: INFO :: [20/Apr/2019:03:34:06] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8085)) shut down
+2019-04-20 03:34:06 :: cherrypy.error :: INFO :: [20/Apr/2019:03:34:06] ENGINE Bus STOPPED
+2019-04-20 03:34:06 :: cherrypy.error :: INFO :: [20/Apr/2019:03:34:06] ENGINE Bus EXITING
+2019-04-20 03:34:06 :: cherrypy.error :: INFO :: [20/Apr/2019:03:34:06] ENGINE Bus EXITED
+2019-04-20 03:34:06 :: cherrypy.error :: INFO :: [20/Apr/2019:03:34:06] ENGINE Waiting for child threads to terminate...
