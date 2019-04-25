@@ -1091,3 +1091,1018 @@
 2019-04-20 03:34:25,864::WARNING::[__init__:182] Signal 15 caught, saving and exiting...
 2019-04-20 03:34:25,866::INFO::[nzbqueue:276] Saving queue
 2019-04-20 03:34:25,880::INFO::[postproc:94] Saving postproc queue
+2019-04-20 03:38:39,056::INFO::[sabnzbdplus:1146] --------------------------------
+2019-04-20 03:38:39,352::INFO::[sabnzbdplus:1147] sabnzbdplus-2.3.5 (rev=76c7a6ce9517beb7f84917f7a5f7efeec93abb4b)
+2019-04-20 03:38:39,353::INFO::[sabnzbdplus:1148] Full executable path = /usr/bin/sabnzbdplus
+2019-04-20 03:38:39,354::INFO::[sabnzbdplus:1158] Platform = posix
+2019-04-20 03:38:39,354::INFO::[sabnzbdplus:1159] Python-version = 2.7.12 (default, Nov 12 2018, 14:36:49) 
+[GCC 5.4.0 20160609]
+2019-04-20 03:38:39,355::INFO::[sabnzbdplus:1160] Arguments = /usr/bin/sabnzbdplus --config-file /config --server 0.0.0.0:8080
+2019-04-20 03:38:39,356::INFO::[sabnzbdplus:1165] Preferred encoding = UTF-8
+2019-04-20 03:38:39,357::INFO::[sabnzbdplus:1175] SSL version = OpenSSL 1.0.2g  1 Mar 2016
+2019-04-20 03:38:39,358::INFO::[sabnzbdplus:1223] Read INI file /config/sabnzbd.ini
+2019-04-20 03:38:39,613::INFO::[postproc:100] Loading postproc queue
+2019-04-20 03:38:39,884::INFO::[scheduler:197] Setting schedule for midnight BPS reset
+2019-04-20 03:38:39,885::INFO::[__init__:349] All processes started
+2019-04-20 03:38:39,886::INFO::[sabnzbdplus:286] Web dir is /usr/share/sabnzbdplus/interfaces/Glitter
+2019-04-20 03:38:39,888::INFO::[sabnzbdplus:286] Web dir is /usr/share/sabnzbdplus/interfaces/Config
+2019-04-20 03:38:39,928::INFO::[config:853] Writing settings to INI file /config/sabnzbd.ini
+2019-04-20 03:38:40,055::INFO::[sabnzbdplus:397] SABYenc module (v3.3.5)... found!
+2019-04-20 03:38:40,056::INFO::[sabnzbdplus:414] Cryptography module (v1.2.3)... found!
+2019-04-20 03:38:40,057::INFO::[sabnzbdplus:419] par2 binary... found (/usr/bin/par2)
+2019-04-20 03:38:40,058::INFO::[sabnzbdplus:429] UNRAR binary... found (/usr/bin/unrar)
+2019-04-20 03:38:40,058::INFO::[sabnzbdplus:437] UNRAR binary version 5.30
+2019-04-20 03:38:40,060::INFO::[sabnzbdplus:442] unzip binary... found (/usr/bin/unzip)
+2019-04-20 03:38:40,061::INFO::[sabnzbdplus:447] 7za binary... found (/usr/bin/7za)
+2019-04-20 03:38:40,062::INFO::[sabnzbdplus:453] nice binary... found (/usr/bin/nice)
+2019-04-20 03:38:40,063::INFO::[sabnzbdplus:457] ionice binary... found (/usr/bin/ionice)
+2019-04-20 03:38:40,069::INFO::[sabnzbdplus:1379] Starting web-interface on 0.0.0.0:8080
+2019-04-20 03:38:40,070::INFO::[_cplogging:219] [20/Apr/2019:03:38:40] ENGINE Bus STARTING
+2019-04-20 03:38:40,377::INFO::[_cplogging:219] [20/Apr/2019:03:38:40] ENGINE Serving on http://0.0.0.0:8080
+2019-04-20 03:38:40,379::INFO::[_cplogging:219] [20/Apr/2019:03:38:40] ENGINE Bus STARTED
+2019-04-20 03:38:40,381::INFO::[sabnzbdplus:1417] Starting sabnzbdplus-2.3.5
+2019-04-20 03:38:40,397::INFO::[dirscanner:330] Dirscanner starting up
+2019-04-20 03:38:40,401::INFO::[urlgrabber:82] URLGrabber starting up
+2019-04-20 03:38:40,403::INFO::[zconfig:76] Bonjour/ZeroConfig does not support "localhost"
+2019-04-20 03:38:40,406::INFO::[postproc:187] Completed Download Folder /downloads/completed is not on FAT
+2019-04-20 03:38:40,885::INFO::[database:255] Removing completed jobs older than 20 days from history
+2019-04-20 21:03:27,448::WARNING::[__init__:182] Signal 15 caught, saving and exiting...
+2019-04-20 21:03:27,463::INFO::[nzbqueue:276] Saving queue
+2019-04-20 21:03:27,836::INFO::[postproc:94] Saving postproc queue
+2019-04-20 21:04:28,799::INFO::[sabnzbdplus:1146] --------------------------------
+2019-04-20 21:04:28,801::INFO::[sabnzbdplus:1147] sabnzbdplus-2.3.5 (rev=76c7a6ce9517beb7f84917f7a5f7efeec93abb4b)
+2019-04-20 21:04:28,802::INFO::[sabnzbdplus:1148] Full executable path = /usr/bin/sabnzbdplus
+2019-04-20 21:04:28,803::INFO::[sabnzbdplus:1158] Platform = posix
+2019-04-20 21:04:28,804::INFO::[sabnzbdplus:1159] Python-version = 2.7.12 (default, Nov 12 2018, 14:36:49) 
+[GCC 5.4.0 20160609]
+2019-04-20 21:04:28,805::INFO::[sabnzbdplus:1160] Arguments = /usr/bin/sabnzbdplus --config-file /config --server 0.0.0.0:8080
+2019-04-20 21:04:28,806::INFO::[sabnzbdplus:1165] Preferred encoding = UTF-8
+2019-04-20 21:04:28,806::INFO::[sabnzbdplus:1175] SSL version = OpenSSL 1.0.2g  1 Mar 2016
+2019-04-20 21:04:28,807::INFO::[sabnzbdplus:1223] Read INI file /config/sabnzbd.ini
+2019-04-20 21:04:28,829::INFO::[postproc:100] Loading postproc queue
+2019-04-20 21:04:28,840::INFO::[scheduler:197] Setting schedule for midnight BPS reset
+2019-04-20 21:04:28,841::INFO::[__init__:349] All processes started
+2019-04-20 21:04:28,842::INFO::[sabnzbdplus:286] Web dir is /usr/share/sabnzbdplus/interfaces/Glitter
+2019-04-20 21:04:28,846::INFO::[sabnzbdplus:286] Web dir is /usr/share/sabnzbdplus/interfaces/Config
+2019-04-20 21:04:28,871::INFO::[config:853] Writing settings to INI file /config/sabnzbd.ini
+2019-04-20 21:04:27,622::INFO::[sabnzbdplus:397] SABYenc module (v3.3.5)... found!
+2019-04-20 21:04:27,624::INFO::[sabnzbdplus:414] Cryptography module (v1.2.3)... found!
+2019-04-20 21:04:27,625::INFO::[sabnzbdplus:419] par2 binary... found (/usr/bin/par2)
+2019-04-20 21:04:27,625::INFO::[sabnzbdplus:429] UNRAR binary... found (/usr/bin/unrar)
+2019-04-20 21:04:27,626::INFO::[sabnzbdplus:437] UNRAR binary version 5.30
+2019-04-20 21:04:27,627::INFO::[sabnzbdplus:442] unzip binary... found (/usr/bin/unzip)
+2019-04-20 21:04:27,628::INFO::[sabnzbdplus:447] 7za binary... found (/usr/bin/7za)
+2019-04-20 21:04:27,628::INFO::[sabnzbdplus:453] nice binary... found (/usr/bin/nice)
+2019-04-20 21:04:27,629::INFO::[sabnzbdplus:457] ionice binary... found (/usr/bin/ionice)
+2019-04-20 21:04:27,634::INFO::[sabnzbdplus:1379] Starting web-interface on 0.0.0.0:8080
+2019-04-20 21:04:27,636::INFO::[_cplogging:219] [20/Apr/2019:21:04:27] ENGINE Bus STARTING
+2019-04-20 21:04:27,946::INFO::[_cplogging:219] [20/Apr/2019:21:04:27] ENGINE Serving on http://0.0.0.0:8080
+2019-04-20 21:04:27,949::INFO::[_cplogging:219] [20/Apr/2019:21:04:27] ENGINE Bus STARTED
+2019-04-20 21:04:27,950::INFO::[sabnzbdplus:1417] Starting sabnzbdplus-2.3.5
+2019-04-20 21:04:27,966::INFO::[dirscanner:330] Dirscanner starting up
+2019-04-20 21:04:27,971::INFO::[urlgrabber:82] URLGrabber starting up
+2019-04-20 21:04:28,011::INFO::[postproc:187] Completed Download Folder /downloads/completed is not on FAT
+2019-04-20 21:04:28,014::INFO::[zconfig:76] Bonjour/ZeroConfig does not support "localhost"
+2019-04-20 21:04:28,064::INFO::[database:255] Removing completed jobs older than 20 days from history
+2019-04-21 13:46:05,336::INFO::[interface:724] Successful login from 10.0.0.11
+2019-04-21 20:10:19,753::INFO::[__init__:681] Adding Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated.nzb
+2019-04-21 20:10:20,084::INFO::[misc:995] Creating directories: /downloads/incomplete/Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated
+2019-04-21 20:10:20,098::INFO::[nzbstuff:530] File d662f48317bc46d98ee6c8a4459739cc.par2 - SABnzbd_nzf_yKipcC added to queue
+2019-04-21 20:10:20,107::INFO::[nzbstuff:530] File d662f48317bc46d98ee6c8a4459739cc.part01.rar - SABnzbd_nzf_eNLC1w added to queue
+2019-04-21 20:10:20,117::INFO::[nzbstuff:530] File d662f48317bc46d98ee6c8a4459739cc.part02.rar - SABnzbd_nzf_egw_NC added to queue
+2019-04-21 20:10:20,126::INFO::[nzbstuff:530] File d662f48317bc46d98ee6c8a4459739cc.part03.rar - SABnzbd_nzf_wlfZIf added to queue
+2019-04-21 20:10:20,136::INFO::[nzbstuff:530] File d662f48317bc46d98ee6c8a4459739cc.part04.rar - SABnzbd_nzf_Rl6G4y added to queue
+2019-04-21 20:10:20,145::INFO::[nzbstuff:530] File d662f48317bc46d98ee6c8a4459739cc.part05.rar - SABnzbd_nzf_5kdFLs added to queue
+2019-04-21 20:10:20,154::INFO::[nzbstuff:530] File d662f48317bc46d98ee6c8a4459739cc.part06.rar - SABnzbd_nzf_4XeQPZ added to queue
+2019-04-21 20:10:20,164::INFO::[nzbstuff:530] File d662f48317bc46d98ee6c8a4459739cc.part07.rar - SABnzbd_nzf_C0zWrp added to queue
+2019-04-21 20:10:20,175::INFO::[nzbstuff:530] File d662f48317bc46d98ee6c8a4459739cc.part08.rar - SABnzbd_nzf_gG6vrJ added to queue
+2019-04-21 20:10:20,184::INFO::[nzbstuff:530] File d662f48317bc46d98ee6c8a4459739cc.part09.rar - SABnzbd_nzf_A3KaZt added to queue
+2019-04-21 20:10:20,193::INFO::[nzbstuff:530] File d662f48317bc46d98ee6c8a4459739cc.part10.rar - SABnzbd_nzf_oAukaI added to queue
+2019-04-21 20:10:20,204::INFO::[nzbstuff:530] File d662f48317bc46d98ee6c8a4459739cc.part11.rar - SABnzbd_nzf_jX4m0p added to queue
+2019-04-21 20:10:20,213::INFO::[nzbstuff:530] File d662f48317bc46d98ee6c8a4459739cc.part12.rar - SABnzbd_nzf_48FBPf added to queue
+2019-04-21 20:10:20,222::INFO::[nzbstuff:530] File d662f48317bc46d98ee6c8a4459739cc.part13.rar - SABnzbd_nzf_6tllM9 added to queue
+2019-04-21 20:10:20,232::INFO::[nzbstuff:530] File d662f48317bc46d98ee6c8a4459739cc.part14.rar - SABnzbd_nzf_yQPR5k added to queue
+2019-04-21 20:10:20,241::INFO::[nzbstuff:530] File d662f48317bc46d98ee6c8a4459739cc.part15.rar - SABnzbd_nzf_X8Fh81 added to queue
+2019-04-21 20:10:20,250::INFO::[nzbstuff:530] File d662f48317bc46d98ee6c8a4459739cc.part16.rar - SABnzbd_nzf_BS6hK0 added to queue
+2019-04-21 20:10:20,272::INFO::[nzbstuff:530] File d662f48317bc46d98ee6c8a4459739cc.part17.rar - SABnzbd_nzf_cMsCBr added to queue
+2019-04-21 20:10:20,282::INFO::[nzbstuff:530] File d662f48317bc46d98ee6c8a4459739cc.part18.rar - SABnzbd_nzf_8VXCYw added to queue
+2019-04-21 20:10:20,292::INFO::[nzbstuff:530] File d662f48317bc46d98ee6c8a4459739cc.part19.rar - SABnzbd_nzf_HLvCBo added to queue
+2019-04-21 20:10:20,301::INFO::[nzbstuff:530] File d662f48317bc46d98ee6c8a4459739cc.part20.rar - SABnzbd_nzf_Mb1WPV added to queue
+2019-04-21 20:10:20,312::INFO::[nzbstuff:530] File d662f48317bc46d98ee6c8a4459739cc.part21.rar - SABnzbd_nzf_Qb8Mnm added to queue
+2019-04-21 20:10:20,321::INFO::[nzbstuff:530] File d662f48317bc46d98ee6c8a4459739cc.part22.rar - SABnzbd_nzf_yOfvA7 added to queue
+2019-04-21 20:10:20,330::INFO::[nzbstuff:530] File d662f48317bc46d98ee6c8a4459739cc.part23.rar - SABnzbd_nzf_hL0Kl8 added to queue
+2019-04-21 20:10:20,340::INFO::[nzbstuff:530] File d662f48317bc46d98ee6c8a4459739cc.part24.rar - SABnzbd_nzf_u8vyeK added to queue
+2019-04-21 20:10:20,349::INFO::[nzbstuff:530] File d662f48317bc46d98ee6c8a4459739cc.part25.rar - SABnzbd_nzf_zAMlSd added to queue
+2019-04-21 20:10:20,359::INFO::[nzbstuff:530] File d662f48317bc46d98ee6c8a4459739cc.part26.rar - SABnzbd_nzf_Df5lu1 added to queue
+2019-04-21 20:10:20,368::INFO::[nzbstuff:530] File d662f48317bc46d98ee6c8a4459739cc.part27.rar - SABnzbd_nzf_Xijc60 added to queue
+2019-04-21 20:10:20,372::INFO::[nzbstuff:530] File d662f48317bc46d98ee6c8a4459739cc.vol000+01.par2 - SABnzbd_nzf_guMjeC added to queue
+2019-04-21 20:10:20,376::INFO::[nzbstuff:530] File d662f48317bc46d98ee6c8a4459739cc.vol001+02.par2 - SABnzbd_nzf_4baXgh added to queue
+2019-04-21 20:10:20,379::INFO::[nzbstuff:530] File d662f48317bc46d98ee6c8a4459739cc.vol003+04.par2 - SABnzbd_nzf_mTwCwY added to queue
+2019-04-21 20:10:20,384::INFO::[nzbstuff:530] File d662f48317bc46d98ee6c8a4459739cc.vol007+08.par2 - SABnzbd_nzf_WGw_7C added to queue
+2019-04-21 20:10:20,388::INFO::[nzbstuff:530] File d662f48317bc46d98ee6c8a4459739cc.vol015+16.par2 - SABnzbd_nzf_ndGXT5 added to queue
+2019-04-21 20:10:20,395::INFO::[nzbstuff:530] File d662f48317bc46d98ee6c8a4459739cc.vol031+32.par2 - SABnzbd_nzf_b0dHMu added to queue
+2019-04-21 20:10:20,403::INFO::[nzbstuff:530] File d662f48317bc46d98ee6c8a4459739cc.vol063+64.par2 - SABnzbd_nzf_69zI_b added to queue
+2019-04-21 20:10:20,412::INFO::[nzbstuff:530] File d662f48317bc46d98ee6c8a4459739cc.vol127+57.par2 - SABnzbd_nzf_VKDVXv added to queue
+2019-04-21 20:10:20,414::INFO::[__init__:624] Backing up /downloads/backup/Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated.nzb.gz
+2019-04-21 20:10:20,468::INFO::[__init__:624] Backing up /downloads/incomplete/Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated/__ADMIN__/Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated.nzb.gz
+2019-04-21 20:10:20,527::INFO::[nzbqueue:276] Saving queue
+2019-04-21 20:10:21,562::INFO::[downloader:490] 1@news-us.usenetserver.com: Initiating connection
+2019-04-21 20:10:21,971::INFO::[happyeyeballs:138] Quickest IP address for news-us.usenetserver.com (port 563, ssl 1, preferipv6 True) is 69.16.179.27
+2019-04-21 20:10:21,980::INFO::[downloader:490] 2@news-us.usenetserver.com: Initiating connection
+2019-04-21 20:10:21,984::INFO::[downloader:490] 3@news-us.usenetserver.com: Initiating connection
+2019-04-21 20:10:21,987::INFO::[downloader:490] 4@news-us.usenetserver.com: Initiating connection
+2019-04-21 20:10:21,991::INFO::[downloader:490] 5@news-us.usenetserver.com: Initiating connection
+2019-04-21 20:10:21,995::INFO::[downloader:490] 6@news-us.usenetserver.com: Initiating connection
+2019-04-21 20:10:21,999::INFO::[downloader:490] 7@news-us.usenetserver.com: Initiating connection
+2019-04-21 20:10:22,002::INFO::[downloader:490] 8@news-us.usenetserver.com: Initiating connection
+2019-04-21 20:10:22,006::INFO::[downloader:490] 9@news-us.usenetserver.com: Initiating connection
+2019-04-21 20:10:22,009::INFO::[downloader:490] 10@news-us.usenetserver.com: Initiating connection
+2019-04-21 20:10:22,013::INFO::[downloader:490] 11@news-us.usenetserver.com: Initiating connection
+2019-04-21 20:10:22,017::INFO::[downloader:490] 12@news-us.usenetserver.com: Initiating connection
+2019-04-21 20:10:22,021::INFO::[downloader:490] 13@news-us.usenetserver.com: Initiating connection
+2019-04-21 20:10:22,024::INFO::[downloader:490] 14@news-us.usenetserver.com: Initiating connection
+2019-04-21 20:10:22,028::INFO::[downloader:490] 15@news-us.usenetserver.com: Initiating connection
+2019-04-21 20:10:22,032::INFO::[downloader:490] 16@news-us.usenetserver.com: Initiating connection
+2019-04-21 20:10:22,036::INFO::[downloader:490] 17@news-us.usenetserver.com: Initiating connection
+2019-04-21 20:10:22,041::INFO::[downloader:490] 18@news-us.usenetserver.com: Initiating connection
+2019-04-21 20:10:22,045::INFO::[downloader:490] 19@news-us.usenetserver.com: Initiating connection
+2019-04-21 20:10:22,049::INFO::[downloader:490] 20@news-us.usenetserver.com: Initiating connection
+2019-04-21 20:10:22,174::INFO::[newswrapper:121] 7@news-us.usenetserver.com: Connected using TLSv1.2 (AES128-SHA)
+2019-04-21 20:10:22,179::INFO::[newswrapper:121] 5@news-us.usenetserver.com: Connected using TLSv1.2 (AES128-SHA)
+2019-04-21 20:10:22,180::INFO::[newswrapper:121] 3@news-us.usenetserver.com: Connected using TLSv1.2 (AES128-SHA)
+2019-04-21 20:10:22,181::INFO::[newswrapper:121] 8@news-us.usenetserver.com: Connected using TLSv1.2 (AES128-SHA)
+2019-04-21 20:10:22,183::INFO::[newswrapper:121] 2@news-us.usenetserver.com: Connected using TLSv1.2 (AES128-SHA)
+2019-04-21 20:10:22,183::INFO::[newswrapper:121] 4@news-us.usenetserver.com: Connected using TLSv1.2 (AES128-SHA)
+2019-04-21 20:10:22,186::INFO::[newswrapper:121] 9@news-us.usenetserver.com: Connected using TLSv1.2 (AES128-SHA)
+2019-04-21 20:10:22,188::INFO::[newswrapper:121] 1@news-us.usenetserver.com: Connected using TLSv1.2 (AES128-SHA)
+2019-04-21 20:10:22,190::INFO::[newswrapper:121] 10@news-us.usenetserver.com: Connected using TLSv1.2 (AES128-SHA)
+2019-04-21 20:10:22,191::INFO::[newswrapper:121] 6@news-us.usenetserver.com: Connected using TLSv1.2 (AES128-SHA)
+2019-04-21 20:10:22,193::INFO::[newswrapper:121] 11@news-us.usenetserver.com: Connected using TLSv1.2 (AES128-SHA)
+2019-04-21 20:10:22,194::INFO::[newswrapper:121] 13@news-us.usenetserver.com: Connected using TLSv1.2 (AES128-SHA)
+2019-04-21 20:10:22,199::INFO::[newswrapper:121] 12@news-us.usenetserver.com: Connected using TLSv1.2 (AES128-SHA)
+2019-04-21 20:10:22,202::INFO::[newswrapper:121] 14@news-us.usenetserver.com: Connected using TLSv1.2 (AES128-SHA)
+2019-04-21 20:10:22,205::INFO::[newswrapper:121] 15@news-us.usenetserver.com: Connected using TLSv1.2 (AES128-SHA)
+2019-04-21 20:10:22,209::INFO::[newswrapper:121] 16@news-us.usenetserver.com: Connected using TLSv1.2 (AES128-SHA)
+2019-04-21 20:10:22,214::INFO::[newswrapper:121] 18@news-us.usenetserver.com: Connected using TLSv1.2 (AES128-SHA)
+2019-04-21 20:10:22,214::INFO::[newswrapper:121] 17@news-us.usenetserver.com: Connected using TLSv1.2 (AES128-SHA)
+2019-04-21 20:10:22,219::INFO::[newswrapper:121] 19@news-us.usenetserver.com: Connected using TLSv1.2 (AES128-SHA)
+2019-04-21 20:10:22,224::INFO::[newswrapper:121] 20@news-us.usenetserver.com: Connected using TLSv1.2 (AES128-SHA)
+2019-04-21 20:10:23,171::INFO::[downloader:704] Connecting 17@news-us.usenetserver.com finished
+2019-04-21 20:10:23,174::INFO::[downloader:704] Connecting 18@news-us.usenetserver.com finished
+2019-04-21 20:10:23,176::INFO::[downloader:704] Connecting 4@news-us.usenetserver.com finished
+2019-04-21 20:10:23,179::INFO::[downloader:704] Connecting 20@news-us.usenetserver.com finished
+2019-04-21 20:10:23,181::INFO::[downloader:704] Connecting 2@news-us.usenetserver.com finished
+2019-04-21 20:10:23,183::INFO::[downloader:704] Connecting 5@news-us.usenetserver.com finished
+2019-04-21 20:10:23,185::INFO::[downloader:704] Connecting 7@news-us.usenetserver.com finished
+2019-04-21 20:10:23,187::INFO::[downloader:704] Connecting 19@news-us.usenetserver.com finished
+2019-04-21 20:10:23,189::INFO::[downloader:704] Connecting 1@news-us.usenetserver.com finished
+2019-04-21 20:10:23,191::INFO::[downloader:704] Connecting 3@news-us.usenetserver.com finished
+2019-04-21 20:10:23,192::INFO::[downloader:704] Connecting 6@news-us.usenetserver.com finished
+2019-04-21 20:10:23,194::INFO::[downloader:704] Connecting 8@news-us.usenetserver.com finished
+2019-04-21 20:10:23,196::INFO::[downloader:704] Connecting 9@news-us.usenetserver.com finished
+2019-04-21 20:10:23,198::INFO::[downloader:704] Connecting 10@news-us.usenetserver.com finished
+2019-04-21 20:10:23,199::INFO::[downloader:704] Connecting 11@news-us.usenetserver.com finished
+2019-04-21 20:10:23,201::INFO::[downloader:704] Connecting 12@news-us.usenetserver.com finished
+2019-04-21 20:10:23,203::INFO::[downloader:704] Connecting 13@news-us.usenetserver.com finished
+2019-04-21 20:10:23,204::INFO::[downloader:704] Connecting 14@news-us.usenetserver.com finished
+2019-04-21 20:10:23,206::INFO::[downloader:704] Connecting 15@news-us.usenetserver.com finished
+2019-04-21 20:10:23,208::INFO::[downloader:704] Connecting 16@news-us.usenetserver.com finished
+2019-04-21 20:10:23,429::INFO::[assembler:96] Decoding /downloads/incomplete/Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated/d662f48317bc46d98ee6c8a4459739cc.par2 yenc
+2019-04-21 20:10:23,452::INFO::[nzbstuff:1659] Checking all filenames for Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated
+2019-04-21 20:10:23,454::INFO::[nzbstuff:1662] Re-sorting Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated after getting filename information
+2019-04-21 20:10:44,794::INFO::[nzbstuff:1659] Checking all filenames for Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated
+2019-04-21 20:10:44,796::INFO::[nzbstuff:1662] Re-sorting Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated after getting filename information
+2019-04-21 20:10:53,140::INFO::[assembler:96] Decoding /downloads/incomplete/Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated/d662f48317bc46d98ee6c8a4459739cc.part01.rar yenc
+2019-04-21 20:10:54,378::INFO::[misc:995] Creating directories: /media/samba_share/Video/TV-Shows/Game of Thrones/Season 8/Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated
+2019-04-21 20:10:54,910::INFO::[directunpacker:374] DirectUnpacked volume 1 for d662f48317bc46d98ee6c8a4459739cc
+2019-04-21 20:11:09,101::INFO::[assembler:96] Decoding /downloads/incomplete/Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated/d662f48317bc46d98ee6c8a4459739cc.part27.rar yenc
+2019-04-21 20:11:30,483::INFO::[assembler:96] Decoding /downloads/incomplete/Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated/d662f48317bc46d98ee6c8a4459739cc.part02.rar yenc
+2019-04-21 20:11:31,340::INFO::[directunpacker:271] DirectUnpacked volume 2 for d662f48317bc46d98ee6c8a4459739cc
+2019-04-21 20:11:44,749::INFO::[assembler:96] Decoding /downloads/incomplete/Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated/d662f48317bc46d98ee6c8a4459739cc.part03.rar yenc
+2019-04-21 20:11:47,214::INFO::[directunpacker:271] DirectUnpacked volume 3 for d662f48317bc46d98ee6c8a4459739cc
+2019-04-21 20:12:05,288::INFO::[assembler:96] Decoding /downloads/incomplete/Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated/d662f48317bc46d98ee6c8a4459739cc.part04.rar yenc
+2019-04-21 20:12:08,929::INFO::[directunpacker:271] DirectUnpacked volume 4 for d662f48317bc46d98ee6c8a4459739cc
+2019-04-21 20:12:19,647::INFO::[assembler:96] Decoding /downloads/incomplete/Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated/d662f48317bc46d98ee6c8a4459739cc.part05.rar yenc
+2019-04-21 20:12:20,692::INFO::[directunpacker:271] DirectUnpacked volume 5 for d662f48317bc46d98ee6c8a4459739cc
+2019-04-21 20:12:37,787::INFO::[assembler:96] Decoding /downloads/incomplete/Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated/d662f48317bc46d98ee6c8a4459739cc.part06.rar yenc
+2019-04-21 20:12:46,163::INFO::[directunpacker:271] DirectUnpacked volume 6 for d662f48317bc46d98ee6c8a4459739cc
+2019-04-21 20:12:52,253::INFO::[assembler:96] Decoding /downloads/incomplete/Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated/d662f48317bc46d98ee6c8a4459739cc.part07.rar yenc
+2019-04-21 20:13:10,012::INFO::[directunpacker:271] DirectUnpacked volume 7 for d662f48317bc46d98ee6c8a4459739cc
+2019-04-21 20:13:11,623::INFO::[assembler:96] Decoding /downloads/incomplete/Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated/d662f48317bc46d98ee6c8a4459739cc.part08.rar yenc
+2019-04-21 20:13:27,079::INFO::[directunpacker:271] DirectUnpacked volume 8 for d662f48317bc46d98ee6c8a4459739cc
+2019-04-21 20:13:34,141::INFO::[assembler:96] Decoding /downloads/incomplete/Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated/d662f48317bc46d98ee6c8a4459739cc.part09.rar yenc
+2019-04-21 20:13:49,073::INFO::[assembler:96] Decoding /downloads/incomplete/Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated/d662f48317bc46d98ee6c8a4459739cc.part10.rar yenc
+2019-04-21 20:13:54,327::INFO::[directunpacker:271] DirectUnpacked volume 9 for d662f48317bc46d98ee6c8a4459739cc
+2019-04-21 20:14:06,361::INFO::[directunpacker:271] DirectUnpacked volume 10 for d662f48317bc46d98ee6c8a4459739cc
+2019-04-21 20:14:09,520::INFO::[assembler:96] Decoding /downloads/incomplete/Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated/d662f48317bc46d98ee6c8a4459739cc.part11.rar yenc
+2019-04-21 20:14:21,899::INFO::[directunpacker:271] DirectUnpacked volume 11 for d662f48317bc46d98ee6c8a4459739cc
+2019-04-21 20:14:24,751::INFO::[assembler:96] Decoding /downloads/incomplete/Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated/d662f48317bc46d98ee6c8a4459739cc.part12.rar yenc
+2019-04-21 20:14:38,937::INFO::[directunpacker:271] DirectUnpacked volume 12 for d662f48317bc46d98ee6c8a4459739cc
+2019-04-21 20:14:40,930::INFO::[assembler:96] Decoding /downloads/incomplete/Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated/d662f48317bc46d98ee6c8a4459739cc.part13.rar yenc
+2019-04-21 20:14:57,082::INFO::[directunpacker:271] DirectUnpacked volume 13 for d662f48317bc46d98ee6c8a4459739cc
+2019-04-21 20:14:58,780::INFO::[assembler:96] Decoding /downloads/incomplete/Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated/d662f48317bc46d98ee6c8a4459739cc.part14.rar yenc
+2019-04-21 20:15:11,598::INFO::[directunpacker:271] DirectUnpacked volume 14 for d662f48317bc46d98ee6c8a4459739cc
+2019-04-21 20:15:17,465::INFO::[assembler:96] Decoding /downloads/incomplete/Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated/d662f48317bc46d98ee6c8a4459739cc.part15.rar yenc
+2019-04-21 20:15:30,908::INFO::[directunpacker:271] DirectUnpacked volume 15 for d662f48317bc46d98ee6c8a4459739cc
+2019-04-21 20:15:32,861::INFO::[downloader:783] Thread 4@news-us.usenetserver.com: server closed connection
+2019-04-21 20:15:37,150::INFO::[downloader:783] Thread 12@news-us.usenetserver.com: server closed connection
+2019-04-21 20:15:37,878::INFO::[downloader:490] 4@news-us.usenetserver.com: Initiating connection
+2019-04-21 20:15:38,082::INFO::[newswrapper:121] 4@news-us.usenetserver.com: Connected using TLSv1.2 (AES128-SHA)
+2019-04-21 20:15:38,728::WARNING::[downloader:639] Too many connections to server news-us.usenetserver.com
+2019-04-21 20:15:42,160::INFO::[downloader:490] 12@news-us.usenetserver.com: Initiating connection
+2019-04-21 20:15:43,397::INFO::[newswrapper:121] 12@news-us.usenetserver.com: Connected using TLSv1.2 (AES128-SHA)
+2019-04-21 20:15:45,108::WARNING::[downloader:639] Too many connections to server news-us.usenetserver.com
+2019-04-21 20:15:47,358::INFO::[assembler:96] Decoding /downloads/incomplete/Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated/d662f48317bc46d98ee6c8a4459739cc.part16.rar yenc
+2019-04-21 20:15:51,138::INFO::[assembler:96] Decoding /downloads/incomplete/Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated/d662f48317bc46d98ee6c8a4459739cc.part17.rar yenc
+2019-04-21 20:15:51,232::INFO::[directunpacker:271] DirectUnpacked volume 16 for d662f48317bc46d98ee6c8a4459739cc
+2019-04-21 20:16:08,325::INFO::[directunpacker:271] DirectUnpacked volume 17 for d662f48317bc46d98ee6c8a4459739cc
+2019-04-21 20:16:11,454::INFO::[assembler:96] Decoding /downloads/incomplete/Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated/d662f48317bc46d98ee6c8a4459739cc.part18.rar yenc
+2019-04-21 20:16:26,939::INFO::[directunpacker:271] DirectUnpacked volume 18 for d662f48317bc46d98ee6c8a4459739cc
+2019-04-21 20:16:28,301::INFO::[assembler:96] Decoding /downloads/incomplete/Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated/d662f48317bc46d98ee6c8a4459739cc.part19.rar yenc
+2019-04-21 20:16:45,738::INFO::[directunpacker:271] DirectUnpacked volume 19 for d662f48317bc46d98ee6c8a4459739cc
+2019-04-21 20:16:47,311::INFO::[assembler:96] Decoding /downloads/incomplete/Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated/d662f48317bc46d98ee6c8a4459739cc.part20.rar yenc
+2019-04-21 20:16:57,587::INFO::[directunpacker:271] DirectUnpacked volume 20 for d662f48317bc46d98ee6c8a4459739cc
+2019-04-21 20:17:05,700::INFO::[assembler:96] Decoding /downloads/incomplete/Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated/d662f48317bc46d98ee6c8a4459739cc.part21.rar yenc
+2019-04-21 20:17:09,274::INFO::[directunpacker:271] DirectUnpacked volume 21 for d662f48317bc46d98ee6c8a4459739cc
+2019-04-21 20:17:20,343::INFO::[assembler:96] Decoding /downloads/incomplete/Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated/d662f48317bc46d98ee6c8a4459739cc.part22.rar yenc
+2019-04-21 20:17:23,689::INFO::[directunpacker:271] DirectUnpacked volume 22 for d662f48317bc46d98ee6c8a4459739cc
+2019-04-21 20:17:42,149::INFO::[assembler:96] Decoding /downloads/incomplete/Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated/d662f48317bc46d98ee6c8a4459739cc.part23.rar yenc
+2019-04-21 20:17:45,011::INFO::[directunpacker:271] DirectUnpacked volume 23 for d662f48317bc46d98ee6c8a4459739cc
+2019-04-21 20:17:58,654::INFO::[assembler:96] Decoding /downloads/incomplete/Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated/d662f48317bc46d98ee6c8a4459739cc.part24.rar yenc
+2019-04-21 20:18:00,017::INFO::[directunpacker:271] DirectUnpacked volume 24 for d662f48317bc46d98ee6c8a4459739cc
+2019-04-21 20:18:19,423::INFO::[assembler:96] Decoding /downloads/incomplete/Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated/d662f48317bc46d98ee6c8a4459739cc.part25.rar yenc
+2019-04-21 20:18:28,115::INFO::[nzbqueue:902] Resetting bad trylist for file d662f48317bc46d98ee6c8a4459739cc.part26.rar in job Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated
+2019-04-21 20:18:29,494::INFO::[directunpacker:271] DirectUnpacked volume 25 for d662f48317bc46d98ee6c8a4459739cc
+2019-04-21 20:18:33,752::INFO::[nzbqueue:798] [N/A] Ending job Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated
+2019-04-21 20:18:33,753::INFO::[assembler:96] Decoding /downloads/incomplete/Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated/d662f48317bc46d98ee6c8a4459739cc.part26.rar yenc
+2019-04-21 20:18:36,362::INFO::[nzbqueue:906] Resetting bad trylist for job Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated
+2019-04-21 20:18:40,119::INFO::[directunpacker:271] DirectUnpacked volume 26 for d662f48317bc46d98ee6c8a4459739cc
+2019-04-21 20:18:40,123::INFO::[directunpacker:183] Error in DirectUnpack of d662f48317bc46d98ee6c8a4459739cc
+2019-04-21 20:18:40,124::INFO::[directunpacker:380] Aborting DirectUnpack for d662f48317bc46d98ee6c8a4459739cc
+2019-04-21 20:18:51,427::INFO::[nzbqueue:434] [N/A] Removed job Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated
+2019-04-21 20:18:51,428::INFO::[nzbqueue:276] Saving queue
+2019-04-21 20:18:51,431::INFO::[postproc:94] Saving postproc queue
+2019-04-21 20:18:51,456::INFO::[downloader:296] Waiting for post-processing to finish
+2019-04-21 20:18:51,463::INFO::[postproc:340] Starting Post-Processing on Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated => Repair:True, Unpack:True, Delete:True, Script:None, Cat:tv
+2019-04-21 20:18:51,465::INFO::[postproc:664] Starting verification and repair of Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated
+2019-04-21 20:18:51,467::INFO::[__init__:920] [N/A] /downloads/incomplete/Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated/__ADMIN__/__verified__ missing
+2019-04-21 20:18:51,469::INFO::[postproc:679] Running verification and repair on set d662f48317bc46d98ee6c8a4459739cc
+2019-04-21 20:18:51,475::INFO::[newsunpack:1107] Quick-check for d662f48317bc46d98ee6c8a4459739cc is OK, skipping repair
+2019-04-21 20:18:51,480::INFO::[postproc:720] Verification and repair finished for Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated
+2019-04-21 20:18:51,487::INFO::[postproc:382] Running unpack_magic on Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated
+2019-04-21 20:18:51,535::INFO::[newsunpack:256] Unrar starting on /downloads/incomplete/Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated
+2019-04-21 20:18:51,539::INFO::[newsunpack:516] Extracting rarfile /downloads/incomplete/Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated/d662f48317bc46d98ee6c8a4459739cc.part01.rar (belonging to d662f48317bc46d98ee6c8a4459739cc) to /media/samba_share/Video/TV-Shows/Game of Thrones/Season 8/_UNPACK_Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated
+2019-04-21 20:21:26,344::INFO::[downloader:783] Thread 5@news-us.usenetserver.com: server closed connection
+2019-04-21 20:21:26,979::INFO::[downloader:783] Thread 2@news-us.usenetserver.com: server closed connection
+2019-04-21 20:21:27,030::INFO::[downloader:783] Thread 11@news-us.usenetserver.com: server closed connection
+2019-04-21 20:21:27,780::INFO::[downloader:783] Thread 19@news-us.usenetserver.com: server closed connection
+2019-04-21 20:21:27,933::INFO::[downloader:783] Thread 18@news-us.usenetserver.com: server closed connection
+2019-04-21 20:21:28,403::INFO::[downloader:783] Thread 14@news-us.usenetserver.com: server closed connection
+2019-04-21 20:21:28,922::INFO::[downloader:783] Thread 10@news-us.usenetserver.com: server closed connection
+2019-04-21 20:21:28,993::INFO::[downloader:783] Thread 7@news-us.usenetserver.com: server closed connection
+2019-04-21 20:21:29,102::INFO::[downloader:783] Thread 20@news-us.usenetserver.com: server closed connection
+2019-04-21 20:21:29,114::INFO::[downloader:783] Thread 8@news-us.usenetserver.com: server closed connection
+2019-04-21 20:21:29,386::INFO::[downloader:783] Thread 1@news-us.usenetserver.com: server closed connection
+2019-04-21 20:21:29,388::INFO::[downloader:783] Thread 15@news-us.usenetserver.com: server closed connection
+2019-04-21 20:21:29,450::INFO::[downloader:783] Thread 9@news-us.usenetserver.com: server closed connection
+2019-04-21 20:21:29,497::INFO::[downloader:783] Thread 17@news-us.usenetserver.com: server closed connection
+2019-04-21 20:21:29,801::INFO::[downloader:783] Thread 16@news-us.usenetserver.com: server closed connection
+2019-04-21 20:21:29,817::INFO::[downloader:783] Thread 3@news-us.usenetserver.com: server closed connection
+2019-04-21 20:21:30,110::INFO::[downloader:783] Thread 6@news-us.usenetserver.com: server closed connection
+2019-04-21 20:21:32,481::INFO::[downloader:783] Thread 13@news-us.usenetserver.com: server closed connection
+2019-04-21 20:24:49,327::INFO::[newsunpack:828] Unpacked 1 files/folders in 5 mins 57 seconds
+2019-04-21 20:24:49,622::INFO::[newsunpack:260] Unrar finished on /downloads/incomplete/Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated
+2019-04-21 20:24:50,170::INFO::[postproc:384] Unpacked files [u'/media/samba_share/Video/TV-Shows/Game of Thrones/Season 8/_UNPACK_Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated/d662f48317bc46d98ee6c8a4459739cc.mkv']
+2019-04-21 20:24:50,171::INFO::[postproc:389] Finished unpack_magic on Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated
+2019-04-21 20:24:51,650::INFO::[postproc:562] Cleaning up Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated (keep_basic=False)
+2019-04-21 20:24:51,651::INFO::[nzbstuff:1725] [N/A] Purging data for job Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated (keep_basic=False, del_files=False)
+2019-04-21 20:24:52,004::INFO::[database:272] Added job Game.of.Thrones.S08E02.1080p.WEB.x264-ADRENALiNE-Obfuscated to history
+2019-04-21 20:24:52,007::INFO::[database:255] Removing completed jobs older than 20 days from history
+2019-04-21 20:24:52,011::INFO::[postproc:94] Saving postproc queue
+2019-04-21 20:24:52,014::INFO::[downloader:301] Post-processing finished, resuming download
+2019-04-21 20:24:56,018::INFO::[nzbqueue:276] Saving queue
+2019-04-21 20:24:56,050::INFO::[postproc:94] Saving postproc queue
+2019-04-21 20:28:42,968::INFO::[database:239] [N/A] Removing job SABnzbd_nzo_3I6Mdk from history
+2019-04-21 23:29:50,305::INFO::[interface:724] Successful login from 10.0.0.100
+2019-04-25 16:04:25,144::INFO::[sabnzbdplus:1146] --------------------------------
+2019-04-25 16:04:25,148::INFO::[sabnzbdplus:1147] sabnzbdplus-2.3.5 (rev=76c7a6ce9517beb7f84917f7a5f7efeec93abb4b)
+2019-04-25 16:04:25,149::INFO::[sabnzbdplus:1148] Full executable path = /usr/bin/sabnzbdplus
+2019-04-25 16:04:25,151::INFO::[sabnzbdplus:1158] Platform = posix
+2019-04-25 16:04:25,152::INFO::[sabnzbdplus:1159] Python-version = 2.7.12 (default, Nov 12 2018, 14:36:49) 
+[GCC 5.4.0 20160609]
+2019-04-25 16:04:25,153::INFO::[sabnzbdplus:1160] Arguments = /usr/bin/sabnzbdplus --config-file /config --server 0.0.0.0:8080
+2019-04-25 16:04:25,155::INFO::[sabnzbdplus:1165] Preferred encoding = UTF-8
+2019-04-25 16:04:25,156::INFO::[sabnzbdplus:1175] SSL version = OpenSSL 1.0.2g  1 Mar 2016
+2019-04-25 16:04:25,158::INFO::[sabnzbdplus:1223] Read INI file /config/sabnzbd.ini
+2019-04-25 16:04:25,186::INFO::[postproc:100] Loading postproc queue
+2019-04-25 16:04:25,200::INFO::[scheduler:197] Setting schedule for midnight BPS reset
+2019-04-25 16:04:25,202::INFO::[__init__:349] All processes started
+2019-04-25 16:04:25,203::INFO::[sabnzbdplus:286] Web dir is /usr/share/sabnzbdplus/interfaces/Glitter
+2019-04-25 16:04:25,208::INFO::[sabnzbdplus:286] Web dir is /usr/share/sabnzbdplus/interfaces/Config
+2019-04-25 16:04:25,238::INFO::[config:853] Writing settings to INI file /config/sabnzbd.ini
+2019-04-25 16:04:25,450::INFO::[sabnzbdplus:397] SABYenc module (v3.3.5)... found!
+2019-04-25 16:04:25,452::INFO::[sabnzbdplus:414] Cryptography module (v1.2.3)... found!
+2019-04-25 16:04:25,453::INFO::[sabnzbdplus:419] par2 binary... found (/usr/bin/par2)
+2019-04-25 16:04:25,454::INFO::[sabnzbdplus:429] UNRAR binary... found (/usr/bin/unrar)
+2019-04-25 16:04:25,455::INFO::[sabnzbdplus:437] UNRAR binary version 5.30
+2019-04-25 16:04:25,456::INFO::[sabnzbdplus:442] unzip binary... found (/usr/bin/unzip)
+2019-04-25 16:04:25,458::INFO::[sabnzbdplus:447] 7za binary... found (/usr/bin/7za)
+2019-04-25 16:04:25,458::INFO::[sabnzbdplus:453] nice binary... found (/usr/bin/nice)
+2019-04-25 16:04:25,459::INFO::[sabnzbdplus:457] ionice binary... found (/usr/bin/ionice)
+2019-04-25 16:04:25,466::INFO::[sabnzbdplus:1379] Starting web-interface on 0.0.0.0:8080
+2019-04-25 16:04:25,468::INFO::[_cplogging:219] [25/Apr/2019:16:04:25] ENGINE Bus STARTING
+2019-04-25 16:04:25,916::INFO::[_cplogging:219] [25/Apr/2019:16:04:25] ENGINE Serving on http://0.0.0.0:8080
+2019-04-25 16:04:25,919::INFO::[_cplogging:219] [25/Apr/2019:16:04:25] ENGINE Bus STARTED
+2019-04-25 16:04:25,920::INFO::[sabnzbdplus:1417] Starting sabnzbdplus-2.3.5
+2019-04-25 16:04:25,940::INFO::[dirscanner:330] Dirscanner starting up
+2019-04-25 16:04:25,944::INFO::[urlgrabber:82] URLGrabber starting up
+2019-04-25 16:04:25,948::INFO::[zconfig:76] Bonjour/ZeroConfig does not support "localhost"
+2019-04-25 16:04:26,450::INFO::[postproc:187] Completed Download Folder /downloads/completed is not on FAT
+2019-04-25 16:04:28,576::INFO::[database:255] Removing completed jobs older than 20 days from history
+2019-04-25 16:07:45,666::INFO::[__init__:681] Adding The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated.nzb
+2019-04-25 16:07:46,025::INFO::[misc:995] Creating directories: /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated
+2019-04-25 16:07:46,031::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.par2 - SABnzbd_nzf_J4tfec added to queue
+2019-04-25 16:07:46,041::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part01.rar - SABnzbd_nzf_sNPGHA added to queue
+2019-04-25 16:07:46,051::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part02.rar - SABnzbd_nzf_lZHrVC added to queue
+2019-04-25 16:07:46,062::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part03.rar - SABnzbd_nzf_6x0QDi added to queue
+2019-04-25 16:07:46,072::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part04.rar - SABnzbd_nzf_fSgYQQ added to queue
+2019-04-25 16:07:46,092::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part05.rar - SABnzbd_nzf_OzcnCp added to queue
+2019-04-25 16:07:46,108::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part06.rar - SABnzbd_nzf_fnCem0 added to queue
+2019-04-25 16:07:46,122::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part07.rar - SABnzbd_nzf_5sf8YP added to queue
+2019-04-25 16:07:46,132::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part08.rar - SABnzbd_nzf_UfMxqp added to queue
+2019-04-25 16:07:46,143::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part09.rar - SABnzbd_nzf_XR9RyX added to queue
+2019-04-25 16:07:46,153::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part10.rar - SABnzbd_nzf_XLiYW5 added to queue
+2019-04-25 16:07:46,171::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part11.rar - SABnzbd_nzf_BBCKL0 added to queue
+2019-04-25 16:07:46,184::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part12.rar - SABnzbd_nzf_RzCstD added to queue
+2019-04-25 16:07:46,196::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part13.rar - SABnzbd_nzf__mHVfa added to queue
+2019-04-25 16:07:46,213::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part14.rar - SABnzbd_nzf_7thlas added to queue
+2019-04-25 16:07:46,225::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part15.rar - SABnzbd_nzf_RHo8oq added to queue
+2019-04-25 16:07:46,239::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part16.rar - SABnzbd_nzf_0rdITY added to queue
+2019-04-25 16:07:46,251::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part17.rar - SABnzbd_nzf_BM9qBa added to queue
+2019-04-25 16:07:46,266::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part18.rar - SABnzbd_nzf_4J8BLT added to queue
+2019-04-25 16:07:46,283::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part19.rar - SABnzbd_nzf_tfVudf added to queue
+2019-04-25 16:07:46,294::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part20.rar - SABnzbd_nzf_aN5ipa added to queue
+2019-04-25 16:07:46,307::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part21.rar - SABnzbd_nzf_Kwg2SN added to queue
+2019-04-25 16:07:46,318::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part22.rar - SABnzbd_nzf_XheeRG added to queue
+2019-04-25 16:07:46,330::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part23.rar - SABnzbd_nzf_wLySuX added to queue
+2019-04-25 16:07:46,342::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part24.rar - SABnzbd_nzf_lgXuyx added to queue
+2019-04-25 16:07:46,355::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part25.rar - SABnzbd_nzf_ywSsHX added to queue
+2019-04-25 16:07:46,368::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part26.rar - SABnzbd_nzf_WF98nJ added to queue
+2019-04-25 16:07:46,382::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part27.rar - SABnzbd_nzf_hfoCzW added to queue
+2019-04-25 16:07:46,395::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part28.rar - SABnzbd_nzf_grHAZI added to queue
+2019-04-25 16:07:46,406::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part29.rar - SABnzbd_nzf_dTkfLa added to queue
+2019-04-25 16:07:46,418::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part30.rar - SABnzbd_nzf_1dGDCL added to queue
+2019-04-25 16:07:46,436::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part31.rar - SABnzbd_nzf_oE0QFP added to queue
+2019-04-25 16:07:46,448::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part32.rar - SABnzbd_nzf_3YAb1b added to queue
+2019-04-25 16:07:46,463::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part33.rar - SABnzbd_nzf_h899AH added to queue
+2019-04-25 16:07:46,475::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part34.rar - SABnzbd_nzf_nISqo0 added to queue
+2019-04-25 16:07:46,490::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part35.rar - SABnzbd_nzf_sbl92B added to queue
+2019-04-25 16:07:46,502::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part36.rar - SABnzbd_nzf_zSr1Gp added to queue
+2019-04-25 16:07:46,521::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part37.rar - SABnzbd_nzf_Rj7Usi added to queue
+2019-04-25 16:07:46,532::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part38.rar - SABnzbd_nzf_dlZAIx added to queue
+2019-04-25 16:07:46,543::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part39.rar - SABnzbd_nzf_7IBzRH added to queue
+2019-04-25 16:07:46,553::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part40.rar - SABnzbd_nzf_v8IeAG added to queue
+2019-04-25 16:07:46,568::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part41.rar - SABnzbd_nzf_VDVwWF added to queue
+2019-04-25 16:07:46,581::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part42.rar - SABnzbd_nzf_8h4Adg added to queue
+2019-04-25 16:07:46,658::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part43.rar - SABnzbd_nzf_CqMM2i added to queue
+2019-04-25 16:07:46,668::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part44.rar - SABnzbd_nzf_s8VhsK added to queue
+2019-04-25 16:07:46,678::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part45.rar - SABnzbd_nzf_SLWoov added to queue
+2019-04-25 16:07:46,693::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part46.rar - SABnzbd_nzf_ZwGbs_ added to queue
+2019-04-25 16:07:46,706::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part47.rar - SABnzbd_nzf_39rmbh added to queue
+2019-04-25 16:07:46,720::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part48.rar - SABnzbd_nzf_IIIrQN added to queue
+2019-04-25 16:07:46,735::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part49.rar - SABnzbd_nzf_XO697o added to queue
+2019-04-25 16:07:46,747::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part50.rar - SABnzbd_nzf_X_GazQ added to queue
+2019-04-25 16:07:46,761::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part51.rar - SABnzbd_nzf_acz5up added to queue
+2019-04-25 16:07:46,770::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.part52.rar - SABnzbd_nzf_df2gbl added to queue
+2019-04-25 16:07:46,775::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.vol000+001.par2 - SABnzbd_nzf_n6M3KB added to queue
+2019-04-25 16:07:46,780::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.vol001+002.par2 - SABnzbd_nzf_bVPQuH added to queue
+2019-04-25 16:07:46,788::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.vol003+004.par2 - SABnzbd_nzf_gKNPah added to queue
+2019-04-25 16:07:46,793::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.vol007+008.par2 - SABnzbd_nzf_opThOy added to queue
+2019-04-25 16:07:46,801::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.vol015+016.par2 - SABnzbd_nzf_0Gx5oo added to queue
+2019-04-25 16:07:46,807::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.vol031+032.par2 - SABnzbd_nzf_GP7r1t added to queue
+2019-04-25 16:07:46,820::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.vol063+064.par2 - SABnzbd_nzf_w_wUxz added to queue
+2019-04-25 16:07:46,838::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.vol127+128.par2 - SABnzbd_nzf_GB8a1J added to queue
+2019-04-25 16:07:46,854::INFO::[nzbstuff:530] File 6be1de29482d4f11bf559a143510ddc6.vol255+094.par2 - SABnzbd_nzf_0nN0mu added to queue
+2019-04-25 16:07:46,857::INFO::[__init__:624] Backing up /downloads/backup/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated.nzb.gz
+2019-04-25 16:07:46,974::INFO::[__init__:624] Backing up /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/__ADMIN__/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated.nzb.gz
+2019-04-25 16:07:47,098::INFO::[nzbqueue:276] Saving queue
+2019-04-25 16:07:48,140::INFO::[downloader:490] 1@news-us.usenetserver.com: Initiating connection
+2019-04-25 16:07:49,852::INFO::[happyeyeballs:138] Quickest IP address for news-us.usenetserver.com (port 563, ssl 1, preferipv6 True) is 69.16.179.27
+2019-04-25 16:07:49,858::INFO::[downloader:490] 2@news-us.usenetserver.com: Initiating connection
+2019-04-25 16:07:49,863::INFO::[downloader:490] 3@news-us.usenetserver.com: Initiating connection
+2019-04-25 16:07:49,868::INFO::[downloader:490] 4@news-us.usenetserver.com: Initiating connection
+2019-04-25 16:07:49,873::INFO::[downloader:490] 5@news-us.usenetserver.com: Initiating connection
+2019-04-25 16:07:49,876::INFO::[downloader:490] 6@news-us.usenetserver.com: Initiating connection
+2019-04-25 16:07:49,880::INFO::[downloader:490] 7@news-us.usenetserver.com: Initiating connection
+2019-04-25 16:07:49,886::INFO::[downloader:490] 8@news-us.usenetserver.com: Initiating connection
+2019-04-25 16:07:49,891::INFO::[downloader:490] 9@news-us.usenetserver.com: Initiating connection
+2019-04-25 16:07:49,896::INFO::[downloader:490] 10@news-us.usenetserver.com: Initiating connection
+2019-04-25 16:07:49,902::INFO::[downloader:490] 11@news-us.usenetserver.com: Initiating connection
+2019-04-25 16:07:49,907::INFO::[downloader:490] 12@news-us.usenetserver.com: Initiating connection
+2019-04-25 16:07:49,912::INFO::[downloader:490] 13@news-us.usenetserver.com: Initiating connection
+2019-04-25 16:07:49,919::INFO::[downloader:490] 14@news-us.usenetserver.com: Initiating connection
+2019-04-25 16:07:49,924::INFO::[downloader:490] 15@news-us.usenetserver.com: Initiating connection
+2019-04-25 16:07:49,929::INFO::[downloader:490] 16@news-us.usenetserver.com: Initiating connection
+2019-04-25 16:07:49,933::INFO::[downloader:490] 17@news-us.usenetserver.com: Initiating connection
+2019-04-25 16:07:49,942::INFO::[downloader:490] 18@news-us.usenetserver.com: Initiating connection
+2019-04-25 16:07:49,949::INFO::[downloader:490] 19@news-us.usenetserver.com: Initiating connection
+2019-04-25 16:07:49,953::INFO::[downloader:490] 20@news-us.usenetserver.com: Initiating connection
+2019-04-25 16:07:50,029::INFO::[newswrapper:121] 1@news-us.usenetserver.com: Connected using TLSv1.2 (AES128-SHA)
+2019-04-25 16:07:50,030::INFO::[newswrapper:121] 4@news-us.usenetserver.com: Connected using TLSv1.2 (AES128-SHA)
+2019-04-25 16:07:50,034::INFO::[newswrapper:121] 3@news-us.usenetserver.com: Connected using TLSv1.2 (AES128-SHA)
+2019-04-25 16:07:50,035::INFO::[newswrapper:121] 6@news-us.usenetserver.com: Connected using TLSv1.2 (AES128-SHA)
+2019-04-25 16:07:50,036::INFO::[newswrapper:121] 2@news-us.usenetserver.com: Connected using TLSv1.2 (AES128-SHA)
+2019-04-25 16:07:50,051::INFO::[newswrapper:121] 7@news-us.usenetserver.com: Connected using TLSv1.2 (AES128-SHA)
+2019-04-25 16:07:50,054::INFO::[newswrapper:121] 9@news-us.usenetserver.com: Connected using TLSv1.2 (AES128-SHA)
+2019-04-25 16:07:50,059::INFO::[newswrapper:121] 8@news-us.usenetserver.com: Connected using TLSv1.2 (AES128-SHA)
+2019-04-25 16:07:50,063::INFO::[newswrapper:121] 10@news-us.usenetserver.com: Connected using TLSv1.2 (AES128-SHA)
+2019-04-25 16:07:50,064::INFO::[newswrapper:121] 5@news-us.usenetserver.com: Connected using TLSv1.2 (AES128-SHA)
+2019-04-25 16:07:50,071::INFO::[newswrapper:121] 13@news-us.usenetserver.com: Connected using TLSv1.2 (AES128-SHA)
+2019-04-25 16:07:50,074::INFO::[newswrapper:121] 14@news-us.usenetserver.com: Connected using TLSv1.2 (AES128-SHA)
+2019-04-25 16:07:50,079::INFO::[newswrapper:121] 11@news-us.usenetserver.com: Connected using TLSv1.2 (AES128-SHA)
+2019-04-25 16:07:50,081::INFO::[newswrapper:121] 12@news-us.usenetserver.com: Connected using TLSv1.2 (AES128-SHA)
+2019-04-25 16:07:50,085::INFO::[newswrapper:121] 16@news-us.usenetserver.com: Connected using TLSv1.2 (AES128-SHA)
+2019-04-25 16:07:50,089::INFO::[newswrapper:121] 15@news-us.usenetserver.com: Connected using TLSv1.2 (AES128-SHA)
+2019-04-25 16:07:50,096::INFO::[newswrapper:121] 17@news-us.usenetserver.com: Connected using TLSv1.2 (AES128-SHA)
+2019-04-25 16:07:50,110::INFO::[newswrapper:121] 18@news-us.usenetserver.com: Connected using TLSv1.2 (AES128-SHA)
+2019-04-25 16:07:50,119::INFO::[newswrapper:121] 19@news-us.usenetserver.com: Connected using TLSv1.2 (AES128-SHA)
+2019-04-25 16:07:50,122::INFO::[newswrapper:121] 20@news-us.usenetserver.com: Connected using TLSv1.2 (AES128-SHA)
+2019-04-25 16:07:51,065::INFO::[downloader:704] Connecting 18@news-us.usenetserver.com finished
+2019-04-25 16:07:51,069::INFO::[downloader:704] Connecting 5@news-us.usenetserver.com finished
+2019-04-25 16:07:51,071::INFO::[downloader:704] Connecting 19@news-us.usenetserver.com finished
+2019-04-25 16:07:51,073::INFO::[downloader:704] Connecting 1@news-us.usenetserver.com finished
+2019-04-25 16:07:51,075::INFO::[downloader:704] Connecting 2@news-us.usenetserver.com finished
+2019-04-25 16:07:51,076::INFO::[downloader:704] Connecting 3@news-us.usenetserver.com finished
+2019-04-25 16:07:51,078::INFO::[downloader:704] Connecting 12@news-us.usenetserver.com finished
+2019-04-25 16:07:51,080::INFO::[downloader:704] Connecting 20@news-us.usenetserver.com finished
+2019-04-25 16:07:51,082::INFO::[downloader:704] Connecting 4@news-us.usenetserver.com finished
+2019-04-25 16:07:51,085::INFO::[downloader:704] Connecting 6@news-us.usenetserver.com finished
+2019-04-25 16:07:51,086::INFO::[downloader:704] Connecting 7@news-us.usenetserver.com finished
+2019-04-25 16:07:51,088::INFO::[downloader:704] Connecting 8@news-us.usenetserver.com finished
+2019-04-25 16:07:51,090::INFO::[downloader:704] Connecting 9@news-us.usenetserver.com finished
+2019-04-25 16:07:51,092::INFO::[downloader:704] Connecting 11@news-us.usenetserver.com finished
+2019-04-25 16:07:51,094::INFO::[downloader:704] Connecting 13@news-us.usenetserver.com finished
+2019-04-25 16:07:51,096::INFO::[downloader:704] Connecting 15@news-us.usenetserver.com finished
+2019-04-25 16:07:51,097::INFO::[downloader:704] Connecting 16@news-us.usenetserver.com finished
+2019-04-25 16:07:51,099::INFO::[downloader:704] Connecting 17@news-us.usenetserver.com finished
+2019-04-25 16:07:51,101::INFO::[downloader:704] Connecting 10@news-us.usenetserver.com finished
+2019-04-25 16:07:51,104::INFO::[downloader:704] Connecting 14@news-us.usenetserver.com finished
+2019-04-25 16:07:52,015::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.par2 yenc
+2019-04-25 16:07:52,063::INFO::[nzbstuff:1659] Checking all filenames for The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated
+2019-04-25 16:07:52,065::INFO::[nzbstuff:1662] Re-sorting The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated after getting filename information
+2019-04-25 16:08:03,372::INFO::[nzbstuff:1659] Checking all filenames for The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated
+2019-04-25 16:08:03,375::INFO::[nzbstuff:1662] Re-sorting The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated after getting filename information
+2019-04-25 16:08:14,088::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part01.rar yenc
+2019-04-25 16:08:16,993::INFO::[misc:995] Creating directories: /media/samba_share/Video/TV-Shows/The Twilight Zone 2019/Season 1/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated
+2019-04-25 16:08:17,909::INFO::[directunpacker:374] DirectUnpacked volume 1 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:08:17,932::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part52.rar yenc
+2019-04-25 16:08:24,176::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part02.rar yenc
+2019-04-25 16:08:29,231::INFO::[directunpacker:271] DirectUnpacked volume 2 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:08:35,415::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part03.rar yenc
+2019-04-25 16:08:37,265::INFO::[directunpacker:271] DirectUnpacked volume 3 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:08:44,243::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part04.rar yenc
+2019-04-25 16:09:05,666::INFO::[directunpacker:271] DirectUnpacked volume 4 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:09:06,778::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part05.rar yenc
+2019-04-25 16:09:11,731::INFO::[directunpacker:271] DirectUnpacked volume 5 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:09:16,679::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part06.rar yenc
+2019-04-25 16:09:19,955::INFO::[directunpacker:271] DirectUnpacked volume 6 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:09:24,327::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part07.rar yenc
+2019-04-25 16:09:30,590::INFO::[directunpacker:271] DirectUnpacked volume 7 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:09:35,182::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part08.rar yenc
+2019-04-25 16:09:36,578::INFO::[directunpacker:271] DirectUnpacked volume 8 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:09:45,146::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part09.rar yenc
+2019-04-25 16:09:51,302::INFO::[directunpacker:271] DirectUnpacked volume 9 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:09:56,023::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part10.rar yenc
+2019-04-25 16:09:59,342::INFO::[directunpacker:271] DirectUnpacked volume 10 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:10:06,133::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part11.rar yenc
+2019-04-25 16:10:10,242::INFO::[directunpacker:271] DirectUnpacked volume 11 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:10:16,970::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part12.rar yenc
+2019-04-25 16:10:18,065::INFO::[directunpacker:271] DirectUnpacked volume 12 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:10:26,761::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part13.rar yenc
+2019-04-25 16:10:38,017::INFO::[directunpacker:271] DirectUnpacked volume 13 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:10:39,134::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part14.rar yenc
+2019-04-25 16:10:59,418::INFO::[directunpacker:271] DirectUnpacked volume 14 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:11:00,359::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part15.rar yenc
+2019-04-25 16:11:10,000::INFO::[directunpacker:271] DirectUnpacked volume 15 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:11:10,944::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part16.rar yenc
+2019-04-25 16:11:15,394::INFO::[directunpacker:271] DirectUnpacked volume 16 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:11:23,318::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part17.rar yenc
+2019-04-25 16:11:28,535::INFO::[directunpacker:271] DirectUnpacked volume 17 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:11:32,854::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part18.rar yenc
+2019-04-25 16:11:34,882::INFO::[directunpacker:271] DirectUnpacked volume 18 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:11:42,625::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part19.rar yenc
+2019-04-25 16:11:47,065::INFO::[directunpacker:271] DirectUnpacked volume 19 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:11:51,386::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part20.rar yenc
+2019-04-25 16:11:54,027::INFO::[directunpacker:271] DirectUnpacked volume 20 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:12:00,797::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part21.rar yenc
+2019-04-25 16:12:05,835::INFO::[directunpacker:271] DirectUnpacked volume 21 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:12:10,185::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part22.rar yenc
+2019-04-25 16:12:14,079::INFO::[directunpacker:271] DirectUnpacked volume 22 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:12:21,278::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part23.rar yenc
+2019-04-25 16:12:23,884::INFO::[directunpacker:271] DirectUnpacked volume 23 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:12:29,204::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part24.rar yenc
+2019-04-25 16:12:38,708::INFO::[directunpacker:271] DirectUnpacked volume 24 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:12:45,714::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part25.rar yenc
+2019-04-25 16:12:49,158::INFO::[__init__:681] Adding Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot.nzb
+2019-04-25 16:12:51,451::INFO::[directunpacker:271] DirectUnpacked volume 25 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:12:55,286::INFO::[misc:995] Creating directories: /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot
+2019-04-25 16:12:55,304::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.par2 - SABnzbd_nzf_WDAc9Y added to queue
+2019-04-25 16:12:55,313::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part01.rar - SABnzbd_nzf_uhkHFY added to queue
+2019-04-25 16:12:55,530::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part02.rar - SABnzbd_nzf_QbJ63P added to queue
+2019-04-25 16:12:55,539::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part03.rar - SABnzbd_nzf_KCRIkT added to queue
+2019-04-25 16:12:55,550::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part04.rar - SABnzbd_nzf_Y8pZ1B added to queue
+2019-04-25 16:12:55,558::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part05.rar - SABnzbd_nzf_0XfV0u added to queue
+2019-04-25 16:12:55,567::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part06.rar - SABnzbd_nzf_mfiLLd added to queue
+2019-04-25 16:12:55,578::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part07.rar - SABnzbd_nzf_qHZ1V5 added to queue
+2019-04-25 16:12:55,585::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part08.rar - SABnzbd_nzf_7mtTuJ added to queue
+2019-04-25 16:12:55,595::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part09.rar - SABnzbd_nzf_E2P8nR added to queue
+2019-04-25 16:12:55,603::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part10.rar - SABnzbd_nzf_f9tuiw added to queue
+2019-04-25 16:12:55,619::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part11.rar - SABnzbd_nzf_A7Upy7 added to queue
+2019-04-25 16:12:55,627::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part12.rar - SABnzbd_nzf_VUMjIa added to queue
+2019-04-25 16:12:55,640::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part13.rar - SABnzbd_nzf_bLbzBk added to queue
+2019-04-25 16:12:55,650::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part14.rar - SABnzbd_nzf_NCy4iN added to queue
+2019-04-25 16:12:55,657::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part15.rar - SABnzbd_nzf_lkQkJ3 added to queue
+2019-04-25 16:12:55,666::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part16.rar - SABnzbd_nzf_5RGeBU added to queue
+2019-04-25 16:12:55,674::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part17.rar - SABnzbd_nzf_LzmzTg added to queue
+2019-04-25 16:12:55,683::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part18.rar - SABnzbd_nzf_5JJQkV added to queue
+2019-04-25 16:12:55,691::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part19.rar - SABnzbd_nzf_8p4TvQ added to queue
+2019-04-25 16:12:55,699::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part20.rar - SABnzbd_nzf_wFkc60 added to queue
+2019-04-25 16:12:55,707::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part21.rar - SABnzbd_nzf_WNB7MY added to queue
+2019-04-25 16:12:55,715::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part22.rar - SABnzbd_nzf_v_crHg added to queue
+2019-04-25 16:12:55,722::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part23.rar - SABnzbd_nzf_ghkqUF added to queue
+2019-04-25 16:12:55,729::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part24.rar - SABnzbd_nzf_HpI_BX added to queue
+2019-04-25 16:12:55,738::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part25.rar - SABnzbd_nzf_FC0ex7 added to queue
+2019-04-25 16:12:55,746::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part26.rar - SABnzbd_nzf_hsGLfn added to queue
+2019-04-25 16:12:55,754::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part27.rar - SABnzbd_nzf_NjHvrR added to queue
+2019-04-25 16:12:55,764::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part28.rar - SABnzbd_nzf_6brCJx added to queue
+2019-04-25 16:12:55,775::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part29.rar - SABnzbd_nzf_rEgTqj added to queue
+2019-04-25 16:12:55,785::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part30.rar - SABnzbd_nzf_P9Q7lq added to queue
+2019-04-25 16:12:55,801::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part31.rar - SABnzbd_nzf_zJmoe6 added to queue
+2019-04-25 16:12:55,810::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part32.rar - SABnzbd_nzf_KRh5s0 added to queue
+2019-04-25 16:12:55,819::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part33.rar - SABnzbd_nzf_PRy7fg added to queue
+2019-04-25 16:12:55,837::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part34.rar - SABnzbd_nzf_evLRhR added to queue
+2019-04-25 16:12:55,848::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part35.rar - SABnzbd_nzf_jVzqTn added to queue
+2019-04-25 16:12:55,868::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part36.rar - SABnzbd_nzf_YWtBGO added to queue
+2019-04-25 16:12:55,877::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part37.rar - SABnzbd_nzf_rVuIT9 added to queue
+2019-04-25 16:12:55,886::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part38.rar - SABnzbd_nzf_5JaoeA added to queue
+2019-04-25 16:12:55,894::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part39.rar - SABnzbd_nzf_mBbgwH added to queue
+2019-04-25 16:12:55,903::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part40.rar - SABnzbd_nzf_KeAU3J added to queue
+2019-04-25 16:12:55,912::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part41.rar - SABnzbd_nzf_NcMuBX added to queue
+2019-04-25 16:12:55,921::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part42.rar - SABnzbd_nzf_ALXyKy added to queue
+2019-04-25 16:12:55,929::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part43.rar - SABnzbd_nzf_Z7GYQj added to queue
+2019-04-25 16:12:55,937::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part44.rar - SABnzbd_nzf_lnnW_W added to queue
+2019-04-25 16:12:55,945::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part45.rar - SABnzbd_nzf_NwzghR added to queue
+2019-04-25 16:12:56,014::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part46.rar - SABnzbd_nzf_CtYKQI added to queue
+2019-04-25 16:12:56,023::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part47.rar - SABnzbd_nzf_yHkICp added to queue
+2019-04-25 16:12:56,031::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part48.rar - SABnzbd_nzf_UgkubR added to queue
+2019-04-25 16:12:56,045::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part49.rar - SABnzbd_nzf_0CdHlS added to queue
+2019-04-25 16:12:56,053::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.part50.rar - SABnzbd_nzf_vxQ3LC added to queue
+2019-04-25 16:12:56,058::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.vol00+01.par2 - SABnzbd_nzf_FS3R9z added to queue
+2019-04-25 16:12:56,063::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.vol01+02.par2 - SABnzbd_nzf_a1vst9 added to queue
+2019-04-25 16:12:56,069::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.vol03+04.par2 - SABnzbd_nzf_fn7V1E added to queue
+2019-04-25 16:12:56,074::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.vol07+08.par2 - SABnzbd_nzf_WOw4Hy added to queue
+2019-04-25 16:12:56,081::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.vol15+16.par2 - SABnzbd_nzf_8BxRSp added to queue
+2019-04-25 16:12:56,095::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.vol31+32.par2 - SABnzbd_nzf_G7sZ8F added to queue
+2019-04-25 16:12:56,108::INFO::[nzbstuff:530] File de3e023c21c041819e1c3775d9587df3.vol63+35.par2 - SABnzbd_nzf_3_1dcD added to queue
+2019-04-25 16:12:56,114::INFO::[__init__:624] Backing up /downloads/backup/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot.nzb.gz
+2019-04-25 16:12:56,716::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part26.rar yenc
+2019-04-25 16:12:57,424::INFO::[__init__:624] Backing up /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/__ADMIN__/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot.nzb.gz
+2019-04-25 16:12:57,506::INFO::[nzbqueue:276] Saving queue
+2019-04-25 16:12:59,539::INFO::[directunpacker:271] DirectUnpacked volume 26 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:13:06,330::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part27.rar yenc
+2019-04-25 16:13:09,627::INFO::[directunpacker:271] DirectUnpacked volume 27 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:13:17,272::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part28.rar yenc
+2019-04-25 16:13:19,655::INFO::[directunpacker:271] DirectUnpacked volume 28 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:13:26,257::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part29.rar yenc
+2019-04-25 16:13:31,809::INFO::[directunpacker:271] DirectUnpacked volume 29 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:13:33,826::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part30.rar yenc
+2019-04-25 16:13:39,823::INFO::[directunpacker:271] DirectUnpacked volume 30 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:13:47,697::INFO::[__init__:681] Adding Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated.nzb
+2019-04-25 16:13:48,150::INFO::[misc:995] Creating directories: /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated
+2019-04-25 16:13:48,158::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.par2 - SABnzbd_nzf_MEd2Oe added to queue
+2019-04-25 16:13:48,168::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part01.rar - SABnzbd_nzf_A3E46F added to queue
+2019-04-25 16:13:48,176::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part02.rar - SABnzbd_nzf_c86ACU added to queue
+2019-04-25 16:13:48,185::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part03.rar - SABnzbd_nzf_wMfIKg added to queue
+2019-04-25 16:13:48,193::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part04.rar - SABnzbd_nzf_tchLr3 added to queue
+2019-04-25 16:13:48,201::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part05.rar - SABnzbd_nzf_BqRQcc added to queue
+2019-04-25 16:13:48,210::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part06.rar - SABnzbd_nzf_UXkns0 added to queue
+2019-04-25 16:13:48,220::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part07.rar - SABnzbd_nzf_k7Gqh8 added to queue
+2019-04-25 16:13:48,227::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part08.rar - SABnzbd_nzf_HvTTk1 added to queue
+2019-04-25 16:13:48,236::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part09.rar - SABnzbd_nzf_Z9ePQX added to queue
+2019-04-25 16:13:48,246::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part10.rar - SABnzbd_nzf_HkZR4n added to queue
+2019-04-25 16:13:48,253::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part11.rar - SABnzbd_nzf_8o2wLz added to queue
+2019-04-25 16:13:48,264::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part12.rar - SABnzbd_nzf_Ek48Db added to queue
+2019-04-25 16:13:48,274::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part13.rar - SABnzbd_nzf_bGzwNt added to queue
+2019-04-25 16:13:48,288::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part14.rar - SABnzbd_nzf_PaJqi6 added to queue
+2019-04-25 16:13:48,298::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part15.rar - SABnzbd_nzf_JmcdWx added to queue
+2019-04-25 16:13:48,308::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part16.rar - SABnzbd_nzf_T6UzPP added to queue
+2019-04-25 16:13:48,320::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part17.rar - SABnzbd_nzf_GtwFN9 added to queue
+2019-04-25 16:13:48,328::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part18.rar - SABnzbd_nzf_KYq6gl added to queue
+2019-04-25 16:13:48,339::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part19.rar - SABnzbd_nzf_plmSIV added to queue
+2019-04-25 16:13:48,348::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part20.rar - SABnzbd_nzf_UCYnW8 added to queue
+2019-04-25 16:13:48,358::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part21.rar - SABnzbd_nzf_MYBHwQ added to queue
+2019-04-25 16:13:48,366::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part22.rar - SABnzbd_nzf_VvkhHO added to queue
+2019-04-25 16:13:48,375::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part23.rar - SABnzbd_nzf_cdEfFk added to queue
+2019-04-25 16:13:48,383::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part24.rar - SABnzbd_nzf_RtB0iK added to queue
+2019-04-25 16:13:48,390::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part25.rar - SABnzbd_nzf__97rEa added to queue
+2019-04-25 16:13:48,397::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part26.rar - SABnzbd_nzf__YJFwF added to queue
+2019-04-25 16:13:48,405::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part27.rar - SABnzbd_nzf_OKrchk added to queue
+2019-04-25 16:13:48,413::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part28.rar - SABnzbd_nzf_jq1Cjd added to queue
+2019-04-25 16:13:48,420::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part29.rar - SABnzbd_nzf_Yf17Vo added to queue
+2019-04-25 16:13:48,431::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part30.rar - SABnzbd_nzf_VG0zoV added to queue
+2019-04-25 16:13:48,444::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part31.rar - SABnzbd_nzf_mvR2pJ added to queue
+2019-04-25 16:13:48,455::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part32.rar - SABnzbd_nzf_JfPbGB added to queue
+2019-04-25 16:13:48,463::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part33.rar - SABnzbd_nzf_7GnZMf added to queue
+2019-04-25 16:13:49,172::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part31.rar yenc
+2019-04-25 16:13:54,524::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part34.rar - SABnzbd_nzf_ALB5Ge added to queue
+2019-04-25 16:13:54,532::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part35.rar - SABnzbd_nzf_6pDDhN added to queue
+2019-04-25 16:13:54,542::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part36.rar - SABnzbd_nzf__d_yu9 added to queue
+2019-04-25 16:13:54,550::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part37.rar - SABnzbd_nzf_y_IiU0 added to queue
+2019-04-25 16:13:54,564::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part38.rar - SABnzbd_nzf_n_QWq_ added to queue
+2019-04-25 16:13:54,573::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part39.rar - SABnzbd_nzf_k7txtT added to queue
+2019-04-25 16:13:54,582::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part40.rar - SABnzbd_nzf_SovunC added to queue
+2019-04-25 16:13:54,591::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part41.rar - SABnzbd_nzf_tMlpPh added to queue
+2019-04-25 16:13:54,600::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part42.rar - SABnzbd_nzf_heRseN added to queue
+2019-04-25 16:13:54,608::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part43.rar - SABnzbd_nzf_hSPfcc added to queue
+2019-04-25 16:13:54,616::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part44.rar - SABnzbd_nzf_qiliRv added to queue
+2019-04-25 16:13:54,626::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part45.rar - SABnzbd_nzf_6cpIi1 added to queue
+2019-04-25 16:13:54,635::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part46.rar - SABnzbd_nzf_swjP4j added to queue
+2019-04-25 16:13:54,643::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part47.rar - SABnzbd_nzf_v0ALg7 added to queue
+2019-04-25 16:13:54,651::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part48.rar - SABnzbd_nzf_ty4Ttk added to queue
+2019-04-25 16:13:54,660::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part49.rar - SABnzbd_nzf_c8zBnA added to queue
+2019-04-25 16:13:54,669::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part50.rar - SABnzbd_nzf_HiMgNZ added to queue
+2019-04-25 16:13:54,677::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part51.rar - SABnzbd_nzf_fnjWLy added to queue
+2019-04-25 16:13:54,684::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.part52.rar - SABnzbd_nzf_bov5H2 added to queue
+2019-04-25 16:13:54,690::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.vol000+01.par2 - SABnzbd_nzf_p5xFR5 added to queue
+2019-04-25 16:13:54,697::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.vol001+02.par2 - SABnzbd_nzf_ETrIq2 added to queue
+2019-04-25 16:13:54,703::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.vol003+04.par2 - SABnzbd_nzf_yUCgky added to queue
+2019-04-25 16:13:54,711::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.vol007+08.par2 - SABnzbd_nzf_7kMp61 added to queue
+2019-04-25 16:13:54,718::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.vol015+16.par2 - SABnzbd_nzf_IdtMQk added to queue
+2019-04-25 16:13:54,729::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.vol031+32.par2 - SABnzbd_nzf_s4cuiq added to queue
+2019-04-25 16:13:54,739::INFO::[nzbstuff:530] File 1ddb5fa4b5644006bc11d5167cc8907f.vol063+40.par2 - SABnzbd_nzf_7KvJ7W added to queue
+2019-04-25 16:13:54,743::INFO::[__init__:624] Backing up /downloads/backup/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated.nzb.gz
+2019-04-25 16:13:54,788::INFO::[__init__:624] Backing up /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/__ADMIN__/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated.nzb.gz
+2019-04-25 16:13:54,840::INFO::[nzbqueue:276] Saving queue
+2019-04-25 16:14:02,677::INFO::[directunpacker:271] DirectUnpacked volume 31 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:14:04,682::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part32.rar yenc
+2019-04-25 16:14:15,722::INFO::[directunpacker:271] DirectUnpacked volume 32 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:14:21,417::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part33.rar yenc
+2019-04-25 16:14:22,709::INFO::[directunpacker:271] DirectUnpacked volume 33 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:14:29,818::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part34.rar yenc
+2019-04-25 16:14:32,401::INFO::[directunpacker:271] DirectUnpacked volume 34 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:14:39,641::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part35.rar yenc
+2019-04-25 16:14:43,084::INFO::[directunpacker:271] DirectUnpacked volume 35 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:14:50,647::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part36.rar yenc
+2019-04-25 16:14:52,163::INFO::[directunpacker:271] DirectUnpacked volume 36 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:14:58,484::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part37.rar yenc
+2019-04-25 16:15:01,027::INFO::[directunpacker:271] DirectUnpacked volume 37 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:15:09,148::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part38.rar yenc
+2019-04-25 16:15:15,127::INFO::[directunpacker:271] DirectUnpacked volume 38 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:15:17,331::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part39.rar yenc
+2019-04-25 16:15:27,400::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part40.rar yenc
+2019-04-25 16:15:27,498::INFO::[directunpacker:271] DirectUnpacked volume 39 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:15:36,714::INFO::[directunpacker:271] DirectUnpacked volume 40 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:15:39,877::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part41.rar yenc
+2019-04-25 16:15:49,924::INFO::[directunpacker:271] DirectUnpacked volume 41 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:15:51,726::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part42.rar yenc
+2019-04-25 16:15:58,445::INFO::[directunpacker:271] DirectUnpacked volume 42 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:16:00,619::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part43.rar yenc
+2019-04-25 16:16:04,683::INFO::[directunpacker:271] DirectUnpacked volume 43 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:16:12,046::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part44.rar yenc
+2019-04-25 16:16:15,375::INFO::[directunpacker:271] DirectUnpacked volume 44 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:16:20,037::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part45.rar yenc
+2019-04-25 16:16:25,095::INFO::[directunpacker:271] DirectUnpacked volume 45 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:16:30,719::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part46.rar yenc
+2019-04-25 16:16:34,671::INFO::[directunpacker:271] DirectUnpacked volume 46 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:16:41,014::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part47.rar yenc
+2019-04-25 16:16:44,634::INFO::[directunpacker:271] DirectUnpacked volume 47 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:16:50,553::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part48.rar yenc
+2019-04-25 16:17:08,318::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part49.rar yenc
+2019-04-25 16:17:08,419::INFO::[directunpacker:271] DirectUnpacked volume 48 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:17:17,859::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part50.rar yenc
+2019-04-25 16:17:17,964::INFO::[directunpacker:271] DirectUnpacked volume 49 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:17:25,251::INFO::[directunpacker:271] DirectUnpacked volume 50 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:17:27,463::INFO::[nzbqueue:798] [N/A] Ending job The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated
+2019-04-25 16:17:27,466::INFO::[assembler:96] Decoding /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.part51.rar yenc
+2019-04-25 16:17:30,261::INFO::[directunpacker:271] DirectUnpacked volume 51 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:17:34,802::INFO::[nzbqueue:434] [N/A] Removed job The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated
+2019-04-25 16:17:34,803::INFO::[nzbqueue:276] Saving queue
+2019-04-25 16:17:34,973::INFO::[postproc:94] Saving postproc queue
+2019-04-25 16:17:35,013::INFO::[downloader:296] Waiting for post-processing to finish
+2019-04-25 16:17:35,020::INFO::[postproc:340] Starting Post-Processing on The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated => Repair:True, Unpack:True, Delete:True, Script:None, Cat:tv
+2019-04-25 16:17:35,023::INFO::[postproc:664] Starting verification and repair of The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated
+2019-04-25 16:17:35,025::INFO::[__init__:920] [N/A] /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/__ADMIN__/__verified__ missing
+2019-04-25 16:17:35,027::INFO::[postproc:679] Running verification and repair on set 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:17:35,040::INFO::[newsunpack:1107] Quick-check for 6be1de29482d4f11bf559a143510ddc6 is OK, skipping repair
+2019-04-25 16:17:35,047::INFO::[postproc:720] Verification and repair finished for The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated
+2019-04-25 16:17:35,059::INFO::[postproc:382] Running unpack_magic on The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated
+2019-04-25 16:17:36,387::INFO::[directunpacker:271] DirectUnpacked volume 52 for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:17:37,782::INFO::[newsunpack:256] Unrar starting on /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated
+2019-04-25 16:17:48,795::INFO::[directunpacker:211] DirectUnpack completed for 6be1de29482d4f11bf559a143510ddc6
+2019-04-25 16:17:49,803::INFO::[newsunpack:510] Set 6be1de29482d4f11bf559a143510ddc6 completed by DirectUnpack
+2019-04-25 16:17:50,226::INFO::[newsunpack:260] Unrar finished on /downloads/incomplete/The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated
+2019-04-25 16:17:50,381::INFO::[postproc:384] Unpacked files [u'/media/samba_share/Video/TV-Shows/The Twilight Zone 2019/Season 1/_UNPACK_The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated/6be1de29482d4f11bf559a143510ddc6.mkv']
+2019-04-25 16:17:50,382::INFO::[postproc:389] Finished unpack_magic on The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated
+2019-04-25 16:17:50,725::INFO::[postproc:562] Cleaning up The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated (keep_basic=False)
+2019-04-25 16:17:50,728::INFO::[nzbstuff:1725] [N/A] Purging data for job The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated (keep_basic=False, del_files=False)
+2019-04-25 16:17:51,270::INFO::[database:272] Added job The.Twilight.Zone.2019.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264.1-NTb-Obfuscated to history
+2019-04-25 16:17:51,272::INFO::[database:255] Removing completed jobs older than 20 days from history
+2019-04-25 16:17:51,274::INFO::[postproc:94] Saving postproc queue
+2019-04-25 16:17:51,276::INFO::[downloader:301] Post-processing finished, resuming download
+2019-04-25 16:17:51,798::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.par2 yenc
+2019-04-25 16:17:51,823::INFO::[nzbstuff:1659] Checking all filenames for Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot
+2019-04-25 16:17:51,824::INFO::[nzbstuff:1662] Re-sorting Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot after getting filename information
+2019-04-25 16:17:59,818::INFO::[nzbstuff:1659] Checking all filenames for Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot
+2019-04-25 16:17:59,820::INFO::[nzbstuff:1662] Re-sorting Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot after getting filename information
+2019-04-25 16:18:01,051::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part50.rar yenc
+2019-04-25 16:18:02,708::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part01.rar yenc
+2019-04-25 16:18:03,634::INFO::[misc:995] Creating directories: /media/samba_share/Video/TV-Shows/Krypton/Season 1/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot
+2019-04-25 16:18:03,709::INFO::[directunpacker:374] DirectUnpacked volume 1 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:18:04,228::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part02.rar yenc
+2019-04-25 16:18:04,811::INFO::[directunpacker:271] DirectUnpacked volume 2 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:18:07,358::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part03.rar yenc
+2019-04-25 16:18:09,459::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part04.rar yenc
+2019-04-25 16:18:09,561::INFO::[directunpacker:271] DirectUnpacked volume 3 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:18:10,441::INFO::[directunpacker:271] DirectUnpacked volume 4 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:18:14,047::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part05.rar yenc
+2019-04-25 16:18:16,853::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part06.rar yenc
+2019-04-25 16:18:16,942::INFO::[directunpacker:271] DirectUnpacked volume 5 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:18:17,668::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part07.rar yenc
+2019-04-25 16:18:17,749::INFO::[directunpacker:271] DirectUnpacked volume 6 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:18:21,649::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part08.rar yenc
+2019-04-25 16:18:21,744::INFO::[directunpacker:271] DirectUnpacked volume 7 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:18:23,640::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part09.rar yenc
+2019-04-25 16:18:23,747::INFO::[directunpacker:271] DirectUnpacked volume 8 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:18:24,371::INFO::[directunpacker:271] DirectUnpacked volume 9 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:18:27,580::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part10.rar yenc
+2019-04-25 16:18:28,772::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part11.rar yenc
+2019-04-25 16:18:28,870::INFO::[directunpacker:271] DirectUnpacked volume 10 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:18:32,984::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part12.rar yenc
+2019-04-25 16:18:33,083::INFO::[directunpacker:271] DirectUnpacked volume 11 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:18:34,200::INFO::[directunpacker:271] DirectUnpacked volume 12 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:18:34,397::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part13.rar yenc
+2019-04-25 16:18:34,875::INFO::[directunpacker:271] DirectUnpacked volume 13 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:18:37,722::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part14.rar yenc
+2019-04-25 16:18:38,775::INFO::[directunpacker:271] DirectUnpacked volume 14 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:18:41,156::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part15.rar yenc
+2019-04-25 16:18:42,093::INFO::[directunpacker:271] DirectUnpacked volume 15 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:18:42,600::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part16.rar yenc
+2019-04-25 16:18:44,147::INFO::[directunpacker:271] DirectUnpacked volume 16 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:18:46,124::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part17.rar yenc
+2019-04-25 16:18:46,562::INFO::[directunpacker:271] DirectUnpacked volume 17 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:18:47,470::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part18.rar yenc
+2019-04-25 16:18:48,872::INFO::[directunpacker:271] DirectUnpacked volume 18 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:18:50,069::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part19.rar yenc
+2019-04-25 16:18:52,410::INFO::[directunpacker:271] DirectUnpacked volume 19 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:18:53,769::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part20.rar yenc
+2019-04-25 16:18:56,201::INFO::[directunpacker:271] DirectUnpacked volume 20 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:18:58,175::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part21.rar yenc
+2019-04-25 16:18:58,612::INFO::[directunpacker:271] DirectUnpacked volume 21 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:19:01,795::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part22.rar yenc
+2019-04-25 16:19:05,689::INFO::[directunpacker:271] DirectUnpacked volume 22 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:19:05,926::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part23.rar yenc
+2019-04-25 16:19:08,578::INFO::[directunpacker:271] DirectUnpacked volume 23 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:19:11,457::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part24.rar yenc
+2019-04-25 16:19:11,950::INFO::[directunpacker:271] DirectUnpacked volume 24 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:19:16,201::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part25.rar yenc
+2019-04-25 16:19:16,720::INFO::[directunpacker:271] DirectUnpacked volume 25 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:19:17,966::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part26.rar yenc
+2019-04-25 16:19:22,245::INFO::[directunpacker:271] DirectUnpacked volume 26 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:19:24,852::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part27.rar yenc
+2019-04-25 16:19:25,418::INFO::[directunpacker:271] DirectUnpacked volume 27 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:19:26,379::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part28.rar yenc
+2019-04-25 16:19:27,704::INFO::[directunpacker:271] DirectUnpacked volume 28 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:19:29,554::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part29.rar yenc
+2019-04-25 16:19:34,116::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part30.rar yenc
+2019-04-25 16:19:34,214::INFO::[directunpacker:271] DirectUnpacked volume 29 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:19:37,669::INFO::[directunpacker:271] DirectUnpacked volume 30 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:19:39,221::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part31.rar yenc
+2019-04-25 16:19:40,339::INFO::[directunpacker:271] DirectUnpacked volume 31 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:19:43,964::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part32.rar yenc
+2019-04-25 16:19:44,449::INFO::[directunpacker:271] DirectUnpacked volume 32 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:19:44,987::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part33.rar yenc
+2019-04-25 16:19:45,740::INFO::[directunpacker:271] DirectUnpacked volume 33 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:19:49,803::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part34.rar yenc
+2019-04-25 16:19:50,488::INFO::[directunpacker:271] DirectUnpacked volume 34 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:19:51,395::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part35.rar yenc
+2019-04-25 16:19:54,452::INFO::[directunpacker:271] DirectUnpacked volume 35 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:19:55,969::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part36.rar yenc
+2019-04-25 16:19:56,833::INFO::[directunpacker:271] DirectUnpacked volume 36 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:20:00,393::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part37.rar yenc
+2019-04-25 16:20:04,015::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part38.rar yenc
+2019-04-25 16:20:04,110::INFO::[directunpacker:271] DirectUnpacked volume 37 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:20:04,724::INFO::[directunpacker:271] DirectUnpacked volume 38 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:20:13,135::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part39.rar yenc
+2019-04-25 16:20:14,412::INFO::[directunpacker:271] DirectUnpacked volume 39 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:20:15,064::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part40.rar yenc
+2019-04-25 16:20:15,570::INFO::[directunpacker:271] DirectUnpacked volume 40 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:20:18,638::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part41.rar yenc
+2019-04-25 16:20:19,145::INFO::[directunpacker:271] DirectUnpacked volume 41 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:20:22,679::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part42.rar yenc
+2019-04-25 16:20:26,985::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part43.rar yenc
+2019-04-25 16:20:27,076::INFO::[directunpacker:271] DirectUnpacked volume 42 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:20:27,499::INFO::[directunpacker:271] DirectUnpacked volume 43 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:20:27,905::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part44.rar yenc
+2019-04-25 16:20:32,692::INFO::[directunpacker:271] DirectUnpacked volume 44 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:20:33,062::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part45.rar yenc
+2019-04-25 16:20:33,548::INFO::[directunpacker:271] DirectUnpacked volume 45 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:20:34,222::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part46.rar yenc
+2019-04-25 16:20:37,150::INFO::[directunpacker:271] DirectUnpacked volume 46 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:20:38,334::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part47.rar yenc
+2019-04-25 16:20:41,732::INFO::[directunpacker:271] DirectUnpacked volume 47 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:20:43,252::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part48.rar yenc
+2019-04-25 16:20:44,010::INFO::[nzbqueue:798] [N/A] Ending job Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot
+2019-04-25 16:20:45,383::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part49.rar yenc
+2019-04-25 16:20:45,482::INFO::[directunpacker:271] DirectUnpacked volume 48 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:20:46,205::INFO::[directunpacker:271] DirectUnpacked volume 49 for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:20:46,210::INFO::[directunpacker:183] Error in DirectUnpack of de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:20:46,211::INFO::[directunpacker:380] Aborting DirectUnpack for de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:20:57,772::INFO::[misc:1200] Cannot remove folder /media/samba_share/Video/TV-Shows/Krypton/Season 1/_UNPACK_Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot
+2019-04-25 16:20:58,095::INFO::[nzbqueue:434] [N/A] Removed job Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot
+2019-04-25 16:20:58,122::INFO::[nzbqueue:276] Saving queue
+2019-04-25 16:20:58,124::INFO::[postproc:94] Saving postproc queue
+2019-04-25 16:20:58,130::INFO::[downloader:296] Waiting for post-processing to finish
+2019-04-25 16:20:58,136::INFO::[postproc:340] Starting Post-Processing on Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot => Repair:True, Unpack:True, Delete:True, Script:None, Cat:tv
+2019-04-25 16:20:58,139::INFO::[postproc:664] Starting verification and repair of Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot
+2019-04-25 16:20:58,141::INFO::[__init__:920] [N/A] /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/__ADMIN__/__verified__ missing
+2019-04-25 16:20:58,144::INFO::[postproc:679] Running verification and repair on set de3e023c21c041819e1c3775d9587df3
+2019-04-25 16:20:58,156::INFO::[newsunpack:1107] Quick-check for de3e023c21c041819e1c3775d9587df3 is OK, skipping repair
+2019-04-25 16:20:58,213::INFO::[postproc:720] Verification and repair finished for Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot
+2019-04-25 16:20:58,607::INFO::[misc:995] Creating directories: /media/samba_share/Video/TV-Shows/Krypton/Season 1/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot
+2019-04-25 16:20:58,636::INFO::[postproc:382] Running unpack_magic on Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot
+2019-04-25 16:20:58,671::INFO::[newsunpack:256] Unrar starting on /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot
+2019-04-25 16:20:58,679::INFO::[newsunpack:516] Extracting rarfile /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot/de3e023c21c041819e1c3775d9587df3.part01.rar (belonging to de3e023c21c041819e1c3775d9587df3) to /media/samba_share/Video/TV-Shows/Krypton/Season 1/_UNPACK_Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot.1
+2019-04-25 16:23:05,252::INFO::[newsunpack:828] Unpacked 1 files/folders in 2 mins 6 seconds
+2019-04-25 16:23:05,485::INFO::[newsunpack:260] Unrar finished on /downloads/incomplete/Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot
+2019-04-25 16:23:05,520::INFO::[postproc:384] Unpacked files [u'/media/samba_share/Video/TV-Shows/Krypton/Season 1/_UNPACK_Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot.1/de3e023c21c041819e1c3775d9587df3.mkv']
+2019-04-25 16:23:05,521::INFO::[postproc:389] Finished unpack_magic on Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot
+2019-04-25 16:23:05,753::INFO::[postproc:562] Cleaning up Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot (keep_basic=False)
+2019-04-25 16:23:05,755::INFO::[nzbstuff:1725] [N/A] Purging data for job Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot (keep_basic=False, del_files=False)
+2019-04-25 16:23:06,109::INFO::[database:272] Added job Krypton.S01E06.PROPER.720p.HDTV.x264-KILLERS-postbot to history
+2019-04-25 16:23:06,110::INFO::[database:255] Removing completed jobs older than 20 days from history
+2019-04-25 16:23:06,112::INFO::[postproc:94] Saving postproc queue
+2019-04-25 16:23:06,114::INFO::[downloader:301] Post-processing finished, resuming download
+2019-04-25 16:23:06,412::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.par2 yenc
+2019-04-25 16:23:06,445::INFO::[nzbstuff:1659] Checking all filenames for Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated
+2019-04-25 16:23:06,447::INFO::[nzbstuff:1662] Re-sorting Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated after getting filename information
+2019-04-25 16:23:15,183::INFO::[nzbstuff:1659] Checking all filenames for Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated
+2019-04-25 16:23:15,185::INFO::[nzbstuff:1662] Re-sorting Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated after getting filename information
+2019-04-25 16:23:17,813::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part52.rar yenc
+2019-04-25 16:23:18,719::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part01.rar yenc
+2019-04-25 16:23:19,382::INFO::[misc:995] Creating directories: /media/samba_share/Video/TV-Shows/Krypton/Season 1/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated
+2019-04-25 16:23:19,468::INFO::[directunpacker:374] DirectUnpacked volume 1 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:23:20,659::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part02.rar yenc
+2019-04-25 16:23:21,063::INFO::[directunpacker:271] DirectUnpacked volume 2 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:23:22,950::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part03.rar yenc
+2019-04-25 16:23:23,281::INFO::[directunpacker:271] DirectUnpacked volume 3 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:23:27,876::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part04.rar yenc
+2019-04-25 16:23:28,207::INFO::[directunpacker:271] DirectUnpacked volume 4 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:23:28,689::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part05.rar yenc
+2019-04-25 16:23:29,014::INFO::[directunpacker:271] DirectUnpacked volume 5 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:23:31,131::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part06.rar yenc
+2019-04-25 16:23:31,469::INFO::[directunpacker:271] DirectUnpacked volume 6 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:23:35,400::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part07.rar yenc
+2019-04-25 16:23:35,733::INFO::[directunpacker:271] DirectUnpacked volume 7 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:23:36,267::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part08.rar yenc
+2019-04-25 16:23:38,416::INFO::[directunpacker:271] DirectUnpacked volume 8 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:23:42,225::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part09.rar yenc
+2019-04-25 16:23:42,540::INFO::[directunpacker:271] DirectUnpacked volume 9 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:23:46,441::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part10.rar yenc
+2019-04-25 16:23:46,754::INFO::[directunpacker:271] DirectUnpacked volume 10 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:23:52,795::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part11.rar yenc
+2019-04-25 16:23:53,109::INFO::[directunpacker:271] DirectUnpacked volume 11 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:23:59,002::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part12.rar yenc
+2019-04-25 16:24:06,811::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part13.rar yenc
+2019-04-25 16:24:06,909::INFO::[directunpacker:271] DirectUnpacked volume 12 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:24:07,166::INFO::[directunpacker:271] DirectUnpacked volume 13 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:24:11,852::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part14.rar yenc
+2019-04-25 16:24:12,203::INFO::[directunpacker:271] DirectUnpacked volume 14 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:24:13,000::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part15.rar yenc
+2019-04-25 16:24:14,621::INFO::[directunpacker:271] DirectUnpacked volume 15 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:24:17,815::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part16.rar yenc
+2019-04-25 16:24:18,071::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part17.rar yenc
+2019-04-25 16:24:18,141::INFO::[directunpacker:271] DirectUnpacked volume 16 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:24:18,608::INFO::[directunpacker:271] DirectUnpacked volume 17 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:24:22,714::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part18.rar yenc
+2019-04-25 16:24:23,089::INFO::[directunpacker:271] DirectUnpacked volume 18 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:24:26,626::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part19.rar yenc
+2019-04-25 16:24:27,055::INFO::[directunpacker:271] DirectUnpacked volume 19 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:24:27,564::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part20.rar yenc
+2019-04-25 16:24:28,622::INFO::[directunpacker:271] DirectUnpacked volume 20 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:24:31,408::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part21.rar yenc
+2019-04-25 16:24:35,168::INFO::[directunpacker:271] DirectUnpacked volume 21 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:24:35,492::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part22.rar yenc
+2019-04-25 16:24:35,901::INFO::[directunpacker:271] DirectUnpacked volume 22 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:24:39,781::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part24.rar yenc
+2019-04-25 16:24:42,346::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part23.rar yenc
+2019-04-25 16:24:43,011::INFO::[directunpacker:271] DirectUnpacked volume 23 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:24:43,217::INFO::[directunpacker:271] DirectUnpacked volume 24 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:24:43,251::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part25.rar yenc
+2019-04-25 16:24:46,357::INFO::[directunpacker:271] DirectUnpacked volume 25 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:24:46,978::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part26.rar yenc
+2019-04-25 16:24:49,187::INFO::[directunpacker:271] DirectUnpacked volume 26 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:24:51,716::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part27.rar yenc
+2019-04-25 16:24:52,080::INFO::[directunpacker:271] DirectUnpacked volume 27 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:24:52,344::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part28.rar yenc
+2019-04-25 16:24:52,930::INFO::[directunpacker:271] DirectUnpacked volume 28 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:24:56,455::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part29.rar yenc
+2019-04-25 16:24:56,868::INFO::[directunpacker:271] DirectUnpacked volume 29 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:24:58,252::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part30.rar yenc
+2019-04-25 16:24:59,190::INFO::[directunpacker:271] DirectUnpacked volume 30 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:25:02,003::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part31.rar yenc
+2019-04-25 16:25:02,429::INFO::[directunpacker:271] DirectUnpacked volume 31 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:25:08,752::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part32.rar yenc
+2019-04-25 16:25:09,198::INFO::[directunpacker:271] DirectUnpacked volume 32 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:25:09,436::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part33.rar yenc
+2019-04-25 16:25:11,162::INFO::[directunpacker:271] DirectUnpacked volume 33 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:25:13,200::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part34.rar yenc
+2019-04-25 16:25:15,402::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part35.rar yenc
+2019-04-25 16:25:15,457::INFO::[directunpacker:271] DirectUnpacked volume 34 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:25:15,858::INFO::[directunpacker:271] DirectUnpacked volume 35 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:25:18,424::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part36.rar yenc
+2019-04-25 16:25:18,804::INFO::[directunpacker:271] DirectUnpacked volume 36 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:25:21,309::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part37.rar yenc
+2019-04-25 16:25:21,676::INFO::[directunpacker:271] DirectUnpacked volume 37 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:25:23,836::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part38.rar yenc
+2019-04-25 16:25:24,231::INFO::[directunpacker:271] DirectUnpacked volume 38 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:25:26,651::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part39.rar yenc
+2019-04-25 16:25:27,061::INFO::[directunpacker:271] DirectUnpacked volume 39 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:25:31,827::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part41.rar yenc
+2019-04-25 16:25:32,093::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part40.rar yenc
+2019-04-25 16:25:34,206::INFO::[directunpacker:271] DirectUnpacked volume 40 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:25:34,493::INFO::[directunpacker:271] DirectUnpacked volume 41 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:25:37,687::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part42.rar yenc
+2019-04-25 16:25:38,039::INFO::[directunpacker:271] DirectUnpacked volume 42 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:25:38,736::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part43.rar yenc
+2019-04-25 16:25:39,993::INFO::[directunpacker:271] DirectUnpacked volume 43 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:25:42,553::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part44.rar yenc
+2019-04-25 16:25:42,911::INFO::[directunpacker:271] DirectUnpacked volume 44 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:25:47,210::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part45.rar yenc
+2019-04-25 16:25:47,568::INFO::[directunpacker:271] DirectUnpacked volume 45 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:25:47,824::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part46.rar yenc
+2019-04-25 16:25:48,638::INFO::[directunpacker:271] DirectUnpacked volume 46 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:25:52,690::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part47.rar yenc
+2019-04-25 16:25:53,247::INFO::[directunpacker:271] DirectUnpacked volume 47 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:25:54,260::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part48.rar yenc
+2019-04-25 16:25:54,772::INFO::[directunpacker:271] DirectUnpacked volume 48 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:25:57,635::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part49.rar yenc
+2019-04-25 16:25:58,123::INFO::[directunpacker:271] DirectUnpacked volume 49 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:25:59,316::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part50.rar yenc
+2019-04-25 16:26:00,538::INFO::[directunpacker:271] DirectUnpacked volume 50 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:26:00,682::INFO::[nzbqueue:798] [N/A] Ending job Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated
+2019-04-25 16:26:00,685::INFO::[assembler:96] Decoding /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part51.rar yenc
+2019-04-25 16:26:01,217::INFO::[directunpacker:271] DirectUnpacked volume 51 for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:26:01,221::INFO::[directunpacker:183] Error in DirectUnpack of 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:26:01,222::INFO::[directunpacker:380] Aborting DirectUnpack for 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:26:09,510::INFO::[nzbqueue:892] Found idle job Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated
+2019-04-25 16:26:09,511::INFO::[nzbqueue:906] Resetting bad trylist for job Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated
+2019-04-25 16:26:09,512::INFO::[nzbqueue:798] [N/A] Ending job Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated
+2019-04-25 16:26:23,170::INFO::[nzbqueue:434] [N/A] Removed job Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated
+2019-04-25 16:26:23,172::INFO::[nzbqueue:276] Saving queue
+2019-04-25 16:26:23,176::INFO::[postproc:94] Saving postproc queue
+2019-04-25 16:26:24,220::INFO::[downloader:296] Waiting for post-processing to finish
+2019-04-25 16:26:24,225::INFO::[postproc:340] Starting Post-Processing on Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated => Repair:True, Unpack:True, Delete:True, Script:None, Cat:tv
+2019-04-25 16:26:24,228::INFO::[postproc:664] Starting verification and repair of Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated
+2019-04-25 16:26:24,231::INFO::[__init__:920] [N/A] /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/__ADMIN__/__verified__ missing
+2019-04-25 16:26:24,234::INFO::[postproc:679] Running verification and repair on set 1ddb5fa4b5644006bc11d5167cc8907f
+2019-04-25 16:26:24,242::INFO::[newsunpack:1107] Quick-check for 1ddb5fa4b5644006bc11d5167cc8907f is OK, skipping repair
+2019-04-25 16:26:24,248::INFO::[postproc:720] Verification and repair finished for Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated
+2019-04-25 16:26:24,661::INFO::[misc:995] Creating directories: /media/samba_share/Video/TV-Shows/Krypton/Season 1/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated
+2019-04-25 16:26:24,682::INFO::[postproc:382] Running unpack_magic on Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated
+2019-04-25 16:26:24,707::INFO::[newsunpack:256] Unrar starting on /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated
+2019-04-25 16:26:24,715::INFO::[newsunpack:516] Extracting rarfile /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.part01.rar (belonging to 1ddb5fa4b5644006bc11d5167cc8907f) to /media/samba_share/Video/TV-Shows/Krypton/Season 1/_UNPACK_Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated
+2019-04-25 16:28:39,093::INFO::[newsunpack:828] Unpacked 1 files/folders in 2 mins 14 seconds
+2019-04-25 16:28:39,279::INFO::[newsunpack:260] Unrar finished on /downloads/incomplete/Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated
+2019-04-25 16:28:40,351::INFO::[postproc:384] Unpacked files [u'/media/samba_share/Video/TV-Shows/Krypton/Season 1/_UNPACK_Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated/1ddb5fa4b5644006bc11d5167cc8907f.mkv']
+2019-04-25 16:28:40,353::INFO::[postproc:389] Finished unpack_magic on Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated
+2019-04-25 16:28:40,604::INFO::[postproc:562] Cleaning up Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated (keep_basic=False)
+2019-04-25 16:28:40,605::INFO::[nzbstuff:1725] [N/A] Purging data for job Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated (keep_basic=False, del_files=False)
+2019-04-25 16:28:40,972::INFO::[database:272] Added job Krypton.S01E07.PROPER.720p.HDTV.x264-KILLERS-Obfuscated to history
+2019-04-25 16:28:40,973::INFO::[database:255] Removing completed jobs older than 20 days from history
+2019-04-25 16:28:40,975::INFO::[postproc:94] Saving postproc queue
+2019-04-25 16:28:40,977::INFO::[downloader:301] Post-processing finished, resuming download
+2019-04-25 16:28:44,979::INFO::[nzbqueue:276] Saving queue
+2019-04-25 16:28:44,991::INFO::[postproc:94] Saving postproc queue
+2019-04-25 16:28:56,582::INFO::[downloader:783] Thread 5@news-us.usenetserver.com: server closed connection
+2019-04-25 16:28:56,650::INFO::[downloader:783] Thread 20@news-us.usenetserver.com: server closed connection
+2019-04-25 16:28:57,537::INFO::[downloader:783] Thread 14@news-us.usenetserver.com: server closed connection
+2019-04-25 16:28:57,571::INFO::[downloader:783] Thread 13@news-us.usenetserver.com: server closed connection
+2019-04-25 16:28:57,899::INFO::[downloader:783] Thread 15@news-us.usenetserver.com: server closed connection
+2019-04-25 16:28:57,979::INFO::[downloader:783] Thread 17@news-us.usenetserver.com: server closed connection
+2019-04-25 16:28:58,037::INFO::[downloader:783] Thread 3@news-us.usenetserver.com: server closed connection
+2019-04-25 16:28:58,293::INFO::[downloader:783] Thread 2@news-us.usenetserver.com: server closed connection
+2019-04-25 16:28:58,378::INFO::[downloader:783] Thread 7@news-us.usenetserver.com: server closed connection
+2019-04-25 16:28:58,500::INFO::[downloader:783] Thread 12@news-us.usenetserver.com: server closed connection
+2019-04-25 16:28:58,507::INFO::[downloader:783] Thread 11@news-us.usenetserver.com: server closed connection
+2019-04-25 16:28:58,545::INFO::[downloader:783] Thread 9@news-us.usenetserver.com: server closed connection
+2019-04-25 16:28:58,675::INFO::[downloader:783] Thread 19@news-us.usenetserver.com: server closed connection
+2019-04-25 16:28:58,739::INFO::[downloader:783] Thread 18@news-us.usenetserver.com: server closed connection
+2019-04-25 16:28:58,984::INFO::[downloader:783] Thread 8@news-us.usenetserver.com: server closed connection
+2019-04-25 16:28:59,189::INFO::[downloader:783] Thread 4@news-us.usenetserver.com: server closed connection
+2019-04-25 16:28:59,569::INFO::[downloader:783] Thread 1@news-us.usenetserver.com: server closed connection
+2019-04-25 16:28:59,724::INFO::[downloader:783] Thread 16@news-us.usenetserver.com: server closed connection
+2019-04-25 16:29:00,009::INFO::[downloader:783] Thread 6@news-us.usenetserver.com: server closed connection
+2019-04-25 16:29:00,059::INFO::[downloader:783] Thread 10@news-us.usenetserver.com: server closed connection
+2019-04-25 16:51:16,577::WARNING::[__init__:182] Signal 15 caught, saving and exiting...
+2019-04-25 16:51:16,579::INFO::[nzbqueue:276] Saving queue
+2019-04-25 16:51:16,597::INFO::[postproc:94] Saving postproc queue

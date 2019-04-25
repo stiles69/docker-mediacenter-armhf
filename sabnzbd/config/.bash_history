@@ -26,3 +26,23 @@ cd downloads/sabnzbd/scripts/
 ls
 ./Send-Sabnzbd-Message.sh 
 exit
+ls
+unrar -V
+apt-get update
+apt-get remove unrar-free
+apt-get remove unrar
+cd ~
+ls
+cd $(mktemp -d)
+apt-get build-dep unrar-nonfree
+apt-get source -b unrar-nonfree
+apt-get install unrar
+ls
+cd ..
+ls
+cd ~
+ls
+unrar-nonfree
+unrar
+quit
+exit
