@@ -2585,3 +2585,315 @@
 19-4-29 00:30:46.8|Info|RssSyncService|Starting RSS Sync
 19-4-29 00:30:53.7|Info|DownloadDecisionMaker|Processing 100 releases
 19-4-29 00:30:57.7|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-4-29 00:42:44.8|Info|Bootstrap|Starting Sonarr - /opt/NzbDrone/NzbDrone.exe - Version 2.0.0.5252
+19-4-29 00:42:51.1|Info|AppFolderInfo|Data directory is being overridden to [/config]
+19-4-29 00:42:54.2|Info|Router|Application mode: Interactive
+19-4-29 00:42:56.6|Info|MigrationLogger|*** Migrating data source=/config/nzbdrone.db;cache size=-10485760;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+19-4-29 00:43:00.0|Info|MigrationLogger|*** Migrating data source=/config/logs.db;cache size=-10485760;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+19-4-29 00:43:00.4|Info|OwinHostController|Listening on the following URLs:
+19-4-29 00:43:00.4|Info|OwinHostController|  http://*:8989/
+19-4-29 00:43:01.9|Info|NancyBootstrapper|Starting Web Server
+19-4-29 00:43:47.2|Info|RssSyncService|Starting RSS Sync
+19-4-29 00:43:54.8|Info|DownloadDecisionMaker|Processing 100 releases
+19-4-29 00:44:01.1|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-4-29 00:46:48.3|Warn|DownloadMonitoringService|Unable to retrieve queue and history items from Slave1 Deluge
+
+[v2.0.0.5252] NzbDrone.Core.Download.Clients.DownloadClientUnavailableException: Unable to connect to Deluge, please check your settings ---> System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://10.0.0.5:8112/json' ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <0f8aeac9d63d4b8aa575761bb4e65b79>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <c0e40d34c25e4827874530676d4126b9>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.HttpWebRequest.GetRequestStream () [0x00016] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000ca] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:58 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0019e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:92 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ExecuteRequest[TResult] (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, System.String method, System.Object[] arguments) [0x0000e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:229 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ExecuteRequest[TResult] (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, System.String method, System.Object[] arguments) [0x0006f] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:250 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ProcessRequest[TResult] (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.String method, System.Object[] arguments) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:196 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.GetTorrentsByLabel (System.String label, NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x00012] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:80 
+  at NzbDrone.Core.Download.Clients.Deluge.Deluge.GetItems () [0x00012] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\Deluge.cs:96 
+  at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientDownloads (NzbDrone.Core.Download.IDownloadClient downloadClient) [0x0000c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\TrackedDownloads\DownloadMonitoringService.cs:89 
+
+19-4-29 00:48:18.5|Warn|DownloadMonitoringService|Unable to retrieve queue and history items from Slave1 Deluge
+
+[v2.0.0.5252] NzbDrone.Core.Download.Clients.DownloadClientUnavailableException: Unable to connect to Deluge, please check your settings ---> System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://10.0.0.5:8112/json' ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <0f8aeac9d63d4b8aa575761bb4e65b79>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <c0e40d34c25e4827874530676d4126b9>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.HttpWebRequest.GetRequestStream () [0x00016] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000ca] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:58 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0019e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:92 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ExecuteRequest[TResult] (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, System.String method, System.Object[] arguments) [0x0000e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:229 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ExecuteRequest[TResult] (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, System.String method, System.Object[] arguments) [0x0006f] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:250 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ProcessRequest[TResult] (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.String method, System.Object[] arguments) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:196 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.GetTorrentsByLabel (System.String label, NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x00012] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:80 
+  at NzbDrone.Core.Download.Clients.Deluge.Deluge.GetItems () [0x00012] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\Deluge.cs:96 
+  at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientDownloads (NzbDrone.Core.Download.IDownloadClient downloadClient) [0x0000c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\TrackedDownloads\DownloadMonitoringService.cs:89 
+
+19-4-29 00:49:48.8|Warn|DownloadMonitoringService|Unable to retrieve queue and history items from Slave1 Deluge
+
+[v2.0.0.5252] NzbDrone.Core.Download.Clients.DownloadClientUnavailableException: Unable to connect to Deluge, please check your settings ---> System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://10.0.0.5:8112/json' ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <0f8aeac9d63d4b8aa575761bb4e65b79>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <c0e40d34c25e4827874530676d4126b9>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.HttpWebRequest.GetRequestStream () [0x00016] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000ca] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:58 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0019e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:92 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ExecuteRequest[TResult] (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, System.String method, System.Object[] arguments) [0x0000e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:229 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ExecuteRequest[TResult] (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, System.String method, System.Object[] arguments) [0x0006f] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:250 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ProcessRequest[TResult] (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.String method, System.Object[] arguments) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:196 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.GetTorrentsByLabel (System.String label, NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x00012] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:80 
+  at NzbDrone.Core.Download.Clients.Deluge.Deluge.GetItems () [0x00012] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\Deluge.cs:96 
+  at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientDownloads (NzbDrone.Core.Download.IDownloadClient downloadClient) [0x0000c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\TrackedDownloads\DownloadMonitoringService.cs:89 
+
+19-4-29 00:51:19.1|Warn|DownloadMonitoringService|Unable to retrieve queue and history items from Slave1 Deluge
+
+[v2.0.0.5252] NzbDrone.Core.Download.Clients.DownloadClientUnavailableException: Unable to connect to Deluge, please check your settings ---> System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://10.0.0.5:8112/json' ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <0f8aeac9d63d4b8aa575761bb4e65b79>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <c0e40d34c25e4827874530676d4126b9>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.HttpWebRequest.GetRequestStream () [0x00016] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000ca] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:58 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0019e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:92 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ExecuteRequest[TResult] (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, System.String method, System.Object[] arguments) [0x0000e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:229 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ExecuteRequest[TResult] (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, System.String method, System.Object[] arguments) [0x0006f] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:250 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ProcessRequest[TResult] (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.String method, System.Object[] arguments) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:196 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.GetTorrentsByLabel (System.String label, NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x00012] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:80 
+  at NzbDrone.Core.Download.Clients.Deluge.Deluge.GetItems () [0x00012] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\Deluge.cs:96 
+  at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientDownloads (NzbDrone.Core.Download.IDownloadClient downloadClient) [0x0000c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\TrackedDownloads\DownloadMonitoringService.cs:89 
+
+19-4-29 00:52:49.3|Warn|DownloadMonitoringService|Unable to retrieve queue and history items from Slave1 Deluge
+
+[v2.0.0.5252] NzbDrone.Core.Download.Clients.DownloadClientUnavailableException: Unable to connect to Deluge, please check your settings ---> System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://10.0.0.5:8112/json' ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <0f8aeac9d63d4b8aa575761bb4e65b79>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <c0e40d34c25e4827874530676d4126b9>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.HttpWebRequest.GetRequestStream () [0x00016] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000ca] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:58 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0019e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:92 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ExecuteRequest[TResult] (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, System.String method, System.Object[] arguments) [0x0000e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:229 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ExecuteRequest[TResult] (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, System.String method, System.Object[] arguments) [0x0006f] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:250 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ProcessRequest[TResult] (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.String method, System.Object[] arguments) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:196 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.GetTorrentsByLabel (System.String label, NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x00012] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:80 
+  at NzbDrone.Core.Download.Clients.Deluge.Deluge.GetItems () [0x00012] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\Deluge.cs:96 
+  at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientDownloads (NzbDrone.Core.Download.IDownloadClient downloadClient) [0x0000c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\TrackedDownloads\DownloadMonitoringService.cs:89 
+
+19-4-29 00:54:19.5|Info|RssSyncService|Starting RSS Sync
+19-4-29 00:54:22.8|Info|DownloadDecisionMaker|Processing 100 releases
+19-4-29 00:54:25.4|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-4-29 01:04:50.5|Info|RssSyncService|Starting RSS Sync
+19-4-29 01:04:51.8|Info|DownloadDecisionMaker|Processing 100 releases
+19-4-29 01:04:54.5|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-4-29 01:08:51.4|Warn|DownloadMonitoringService|Unable to retrieve queue and history items from Slave1 Deluge
+
+[v2.0.0.5252] NzbDrone.Core.Download.Clients.DownloadClientUnavailableException: Unable to connect to Deluge, please check your settings ---> System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://10.0.0.5:8112/json' ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <0f8aeac9d63d4b8aa575761bb4e65b79>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <c0e40d34c25e4827874530676d4126b9>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.HttpWebRequest.GetRequestStream () [0x00016] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000ca] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:58 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0019e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:92 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ExecuteRequest[TResult] (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, System.String method, System.Object[] arguments) [0x0000e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:229 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ExecuteRequest[TResult] (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, System.String method, System.Object[] arguments) [0x0006f] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:250 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ProcessRequest[TResult] (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.String method, System.Object[] arguments) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:196 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.GetTorrentsByLabel (System.String label, NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x00012] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:80 
+  at NzbDrone.Core.Download.Clients.Deluge.Deluge.GetItems () [0x00012] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\Deluge.cs:96 
+  at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientDownloads (NzbDrone.Core.Download.IDownloadClient downloadClient) [0x0000c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\TrackedDownloads\DownloadMonitoringService.cs:89 
+
+19-4-29 01:15:21.4|Info|RssSyncService|Starting RSS Sync
+19-4-29 01:15:22.7|Info|DownloadDecisionMaker|Processing 100 releases
+19-4-29 01:15:25.2|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-4-29 01:25:22.3|Info|SceneMappingService|Updating Scene mappings
+19-4-29 01:25:52.4|Info|RssSyncService|Starting RSS Sync
+19-4-29 01:25:54.4|Info|DownloadDecisionMaker|Processing 100 releases
+19-4-29 01:25:56.8|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-4-29 01:36:23.9|Info|RssSyncService|Starting RSS Sync
+19-4-29 01:36:25.2|Info|DownloadDecisionMaker|Processing 100 releases
+19-4-29 01:36:27.6|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-4-29 01:39:24.7|Warn|DownloadMonitoringService|Unable to retrieve queue and history items from Slave1 Deluge
+
+[v2.0.0.5252] NzbDrone.Core.Download.Clients.DownloadClientUnavailableException: Unable to connect to Deluge, please check your settings ---> System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://10.0.0.5:8112/json' ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <0f8aeac9d63d4b8aa575761bb4e65b79>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <c0e40d34c25e4827874530676d4126b9>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.HttpWebRequest.GetRequestStream () [0x00016] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000ca] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:58 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0019e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:92 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ExecuteRequest[TResult] (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, System.String method, System.Object[] arguments) [0x0000e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:229 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ExecuteRequest[TResult] (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, System.String method, System.Object[] arguments) [0x0006f] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:250 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ProcessRequest[TResult] (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.String method, System.Object[] arguments) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:196 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.GetTorrentsByLabel (System.String label, NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x00012] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:80 
+  at NzbDrone.Core.Download.Clients.Deluge.Deluge.GetItems () [0x00012] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\Deluge.cs:96 
+  at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientDownloads (NzbDrone.Core.Download.IDownloadClient downloadClient) [0x0000c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\TrackedDownloads\DownloadMonitoringService.cs:89 
+
+19-4-29 01:46:54.8|Info|RssSyncService|Starting RSS Sync
+19-4-29 01:46:55.9|Info|DownloadDecisionMaker|Processing 100 releases
+19-4-29 01:46:58.3|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-4-29 01:57:25.2|Info|RssSyncService|Starting RSS Sync
+19-4-29 01:57:28.4|Info|DownloadDecisionMaker|Processing 100 releases
+19-4-29 01:57:30.8|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-4-29 02:07:56.0|Info|RssSyncService|Starting RSS Sync
+19-4-29 02:07:57.2|Info|DownloadDecisionMaker|Processing 100 releases
+19-4-29 02:07:59.5|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-4-29 02:18:26.9|Info|RssSyncService|Starting RSS Sync
+19-4-29 02:18:28.0|Info|DownloadDecisionMaker|Processing 100 releases
+19-4-29 02:18:30.3|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-4-29 02:28:58.0|Info|RssSyncService|Starting RSS Sync
+19-4-29 02:28:59.2|Info|DownloadDecisionMaker|Processing 100 releases
+19-4-29 02:29:01.5|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-4-29 02:39:28.5|Info|RssSyncService|Starting RSS Sync
+19-4-29 02:39:31.4|Info|DownloadDecisionMaker|Processing 100 releases
+19-4-29 02:39:33.8|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-4-29 02:40:28.7|Warn|DownloadMonitoringService|Unable to retrieve queue and history items from Slave1 Deluge
+
+[v2.0.0.5252] NzbDrone.Core.Download.Clients.DownloadClientUnavailableException: Unable to connect to Deluge, please check your settings ---> System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://10.0.0.5:8112/json' ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <0f8aeac9d63d4b8aa575761bb4e65b79>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <c0e40d34c25e4827874530676d4126b9>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.HttpWebRequest.GetRequestStream () [0x00016] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000ca] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:58 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0019e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:92 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ExecuteRequest[TResult] (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, System.String method, System.Object[] arguments) [0x0000e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:229 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ExecuteRequest[TResult] (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, System.String method, System.Object[] arguments) [0x0006f] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:250 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ProcessRequest[TResult] (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.String method, System.Object[] arguments) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:196 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.GetTorrentsByLabel (System.String label, NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x00012] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:80 
+  at NzbDrone.Core.Download.Clients.Deluge.Deluge.GetItems () [0x00012] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\Deluge.cs:96 
+  at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientDownloads (NzbDrone.Core.Download.IDownloadClient downloadClient) [0x0000c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\TrackedDownloads\DownloadMonitoringService.cs:89 
+
+19-4-29 02:49:59.0|Info|RssSyncService|Starting RSS Sync
+19-4-29 02:50:00.6|Info|DownloadDecisionMaker|Processing 100 releases
+19-4-29 02:50:03.2|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-4-29 03:00:30.0|Info|RssSyncService|Starting RSS Sync
+19-4-29 03:00:32.6|Info|DownloadDecisionMaker|Processing 100 releases
+19-4-29 03:00:35.1|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-4-29 03:11:01.9|Info|RssSyncService|Starting RSS Sync
+19-4-29 03:11:04.7|Info|DownloadDecisionMaker|Processing 100 releases
+19-4-29 03:11:07.2|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-4-29 03:21:32.8|Info|RssSyncService|Starting RSS Sync
+19-4-29 03:21:34.3|Info|DownloadDecisionMaker|Processing 100 releases
+19-4-29 03:21:36.5|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-4-29 03:32:03.7|Info|RssSyncService|Starting RSS Sync
+19-4-29 03:32:05.1|Info|DownloadDecisionMaker|Processing 100 releases
+19-4-29 03:32:07.4|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-4-29 03:42:35.0|Info|RssSyncService|Starting RSS Sync
+19-4-29 03:42:38.1|Info|DownloadDecisionMaker|Processing 100 releases
+19-4-29 03:42:40.5|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-4-29 03:53:05.9|Info|RssSyncService|Starting RSS Sync
+19-4-29 03:53:09.6|Info|DownloadDecisionMaker|Processing 100 releases
+19-4-29 03:53:11.9|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-4-29 04:03:36.9|Info|RssSyncService|Starting RSS Sync
+19-4-29 04:03:38.1|Info|DownloadDecisionMaker|Processing 100 releases
+19-4-29 04:03:40.5|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-4-29 04:14:07.4|Info|RssSyncService|Starting RSS Sync
+19-4-29 04:14:08.7|Info|DownloadDecisionMaker|Processing 100 releases
+19-4-29 04:14:11.1|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
