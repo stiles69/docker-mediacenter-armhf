@@ -3402,3 +3402,17 @@ Parameter name: returnLabel
 19-4-30 01:15:51.0|Info|OwinHostController|Listening on the following URLs:
 19-4-30 01:15:51.0|Info|OwinHostController|  http://*:8989/
 19-4-30 01:15:52.1|Info|NancyBootstrapper|Starting Web Server
+19-4-30 01:19:49.8|Info|Bootstrap|Starting Sonarr - /opt/NzbDrone/NzbDrone.exe - Version 2.0.0.5252
+19-4-30 01:19:53.9|Info|AppFolderInfo|Data directory is being overridden to [/config]
+19-4-30 01:19:54.7|Info|Router|Application mode: Interactive
+19-4-30 01:19:56.2|Info|MigrationLogger|*** Migrating data source=/config/nzbdrone.db;cache size=-10485760;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+19-4-30 01:19:57.7|Info|MigrationLogger|*** Migrating data source=/config/logs.db;cache size=-10485760;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+19-4-30 01:19:58.1|Info|OwinHostController|Listening on the following URLs:
+19-4-30 01:19:58.1|Info|OwinHostController|  http://*:8989/
+19-4-30 01:19:59.4|Info|NancyBootstrapper|Starting Web Server
+19-4-30 01:22:09.6|Info|RssSyncService|Starting RSS Sync
+19-4-30 01:22:12.6|Info|DownloadDecisionMaker|Processing 100 releases
+19-4-30 01:22:16.1|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-4-30 01:32:40.7|Info|RssSyncService|Starting RSS Sync
+19-4-30 01:32:42.3|Info|DownloadDecisionMaker|Processing 100 releases
+19-4-30 01:32:44.8|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
