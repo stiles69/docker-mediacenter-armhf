@@ -3394,3 +3394,11 @@ Parameter name: returnLabel
 19-4-30 01:14:33.5|Info|OwinHostController|Listening on the following URLs:
 19-4-30 01:14:33.5|Info|OwinHostController|  http://*:8989/
 19-4-30 01:14:34.8|Info|NancyBootstrapper|Starting Web Server
+19-4-30 01:15:42.1|Info|Bootstrap|Starting Sonarr - /opt/NzbDrone/NzbDrone.exe - Version 2.0.0.5252
+19-4-30 01:15:46.6|Info|AppFolderInfo|Data directory is being overridden to [/config]
+19-4-30 01:15:47.7|Info|Router|Application mode: Interactive
+19-4-30 01:15:49.2|Info|MigrationLogger|*** Migrating data source=/config/nzbdrone.db;cache size=-10485760;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+19-4-30 01:15:50.6|Info|MigrationLogger|*** Migrating data source=/config/logs.db;cache size=-10485760;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+19-4-30 01:15:51.0|Info|OwinHostController|Listening on the following URLs:
+19-4-30 01:15:51.0|Info|OwinHostController|  http://*:8989/
+19-4-30 01:15:52.1|Info|NancyBootstrapper|Starting Web Server

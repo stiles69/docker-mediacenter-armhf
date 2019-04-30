@@ -4792,3 +4792,15 @@
 30-Apr-2019 01:12:54 - INFO    :: MainThread : Signal 15 caught, saving and exiting...
 30-Apr-2019 01:12:55 - INFO    :: MainThread : Writing configuration to file
 30-Apr-2019 01:12:55 - INFO    :: MainThread : Headphones is shutting down...
+30-Apr-2019 01:16:35 - INFO    :: MainThread : Checking to see if the database has all tables....
+30-Apr-2019 01:16:36 - INFO    :: MainThread : Retrieving latest version information from GitHub
+30-Apr-2019 01:16:36 - INFO    :: MainThread : Comparing currently installed version with latest GitHub version
+30-Apr-2019 01:16:36 - INFO    :: MainThread : New version is available. You are 6 commits behind
+30-Apr-2019 01:16:36 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+30-Apr-2019 01:16:38 - INFO    :: MainThread : Scheduled background task: Search for Wanted
+30-Apr-2019 01:16:38 - INFO    :: MainThread : Scheduled background task: Download Scan
+30-Apr-2019 01:16:38 - INFO    :: MainThread : Scheduled background task: Library Scan
+30-Apr-2019 01:16:38 - INFO    :: MainThread : Scheduled background task: MusicBrainz Update
+30-Apr-2019 01:16:38 - INFO    :: MainThread : Scheduled background task: Check GitHub for updates
+30-Apr-2019 01:16:38 - INFO    :: MainThread : Scheduled background task: Torrent removal check
+30-Apr-2019 01:18:49 - INFO    :: MainThread : Signal 15 caught, saving and exiting...
