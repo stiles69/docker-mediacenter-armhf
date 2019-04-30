@@ -316,7 +316,7 @@ pushbullet_prio_warning = 0
 [[news-us.usenetserver.com]]
 username = brett.salemink@gmail.com
 priority = 0
-enable = 0
+enable = 1
 displayname = news-us.usenetserver.com
 name = news-us.usenetserver.com
 ssl_ciphers = ""

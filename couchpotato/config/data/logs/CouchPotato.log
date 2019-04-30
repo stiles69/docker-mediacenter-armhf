@@ -899,3 +899,1567 @@ ValueError: No JSON object could be decoded
 04-30 01:30:39 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.nzbgeek.info/api?imdbid=7286456&apikey=xxx&t=movie&extended=1&cat=2000, data: [][0m
 04-30 01:30:41 INFO [0m[core.media.movie.searcher] Better quality (scr) already available or snatched for Hellboy[0m
 04-30 01:35:34 INFO [0m[chpotato.core._base._core] Shutting down[0m
+04-30 01:38:12 INFO [0m[  couchpotato.core.loader] Loaded core: _core[0m
+04-30 01:38:12 INFO [0m[  couchpotato.core.loader] Loaded core: clientscript[0m
+04-30 01:38:12 INFO [0m[  couchpotato.core.loader] Loaded core: desktop[0m
+04-30 01:38:13 INFO [0m[  couchpotato.core.loader] Loaded core: downloader[0m
+04-30 01:38:13 INFO [0m[  couchpotato.core.loader] Loaded core: scheduler[0m
+04-30 01:38:14 INFO [0m[  couchpotato.core.loader] Loaded core: updater[0m
+04-30 01:38:14 INFO [0m[  couchpotato.core.loader] Loaded plugin: automation[0m
+04-30 01:38:14 INFO [0m[  couchpotato.core.loader] Loaded plugin: browser[0m
+04-30 01:38:14 INFO [0m[  couchpotato.core.loader] Loaded plugin: category[0m
+04-30 01:38:14 INFO [0m[  couchpotato.core.loader] Loaded plugin: custom[0m
+04-30 01:38:14 INFO [0m[  couchpotato.core.loader] Loaded plugin: dashboard[0m
+04-30 01:38:14 INFO [0m[tato.core._base.scheduler] Scheduling file.cleanup, interval: hours = 24, minutes = 0, seconds = 0[0m
+04-30 01:38:14 INFO [0m[  couchpotato.core.loader] Loaded plugin: file[0m
+04-30 01:38:14 INFO [0m[  couchpotato.core.loader] Loaded plugin: log[0m
+04-30 01:38:14 INFO [0m[  couchpotato.core.loader] Loaded plugin: manage[0m
+04-30 01:38:14 INFO [0m[  couchpotato.core.loader] Loaded plugin: profile[0m
+04-30 01:38:14 INFO [0m[  couchpotato.core.loader] Loaded plugin: quality[0m
+04-30 01:38:14 INFO [0m[tato.core._base.scheduler] Scheduling movie.clean_releases, interval: hours = 12, minutes = 0, seconds = 0[0m
+04-30 01:38:14 INFO [0m[  couchpotato.core.loader] Loaded plugin: release[0m
+04-30 01:38:14 INFO [0m[  couchpotato.core.loader] Loaded plugin: renamer[0m
+04-30 01:38:16 INFO [0m[  couchpotato.core.loader] Loaded plugin: scanner[0m
+04-30 01:38:16 INFO [0m[  couchpotato.core.loader] Loaded plugin: score[0m
+04-30 01:38:16 INFO [0m[  couchpotato.core.loader] Loaded plugin: subtitle[0m
+04-30 01:38:16 INFO [0m[  couchpotato.core.loader] Loaded plugin: trailer[0m
+04-30 01:38:16 INFO [0m[  couchpotato.core.loader] Loaded plugin: userscript[0m
+04-30 01:38:16 INFO [0m[  couchpotato.core.loader] Loaded plugin: wizard[0m
+04-30 01:38:16 INFO [0m[  couchpotato.core.loader] Loaded downloaders: blackhole[0m
+04-30 01:38:17 INFO [0m[  couchpotato.core.loader] Loaded downloaders: deluge[0m
+04-30 01:38:17 INFO [0m[  couchpotato.core.loader] Loaded downloaders: hadouken[0m
+04-30 01:38:17 INFO [0m[  couchpotato.core.loader] Loaded downloaders: nzbget[0m
+04-30 01:38:17 INFO [0m[  couchpotato.core.loader] Loaded downloaders: nzbvortex[0m
+04-30 01:38:17 INFO [0m[  couchpotato.core.loader] Loaded downloaders: pneumatic[0m
+04-30 01:38:17 INFO [0m[  couchpotato.core.loader] Loaded downloaders: putio[0m
+04-30 01:38:17 INFO [0m[  couchpotato.core.loader] Loaded downloaders: qbittorrent_[0m
+04-30 01:38:17 INFO [0m[  couchpotato.core.loader] Loaded downloaders: rtorrent_[0m
+04-30 01:38:17 INFO [0m[  couchpotato.core.loader] Loaded downloaders: sabnzbd[0m
+04-30 01:38:17 INFO [0m[  couchpotato.core.loader] Loaded downloaders: synology[0m
+04-30 01:38:17 INFO [0m[  couchpotato.core.loader] Loaded downloaders: transmission[0m
+04-30 01:38:17 INFO [0m[  couchpotato.core.loader] Loaded downloaders: utorrent[0m
+04-30 01:38:17 INFO [0m[  couchpotato.core.loader] Loaded notifications: androidpn[0m
+04-30 01:38:17 INFO [0m[  couchpotato.core.loader] Loaded notifications: boxcar2[0m
+04-30 01:38:17 INFO [0m[tato.core._base.scheduler] Scheduling core.check_messages, interval: hours = 12, minutes = 0, seconds = 0[0m
+04-30 01:38:17 INFO [0m[tato.core._base.scheduler] Scheduling core.clean_messages, interval: hours = 0, minutes = 0, seconds = 15[0m
+04-30 01:38:17 INFO [0m[  couchpotato.core.loader] Loaded notifications: core[0m
+04-30 01:38:17 INFO [0m[  couchpotato.core.loader] Loaded notifications: discord[0m
+04-30 01:38:17 INFO [0m[  couchpotato.core.loader] Loaded notifications: email_[0m
+04-30 01:38:17 INFO [0m[  couchpotato.core.loader] Loaded notifications: emby[0m
+04-30 01:38:18 INFO [0m[  couchpotato.core.loader] Loaded notifications: growl[0m
+04-30 01:38:18 INFO [0m[  couchpotato.core.loader] Loaded notifications: homey[0m
+04-30 01:38:18 INFO [0m[  couchpotato.core.loader] Loaded notifications: join[0m
+04-30 01:38:18 INFO [0m[  couchpotato.core.loader] Loaded notifications: nmj[0m
+04-30 01:38:18 INFO [0m[  couchpotato.core.loader] Loaded notifications: notifymyandroid[0m
+04-30 01:38:18 INFO [0m[  couchpotato.core.loader] Loaded notifications: plex[0m
+04-30 01:38:18 INFO [0m[  couchpotato.core.loader] Loaded notifications: prowl[0m
+04-30 01:38:18 INFO [0m[  couchpotato.core.loader] Loaded notifications: pushalot[0m
+04-30 01:38:18 INFO [0m[  couchpotato.core.loader] Loaded notifications: pushbullet[0m
+04-30 01:38:18 INFO [0m[  couchpotato.core.loader] Loaded notifications: pushover[0m
+04-30 01:38:18 INFO [0m[  couchpotato.core.loader] Loaded notifications: script[0m
+04-30 01:38:18 INFO [0m[  couchpotato.core.loader] Loaded notifications: slack[0m
+04-30 01:38:18 INFO [0m[  couchpotato.core.loader] Loaded notifications: synoindex[0m
+04-30 01:38:18 INFO [0m[  couchpotato.core.loader] Loaded notifications: telegrambot[0m
+04-30 01:38:18 INFO [0m[  couchpotato.core.loader] Loaded notifications: toasty[0m
+04-30 01:38:18 INFO [0m[  couchpotato.core.loader] Loaded notifications: trakt[0m
+04-30 01:38:18 INFO [0m[  couchpotato.core.loader] Loaded notifications: twitter[0m
+04-30 01:38:19 INFO [0m[  couchpotato.core.loader] Loaded notifications: webhook[0m
+04-30 01:38:19 INFO [0m[  couchpotato.core.loader] Loaded notifications: xbmc[0m
+04-30 01:38:19 INFO [0m[  couchpotato.core.loader] Loaded notifications: xmpp_[0m
+04-30 01:38:20 INFO [0m[  couchpotato.core.loader] Loaded media__base: library[0m
+04-30 01:38:21 INFO [0m[  couchpotato.core.loader] Loaded media__base_matcher: matcher[0m
+04-30 01:38:21 INFO [0m[  couchpotato.core.loader] Loaded media__base_media: media[0m
+04-30 01:38:21 INFO [0m[  couchpotato.core.loader] Loaded media__base_search: search[0m
+04-30 01:38:21 INFO [0m[  couchpotato.core.loader] Loaded media__base: searcher[0m
+04-30 01:38:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie__base: _base[0m
+04-30 01:38:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie: charts[0m
+04-30 01:38:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie: library[0m
+04-30 01:38:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: bluray[0m
+04-30 01:38:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: crowdai[0m
+04-30 01:38:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: flixster[0m
+04-30 01:38:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: goodfilms[0m
+04-30 01:38:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: hummingbird[0m
+04-30 01:38:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: imdb[0m
+04-30 01:38:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: itunes[0m
+04-30 01:38:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: letterboxd[0m
+04-30 01:38:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation: popularmovies[0m
+04-30 01:38:21 INFO [0m[tato.core._base.scheduler] Scheduling updater.check, interval: hours = 24, minutes = 0, seconds = 0[0m
+04-30 01:38:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_automation_trakt: trakt[0m
+04-30 01:38:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_info: _modifier[0m
+04-30 01:38:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_info: couchpotatoapi[0m
+04-30 01:38:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_info: fanarttv[0m
+04-30 01:38:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_info: omdbapi[0m
+04-30 01:38:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_info: themoviedb[0m
+04-30 01:38:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_metadata: mediabrowser[0m
+04-30 01:38:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_metadata: ps3[0m
+04-30 01:38:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_metadata: wdtv[0m
+04-30 01:38:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_metadata: wmc[0m
+04-30 01:38:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_metadata: xbmc[0m
+04-30 01:38:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_nzb: binsearch[0m
+04-30 01:38:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_nzb: newznab[0m
+04-30 01:38:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_nzb: nzbclub[0m
+04-30 01:38:21 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_nzb: omgwtfnzbs[0m
+04-30 01:38:22 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: alpharatio[0m
+04-30 01:38:22 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: awesomehd[0m
+04-30 01:38:22 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: bithdtv[0m
+04-30 01:38:22 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: bitsoup[0m
+04-30 01:38:22 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: hd4free[0m
+04-30 01:38:22 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: hdbits[0m
+04-30 01:38:22 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: ilovetorrents[0m
+04-30 01:38:22 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: iptorrents[0m
+04-30 01:38:22 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: kickasstorrents[0m
+04-30 01:38:22 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: magnetdl[0m
+04-30 01:38:22 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: morethantv[0m
+04-30 01:38:22 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: passthepopcorn[0m
+04-30 01:38:22 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: rarbg[0m
+04-30 01:38:22 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: sceneaccess[0m
+04-30 01:38:22 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: scenetime[0m
+04-30 01:38:22 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: thepiratebay[0m
+04-30 01:38:22 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: torrentbytes[0m
+04-30 01:38:22 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: torrentday[0m
+04-30 01:38:22 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: torrentleech[0m
+04-30 01:38:22 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: torrentpotato[0m
+04-30 01:38:22 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: torrentshack[0m
+04-30 01:38:22 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: torrentz[0m
+04-30 01:38:22 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_torrent: yts[0m
+04-30 01:38:22 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_trailer: hdtrailers[0m
+04-30 01:38:22 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: allocine[0m
+04-30 01:38:22 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: appletrailers[0m
+04-30 01:38:22 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: criticker[0m
+04-30 01:38:22 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: filmcentrum[0m
+04-30 01:38:22 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: filmstarts[0m
+04-30 01:38:22 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: filmweb[0m
+04-30 01:38:22 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: flickchart[0m
+04-30 01:38:22 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: imdb[0m
+04-30 01:38:22 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: letterboxd[0m
+04-30 01:38:22 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: moviemeter[0m
+04-30 01:38:22 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: moviesio[0m
+04-30 01:38:22 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: reddit[0m
+04-30 01:38:22 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: rottentomatoes[0m
+04-30 01:38:22 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: tmdb[0m
+04-30 01:38:22 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: trakt[0m
+04-30 01:38:22 INFO [0m[  couchpotato.core.loader] Loaded media_movie_providers_userscript: youteather[0m
+04-30 01:38:22 INFO [0m[  couchpotato.core.loader] Loaded media_movie: searcher[0m
+04-30 01:38:22 INFO [0m[  couchpotato.core.loader] Loaded media_movie: suggestion[0m
+04-30 01:38:22 INFO [0m[       couchpotato.runner] Starting server on port 5050[0m
+04-30 01:38:22 INFO [0m[tato.core._base.scheduler] Scheduling updater.check, interval: hours = 24, minutes = 0, seconds = 0[0m
+04-30 01:38:22 INFO [0m[tato.core._base.scheduler] Scheduling "movie.searcher.all", cron: day = *, hour = */4, minute = 58[0m
+04-30 01:38:22 INFO [0m[tato.core._base.scheduler] Scheduling automation.add_movies, interval: hours = 12, minutes = 0, seconds = 0[0m
+04-30 01:38:22 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.themoviedb.org/3/configuration?api_key=xxx[0m
+04-30 01:38:22 INFO [0m[tato.core._base.scheduler] Scheduling renamer.check_snatched, interval: hours = 0, minutes = 60, seconds = 0[0m
+04-30 01:38:22 ERROR [31m[tato.core.plugins.renamer] The to folder "" doesn't exist. Please create it.[0m
+04-30 01:38:22 INFO [0m[tato.core._base.scheduler] Scheduling renamer.check_snatched_forced, interval: hours = 2, minutes = 0, seconds = 0[0m
+04-30 01:38:22 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.couchpota.to/messages/?last_check=1384713000, data: [][0m
+04-30 01:38:23 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.cat, data: [][0m
+04-30 01:38:23 INFO [0m[hpotato.core.plugins.base] Opening url: get http://katcr.to/span, data: [][0m
+04-30 01:38:23 INFO [0m[potato.core._base.updater] === VERSION git:(CouchPotato:CouchPotatoServer master) 12ca4c22 (2018-03-31 16:29:42), using GitUpdater ===[0m
+04-30 01:38:25 INFO [0m[core.media.movie.searcher] Search for Ad Astra in Screener[0m
+04-30 01:38:25 INFO [0m[hpotato.core.plugins.base] Opening url: post https://www.sceneaccess.eu/login, data: ['username', 'password', 'submit'][0m
+04-30 01:38:25 INFO [0m[hpotato.core.plugins.base] Opening url: get https://hd4free.xyz/searchapi.php?apikey=&username=&imdbid=tt2935510&internal=False, data: [][0m
+04-30 01:38:25 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt2935510&search=Ad+Astra+2019&user=&passkey=xxx[0m
+04-30 01:38:25 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt2935510&search=Ad+Astra+2019&user=&passkey=xxx[0m
+04-30 01:38:25 ERROR [31m[edia._base.providers.base] Failed to parsing TorrentPotato: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 01:38:27 ERROR [31m[edia._base.providers.base] Failed to login SceneAccess: unknown[0m
+04-30 01:38:27 ERROR [31m[edia._base.providers.base] Failed to login to: SceneAccess[0m
+04-30 01:38:27 ERROR [31m[edia._base.providers.base] Failed to parsing HD4Free: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 01:38:27 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/a/ad-astra-2019/se/desc/1/, data: [][0m
+04-30 01:38:27 INFO [0m[hpotato.core.plugins.base] Opening url: get https://yts.am/api/v2/list_movies.json?query_term=tt2935510&limit=10&page=1, data: [][0m
+04-30 01:38:27 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentapi.org/pubapi_v2.php?get_token=get_token&app_id=couchpotato, data: [][0m
+04-30 01:38:27 INFO [0m[hpotato.core.plugins.base] Opening url: get http://katcr.to/span/m-i2935510/, data: [][0m
+04-30 01:38:27 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.cat/search/%22Ad+Astra+2019%22/0/7/201, data: [][0m
+04-30 01:38:29 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentapi.org/pubapi_v2.php?token=g6p03ekams&mode=search&search_imdb=tt2935510&min_seeders=10&min_leechers=0&ranked=1&category=movies&format=json_extended&app_id=couchpotato, data: [][0m
+04-30 01:38:30 ERROR [31mFailed encoding stuff to log "Cant find imdb in database. Are you sure this imdb exists?": not all arguments converted during string formatting[0m
+04-30 01:38:30 ERROR [31m[e.providers.torrent.rarbg] Cant find imdb in database. Are you sure this imdb exists?[0m
+04-30 01:38:34 ERROR [31m[hpotato.core.plugins.base] Failed opening url in Yts: https://yts.am/api/v2/list_movies.json?query_term=tt2935510&limit=10&page=1 Traceback (most recent call last):
+HTTPError: 525 Server Error: Origin SSL Handshake Error for url: https://yts.am/api/v2/list_movies.json?query_term=tt2935510&limit=10&page=1
+[0m
+04-30 01:38:34 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.nzbclub.com/nzbrss.aspx?q=Ad+Astra+2019&rpp=200&sp=1&ns=1&ig=1&st=5, data: [][0m
+04-30 01:38:34 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.binsearch.info/index.php?q=tt2935510&adv_nfo=on&xminsize=600&adv_age=1500&max=400&xmaxsize=1600&m=n&adv_sort=date&adv_col=on, data: [][0m
+04-30 01:39:04 ERROR [31m[hpotato.core.plugins.base] Failed opening url in NZBClub: https://www.nzbclub.com/nzbrss.aspx?q=Ad+Astra+2019&rpp=200&sp=1&ns=1&ig=1&st=5 Traceback (most recent call last):
+ConnectTimeout: HTTPSConnectionPool(host='www.nzbclub.com', port=443): Max retries exceeded with url: /nzbrss.aspx?q=Ad+Astra+2019&rpp=200&sp=1&ns=1&ig=1&st=5 (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0xb4ccfd70>, 'Connection to www.nzbclub.com timed out. (connect timeout=30)'))
+[0m
+04-30 01:39:04 INFO [0m[core.media.movie.searcher] Search for John Wick: Chapter 3 – Parabellum in Screener[0m
+04-30 01:39:04 INFO [0m[hpotato.core.plugins.base] Opening url: post https://www.sceneaccess.eu/login, data: ['username', 'password', 'submit'][0m
+04-30 01:39:04 INFO [0m[hpotato.core.plugins.base] Opening url: get https://hd4free.xyz/searchapi.php?apikey=&username=&imdbid=tt6146586&internal=False, data: [][0m
+04-30 01:39:04 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6146586&search=John+Wick%3A+Chapter+3+%E2%80%93+Parabellum+2019&user=&passkey=xxx[0m
+04-30 01:39:04 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6146586&search=John+Wick%3A+Chapter+3+%E2%80%93+Parabellum+2019&user=&passkey=xxx[0m
+04-30 01:39:04 ERROR [31m[edia._base.providers.base] Failed to parsing TorrentPotato: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 01:39:05 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/kickasstorrent/results/potato/?imdbid=tt6146586&search=John+Wick%3A+Chapter+3+%E2%80%93+Parabellum+2019&user=&passkey=xxx[0m
+04-30 01:39:05 ERROR [31m[edia._base.providers.base] Failed to login SceneAccess: unknown[0m
+04-30 01:39:05 ERROR [31m[edia._base.providers.base] Failed to login to: SceneAccess[0m
+04-30 01:39:05 ERROR [31m[edia._base.providers.base] Failed to parsing HD4Free: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 01:39:09 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/j/john-wick-chapter-3-parabellum-2019/se/desc/1/, data: [][0m
+04-30 01:39:09 INFO [0m[hpotato.core.plugins.base] Opening url: get https://yts.am/api/v2/list_movies.json?query_term=tt6146586&limit=10&page=1, data: [][0m
+04-30 01:39:09 INFO [0m[hpotato.core.plugins.base] Opening url: get http://katcr.to/span/m-i6146586/, data: [][0m
+04-30 01:39:09 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.cat/search/%22John+Wick%3A+Chapter+3+%E2%80%93+Parabellum+2019%22/0/7/201, data: [][0m
+04-30 01:39:09 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentapi.org/pubapi_v2.php?token=g6p03ekams&mode=search&search_imdb=tt6146586&min_seeders=10&min_leechers=0&ranked=1&category=movies&format=json_extended&app_id=couchpotato, data: [][0m
+04-30 01:39:10 ERROR [31m[hpotato.core.plugins.base] Failed opening url in Yts: https://yts.am/api/v2/list_movies.json?query_term=tt6146586&limit=10&page=1 Traceback (most recent call last):
+HTTPError: 525 Server Error: Origin SSL Handshake Error for url: https://yts.am/api/v2/list_movies.json?query_term=tt6146586&limit=10&page=1
+[0m
+04-30 01:39:10 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/j/john-wick-chapter-3-%E2%80%93-parabellum-2019/se/desc/1/, data: [][0m
+04-30 01:39:11 ERROR [31m[hpotato.core.plugins.base] Failed opening url in MagnetDL: http://www.magnetdl.com/j/john-wick-chapter-3-%E2%80%93-parabellum-2019/se/desc/1/ Traceback (most recent call last):
+HTTPError: 404 Client Error: Not Found for url: https://www.magnetdl.com/j/john-wick-chapter-3-%E2%80%93-parabellum-2019/se/desc/1/
+[0m
+04-30 01:39:11 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.nzbclub.com/nzbrss.aspx?q=John+Wick%3A+Chapter+3+%E2%80%93+Parabellum+2019&rpp=200&sp=1&ns=1&ig=1&st=5, data: [][0m
+04-30 01:39:11 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.binsearch.info/index.php?q=tt6146586&adv_nfo=on&xminsize=600&adv_age=1500&max=400&xmaxsize=1600&m=n&adv_sort=date&adv_col=on, data: [][0m
+04-30 01:39:41 ERROR [31m[hpotato.core.plugins.base] Failed opening url in NZBClub: https://www.nzbclub.com/nzbrss.aspx?q=John+Wick%3A+Chapter+3+%E2%80%93+Parabellum+2019&rpp=200&sp=1&ns=1&ig=1&st=5 Traceback (most recent call last):
+ConnectTimeout: HTTPSConnectionPool(host='www.nzbclub.com', port=443): Max retries exceeded with url: /nzbrss.aspx?q=John+Wick%3A+Chapter+3+%E2%80%93+Parabellum+2019&rpp=200&sp=1&ns=1&ig=1&st=5 (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0xb449ba30>, 'Connection to www.nzbclub.com timed out. (connect timeout=30)'))
+[0m
+04-30 01:39:41 INFO [0m[core.media.movie.searcher] Search for Midsommar in Screener[0m
+04-30 01:39:42 INFO [0m[hpotato.core.plugins.base] Opening url: post https://www.sceneaccess.eu/login, data: ['username', 'password', 'submit'][0m
+04-30 01:39:42 ERROR [31m[edia._base.providers.base] Failed to login SceneAccess: unknown[0m
+04-30 01:39:42 ERROR [31m[edia._base.providers.base] Failed to login to: SceneAccess[0m
+04-30 01:39:42 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt8772262&search=Midsommar+2019&user=&passkey=xxx[0m
+04-30 01:39:42 INFO [0m[hpotato.core.plugins.base] Opening url: get https://hd4free.xyz/searchapi.php?apikey=&username=&imdbid=tt8772262&internal=False, data: [][0m
+04-30 01:39:42 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt8772262&search=Midsommar+2019&user=&passkey=xxx[0m
+04-30 01:39:42 ERROR [31m[edia._base.providers.base] Failed to parsing TorrentPotato: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 01:39:42 ERROR [31m[edia._base.providers.base] Failed to parsing HD4Free: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 01:39:42 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/m/midsommar-2019/se/desc/1/, data: [][0m
+04-30 01:39:42 INFO [0m[hpotato.core.plugins.base] Opening url: get http://katcr.to/span/m-i8772262/, data: [][0m
+04-30 01:39:42 INFO [0m[hpotato.core.plugins.base] Opening url: get https://yts.am/api/v2/list_movies.json?query_term=tt8772262&limit=10&page=1, data: [][0m
+04-30 01:39:42 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.cat/search/%22Midsommar+2019%22/0/7/201, data: [][0m
+04-30 01:39:42 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentapi.org/pubapi_v2.php?token=g6p03ekams&mode=search&search_imdb=tt8772262&min_seeders=10&min_leechers=0&ranked=1&category=movies&format=json_extended&app_id=couchpotato, data: [][0m
+04-30 01:40:12 ERROR [31m[hpotato.core.plugins.base] Failed opening url in Yts: https://yts.am/api/v2/list_movies.json?query_term=tt8772262&limit=10&page=1 Traceback (most recent call last):
+ReadTimeout: HTTPSConnectionPool(host='yts.am', port=443): Read timed out. (read timeout=30)
+[0m
+04-30 01:40:13 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.nzbclub.com/nzbrss.aspx?q=Midsommar+2019&rpp=200&sp=1&ns=1&ig=1&st=5, data: [][0m
+04-30 01:40:13 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.binsearch.info/index.php?q=tt8772262&adv_nfo=on&xminsize=600&adv_age=1500&max=400&xmaxsize=1600&m=n&adv_sort=date&adv_col=on, data: [][0m
+04-30 01:40:43 ERROR [31m[hpotato.core.plugins.base] Failed opening url in NZBClub: https://www.nzbclub.com/nzbrss.aspx?q=Midsommar+2019&rpp=200&sp=1&ns=1&ig=1&st=5 Traceback (most recent call last):
+ConnectTimeout: HTTPSConnectionPool(host='www.nzbclub.com', port=443): Max retries exceeded with url: /nzbrss.aspx?q=Midsommar+2019&rpp=200&sp=1&ns=1&ig=1&st=5 (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0xb4ae30d0>, 'Connection to www.nzbclub.com timed out. (connect timeout=30)'))
+[0m
+04-30 01:40:43 INFO [0m[core.media.movie.searcher] Search for Deadpool: No Good Deed in 720p[0m
+04-30 01:40:43 INFO [0m[hpotato.core.plugins.base] Opening url: post https://www.sceneaccess.eu/login, data: ['username', 'password', 'submit'][0m
+04-30 01:40:43 INFO [0m[hpotato.core.plugins.base] Opening url: get https://hd4free.xyz/searchapi.php?apikey=&username=&imdbid=tt6612630&internal=False, data: [][0m
+04-30 01:40:43 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 01:40:44 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 01:40:44 ERROR [31m[edia._base.providers.base] Failed to parsing TorrentPotato: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 01:40:44 ERROR [31m[edia._base.providers.base] Failed to login SceneAccess: unknown[0m
+04-30 01:40:44 ERROR [31m[edia._base.providers.base] Failed to login to: SceneAccess[0m
+04-30 01:40:44 ERROR [31m[edia._base.providers.base] Failed to parsing HD4Free: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 01:40:44 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+04-30 01:40:45 INFO [0m[hpotato.core.plugins.base] Opening url: get https://yts.am/api/v2/list_movies.json?query_term=tt6612630&limit=10&page=1, data: [][0m
+04-30 01:40:45 INFO [0m[hpotato.core.plugins.base] Opening url: get http://katcr.to/span/m-i6612630/, data: [][0m
+04-30 01:40:45 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.cat/search/%22Deadpool%3A+No+Good+Deed+2017%22/0/7/207, data: [][0m
+04-30 01:40:45 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentapi.org/pubapi_v2.php?token=g6p03ekams&mode=search&search_imdb=tt6612630&min_seeders=10&min_leechers=0&ranked=1&category=movies&format=json_extended&app_id=couchpotato, data: [][0m
+04-30 01:40:45 ERROR [31mFailed encoding stuff to log "Cant find imdb in database. Are you sure this imdb exists?": not all arguments converted during string formatting[0m
+04-30 01:40:45 ERROR [31m[e.providers.torrent.rarbg] Cant find imdb in database. Are you sure this imdb exists?[0m
+04-30 01:40:46 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+04-30 01:40:47 ERROR [31m[hpotato.core.plugins.base] Failed opening url in Yts: https://yts.am/api/v2/list_movies.json?query_term=tt6612630&limit=10&page=1 Traceback (most recent call last):
+HTTPError: 520 Server Error: Origin Error for url: https://yts.am/api/v2/list_movies.json?query_term=tt6612630&limit=10&page=1
+[0m
+04-30 01:40:47 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.nzbclub.com/nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5, data: [][0m
+04-30 01:40:47 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.binsearch.info/index.php?q=tt6612630&adv_nfo=on&xminsize=3000&adv_age=1500&max=400&xmaxsize=10000&m=n&adv_sort=date&adv_col=on, data: [][0m
+04-30 01:41:17 ERROR [31m[hpotato.core.plugins.base] Failed opening url in NZBClub: https://www.nzbclub.com/nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5 Traceback (most recent call last):
+ConnectTimeout: HTTPSConnectionPool(host='www.nzbclub.com', port=443): Max retries exceeded with url: /nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5 (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0xb4d57ef0>, 'Connection to www.nzbclub.com timed out. (connect timeout=30)'))
+[0m
+04-30 01:41:17 INFO [0m[core.media.movie.searcher] Search for Deadpool: No Good Deed in 1080p[0m
+04-30 01:41:17 INFO [0m[hpotato.core.plugins.base] Opening url: post https://www.sceneaccess.eu/login, data: ['username', 'password', 'submit'][0m
+04-30 01:41:17 ERROR [31m[edia._base.providers.base] Failed to parsing HD4Free: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 01:41:17 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 01:41:17 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 01:41:17 ERROR [31m[edia._base.providers.base] Failed to parsing TorrentPotato: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 01:41:17 ERROR [31m[edia._base.providers.base] Failed to login SceneAccess: unknown[0m
+04-30 01:41:17 ERROR [31m[edia._base.providers.base] Failed to login to: SceneAccess[0m
+04-30 01:41:17 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+04-30 01:41:17 INFO [0m[hpotato.core.plugins.base] Opening url: get https://yts.am/api/v2/list_movies.json?query_term=tt6612630&limit=10&page=1, data: [][0m
+04-30 01:41:17 ERROR [31mFailed encoding stuff to log "Cant find imdb in database. Are you sure this imdb exists?": not all arguments converted during string formatting[0m
+04-30 01:41:17 ERROR [31m[e.providers.torrent.rarbg] Cant find imdb in database. Are you sure this imdb exists?[0m
+04-30 01:41:18 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+04-30 01:41:47 ERROR [31m[hpotato.core.plugins.base] Failed opening url in Yts: https://yts.am/api/v2/list_movies.json?query_term=tt6612630&limit=10&page=1 Traceback (most recent call last):
+ReadTimeout: HTTPSConnectionPool(host='yts.am', port=443): Read timed out. (read timeout=30)
+[0m
+04-30 01:41:47 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.nzbclub.com/nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5, data: [][0m
+04-30 01:41:47 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.binsearch.info/index.php?q=tt6612630&adv_nfo=on&xminsize=4000&adv_age=1500&max=400&xmaxsize=20000&m=n&adv_sort=date&adv_col=on, data: [][0m
+04-30 01:42:17 ERROR [31m[hpotato.core.plugins.base] Failed opening url in NZBClub: https://www.nzbclub.com/nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5 Traceback (most recent call last):
+ConnectTimeout: HTTPSConnectionPool(host='www.nzbclub.com', port=443): Max retries exceeded with url: /nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5 (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0xb447d450>, 'Connection to www.nzbclub.com timed out. (connect timeout=30)'))
+[0m
+04-30 01:42:17 INFO [0m[core.media.movie.searcher] Search for Deadpool: No Good Deed in BR-Rip[0m
+04-30 01:42:17 INFO [0m[hpotato.core.plugins.base] Opening url: post https://www.sceneaccess.eu/login, data: ['username', 'password', 'submit'][0m
+04-30 01:42:18 ERROR [31m[edia._base.providers.base] Failed to parsing HD4Free: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 01:42:18 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 01:42:18 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 01:42:18 ERROR [31m[edia._base.providers.base] Failed to parsing TorrentPotato: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 01:42:18 ERROR [31m[edia._base.providers.base] Failed to login SceneAccess: unknown[0m
+04-30 01:42:18 ERROR [31m[edia._base.providers.base] Failed to login to: SceneAccess[0m
+04-30 01:42:18 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+04-30 01:42:18 INFO [0m[hpotato.core.plugins.base] Opening url: get https://yts.am/api/v2/list_movies.json?query_term=tt6612630&limit=10&page=1, data: [][0m
+04-30 01:42:18 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.cat/search/%22Deadpool%3A+No+Good+Deed+2017%22/0/7/201,207, data: [][0m
+04-30 01:42:18 ERROR [31mFailed encoding stuff to log "Cant find imdb in database. Are you sure this imdb exists?": not all arguments converted during string formatting[0m
+04-30 01:42:19 ERROR [31m[e.providers.torrent.rarbg] Cant find imdb in database. Are you sure this imdb exists?[0m
+04-30 01:42:20 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+04-30 01:42:46 ERROR [31m[hpotato.core.plugins.base] Failed opening url in Yts: https://yts.am/api/v2/list_movies.json?query_term=tt6612630&limit=10&page=1 Traceback (most recent call last):
+HTTPError: 525 Server Error: Origin SSL Handshake Error for url: https://yts.am/api/v2/list_movies.json?query_term=tt6612630&limit=10&page=1
+[0m
+04-30 01:42:46 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.binsearch.info/index.php?q=tt6612630&adv_nfo=on&xminsize=700&adv_age=1500&max=400&xmaxsize=7000&m=n&adv_sort=date&adv_col=on, data: [][0m
+04-30 01:42:46 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.nzbclub.com/nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5, data: [][0m
+04-30 01:43:16 ERROR [31m[hpotato.core.plugins.base] Failed opening url in NZBClub: https://www.nzbclub.com/nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5 Traceback (most recent call last):
+ConnectTimeout: HTTPSConnectionPool(host='www.nzbclub.com', port=443): Max retries exceeded with url: /nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5 (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0xb4d733f0>, 'Connection to www.nzbclub.com timed out. (connect timeout=30)'))
+[0m
+04-30 01:43:16 INFO [0m[core.media.movie.searcher] Search for Deadpool: No Good Deed in BR-Disk[0m
+04-30 01:43:17 INFO [0m[hpotato.core.plugins.base] Opening url: post https://www.sceneaccess.eu/login, data: ['username', 'password', 'submit'][0m
+04-30 01:43:17 ERROR [31m[edia._base.providers.base] Failed to parsing HD4Free: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 01:43:17 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 01:43:17 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 01:43:17 ERROR [31m[edia._base.providers.base] Failed to parsing TorrentPotato: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 01:43:17 ERROR [31m[edia._base.providers.base] Failed to login SceneAccess: unknown[0m
+04-30 01:43:17 ERROR [31m[edia._base.providers.base] Failed to login to: SceneAccess[0m
+04-30 01:43:17 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+04-30 01:43:17 ERROR [31mFailed encoding stuff to log "Cant find imdb in database. Are you sure this imdb exists?": not all arguments converted during string formatting[0m
+04-30 01:43:17 ERROR [31m[e.providers.torrent.rarbg] Cant find imdb in database. Are you sure this imdb exists?[0m
+04-30 01:43:18 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+04-30 01:43:18 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.binsearch.info/index.php?q=tt6612630&adv_nfo=on&xminsize=20000&adv_age=1500&max=400&xmaxsize=60000&m=n&adv_sort=date&adv_col=on, data: [][0m
+04-30 01:43:19 INFO [0m[core.media.movie.searcher] Search for Deadpool: No Good Deed in DVD-Rip[0m
+04-30 01:43:19 INFO [0m[hpotato.core.plugins.base] Opening url: post https://www.sceneaccess.eu/login, data: ['username', 'password', 'submit'][0m
+04-30 01:43:19 ERROR [31m[edia._base.providers.base] Failed to parsing HD4Free: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 01:43:19 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 01:43:19 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 01:43:19 ERROR [31m[edia._base.providers.base] Failed to parsing TorrentPotato: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 01:43:19 ERROR [31m[edia._base.providers.base] Failed to login SceneAccess: unknown[0m
+04-30 01:43:19 ERROR [31m[edia._base.providers.base] Failed to login to: SceneAccess[0m
+04-30 01:43:19 ERROR [31mFailed encoding stuff to log "Cant find imdb in database. Are you sure this imdb exists?": not all arguments converted during string formatting[0m
+04-30 01:43:19 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.cat/search/%22Deadpool%3A+No+Good+Deed+2017%22/0/7/201, data: [][0m
+04-30 01:43:19 ERROR [31m[e.providers.torrent.rarbg] Cant find imdb in database. Are you sure this imdb exists?[0m
+04-30 01:43:19 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+04-30 01:43:20 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+04-30 01:43:23 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.binsearch.info/index.php?q=tt6612630&adv_nfo=on&xminsize=600&adv_age=1500&max=400&xmaxsize=2400&m=n&adv_sort=date&adv_col=on, data: [][0m
+04-30 01:43:25 INFO [0m[core.media.movie.searcher] Search for Deadpool: No Good Deed in DVD-R[0m
+04-30 01:43:25 INFO [0m[hpotato.core.plugins.base] Opening url: post https://www.sceneaccess.eu/login, data: ['username', 'password', 'submit'][0m
+04-30 01:43:25 ERROR [31m[edia._base.providers.base] Failed to parsing HD4Free: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 01:43:25 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 01:43:25 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 01:43:25 ERROR [31m[edia._base.providers.base] Failed to parsing TorrentPotato: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 01:43:25 ERROR [31m[edia._base.providers.base] Failed to login SceneAccess: unknown[0m
+04-30 01:43:25 ERROR [31m[edia._base.providers.base] Failed to login to: SceneAccess[0m
+04-30 01:43:25 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+04-30 01:43:25 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.cat/search/%22Deadpool%3A+No+Good+Deed+2017%22/0/7/202, data: [][0m
+04-30 01:43:25 ERROR [31mFailed encoding stuff to log "Cant find imdb in database. Are you sure this imdb exists?": not all arguments converted during string formatting[0m
+04-30 01:43:25 ERROR [31m[e.providers.torrent.rarbg] Cant find imdb in database. Are you sure this imdb exists?[0m
+04-30 01:43:26 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+04-30 01:43:27 INFO [0m[core.media.movie.searcher] Search for Deadpool: No Good Deed in Screener[0m
+04-30 01:43:27 INFO [0m[hpotato.core.plugins.base] Opening url: post https://www.sceneaccess.eu/login, data: ['username', 'password', 'submit'][0m
+04-30 01:43:27 ERROR [31m[edia._base.providers.base] Failed to parsing HD4Free: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 01:43:27 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 01:43:27 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 01:43:27 ERROR [31m[edia._base.providers.base] Failed to parsing TorrentPotato: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 01:43:27 ERROR [31m[edia._base.providers.base] Failed to login SceneAccess: unknown[0m
+04-30 01:43:27 ERROR [31m[edia._base.providers.base] Failed to login to: SceneAccess[0m
+04-30 01:43:27 ERROR [31mFailed encoding stuff to log "Cant find imdb in database. Are you sure this imdb exists?": not all arguments converted during string formatting[0m
+04-30 01:43:27 ERROR [31m[e.providers.torrent.rarbg] Cant find imdb in database. Are you sure this imdb exists?[0m
+04-30 01:43:27 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+04-30 01:43:29 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+04-30 01:43:29 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.binsearch.info/index.php?q=tt6612630&adv_nfo=on&xminsize=600&adv_age=1500&max=400&xmaxsize=1600&m=n&adv_sort=date&adv_col=on, data: [][0m
+04-30 01:43:30 INFO [0m[core.media.movie.searcher] Better quality (scr) already available or snatched for Hellboy[0m
+04-30 01:43:30 INFO [0m[core.media.movie.searcher] Search for Joker in Screener[0m
+04-30 01:43:30 INFO [0m[hpotato.core.plugins.base] Opening url: post https://www.sceneaccess.eu/login, data: ['username', 'password', 'submit'][0m
+04-30 01:43:30 INFO [0m[hpotato.core.plugins.base] Opening url: get https://hd4free.xyz/searchapi.php?apikey=&username=&imdbid=tt7286456&internal=False, data: [][0m
+04-30 01:43:30 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt7286456&search=Joker+2019&user=&passkey=xxx[0m
+04-30 01:43:30 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt7286456&search=Joker+2019&user=&passkey=xxx[0m
+04-30 01:43:30 ERROR [31m[edia._base.providers.base] Failed to parsing TorrentPotato: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 01:43:30 ERROR [31m[edia._base.providers.base] Failed to login SceneAccess: unknown[0m
+04-30 01:43:30 ERROR [31m[edia._base.providers.base] Failed to login to: SceneAccess[0m
+04-30 01:43:31 ERROR [31m[edia._base.providers.base] Failed to parsing HD4Free: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 01:43:31 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/j/joker-2019/se/desc/1/, data: [][0m
+04-30 01:43:31 INFO [0m[hpotato.core.plugins.base] Opening url: get http://katcr.to/span/m-i7286456/, data: [][0m
+04-30 01:43:31 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.cat/search/%22Joker+2019%22/0/7/201, data: [][0m
+04-30 01:43:31 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentapi.org/pubapi_v2.php?token=g6p03ekams&mode=search&search_imdb=tt7286456&min_seeders=10&min_leechers=0&ranked=1&category=movies&format=json_extended&app_id=couchpotato, data: [][0m
+04-30 01:43:33 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.binsearch.info/index.php?q=tt7286456&adv_nfo=on&xminsize=600&adv_age=1500&max=400&xmaxsize=1600&m=n&adv_sort=date&adv_col=on, data: [][0m
+04-30 02:38:22 ERROR [31m[tato.core.plugins.renamer] The to folder "" doesn't exist. Please create it.[0m
+04-30 03:38:23 ERROR [31m[tato.core.plugins.renamer] The to folder "" doesn't exist. Please create it.[0m
+04-30 03:38:23 ERROR [31m[tato.core.plugins.renamer] The to folder "" doesn't exist. Please create it.[0m
+04-30 04:38:24 ERROR [31m[tato.core.plugins.renamer] The to folder "" doesn't exist. Please create it.[0m
+04-30 04:58:00 INFO [0m[core.media.movie.searcher] Search for Deadpool: No Good Deed in 720p[0m
+04-30 04:58:00 INFO [0m[hpotato.core.plugins.base] Opening url: post https://www.sceneaccess.eu/login, data: ['username', 'password', 'submit'][0m
+04-30 04:58:00 INFO [0m[hpotato.core.plugins.base] Opening url: get https://hd4free.xyz/searchapi.php?apikey=&username=&imdbid=tt6612630&internal=False, data: [][0m
+04-30 04:58:00 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/gimmepeers/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 04:58:01 ERROR [31m[edia._base.providers.base] Failed to login SceneAccess: unknown[0m
+04-30 04:58:01 ERROR [31m[edia._base.providers.base] Failed to login to: SceneAccess[0m
+04-30 04:58:01 ERROR [31m[edia._base.providers.base] Failed to parsing HD4Free: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 04:58:04 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/1337x/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 04:58:11 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 04:58:11 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 04:58:12 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/anidex/results/torznab/api?apikey=xxx&t=search&cat=&q=?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 04:58:30 ERROR [31m[edia._base.providers.base] Failed to parsing TorrentPotato: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 04:58:31 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/isohunt2/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 04:58:35 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/katcrs/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 04:58:40 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/kickasstorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 04:59:10 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.0.12:9117/api/v2.0/indexers/kickasstorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 04:59:10 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/limetorrents/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 04:59:12 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/magnetdl/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 04:59:13 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/nyaasi/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 04:59:14 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+04-30 04:59:14 INFO [0m[hpotato.core.plugins.base] Opening url: get https://yts.am/api/v2/list_movies.json?query_term=tt6612630&limit=10&page=1, data: [][0m
+04-30 04:59:14 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentapi.org/pubapi_v2.php?get_token=get_token&app_id=couchpotato, data: [][0m
+04-30 04:59:14 INFO [0m[hpotato.core.plugins.base] Opening url: get http://katcr.to/span/m-i6612630/, data: [][0m
+04-30 04:59:14 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.cat/search/%22Deadpool%3A+No+Good+Deed+2017%22/0/7/207, data: [][0m
+04-30 04:59:44 ERROR [31m[hpotato.core.plugins.base] Failed opening url in MagnetDL: http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/ Traceback (most recent call last):
+ReadTimeout: HTTPSConnectionPool(host='www.magnetdl.com', port=443): Read timed out. (read timeout=30)
+[0m
+04-30 04:59:44 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+04-30 04:59:44 ERROR [31m[hpotato.core.plugins.base] Failed opening url in Rarbg: https://torrentapi.org/pubapi_v2.php?get_token=get_token&app_id=couchpotato Traceback (most recent call last):
+ReadTimeout: HTTPSConnectionPool(host='torrentapi.org', port=443): Read timed out. (read timeout=30)
+[0m
+04-30 04:59:44 ERROR [31m[hpotato.core.plugins.base] Failed opening url in KickAssTorrents: http://katcr.to/span/m-i6612630/ Traceback (most recent call last):
+ReadTimeout: HTTPSConnectionPool(host='katcr.to', port=443): Read timed out. (read timeout=30)
+[0m
+04-30 04:59:44 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentapi.org/pubapi_v2.php?token=g6p03ekams&mode=search&search_imdb=tt6612630&min_seeders=10&min_leechers=0&ranked=1&category=movies&format=json_extended&app_id=couchpotato, data: [][0m
+04-30 04:59:44 ERROR [31m[hpotato.core.plugins.base] Failed opening url in Yts: https://yts.am/api/v2/list_movies.json?query_term=tt6612630&limit=10&page=1 Traceback (most recent call last):
+ReadTimeout: HTTPSConnectionPool(host='yts.am', port=443): Read timed out. (read timeout=30)
+[0m
+04-30 04:59:44 ERROR [31m[hpotato.core.plugins.base] Failed opening url in ThePirateBay: https://pirateproxy.cat/search/%22Deadpool%3A+No+Good+Deed+2017%22/0/7/207 Traceback (most recent call last):
+ReadTimeout: HTTPSConnectionPool(host='pirateproxy.lat', port=443): Read timed out. (read timeout=30)
+[0m
+04-30 04:59:45 ERROR [31mFailed encoding stuff to log "Cant find imdb in database. Are you sure this imdb exists?": not all arguments converted during string formatting[0m
+04-30 04:59:45 ERROR [31m[e.providers.torrent.rarbg] Cant find imdb in database. Are you sure this imdb exists?[0m
+04-30 04:59:45 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.nzbclub.com/nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5, data: [][0m
+04-30 04:59:45 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.binsearch.info/index.php?q=tt6612630&adv_nfo=on&xminsize=3000&adv_age=1500&max=400&xmaxsize=10000&m=n&adv_sort=date&adv_col=on, data: [][0m
+04-30 04:59:45 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.nzbgeek.info/api?imdbid=6612630&apikey=xxx&t=movie&extended=1&cat=2000, data: [][0m
+04-30 05:00:15 ERROR [31m[hpotato.core.plugins.base] Failed opening url in NZBClub: https://www.nzbclub.com/nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5 Traceback (most recent call last):
+ConnectTimeout: HTTPSConnectionPool(host='www.nzbclub.com', port=443): Max retries exceeded with url: /nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5 (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0xb499a810>, 'Connection to www.nzbclub.com timed out. (connect timeout=30)'))
+[0m
+04-30 05:00:15 INFO [0m[core.media.movie.searcher] Search for Deadpool: No Good Deed in 1080p[0m
+04-30 05:00:15 INFO [0m[hpotato.core.plugins.base] Opening url: post https://www.sceneaccess.eu/login, data: ['username', 'password', 'submit'][0m
+04-30 05:00:15 ERROR [31m[edia._base.providers.base] Failed to parsing HD4Free: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 05:00:15 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 05:00:15 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 05:00:15 ERROR [31m[edia._base.providers.base] Failed to parsing TorrentPotato: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 05:00:15 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/kickasstorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 05:00:16 ERROR [31m[edia._base.providers.base] Failed to login SceneAccess: unknown[0m
+04-30 05:00:16 ERROR [31m[edia._base.providers.base] Failed to login to: SceneAccess[0m
+04-30 05:00:45 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.0.12:9117/api/v2.0/indexers/kickasstorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 05:00:45 INFO [0m[hpotato.core.plugins.base] Opening url: get http://katcr.to/span/m-i6612630/, data: [][0m
+04-30 05:00:45 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+04-30 05:00:45 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentapi.org/pubapi_v2.php?get_token=get_token&app_id=couchpotato, data: [][0m
+04-30 05:00:45 INFO [0m[hpotato.core.plugins.base] Opening url: get https://yts.am/api/v2/list_movies.json?query_term=tt6612630&limit=10&page=1, data: [][0m
+04-30 05:00:45 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.cat/search/%22Deadpool%3A+No+Good+Deed+2017%22/0/7/207, data: [][0m
+04-30 05:00:46 ERROR [31mFailed encoding stuff to log "Cant find imdb in database. Are you sure this imdb exists?": not all arguments converted during string formatting[0m
+04-30 05:00:46 ERROR [31m[e.providers.torrent.rarbg] Cant find imdb in database. Are you sure this imdb exists?[0m
+04-30 05:00:47 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+04-30 05:00:47 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.nzbclub.com/nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5, data: [][0m
+04-30 05:00:47 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.binsearch.info/index.php?q=tt6612630&adv_nfo=on&xminsize=4000&adv_age=1500&max=400&xmaxsize=20000&m=n&adv_sort=date&adv_col=on, data: [][0m
+04-30 05:01:17 ERROR [31m[hpotato.core.plugins.base] Failed opening url in NZBClub: https://www.nzbclub.com/nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5 Traceback (most recent call last):
+ConnectTimeout: HTTPSConnectionPool(host='www.nzbclub.com', port=443): Max retries exceeded with url: /nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5 (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0xb49a6ff0>, 'Connection to www.nzbclub.com timed out. (connect timeout=30)'))
+[0m
+04-30 05:01:17 INFO [0m[core.media.movie.searcher] Search for Deadpool: No Good Deed in BR-Rip[0m
+04-30 05:01:17 INFO [0m[hpotato.core.plugins.base] Opening url: post https://www.sceneaccess.eu/login, data: ['username', 'password', 'submit'][0m
+04-30 05:01:17 ERROR [31m[edia._base.providers.base] Failed to parsing HD4Free: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 05:01:17 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 05:01:17 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 05:01:17 ERROR [31m[edia._base.providers.base] Failed to parsing TorrentPotato: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 05:01:17 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/kickasstorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 05:01:18 ERROR [31m[edia._base.providers.base] Failed to login SceneAccess: unknown[0m
+04-30 05:01:18 ERROR [31m[edia._base.providers.base] Failed to login to: SceneAccess[0m
+04-30 05:01:18 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+04-30 05:01:18 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.cat/search/%22Deadpool%3A+No+Good+Deed+2017%22/0/7/201,207, data: [][0m
+04-30 05:01:18 ERROR [31mFailed encoding stuff to log "Cant find imdb in database. Are you sure this imdb exists?": not all arguments converted during string formatting[0m
+04-30 05:01:18 ERROR [31m[e.providers.torrent.rarbg] Cant find imdb in database. Are you sure this imdb exists?[0m
+04-30 05:01:20 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+04-30 05:01:20 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.nzbclub.com/nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5, data: [][0m
+04-30 05:01:20 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.binsearch.info/index.php?q=tt6612630&adv_nfo=on&xminsize=700&adv_age=1500&max=400&xmaxsize=7000&m=n&adv_sort=date&adv_col=on, data: [][0m
+04-30 05:01:50 ERROR [31m[hpotato.core.plugins.base] Failed opening url in NZBClub: https://www.nzbclub.com/nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5 Traceback (most recent call last):
+ConnectTimeout: HTTPSConnectionPool(host='www.nzbclub.com', port=443): Max retries exceeded with url: /nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5 (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0xb4a96130>, 'Connection to www.nzbclub.com timed out. (connect timeout=30)'))
+[0m
+04-30 05:01:50 INFO [0m[core.media.movie.searcher] Search for Deadpool: No Good Deed in BR-Disk[0m
+04-30 05:01:50 INFO [0m[hpotato.core.plugins.base] Opening url: post https://www.sceneaccess.eu/login, data: ['username', 'password', 'submit'][0m
+04-30 05:01:50 ERROR [31m[edia._base.providers.base] Failed to parsing HD4Free: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 05:01:50 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 05:01:50 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 05:01:50 ERROR [31m[edia._base.providers.base] Failed to parsing TorrentPotato: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 05:01:50 ERROR [31m[edia._base.providers.base] Failed to login SceneAccess: unknown[0m
+04-30 05:01:50 ERROR [31m[edia._base.providers.base] Failed to login to: SceneAccess[0m
+04-30 05:01:50 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+04-30 05:01:50 ERROR [31mFailed encoding stuff to log "Cant find imdb in database. Are you sure this imdb exists?": not all arguments converted during string formatting[0m
+04-30 05:01:50 ERROR [31m[e.providers.torrent.rarbg] Cant find imdb in database. Are you sure this imdb exists?[0m
+04-30 05:01:51 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+04-30 05:01:52 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.nzbclub.com/nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5, data: [][0m
+04-30 05:01:52 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.binsearch.info/index.php?q=tt6612630&adv_nfo=on&xminsize=20000&adv_age=1500&max=400&xmaxsize=60000&m=n&adv_sort=date&adv_col=on, data: [][0m
+04-30 05:02:22 ERROR [31m[hpotato.core.plugins.base] Failed opening url in NZBClub: https://www.nzbclub.com/nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5 Traceback (most recent call last):
+ConnectTimeout: HTTPSConnectionPool(host='www.nzbclub.com', port=443): Max retries exceeded with url: /nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5 (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0xb4a5e4f0>, 'Connection to www.nzbclub.com timed out. (connect timeout=30)'))
+[0m
+04-30 05:02:22 INFO [0m[core.media.movie.searcher] Search for Deadpool: No Good Deed in DVD-Rip[0m
+04-30 05:02:22 INFO [0m[hpotato.core.plugins.base] Opening url: post https://www.sceneaccess.eu/login, data: ['username', 'password', 'submit'][0m
+04-30 05:02:22 ERROR [31m[edia._base.providers.base] Failed to parsing HD4Free: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 05:02:22 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 05:02:22 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 05:02:22 ERROR [31m[edia._base.providers.base] Failed to parsing TorrentPotato: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 05:02:22 ERROR [31m[edia._base.providers.base] Failed to login SceneAccess: unknown[0m
+04-30 05:02:22 ERROR [31m[edia._base.providers.base] Failed to login to: SceneAccess[0m
+04-30 05:02:22 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+04-30 05:02:22 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.cat/search/%22Deadpool%3A+No+Good+Deed+2017%22/0/7/201, data: [][0m
+04-30 05:02:22 ERROR [31mFailed encoding stuff to log "Cant find imdb in database. Are you sure this imdb exists?": not all arguments converted during string formatting[0m
+04-30 05:02:22 ERROR [31m[e.providers.torrent.rarbg] Cant find imdb in database. Are you sure this imdb exists?[0m
+04-30 05:02:23 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+04-30 05:02:24 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.nzbclub.com/nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5, data: [][0m
+04-30 05:02:24 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.binsearch.info/index.php?q=tt6612630&adv_nfo=on&xminsize=600&adv_age=1500&max=400&xmaxsize=2400&m=n&adv_sort=date&adv_col=on, data: [][0m
+04-30 05:02:54 ERROR [31m[hpotato.core.plugins.base] Failed opening url in NZBClub: https://www.nzbclub.com/nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5 Traceback (most recent call last):
+ConnectTimeout: HTTPSConnectionPool(host='www.nzbclub.com', port=443): Max retries exceeded with url: /nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5 (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0xb4a753b0>, 'Connection to www.nzbclub.com timed out. (connect timeout=30)'))
+[0m
+04-30 05:02:54 INFO [0m[core.media.movie.searcher] Search for Deadpool: No Good Deed in DVD-R[0m
+04-30 05:02:54 INFO [0m[hpotato.core.plugins.base] Opening url: post https://www.sceneaccess.eu/login, data: ['username', 'password', 'submit'][0m
+04-30 05:02:54 ERROR [31m[edia._base.providers.base] Failed to parsing HD4Free: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 05:02:55 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 05:02:55 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 05:02:55 ERROR [31m[edia._base.providers.base] Failed to parsing TorrentPotato: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 05:02:55 ERROR [31m[edia._base.providers.base] Failed to login SceneAccess: unknown[0m
+04-30 05:02:55 ERROR [31m[edia._base.providers.base] Failed to login to: SceneAccess[0m
+04-30 05:02:55 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+04-30 05:02:55 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.cat/search/%22Deadpool%3A+No+Good+Deed+2017%22/0/7/202, data: [][0m
+04-30 05:02:55 ERROR [31mFailed encoding stuff to log "Cant find imdb in database. Are you sure this imdb exists?": not all arguments converted during string formatting[0m
+04-30 05:02:55 ERROR [31m[e.providers.torrent.rarbg] Cant find imdb in database. Are you sure this imdb exists?[0m
+04-30 05:02:56 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+04-30 05:02:56 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.nzbclub.com/nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5, data: [][0m
+04-30 05:03:26 ERROR [31m[hpotato.core.plugins.base] Failed opening url in NZBClub: https://www.nzbclub.com/nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5 Traceback (most recent call last):
+ConnectTimeout: HTTPSConnectionPool(host='www.nzbclub.com', port=443): Max retries exceeded with url: /nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5 (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0xb4a24d70>, 'Connection to www.nzbclub.com timed out. (connect timeout=30)'))
+[0m
+04-30 05:03:26 INFO [0m[core.media.movie.searcher] Search for Deadpool: No Good Deed in Screener[0m
+04-30 05:03:27 INFO [0m[hpotato.core.plugins.base] Opening url: post https://www.sceneaccess.eu/login, data: ['username', 'password', 'submit'][0m
+04-30 05:03:27 INFO [0m[hpotato.core.plugins.base] Opening url: get https://hd4free.xyz/searchapi.php?apikey=&username=&imdbid=tt6612630&internal=False, data: [][0m
+04-30 05:03:27 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 05:03:27 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 05:03:27 ERROR [31m[edia._base.providers.base] Failed to parsing TorrentPotato: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 05:03:27 ERROR [31m[edia._base.providers.base] Failed to login SceneAccess: unknown[0m
+04-30 05:03:27 ERROR [31m[edia._base.providers.base] Failed to login to: SceneAccess[0m
+04-30 05:03:28 ERROR [31m[edia._base.providers.base] Failed to parsing HD4Free: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 05:03:28 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+04-30 05:03:28 ERROR [31mFailed encoding stuff to log "Cant find imdb in database. Are you sure this imdb exists?": not all arguments converted during string formatting[0m
+04-30 05:03:28 ERROR [31m[e.providers.torrent.rarbg] Cant find imdb in database. Are you sure this imdb exists?[0m
+04-30 05:03:29 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+04-30 05:03:29 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.binsearch.info/index.php?q=tt6612630&adv_nfo=on&xminsize=600&adv_age=1500&max=400&xmaxsize=1600&m=n&adv_sort=date&adv_col=on, data: [][0m
+04-30 05:03:30 INFO [0m[core.media.movie.searcher] Search for Midsommar in Screener[0m
+04-30 05:03:30 INFO [0m[hpotato.core.plugins.base] Opening url: post https://www.sceneaccess.eu/login, data: ['username', 'password', 'submit'][0m
+04-30 05:03:30 INFO [0m[hpotato.core.plugins.base] Opening url: get https://hd4free.xyz/searchapi.php?apikey=&username=&imdbid=tt8772262&internal=False, data: [][0m
+04-30 05:03:30 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/gimmepeers/results/potato/?imdbid=tt8772262&search=Midsommar+2019&user=&passkey=xxx[0m
+04-30 05:03:30 ERROR [31m[edia._base.providers.base] Failed to login SceneAccess: unknown[0m
+04-30 05:03:30 ERROR [31m[edia._base.providers.base] Failed to login to: SceneAccess[0m
+04-30 05:03:30 ERROR [31m[edia._base.providers.base] Failed to parsing HD4Free: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 05:03:35 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/1337x/results/potato/?imdbid=tt8772262&search=Midsommar+2019&user=&passkey=xxx[0m
+04-30 05:03:38 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt8772262&search=Midsommar+2019&user=&passkey=xxx[0m
+04-30 05:03:38 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt8772262&search=Midsommar+2019&user=&passkey=xxx[0m
+04-30 05:03:39 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/anidex/results/torznab/api?apikey=xxx&t=search&cat=&q=?imdbid=tt8772262&search=Midsommar+2019&user=&passkey=xxx[0m
+04-30 05:04:03 ERROR [31m[edia._base.providers.base] Failed to parsing TorrentPotato: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 05:04:04 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/isohunt2/results/potato/?imdbid=tt8772262&search=Midsommar+2019&user=&passkey=xxx[0m
+04-30 05:04:07 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/katcrs/results/potato/?imdbid=tt8772262&search=Midsommar+2019&user=&passkey=xxx[0m
+04-30 05:04:09 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/kickasstorrent/results/potato/?imdbid=tt8772262&search=Midsommar+2019&user=&passkey=xxx[0m
+04-30 05:04:11 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/limetorrents/results/potato/?imdbid=tt8772262&search=Midsommar+2019&user=&passkey=xxx[0m
+04-30 05:04:13 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/magnetdl/results/potato/?imdbid=tt8772262&search=Midsommar+2019&user=&passkey=xxx[0m
+04-30 05:04:14 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/nyaasi/results/potato/?imdbid=tt8772262&search=Midsommar+2019&user=&passkey=xxx[0m
+04-30 05:04:15 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/m/midsommar-2019/se/desc/1/, data: [][0m
+04-30 05:04:15 INFO [0m[hpotato.core.plugins.base] Opening url: get https://yts.am/api/v2/list_movies.json?query_term=tt8772262&limit=10&page=1, data: [][0m
+04-30 05:04:17 INFO [0m[hpotato.core.plugins.base] Opening url: get http://katcr.to/span/m-i8772262/, data: [][0m
+04-30 05:04:17 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.cat/search/%22Midsommar+2019%22/0/7/201, data: [][0m
+04-30 05:04:17 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentapi.org/pubapi_v2.php?token=g6p03ekams&mode=search&search_imdb=tt8772262&min_seeders=10&min_leechers=0&ranked=1&category=movies&format=json_extended&app_id=couchpotato, data: [][0m
+04-30 05:04:18 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.binsearch.info/index.php?q=tt8772262&adv_nfo=on&xminsize=600&adv_age=1500&max=400&xmaxsize=1600&m=n&adv_sort=date&adv_col=on, data: [][0m
+04-30 05:04:18 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.nzbgeek.info/api?imdbid=8772262&apikey=xxx&t=movie&extended=1&cat=2000, data: [][0m
+04-30 05:04:40 INFO [0m[core.media.movie.searcher] Search for John Wick: Chapter 3 – Parabellum in Screener[0m
+04-30 05:04:41 INFO [0m[hpotato.core.plugins.base] Opening url: post https://www.sceneaccess.eu/login, data: ['username', 'password', 'submit'][0m
+04-30 05:04:41 ERROR [31m[edia._base.providers.base] Failed to login SceneAccess: unknown[0m
+04-30 05:04:41 ERROR [31m[edia._base.providers.base] Failed to login to: SceneAccess[0m
+04-30 05:04:44 INFO [0m[hpotato.core.plugins.base] Opening url: get https://hd4free.xyz/searchapi.php?apikey=&username=&imdbid=tt6146586&internal=False, data: [][0m
+04-30 05:04:44 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/gimmepeers/results/potato/?imdbid=tt6146586&search=John+Wick%3A+Chapter+3+%E2%80%93+Parabellum+2019&user=&passkey=xxx[0m
+04-30 05:04:47 ERROR [31m[edia._base.providers.base] Failed to parsing HD4Free: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 05:04:50 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/1337x/results/potato/?imdbid=tt6146586&search=John+Wick%3A+Chapter+3+%E2%80%93+Parabellum+2019&user=&passkey=xxx[0m
+04-30 05:04:57 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6146586&search=John+Wick%3A+Chapter+3+%E2%80%93+Parabellum+2019&user=&passkey=xxx[0m
+04-30 05:04:57 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6146586&search=John+Wick%3A+Chapter+3+%E2%80%93+Parabellum+2019&user=&passkey=xxx[0m
+04-30 05:04:58 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/anidex/results/torznab/api?apikey=xxx&t=search&cat=&q=?imdbid=tt6146586&search=John+Wick%3A+Chapter+3+%E2%80%93+Parabellum+2019&user=&passkey=xxx[0m
+04-30 05:05:17 ERROR [31m[edia._base.providers.base] Failed to parsing TorrentPotato: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 05:05:18 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/isohunt2/results/potato/?imdbid=tt6146586&search=John+Wick%3A+Chapter+3+%E2%80%93+Parabellum+2019&user=&passkey=xxx[0m
+04-30 05:05:21 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/katcrs/results/potato/?imdbid=tt6146586&search=John+Wick%3A+Chapter+3+%E2%80%93+Parabellum+2019&user=&passkey=xxx[0m
+04-30 05:05:23 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/kickasstorrent/results/potato/?imdbid=tt6146586&search=John+Wick%3A+Chapter+3+%E2%80%93+Parabellum+2019&user=&passkey=xxx[0m
+04-30 05:05:53 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.0.12:9117/api/v2.0/indexers/kickasstorrent/results/potato/?imdbid=tt6146586&search=John+Wick%3A+Chapter+3+%E2%80%93+Parabellum+2019&user=&passkey=xxx[0m
+04-30 05:05:54 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/limetorrents/results/potato/?imdbid=tt6146586&search=John+Wick%3A+Chapter+3+%E2%80%93+Parabellum+2019&user=&passkey=xxx[0m
+04-30 05:05:56 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/magnetdl/results/potato/?imdbid=tt6146586&search=John+Wick%3A+Chapter+3+%E2%80%93+Parabellum+2019&user=&passkey=xxx[0m
+04-30 05:05:58 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/nyaasi/results/potato/?imdbid=tt6146586&search=John+Wick%3A+Chapter+3+%E2%80%93+Parabellum+2019&user=&passkey=xxx[0m
+04-30 05:05:58 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/j/john-wick-chapter-3-parabellum-2019/se/desc/1/, data: [][0m
+04-30 05:05:58 INFO [0m[hpotato.core.plugins.base] Opening url: get https://yts.am/api/v2/list_movies.json?query_term=tt6146586&limit=10&page=1, data: [][0m
+04-30 05:06:00 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/j/john-wick-chapter-3-%E2%80%93-parabellum-2019/se/desc/1/, data: [][0m
+04-30 05:06:00 ERROR [31m[hpotato.core.plugins.base] Failed opening url in MagnetDL: http://www.magnetdl.com/j/john-wick-chapter-3-%E2%80%93-parabellum-2019/se/desc/1/ Traceback (most recent call last):
+HTTPError: 404 Client Error: Not Found for url: https://www.magnetdl.com/j/john-wick-chapter-3-%E2%80%93-parabellum-2019/se/desc/1/
+[0m
+04-30 05:06:02 INFO [0m[hpotato.core.plugins.base] Opening url: get http://katcr.to/span/m-i6146586/, data: [][0m
+04-30 05:06:02 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.cat/search/%22John+Wick%3A+Chapter+3+%E2%80%93+Parabellum+2019%22/0/7/201, data: [][0m
+04-30 05:06:02 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentapi.org/pubapi_v2.php?token=g6p03ekams&mode=search&search_imdb=tt6146586&min_seeders=10&min_leechers=0&ranked=1&category=movies&format=json_extended&app_id=couchpotato, data: [][0m
+04-30 05:06:03 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.nzbgeek.info/api?imdbid=6146586&apikey=xxx&t=movie&extended=1&cat=2000, data: [][0m
+04-30 05:06:03 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.binsearch.info/index.php?q=tt6146586&adv_nfo=on&xminsize=600&adv_age=1500&max=400&xmaxsize=1600&m=n&adv_sort=date&adv_col=on, data: [][0m
+04-30 05:06:05 INFO [0m[core.media.movie.searcher] Better quality (scr) already available or snatched for Hellboy[0m
+04-30 05:06:05 INFO [0m[core.media.movie.searcher] Search for Ad Astra in Screener[0m
+04-30 05:06:05 INFO [0m[hpotato.core.plugins.base] Opening url: post https://www.sceneaccess.eu/login, data: ['username', 'password', 'submit'][0m
+04-30 05:06:05 INFO [0m[hpotato.core.plugins.base] Opening url: get https://hd4free.xyz/searchapi.php?apikey=&username=&imdbid=tt2935510&internal=False, data: [][0m
+04-30 05:06:05 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/gimmepeers/results/potato/?imdbid=tt2935510&search=Ad+Astra+2019&user=&passkey=xxx[0m
+04-30 05:06:06 ERROR [31m[edia._base.providers.base] Failed to login SceneAccess: unknown[0m
+04-30 05:06:06 ERROR [31m[edia._base.providers.base] Failed to login to: SceneAccess[0m
+04-30 05:06:06 ERROR [31m[edia._base.providers.base] Failed to parsing HD4Free: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 05:06:09 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/1337x/results/potato/?imdbid=tt2935510&search=Ad+Astra+2019&user=&passkey=xxx[0m
+04-30 05:06:12 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt2935510&search=Ad+Astra+2019&user=&passkey=xxx[0m
+04-30 05:06:12 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt2935510&search=Ad+Astra+2019&user=&passkey=xxx[0m
+04-30 05:06:13 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/anidex/results/torznab/api?apikey=xxx&t=search&cat=&q=?imdbid=tt2935510&search=Ad+Astra+2019&user=&passkey=xxx[0m
+04-30 05:06:33 ERROR [31m[edia._base.providers.base] Failed to parsing TorrentPotato: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 05:06:34 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/isohunt2/results/potato/?imdbid=tt2935510&search=Ad+Astra+2019&user=&passkey=xxx[0m
+04-30 05:06:37 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/katcrs/results/potato/?imdbid=tt2935510&search=Ad+Astra+2019&user=&passkey=xxx[0m
+04-30 05:06:39 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/kickasstorrent/results/potato/?imdbid=tt2935510&search=Ad+Astra+2019&user=&passkey=xxx[0m
+04-30 05:07:09 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.0.12:9117/api/v2.0/indexers/kickasstorrent/results/potato/?imdbid=tt2935510&search=Ad+Astra+2019&user=&passkey=xxx[0m
+04-30 05:07:09 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/limetorrents/results/potato/?imdbid=tt2935510&search=Ad+Astra+2019&user=&passkey=xxx[0m
+04-30 05:07:10 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/magnetdl/results/potato/?imdbid=tt2935510&search=Ad+Astra+2019&user=&passkey=xxx[0m
+04-30 05:07:12 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/nyaasi/results/potato/?imdbid=tt2935510&search=Ad+Astra+2019&user=&passkey=xxx[0m
+04-30 05:07:13 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/a/ad-astra-2019/se/desc/1/, data: [][0m
+04-30 05:07:13 INFO [0m[hpotato.core.plugins.base] Opening url: get https://yts.am/api/v2/list_movies.json?query_term=tt2935510&limit=10&page=1, data: [][0m
+04-30 05:07:13 INFO [0m[hpotato.core.plugins.base] Opening url: get http://katcr.to/span/m-i2935510/, data: [][0m
+04-30 05:07:13 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.cat/search/%22Ad+Astra+2019%22/0/7/201, data: [][0m
+04-30 05:07:13 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentapi.org/pubapi_v2.php?token=g6p03ekams&mode=search&search_imdb=tt2935510&min_seeders=10&min_leechers=0&ranked=1&category=movies&format=json_extended&app_id=couchpotato, data: [][0m
+04-30 05:07:14 ERROR [31mFailed encoding stuff to log "Cant find imdb in database. Are you sure this imdb exists?": not all arguments converted during string formatting[0m
+04-30 05:07:14 ERROR [31m[e.providers.torrent.rarbg] Cant find imdb in database. Are you sure this imdb exists?[0m
+04-30 05:07:15 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.binsearch.info/index.php?q=tt2935510&adv_nfo=on&xminsize=600&adv_age=1500&max=400&xmaxsize=1600&m=n&adv_sort=date&adv_col=on, data: [][0m
+04-30 05:07:15 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.nzbgeek.info/api?imdbid=2935510&apikey=xxx&t=movie&extended=1&cat=2000, data: [][0m
+04-30 05:07:17 INFO [0m[core.media.movie.searcher] Search for Joker in Screener[0m
+04-30 05:07:17 INFO [0m[hpotato.core.plugins.base] Opening url: post https://www.sceneaccess.eu/login, data: ['username', 'password', 'submit'][0m
+04-30 05:07:17 INFO [0m[hpotato.core.plugins.base] Opening url: get https://hd4free.xyz/searchapi.php?apikey=&username=&imdbid=tt7286456&internal=False, data: [][0m
+04-30 05:07:17 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/gimmepeers/results/potato/?imdbid=tt7286456&search=Joker+2019&user=&passkey=xxx[0m
+04-30 05:07:18 ERROR [31m[edia._base.providers.base] Failed to login SceneAccess: unknown[0m
+04-30 05:07:18 ERROR [31m[edia._base.providers.base] Failed to login to: SceneAccess[0m
+04-30 05:07:18 ERROR [31m[edia._base.providers.base] Failed to parsing HD4Free: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 05:07:21 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/1337x/results/potato/?imdbid=tt7286456&search=Joker+2019&user=&passkey=xxx[0m
+04-30 05:07:24 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt7286456&search=Joker+2019&user=&passkey=xxx[0m
+04-30 05:07:24 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt7286456&search=Joker+2019&user=&passkey=xxx[0m
+04-30 05:07:25 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/anidex/results/torznab/api?apikey=xxx&t=search&cat=&q=?imdbid=tt7286456&search=Joker+2019&user=&passkey=xxx[0m
+04-30 05:07:44 ERROR [31m[edia._base.providers.base] Failed to parsing TorrentPotato: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 05:07:45 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/isohunt2/results/potato/?imdbid=tt7286456&search=Joker+2019&user=&passkey=xxx[0m
+04-30 05:07:48 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/katcrs/results/potato/?imdbid=tt7286456&search=Joker+2019&user=&passkey=xxx[0m
+04-30 05:07:50 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/kickasstorrent/results/potato/?imdbid=tt7286456&search=Joker+2019&user=&passkey=xxx[0m
+04-30 05:08:20 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.0.12:9117/api/v2.0/indexers/kickasstorrent/results/potato/?imdbid=tt7286456&search=Joker+2019&user=&passkey=xxx[0m
+04-30 05:08:20 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/limetorrents/results/potato/?imdbid=tt7286456&search=Joker+2019&user=&passkey=xxx[0m
+04-30 05:08:22 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/magnetdl/results/potato/?imdbid=tt7286456&search=Joker+2019&user=&passkey=xxx[0m
+04-30 05:08:23 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/nyaasi/results/potato/?imdbid=tt7286456&search=Joker+2019&user=&passkey=xxx[0m
+04-30 05:08:24 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/j/joker-2019/se/desc/1/, data: [][0m
+04-30 05:08:24 INFO [0m[hpotato.core.plugins.base] Opening url: get http://katcr.to/span/m-i7286456/, data: [][0m
+04-30 05:08:24 INFO [0m[hpotato.core.plugins.base] Opening url: get https://yts.am/api/v2/list_movies.json?query_term=tt7286456&limit=10&page=1, data: [][0m
+04-30 05:08:24 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.cat/search/%22Joker+2019%22/0/7/201, data: [][0m
+04-30 05:08:24 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentapi.org/pubapi_v2.php?token=g6p03ekams&mode=search&search_imdb=tt7286456&min_seeders=10&min_leechers=0&ranked=1&category=movies&format=json_extended&app_id=couchpotato, data: [][0m
+04-30 05:08:25 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.binsearch.info/index.php?q=tt7286456&adv_nfo=on&xminsize=600&adv_age=1500&max=400&xmaxsize=1600&m=n&adv_sort=date&adv_col=on, data: [][0m
+04-30 05:08:25 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.nzbgeek.info/api?imdbid=7286456&apikey=xxx&t=movie&extended=1&cat=2000, data: [][0m
+04-30 05:38:22 ERROR [31m[tato.core.plugins.renamer] The to folder "" doesn't exist. Please create it.[0m
+04-30 05:38:23 ERROR [31m[tato.core.plugins.renamer] The to folder "" doesn't exist. Please create it.[0m
+04-30 06:38:22 ERROR [31m[tato.core.plugins.renamer] The to folder "" doesn't exist. Please create it.[0m
+04-30 07:38:22 ERROR [31m[tato.core.plugins.renamer] The to folder "" doesn't exist. Please create it.[0m
+04-30 07:38:22 ERROR [31m[tato.core.plugins.renamer] The to folder "" doesn't exist. Please create it.[0m
+04-30 08:38:22 ERROR [31m[tato.core.plugins.renamer] The to folder "" doesn't exist. Please create it.[0m
+04-30 08:58:00 INFO [0m[core.media.movie.searcher] Better quality (scr) already available or snatched for Hellboy[0m
+04-30 08:58:00 INFO [0m[core.media.movie.searcher] Search for Deadpool: No Good Deed in 720p[0m
+04-30 08:58:00 INFO [0m[hpotato.core.plugins.base] Opening url: post https://www.sceneaccess.eu/login, data: ['username', 'password', 'submit'][0m
+04-30 08:58:00 INFO [0m[hpotato.core.plugins.base] Opening url: get https://hd4free.xyz/searchapi.php?apikey=&username=&imdbid=tt6612630&internal=False, data: [][0m
+04-30 08:58:00 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/gimmepeers/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 08:58:02 ERROR [31m[edia._base.providers.base] Failed to login SceneAccess: unknown[0m
+04-30 08:58:02 ERROR [31m[edia._base.providers.base] Failed to login to: SceneAccess[0m
+04-30 08:58:02 ERROR [31m[edia._base.providers.base] Failed to parsing HD4Free: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 08:58:16 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/1337x/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 08:58:23 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 08:58:24 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 08:58:24 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/anidex/results/torznab/api?apikey=xxx&t=search&cat=&q=?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 08:58:46 ERROR [31m[edia._base.providers.base] Failed to parsing TorrentPotato: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 08:58:47 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/isohunt2/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 08:58:50 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/katcrs/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 08:58:55 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/kickasstorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 08:58:57 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/limetorrents/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 08:58:58 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/magnetdl/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 08:59:00 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/nyaasi/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 08:59:01 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+04-30 08:59:01 INFO [0m[hpotato.core.plugins.base] Opening url: get http://katcr.to/span/m-i6612630/, data: [][0m
+04-30 08:59:01 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentapi.org/pubapi_v2.php?get_token=get_token&app_id=couchpotato, data: [][0m
+04-30 08:59:01 INFO [0m[hpotato.core.plugins.base] Opening url: get https://yts.am/api/v2/list_movies.json?query_term=tt6612630&limit=10&page=1, data: [][0m
+04-30 08:59:01 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.cat/search/%22Deadpool%3A+No+Good+Deed+2017%22/0/7/207, data: [][0m
+04-30 08:59:03 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentapi.org/pubapi_v2.php?token=g6p03ekams&mode=search&search_imdb=tt6612630&min_seeders=10&min_leechers=0&ranked=1&category=movies&format=json_extended&app_id=couchpotato, data: [][0m
+04-30 08:59:03 ERROR [31mFailed encoding stuff to log "Cant find imdb in database. Are you sure this imdb exists?": not all arguments converted during string formatting[0m
+04-30 08:59:03 ERROR [31m[e.providers.torrent.rarbg] Cant find imdb in database. Are you sure this imdb exists?[0m
+04-30 08:59:31 ERROR [31m[hpotato.core.plugins.base] Failed opening url in MagnetDL: http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/ Traceback (most recent call last):
+ReadTimeout: HTTPSConnectionPool(host='www.magnetdl.com', port=443): Read timed out. (read timeout=30)
+[0m
+04-30 08:59:31 ERROR [31m[hpotato.core.plugins.base] Failed opening url in KickAssTorrents: http://katcr.to/span/m-i6612630/ Traceback (most recent call last):
+ReadTimeout: HTTPSConnectionPool(host='katcr.to', port=443): Read timed out. (read timeout=30)
+[0m
+04-30 08:59:31 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+04-30 08:59:31 ERROR [31m[hpotato.core.plugins.base] Failed opening url in ThePirateBay: https://pirateproxy.cat/search/%22Deadpool%3A+No+Good+Deed+2017%22/0/7/207 Traceback (most recent call last):
+ReadTimeout: HTTPSConnectionPool(host='pirateproxy.lat', port=443): Read timed out. (read timeout=30)
+[0m
+04-30 08:59:31 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.nzbclub.com/nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5, data: [][0m
+04-30 08:59:31 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.nzbgeek.info/api?imdbid=6612630&apikey=xxx&t=movie&extended=1&cat=2000, data: [][0m
+04-30 08:59:31 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.binsearch.info/index.php?q=tt6612630&adv_nfo=on&xminsize=3000&adv_age=1500&max=400&xmaxsize=10000&m=n&adv_sort=date&adv_col=on, data: [][0m
+04-30 09:00:01 ERROR [31m[hpotato.core.plugins.base] Failed opening url in BinSearch: https://www.binsearch.info/index.php?q=tt6612630&adv_nfo=on&xminsize=3000&adv_age=1500&max=400&xmaxsize=10000&m=n&adv_sort=date&adv_col=on Traceback (most recent call last):
+ReadTimeout: HTTPSConnectionPool(host='www.binsearch.info', port=443): Read timed out. (read timeout=30)
+[0m
+04-30 09:00:01 ERROR [31m[hpotato.core.plugins.base] Failed opening url in NZBClub: https://www.nzbclub.com/nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5 Traceback (most recent call last):
+ConnectTimeout: HTTPSConnectionPool(host='www.nzbclub.com', port=443): Max retries exceeded with url: /nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5 (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0xb4ab8690>, 'Connection to www.nzbclub.com timed out. (connect timeout=30)'))
+[0m
+04-30 09:00:01 INFO [0m[core.media.movie.searcher] Search for Deadpool: No Good Deed in 1080p[0m
+04-30 09:00:02 INFO [0m[hpotato.core.plugins.base] Opening url: post https://www.sceneaccess.eu/login, data: ['username', 'password', 'submit'][0m
+04-30 09:00:02 ERROR [31m[edia._base.providers.base] Failed to parsing HD4Free: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 09:00:02 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 09:00:02 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 09:00:02 ERROR [31m[edia._base.providers.base] Failed to parsing TorrentPotato: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 09:00:03 ERROR [31m[edia._base.providers.base] Failed to login SceneAccess: unknown[0m
+04-30 09:00:03 ERROR [31m[edia._base.providers.base] Failed to login to: SceneAccess[0m
+04-30 09:00:03 INFO [0m[hpotato.core.plugins.base] Opening url: get http://katcr.to/span/m-i6612630/, data: [][0m
+04-30 09:00:03 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+04-30 09:00:03 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.cat/search/%22Deadpool%3A+No+Good+Deed+2017%22/0/7/207, data: [][0m
+04-30 09:00:03 ERROR [31mFailed encoding stuff to log "Cant find imdb in database. Are you sure this imdb exists?": not all arguments converted during string formatting[0m
+04-30 09:00:03 ERROR [31m[e.providers.torrent.rarbg] Cant find imdb in database. Are you sure this imdb exists?[0m
+04-30 09:00:04 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+04-30 09:00:09 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.nzbclub.com/nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5, data: [][0m
+04-30 09:00:09 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.binsearch.info/index.php?q=tt6612630&adv_nfo=on&xminsize=4000&adv_age=1500&max=400&xmaxsize=20000&m=n&adv_sort=date&adv_col=on, data: [][0m
+04-30 09:00:39 ERROR [31m[hpotato.core.plugins.base] Failed opening url in NZBClub: https://www.nzbclub.com/nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5 Traceback (most recent call last):
+ConnectTimeout: HTTPSConnectionPool(host='www.nzbclub.com', port=443): Max retries exceeded with url: /nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5 (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0xb49a6970>, 'Connection to www.nzbclub.com timed out. (connect timeout=30)'))
+[0m
+04-30 09:00:39 INFO [0m[core.media.movie.searcher] Search for Deadpool: No Good Deed in BR-Rip[0m
+04-30 09:00:39 INFO [0m[hpotato.core.plugins.base] Opening url: post https://www.sceneaccess.eu/login, data: ['username', 'password', 'submit'][0m
+04-30 09:00:39 ERROR [31m[edia._base.providers.base] Failed to parsing HD4Free: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 09:00:39 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 09:00:39 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 09:00:39 ERROR [31m[edia._base.providers.base] Failed to parsing TorrentPotato: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 09:00:40 ERROR [31m[edia._base.providers.base] Failed to login SceneAccess: unknown[0m
+04-30 09:00:40 ERROR [31m[edia._base.providers.base] Failed to login to: SceneAccess[0m
+04-30 09:00:40 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+04-30 09:00:40 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.cat/search/%22Deadpool%3A+No+Good+Deed+2017%22/0/7/201,207, data: [][0m
+04-30 09:00:40 ERROR [31mFailed encoding stuff to log "Cant find imdb in database. Are you sure this imdb exists?": not all arguments converted during string formatting[0m
+04-30 09:00:40 ERROR [31m[e.providers.torrent.rarbg] Cant find imdb in database. Are you sure this imdb exists?[0m
+04-30 09:00:42 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+04-30 09:00:42 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.nzbclub.com/nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5, data: [][0m
+04-30 09:00:42 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.binsearch.info/index.php?q=tt6612630&adv_nfo=on&xminsize=700&adv_age=1500&max=400&xmaxsize=7000&m=n&adv_sort=date&adv_col=on, data: [][0m
+04-30 09:01:12 ERROR [31m[hpotato.core.plugins.base] Failed opening url in NZBClub: https://www.nzbclub.com/nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5 Traceback (most recent call last):
+ConnectTimeout: HTTPSConnectionPool(host='www.nzbclub.com', port=443): Max retries exceeded with url: /nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5 (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0xb4a92b90>, 'Connection to www.nzbclub.com timed out. (connect timeout=30)'))
+[0m
+04-30 09:01:12 INFO [0m[core.media.movie.searcher] Search for Deadpool: No Good Deed in BR-Disk[0m
+04-30 09:01:12 INFO [0m[hpotato.core.plugins.base] Opening url: post https://www.sceneaccess.eu/login, data: ['username', 'password', 'submit'][0m
+04-30 09:01:12 ERROR [31m[edia._base.providers.base] Failed to parsing HD4Free: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 09:01:12 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 09:01:12 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 09:01:12 ERROR [31m[edia._base.providers.base] Failed to parsing TorrentPotato: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 09:01:13 ERROR [31m[edia._base.providers.base] Failed to login SceneAccess: unknown[0m
+04-30 09:01:13 ERROR [31m[edia._base.providers.base] Failed to login to: SceneAccess[0m
+04-30 09:01:13 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+04-30 09:01:13 ERROR [31mFailed encoding stuff to log "Cant find imdb in database. Are you sure this imdb exists?": not all arguments converted during string formatting[0m
+04-30 09:01:13 ERROR [31m[e.providers.torrent.rarbg] Cant find imdb in database. Are you sure this imdb exists?[0m
+04-30 09:01:15 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+04-30 09:01:15 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.nzbclub.com/nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5, data: [][0m
+04-30 09:01:15 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.binsearch.info/index.php?q=tt6612630&adv_nfo=on&xminsize=20000&adv_age=1500&max=400&xmaxsize=60000&m=n&adv_sort=date&adv_col=on, data: [][0m
+04-30 09:01:45 ERROR [31m[hpotato.core.plugins.base] Failed opening url in NZBClub: https://www.nzbclub.com/nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5 Traceback (most recent call last):
+ConnectTimeout: HTTPSConnectionPool(host='www.nzbclub.com', port=443): Max retries exceeded with url: /nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5 (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0xb4a468d0>, 'Connection to www.nzbclub.com timed out. (connect timeout=30)'))
+[0m
+04-30 09:01:45 INFO [0m[core.media.movie.searcher] Search for Deadpool: No Good Deed in DVD-Rip[0m
+04-30 09:01:45 INFO [0m[hpotato.core.plugins.base] Opening url: post https://www.sceneaccess.eu/login, data: ['username', 'password', 'submit'][0m
+04-30 09:01:45 ERROR [31m[edia._base.providers.base] Failed to parsing HD4Free: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 09:01:45 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 09:01:45 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 09:01:45 ERROR [31m[edia._base.providers.base] Failed to parsing TorrentPotato: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 09:01:46 ERROR [31m[edia._base.providers.base] Failed to login SceneAccess: unknown[0m
+04-30 09:01:46 ERROR [31m[edia._base.providers.base] Failed to login to: SceneAccess[0m
+04-30 09:01:46 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+04-30 09:01:46 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.cat/search/%22Deadpool%3A+No+Good+Deed+2017%22/0/7/201, data: [][0m
+04-30 09:01:46 ERROR [31mFailed encoding stuff to log "Cant find imdb in database. Are you sure this imdb exists?": not all arguments converted during string formatting[0m
+04-30 09:01:46 ERROR [31m[e.providers.torrent.rarbg] Cant find imdb in database. Are you sure this imdb exists?[0m
+04-30 09:01:47 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+04-30 09:01:47 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.nzbclub.com/nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5, data: [][0m
+04-30 09:01:47 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.binsearch.info/index.php?q=tt6612630&adv_nfo=on&xminsize=600&adv_age=1500&max=400&xmaxsize=2400&m=n&adv_sort=date&adv_col=on, data: [][0m
+04-30 09:02:17 ERROR [31m[hpotato.core.plugins.base] Failed opening url in NZBClub: https://www.nzbclub.com/nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5 Traceback (most recent call last):
+ConnectTimeout: HTTPSConnectionPool(host='www.nzbclub.com', port=443): Max retries exceeded with url: /nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5 (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0xb4a46910>, 'Connection to www.nzbclub.com timed out. (connect timeout=30)'))
+[0m
+04-30 09:02:17 INFO [0m[core.media.movie.searcher] Search for Deadpool: No Good Deed in DVD-R[0m
+04-30 09:02:17 INFO [0m[hpotato.core.plugins.base] Opening url: post https://www.sceneaccess.eu/login, data: ['username', 'password', 'submit'][0m
+04-30 09:02:18 ERROR [31m[edia._base.providers.base] Failed to parsing HD4Free: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 09:02:18 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 09:02:18 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 09:02:18 ERROR [31m[edia._base.providers.base] Failed to parsing TorrentPotato: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 09:02:18 ERROR [31m[edia._base.providers.base] Failed to login SceneAccess: unknown[0m
+04-30 09:02:18 ERROR [31m[edia._base.providers.base] Failed to login to: SceneAccess[0m
+04-30 09:02:18 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+04-30 09:02:18 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.cat/search/%22Deadpool%3A+No+Good+Deed+2017%22/0/7/202, data: [][0m
+04-30 09:02:18 ERROR [31mFailed encoding stuff to log "Cant find imdb in database. Are you sure this imdb exists?": not all arguments converted during string formatting[0m
+04-30 09:02:18 ERROR [31m[e.providers.torrent.rarbg] Cant find imdb in database. Are you sure this imdb exists?[0m
+04-30 09:02:19 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+04-30 09:02:19 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.nzbclub.com/nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5, data: [][0m
+04-30 09:02:19 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.binsearch.info/index.php?q=tt6612630&adv_nfo=on&xminsize=3000&adv_age=1500&max=400&xmaxsize=10000&m=n&adv_sort=date&adv_col=on, data: [][0m
+04-30 09:02:50 ERROR [31m[hpotato.core.plugins.base] Failed opening url in NZBClub: https://www.nzbclub.com/nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5 Traceback (most recent call last):
+ConnectTimeout: HTTPSConnectionPool(host='www.nzbclub.com', port=443): Max retries exceeded with url: /nzbrss.aspx?q=Deadpool%3A+No+Good+Deed+2017&rpp=200&sp=1&ns=1&ig=1&st=5 (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0xb4a22df0>, 'Connection to www.nzbclub.com timed out. (connect timeout=30)'))
+[0m
+04-30 09:02:50 INFO [0m[core.media.movie.searcher] Search for Deadpool: No Good Deed in Screener[0m
+04-30 09:02:50 INFO [0m[hpotato.core.plugins.base] Opening url: post https://www.sceneaccess.eu/login, data: ['username', 'password', 'submit'][0m
+04-30 09:02:50 ERROR [31m[edia._base.providers.base] Failed to parsing HD4Free: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 09:02:50 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 09:02:50 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6612630&search=Deadpool%3A+No+Good+Deed+2017&user=&passkey=xxx[0m
+04-30 09:02:50 ERROR [31m[edia._base.providers.base] Failed to parsing TorrentPotato: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 09:02:50 ERROR [31m[edia._base.providers.base] Failed to login SceneAccess: unknown[0m
+04-30 09:02:50 ERROR [31m[edia._base.providers.base] Failed to login to: SceneAccess[0m
+04-30 09:02:50 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+04-30 09:02:50 ERROR [31mFailed encoding stuff to log "Cant find imdb in database. Are you sure this imdb exists?": not all arguments converted during string formatting[0m
+04-30 09:02:50 ERROR [31m[e.providers.torrent.rarbg] Cant find imdb in database. Are you sure this imdb exists?[0m
+04-30 09:02:51 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/d/deadpool-no-good-deed-2017/se/desc/1/, data: [][0m
+04-30 09:02:52 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.binsearch.info/index.php?q=tt6612630&adv_nfo=on&xminsize=600&adv_age=1500&max=400&xmaxsize=1600&m=n&adv_sort=date&adv_col=on, data: [][0m
+04-30 09:02:52 INFO [0m[core.media.movie.searcher] Search for Joker in Screener[0m
+04-30 09:02:52 INFO [0m[hpotato.core.plugins.base] Opening url: post https://www.sceneaccess.eu/login, data: ['username', 'password', 'submit'][0m
+04-30 09:02:52 INFO [0m[hpotato.core.plugins.base] Opening url: get https://hd4free.xyz/searchapi.php?apikey=&username=&imdbid=tt7286456&internal=False, data: [][0m
+04-30 09:02:52 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/gimmepeers/results/potato/?imdbid=tt7286456&search=Joker+2019&user=&passkey=xxx[0m
+04-30 09:02:53 ERROR [31m[edia._base.providers.base] Failed to login SceneAccess: unknown[0m
+04-30 09:02:53 ERROR [31m[edia._base.providers.base] Failed to login to: SceneAccess[0m
+04-30 09:02:56 ERROR [31m[edia._base.providers.base] Failed to parsing HD4Free: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 09:02:59 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/1337x/results/potato/?imdbid=tt7286456&search=Joker+2019&user=&passkey=xxx[0m
+04-30 09:03:01 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt7286456&search=Joker+2019&user=&passkey=xxx[0m
+04-30 09:03:01 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt7286456&search=Joker+2019&user=&passkey=xxx[0m
+04-30 09:03:02 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/anidex/results/torznab/api?apikey=xxx&t=search&cat=&q=?imdbid=tt7286456&search=Joker+2019&user=&passkey=xxx[0m
+04-30 09:03:25 ERROR [31m[edia._base.providers.base] Failed to parsing TorrentPotato: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 09:03:26 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/isohunt2/results/potato/?imdbid=tt7286456&search=Joker+2019&user=&passkey=xxx[0m
+04-30 09:03:29 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/katcrs/results/potato/?imdbid=tt7286456&search=Joker+2019&user=&passkey=xxx[0m
+04-30 09:03:33 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/kickasstorrent/results/potato/?imdbid=tt7286456&search=Joker+2019&user=&passkey=xxx[0m
+04-30 09:03:34 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/limetorrents/results/potato/?imdbid=tt7286456&search=Joker+2019&user=&passkey=xxx[0m
+04-30 09:03:36 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/magnetdl/results/potato/?imdbid=tt7286456&search=Joker+2019&user=&passkey=xxx[0m
+04-30 09:03:37 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/nyaasi/results/potato/?imdbid=tt7286456&search=Joker+2019&user=&passkey=xxx[0m
+04-30 09:03:38 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/j/joker-2019/se/desc/1/, data: [][0m
+04-30 09:03:38 INFO [0m[hpotato.core.plugins.base] Opening url: get https://yts.am/api/v2/list_movies.json?query_term=tt7286456&limit=10&page=1, data: [][0m
+04-30 09:03:38 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.cat/search/%22Joker+2019%22/0/7/201, data: [][0m
+04-30 09:03:38 INFO [0m[hpotato.core.plugins.base] Opening url: get http://katcr.to/span/m-i7286456/, data: [][0m
+04-30 09:03:38 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentapi.org/pubapi_v2.php?token=g6p03ekams&mode=search&search_imdb=tt7286456&min_seeders=10&min_leechers=0&ranked=1&category=movies&format=json_extended&app_id=couchpotato, data: [][0m
+04-30 09:03:40 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.nzbgeek.info/api?imdbid=7286456&apikey=xxx&t=movie&extended=1&cat=2000, data: [][0m
+04-30 09:03:40 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.binsearch.info/index.php?q=tt7286456&adv_nfo=on&xminsize=600&adv_age=1500&max=400&xmaxsize=1600&m=n&adv_sort=date&adv_col=on, data: [][0m
+04-30 09:03:42 INFO [0m[core.media.movie.searcher] Search for Midsommar in Screener[0m
+04-30 09:03:42 INFO [0m[hpotato.core.plugins.base] Opening url: post https://www.sceneaccess.eu/login, data: ['username', 'password', 'submit'][0m
+04-30 09:03:42 INFO [0m[hpotato.core.plugins.base] Opening url: get https://hd4free.xyz/searchapi.php?apikey=&username=&imdbid=tt8772262&internal=False, data: [][0m
+04-30 09:03:42 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/gimmepeers/results/potato/?imdbid=tt8772262&search=Midsommar+2019&user=&passkey=xxx[0m
+04-30 09:03:42 ERROR [31m[edia._base.providers.base] Failed to login SceneAccess: unknown[0m
+04-30 09:03:42 ERROR [31m[edia._base.providers.base] Failed to login to: SceneAccess[0m
+04-30 09:03:42 ERROR [31m[edia._base.providers.base] Failed to parsing HD4Free: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 09:03:47 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/1337x/results/potato/?imdbid=tt8772262&search=Midsommar+2019&user=&passkey=xxx[0m
+04-30 09:03:50 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt8772262&search=Midsommar+2019&user=&passkey=xxx[0m
+04-30 09:03:50 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt8772262&search=Midsommar+2019&user=&passkey=xxx[0m
+04-30 09:03:51 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/anidex/results/torznab/api?apikey=xxx&t=search&cat=&q=?imdbid=tt8772262&search=Midsommar+2019&user=&passkey=xxx[0m
+04-30 09:03:51 ERROR [31m[edia._base.providers.base] Failed to parsing TorrentPotato: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 09:03:52 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/isohunt2/results/potato/?imdbid=tt8772262&search=Midsommar+2019&user=&passkey=xxx[0m
+04-30 09:03:55 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/katcrs/results/potato/?imdbid=tt8772262&search=Midsommar+2019&user=&passkey=xxx[0m
+04-30 09:03:57 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/kickasstorrent/results/potato/?imdbid=tt8772262&search=Midsommar+2019&user=&passkey=xxx[0m
+04-30 09:04:02 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/limetorrents/results/potato/?imdbid=tt8772262&search=Midsommar+2019&user=&passkey=xxx[0m
+04-30 09:04:03 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/magnetdl/results/potato/?imdbid=tt8772262&search=Midsommar+2019&user=&passkey=xxx[0m
+04-30 09:04:05 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/nyaasi/results/potato/?imdbid=tt8772262&search=Midsommar+2019&user=&passkey=xxx[0m
+04-30 09:04:06 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/m/midsommar-2019/se/desc/1/, data: [][0m
+04-30 09:04:06 INFO [0m[hpotato.core.plugins.base] Opening url: get http://katcr.to/span/m-i8772262/, data: [][0m
+04-30 09:04:06 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.cat/search/%22Midsommar+2019%22/0/7/201, data: [][0m
+04-30 09:04:06 INFO [0m[hpotato.core.plugins.base] Opening url: get https://yts.am/api/v2/list_movies.json?query_term=tt8772262&limit=10&page=1, data: [][0m
+04-30 09:04:06 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentapi.org/pubapi_v2.php?token=g6p03ekams&mode=search&search_imdb=tt8772262&min_seeders=10&min_leechers=0&ranked=1&category=movies&format=json_extended&app_id=couchpotato, data: [][0m
+04-30 09:04:07 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.binsearch.info/index.php?q=tt8772262&adv_nfo=on&xminsize=600&adv_age=1500&max=400&xmaxsize=1600&m=n&adv_sort=date&adv_col=on, data: [][0m
+04-30 09:04:07 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.nzbgeek.info/api?imdbid=8772262&apikey=xxx&t=movie&extended=1&cat=2000, data: [][0m
+04-30 09:04:10 INFO [0m[core.media.movie.searcher] Search for Ad Astra in Screener[0m
+04-30 09:04:10 INFO [0m[hpotato.core.plugins.base] Opening url: post https://www.sceneaccess.eu/login, data: ['username', 'password', 'submit'][0m
+04-30 09:04:10 INFO [0m[hpotato.core.plugins.base] Opening url: get https://hd4free.xyz/searchapi.php?apikey=&username=&imdbid=tt2935510&internal=False, data: [][0m
+04-30 09:04:10 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/gimmepeers/results/potato/?imdbid=tt2935510&search=Ad+Astra+2019&user=&passkey=xxx[0m
+04-30 09:04:10 ERROR [31m[edia._base.providers.base] Failed to login SceneAccess: unknown[0m
+04-30 09:04:10 ERROR [31m[edia._base.providers.base] Failed to login to: SceneAccess[0m
+04-30 09:04:10 ERROR [31m[edia._base.providers.base] Failed to parsing HD4Free: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 09:04:16 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/1337x/results/potato/?imdbid=tt2935510&search=Ad+Astra+2019&user=&passkey=xxx[0m
+04-30 09:04:19 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt2935510&search=Ad+Astra+2019&user=&passkey=xxx[0m
+04-30 09:04:19 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt2935510&search=Ad+Astra+2019&user=&passkey=xxx[0m
+04-30 09:04:20 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/anidex/results/torznab/api?apikey=xxx&t=search&cat=&q=?imdbid=tt2935510&search=Ad+Astra+2019&user=&passkey=xxx[0m
+04-30 09:04:40 ERROR [31m[edia._base.providers.base] Failed to parsing TorrentPotato: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 09:04:41 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/isohunt2/results/potato/?imdbid=tt2935510&search=Ad+Astra+2019&user=&passkey=xxx[0m
+04-30 09:04:43 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/katcrs/results/potato/?imdbid=tt2935510&search=Ad+Astra+2019&user=&passkey=xxx[0m
+04-30 09:04:45 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/kickasstorrent/results/potato/?imdbid=tt2935510&search=Ad+Astra+2019&user=&passkey=xxx[0m
+04-30 09:04:49 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/limetorrents/results/potato/?imdbid=tt2935510&search=Ad+Astra+2019&user=&passkey=xxx[0m
+04-30 09:04:51 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/magnetdl/results/potato/?imdbid=tt2935510&search=Ad+Astra+2019&user=&passkey=xxx[0m
+04-30 09:04:53 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/nyaasi/results/potato/?imdbid=tt2935510&search=Ad+Astra+2019&user=&passkey=xxx[0m
+04-30 09:04:55 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/a/ad-astra-2019/se/desc/1/, data: [][0m
+04-30 09:04:55 INFO [0m[hpotato.core.plugins.base] Opening url: get http://katcr.to/span/m-i2935510/, data: [][0m
+04-30 09:04:55 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.cat/search/%22Ad+Astra+2019%22/0/7/201, data: [][0m
+04-30 09:04:55 INFO [0m[hpotato.core.plugins.base] Opening url: get https://yts.am/api/v2/list_movies.json?query_term=tt2935510&limit=10&page=1, data: [][0m
+04-30 09:04:55 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentapi.org/pubapi_v2.php?token=g6p03ekams&mode=search&search_imdb=tt2935510&min_seeders=10&min_leechers=0&ranked=1&category=movies&format=json_extended&app_id=couchpotato, data: [][0m
+04-30 09:04:56 ERROR [31mFailed encoding stuff to log "Cant find imdb in database. Are you sure this imdb exists?": not all arguments converted during string formatting[0m
+04-30 09:04:56 ERROR [31m[e.providers.torrent.rarbg] Cant find imdb in database. Are you sure this imdb exists?[0m
+04-30 09:04:57 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.nzbgeek.info/api?imdbid=2935510&apikey=xxx&t=movie&extended=1&cat=2000, data: [][0m
+04-30 09:04:57 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.binsearch.info/index.php?q=tt2935510&adv_nfo=on&xminsize=600&adv_age=1500&max=400&xmaxsize=1600&m=n&adv_sort=date&adv_col=on, data: [][0m
+04-30 09:04:59 INFO [0m[core.media.movie.searcher] Search for John Wick: Chapter 3 – Parabellum in Screener[0m
+04-30 09:04:59 INFO [0m[hpotato.core.plugins.base] Opening url: post https://www.sceneaccess.eu/login, data: ['username', 'password', 'submit'][0m
+04-30 09:04:59 INFO [0m[hpotato.core.plugins.base] Opening url: get https://hd4free.xyz/searchapi.php?apikey=&username=&imdbid=tt6146586&internal=False, data: [][0m
+04-30 09:04:59 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/gimmepeers/results/potato/?imdbid=tt6146586&search=John+Wick%3A+Chapter+3+%E2%80%93+Parabellum+2019&user=&passkey=xxx[0m
+04-30 09:04:59 ERROR [31m[edia._base.providers.base] Failed to login SceneAccess: unknown[0m
+04-30 09:04:59 ERROR [31m[edia._base.providers.base] Failed to login to: SceneAccess[0m
+04-30 09:04:59 ERROR [31m[edia._base.providers.base] Failed to parsing HD4Free: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 09:05:03 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/1337x/results/potato/?imdbid=tt6146586&search=John+Wick%3A+Chapter+3+%E2%80%93+Parabellum+2019&user=&passkey=xxx[0m
+04-30 09:05:07 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6146586&search=John+Wick%3A+Chapter+3+%E2%80%93+Parabellum+2019&user=&passkey=xxx[0m
+04-30 09:05:07 ERROR [31m[hpotato.core.plugins.base] Failed opening url in TorrentPotato: http://10.0.-ag0.12:9117/api/v2.0/indexers/extratorrent/results/potato/?imdbid=tt6146586&search=John+Wick%3A+Chapter+3+%E2%80%93+Parabellum+2019&user=&passkey=xxx[0m
+04-30 09:05:08 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/anidex/results/torznab/api?apikey=xxx&t=search&cat=&q=?imdbid=tt6146586&search=John+Wick%3A+Chapter+3+%E2%80%93+Parabellum+2019&user=&passkey=xxx[0m
+04-30 09:05:28 ERROR [31m[edia._base.providers.base] Failed to parsing TorrentPotato: Traceback (most recent call last):
+  File "/app/couchpotato/couchpotato/core/media/_base/providers/base.py", line 84, in getJsonData
+    return json.loads(data)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[0m
+04-30 09:05:29 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/isohunt2/results/potato/?imdbid=tt6146586&search=John+Wick%3A+Chapter+3+%E2%80%93+Parabellum+2019&user=&passkey=xxx[0m
+04-30 09:05:31 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/katcrs/results/potato/?imdbid=tt6146586&search=John+Wick%3A+Chapter+3+%E2%80%93+Parabellum+2019&user=&passkey=xxx[0m
+04-30 09:05:34 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/kickasstorrent/results/potato/?imdbid=tt6146586&search=John+Wick%3A+Chapter+3+%E2%80%93+Parabellum+2019&user=&passkey=xxx[0m
+04-30 09:05:38 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/limetorrents/results/potato/?imdbid=tt6146586&search=John+Wick%3A+Chapter+3+%E2%80%93+Parabellum+2019&user=&passkey=xxx[0m
+04-30 09:05:40 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/magnetdl/results/potato/?imdbid=tt6146586&search=John+Wick%3A+Chapter+3+%E2%80%93+Parabellum+2019&user=&passkey=xxx[0m
+04-30 09:05:41 INFO [0m[hpotato.core.plugins.base] Opening url: get http://10.0.0.12:9117/api/v2.0/indexers/nyaasi/results/potato/?imdbid=tt6146586&search=John+Wick%3A+Chapter+3+%E2%80%93+Parabellum+2019&user=&passkey=xxx[0m
+04-30 09:05:42 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/j/john-wick-chapter-3-parabellum-2019/se/desc/1/, data: [][0m
+04-30 09:05:42 INFO [0m[hpotato.core.plugins.base] Opening url: get http://katcr.to/span/m-i6146586/, data: [][0m
+04-30 09:05:42 INFO [0m[hpotato.core.plugins.base] Opening url: get https://pirateproxy.cat/search/%22John+Wick%3A+Chapter+3+%E2%80%93+Parabellum+2019%22/0/7/201, data: [][0m
+04-30 09:05:42 INFO [0m[hpotato.core.plugins.base] Opening url: get https://torrentapi.org/pubapi_v2.php?token=g6p03ekams&mode=search&search_imdb=tt6146586&min_seeders=10&min_leechers=0&ranked=1&category=movies&format=json_extended&app_id=couchpotato, data: [][0m
+04-30 09:05:42 INFO [0m[hpotato.core.plugins.base] Opening url: get https://yts.am/api/v2/list_movies.json?query_term=tt6146586&limit=10&page=1, data: [][0m
+04-30 09:05:43 INFO [0m[hpotato.core.plugins.base] Opening url: get http://www.magnetdl.com/j/john-wick-chapter-3-%E2%80%93-parabellum-2019/se/desc/1/, data: [][0m
+04-30 09:05:43 ERROR [31m[hpotato.core.plugins.base] Failed opening url in MagnetDL: http://www.magnetdl.com/j/john-wick-chapter-3-%E2%80%93-parabellum-2019/se/desc/1/ Traceback (most recent call last):
+HTTPError: 404 Client Error: Not Found for url: https://www.magnetdl.com/j/john-wick-chapter-3-%E2%80%93-parabellum-2019/se/desc/1/
+[0m
+04-30 09:05:43 INFO [0m[hpotato.core.plugins.base] Opening url: get https://www.binsearch.info/index.php?q=tt6146586&adv_nfo=on&xminsize=600&adv_age=1500&max=400&xmaxsize=1600&m=n&adv_sort=date&adv_col=on, data: [][0m
+04-30 09:05:43 INFO [0m[hpotato.core.plugins.base] Opening url: get https://api.nzbgeek.info/api?imdbid=6146586&apikey=xxx&t=movie&extended=1&cat=2000, data: [][0m
+04-30 09:38:22 ERROR [31m[tato.core.plugins.renamer] The to folder "" doesn't exist. Please create it.[0m
+04-30 09:38:22 ERROR [31m[tato.core.plugins.renamer] The to folder "" doesn't exist. Please create it.[0m
+04-30 10:38:22 ERROR [31m[tato.core.plugins.renamer] The to folder "" doesn't exist. Please create it.[0m
+04-30 11:38:22 ERROR [31m[tato.core.plugins.renamer] The to folder "" doesn't exist. Please create it.[0m
+04-30 11:38:22 ERROR [31m[tato.core.plugins.renamer] The to folder "" doesn't exist. Please create it.[0m
+04-30 12:38:22 ERROR [31m[tato.core.plugins.renamer] The to folder "" doesn't exist. Please create it.[0m
+04-30 12:43:25 INFO [0m[chpotato.core._base._core] Shutting down[0m
+04-30 12:43:26 INFO [0mShutting down thread pool[0m
