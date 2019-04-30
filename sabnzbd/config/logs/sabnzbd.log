@@ -13402,3 +13402,41 @@
 2019-04-30 01:13:10,438::WARNING::[__init__:182] Signal 15 caught, saving and exiting...
 2019-04-30 01:13:10,439::INFO::[nzbqueue:276] Saving queue
 2019-04-30 01:13:10,455::INFO::[postproc:94] Saving postproc queue
+2019-04-30 01:13:47,415::INFO::[sabnzbdplus:1146] --------------------------------
+2019-04-30 01:13:47,416::INFO::[sabnzbdplus:1147] sabnzbdplus-2.3.5 (rev=76c7a6ce9517beb7f84917f7a5f7efeec93abb4b)
+2019-04-30 01:13:47,417::INFO::[sabnzbdplus:1148] Full executable path = /usr/bin/sabnzbdplus
+2019-04-30 01:13:47,418::INFO::[sabnzbdplus:1158] Platform = posix
+2019-04-30 01:13:47,418::INFO::[sabnzbdplus:1159] Python-version = 2.7.12 (default, Nov 12 2018, 14:36:49) 
+[GCC 5.4.0 20160609]
+2019-04-30 01:13:47,419::INFO::[sabnzbdplus:1160] Arguments = /usr/bin/sabnzbdplus --config-file /config --server 0.0.0.0:8080
+2019-04-30 01:13:47,420::INFO::[sabnzbdplus:1165] Preferred encoding = UTF-8
+2019-04-30 01:13:47,421::INFO::[sabnzbdplus:1175] SSL version = OpenSSL 1.0.2g  1 Mar 2016
+2019-04-30 01:13:47,422::INFO::[sabnzbdplus:1223] Read INI file /config/sabnzbd.ini
+2019-04-30 01:13:47,431::INFO::[postproc:100] Loading postproc queue
+2019-04-30 01:13:47,442::INFO::[scheduler:197] Setting schedule for midnight BPS reset
+2019-04-30 01:13:47,443::INFO::[__init__:349] All processes started
+2019-04-30 01:13:47,444::INFO::[sabnzbdplus:286] Web dir is /usr/share/sabnzbdplus/interfaces/Glitter
+2019-04-30 01:13:47,446::INFO::[sabnzbdplus:286] Web dir is /usr/share/sabnzbdplus/interfaces/Config
+2019-04-30 01:13:47,468::INFO::[config:853] Writing settings to INI file /config/sabnzbd.ini
+2019-04-30 01:13:47,562::INFO::[sabnzbdplus:397] SABYenc module (v3.3.5)... found!
+2019-04-30 01:13:47,563::INFO::[sabnzbdplus:414] Cryptography module (v1.2.3)... found!
+2019-04-30 01:13:47,564::INFO::[sabnzbdplus:419] par2 binary... found (/usr/bin/par2)
+2019-04-30 01:13:47,565::INFO::[sabnzbdplus:429] UNRAR binary... found (/usr/bin/unrar)
+2019-04-30 01:13:47,566::INFO::[sabnzbdplus:437] UNRAR binary version 5.30
+2019-04-30 01:13:47,567::INFO::[sabnzbdplus:442] unzip binary... found (/usr/bin/unzip)
+2019-04-30 01:13:47,567::INFO::[sabnzbdplus:447] 7za binary... found (/usr/bin/7za)
+2019-04-30 01:13:47,568::INFO::[sabnzbdplus:453] nice binary... found (/usr/bin/nice)
+2019-04-30 01:13:47,569::INFO::[sabnzbdplus:457] ionice binary... found (/usr/bin/ionice)
+2019-04-30 01:13:47,574::INFO::[sabnzbdplus:1379] Starting web-interface on 0.0.0.0:8080
+2019-04-30 01:13:47,575::INFO::[_cplogging:219] [30/Apr/2019:01:13:47] ENGINE Bus STARTING
+2019-04-30 01:13:47,878::INFO::[_cplogging:219] [30/Apr/2019:01:13:47] ENGINE Serving on http://0.0.0.0:8080
+2019-04-30 01:13:47,881::INFO::[_cplogging:219] [30/Apr/2019:01:13:47] ENGINE Bus STARTED
+2019-04-30 01:13:47,882::INFO::[sabnzbdplus:1417] Starting sabnzbdplus-2.3.5
+2019-04-30 01:13:47,898::INFO::[dirscanner:330] Dirscanner starting up
+2019-04-30 01:13:47,903::INFO::[urlgrabber:82] URLGrabber starting up
+2019-04-30 01:13:47,904::INFO::[postproc:187] Completed Download Folder /downloads/completed is not on FAT
+2019-04-30 01:13:47,944::INFO::[zconfig:76] Bonjour/ZeroConfig does not support "localhost"
+2019-04-30 01:13:48,059::INFO::[database:255] Removing completed jobs older than 20 days from history
+2019-04-30 01:15:07,598::WARNING::[__init__:182] Signal 15 caught, saving and exiting...
+2019-04-30 01:15:07,601::INFO::[nzbqueue:276] Saving queue
+2019-04-30 01:15:07,625::INFO::[postproc:94] Saving postproc queue
