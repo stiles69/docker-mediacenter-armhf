@@ -4951,3 +4951,590 @@
 03-May-2019 23:59:51 - INFO    :: MainThread : Signal 15 caught, saving and exiting...
 03-May-2019 23:59:51 - INFO    :: MainThread : Writing configuration to file
 03-May-2019 23:59:51 - INFO    :: MainThread : Headphones is shutting down...
+04-May-2019 00:03:09 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:03:10 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:03:11 - INFO    :: MainThread : Comparing currently installed version with latest GitHub version
+04-May-2019 00:03:11 - INFO    :: MainThread : New version is available. You are 6 commits behind
+04-May-2019 00:03:11 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:03:13 - INFO    :: MainThread : Scheduled background task: Search for Wanted
+04-May-2019 00:03:13 - INFO    :: MainThread : Scheduled background task: Download Scan
+04-May-2019 00:03:13 - INFO    :: MainThread : Scheduled background task: Library Scan
+04-May-2019 00:03:13 - INFO    :: MainThread : Scheduled background task: MusicBrainz Update
+04-May-2019 00:03:13 - INFO    :: MainThread : Scheduled background task: Check GitHub for updates
+04-May-2019 00:03:13 - INFO    :: MainThread : Scheduled background task: Torrent removal check
+04-May-2019 00:30:16 - INFO    :: CP Server Thread-10 : Writing configuration to file
+04-May-2019 00:30:32 - INFO    :: CP Server Thread-10 : Retrieving latest version information from GitHub
+04-May-2019 00:30:32 - INFO    :: CP Server Thread-10 : Comparing currently installed version with latest GitHub version
+04-May-2019 00:30:33 - INFO    :: CP Server Thread-10 : New version is available. You are 6 commits behind
+04-May-2019 00:30:44 - INFO    :: MainThread : Received signal: update
+04-May-2019 00:30:50 - INFO    :: MainThread : Writing configuration to file
+04-May-2019 00:30:50 - INFO    :: MainThread : Headphones is updating...
+04-May-2019 00:30:52 - INFO    :: MainThread : Headphones is restarting...
+04-May-2019 00:30:52 - INFO    :: MainThread : Restarting Headphones with ['/usr/bin/python', '/app/headphones/Headphones.py', '--datadir=/config', '--nolaunch']
+04-May-2019 00:30:56 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:30:56 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:30:56 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:30:56 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:30:57 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:30:57 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:30:57 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:30:57 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:30:57 - INFO    :: MainThread : Scheduled background task: Search for Wanted
+04-May-2019 00:30:57 - INFO    :: MainThread : Scheduled background task: Download Scan
+04-May-2019 00:30:57 - INFO    :: MainThread : Scheduled background task: Library Scan
+04-May-2019 00:30:57 - INFO    :: MainThread : Scheduled background task: MusicBrainz Update
+04-May-2019 00:30:57 - INFO    :: MainThread : Scheduled background task: Check GitHub for updates
+04-May-2019 00:30:57 - INFO    :: MainThread : Scheduled background task: Torrent removal check
+04-May-2019 00:31:05 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:31:05 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:31:06 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:31:06 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:31:09 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:31:11 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:31:12 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:31:12 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:31:15 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:31:15 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:31:16 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:31:16 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:31:19 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:31:19 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:31:20 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:31:20 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:31:23 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:31:23 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:31:24 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:31:24 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:31:27 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:31:27 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:31:28 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:31:28 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:31:31 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:31:31 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:31:31 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:31:31 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:31:35 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:31:35 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:31:35 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:31:35 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:31:38 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:31:38 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:31:39 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:31:39 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:31:42 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:31:42 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:31:43 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:31:43 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:31:46 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:31:46 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:31:47 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:31:47 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:31:50 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:31:50 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:31:51 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:31:51 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:31:54 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:31:54 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:31:55 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:31:55 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:31:58 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:31:58 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:31:58 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:31:58 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:32:02 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:32:02 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:32:03 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:32:03 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:32:06 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:32:06 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:32:06 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:32:06 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:32:10 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:32:10 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:32:10 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:32:10 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:32:14 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:32:14 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:32:14 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:32:14 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:32:17 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:32:17 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:32:18 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:32:18 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:32:21 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:32:21 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:32:22 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:32:22 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:32:25 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:32:25 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:32:26 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:32:26 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:32:29 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:32:29 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:32:29 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:32:29 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:32:33 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:32:33 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:32:33 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:32:33 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:32:36 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:32:37 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:32:37 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:32:37 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:32:40 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:32:40 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:32:41 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:32:41 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:32:44 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:32:44 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:32:45 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:32:45 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:32:48 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:32:48 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:32:48 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:32:48 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:32:52 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:32:52 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:32:52 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:32:52 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:32:55 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:32:56 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:32:56 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:32:56 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:32:59 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:32:59 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:33:00 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:33:00 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:33:03 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:33:03 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:33:04 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:33:04 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:33:07 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:33:07 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:33:08 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:33:08 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:33:11 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:33:11 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:33:11 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:33:11 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:33:15 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:33:15 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:33:15 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:33:15 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:33:19 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:33:19 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:33:19 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:33:19 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:33:22 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:33:23 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:33:23 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:33:23 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:33:26 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:33:26 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:33:27 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:33:27 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:33:30 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:33:30 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:33:31 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:33:31 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:33:34 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:33:34 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:33:35 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:33:35 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:33:38 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:33:38 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:33:38 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:33:38 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:33:42 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:33:42 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:33:43 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:33:43 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:33:46 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:33:46 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:33:46 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:33:46 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:33:50 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:33:50 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:33:50 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:33:50 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:33:54 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:33:54 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:33:54 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:33:54 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:33:58 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:33:58 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:33:58 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:33:58 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:34:01 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:34:01 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:34:02 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:34:02 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:34:05 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:34:05 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:34:06 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:34:06 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:34:09 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:34:09 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:34:10 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:34:10 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:34:13 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:34:13 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:34:14 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:34:14 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:34:17 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:34:17 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:34:17 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:34:17 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:34:21 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:34:21 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:34:21 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:34:21 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:34:25 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:34:25 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:34:26 - INFO    :: MainThread : Headphones is up to date
+04-May-2019 00:34:26 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:34:29 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:34:29 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:34:30 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:34:30 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:34:30 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:34:33 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:34:33 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:34:33 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:34:33 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:34:33 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:34:37 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:34:37 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:34:37 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:34:37 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:34:37 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:34:40 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:34:40 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:34:41 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:34:41 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:34:41 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:34:44 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:34:44 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:34:45 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:34:45 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:34:45 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:34:48 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:34:48 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:34:48 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:34:48 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:34:48 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:34:52 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:34:52 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:34:52 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:34:52 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:34:52 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:34:55 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:34:56 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:34:56 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:34:56 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:34:56 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:34:59 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:34:59 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:35:00 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:35:00 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:35:00 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:35:03 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:35:03 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:35:04 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:35:04 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:35:04 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:35:08 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:35:08 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:35:08 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:35:08 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:35:08 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:35:12 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:35:12 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:35:12 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:35:12 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:35:12 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:35:16 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:35:16 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:35:16 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:35:16 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:35:16 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:35:20 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:35:20 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:35:20 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:35:20 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:35:20 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:35:24 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:35:24 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:35:24 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:35:24 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:35:24 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:35:28 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:35:28 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:35:28 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:35:28 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:35:28 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:35:31 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:35:31 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:35:32 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:35:32 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:35:32 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:35:35 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:35:35 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:35:36 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:35:36 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:35:36 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:35:39 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:35:40 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:35:40 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:35:40 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:35:40 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:35:43 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:35:43 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:35:44 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:35:44 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:35:44 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:35:47 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:35:47 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:35:48 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:35:48 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:35:48 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:35:51 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:35:51 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:35:52 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:35:52 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:35:52 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:35:56 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:35:56 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:35:56 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:35:56 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:35:56 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:36:00 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:36:00 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:36:00 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:36:00 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:36:00 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:36:04 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:36:04 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:36:04 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:36:04 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:36:04 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:36:08 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:36:08 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:36:08 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:36:08 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:36:08 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:36:11 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:36:12 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:36:12 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:36:12 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:36:12 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:36:15 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:36:15 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:36:16 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:36:16 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:36:16 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:36:19 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:36:19 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:36:20 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:36:20 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:36:20 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:36:23 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:36:23 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:36:24 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:36:24 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:36:24 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:36:27 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:36:28 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:36:28 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:36:28 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:36:28 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:36:31 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:36:31 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:36:32 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:36:32 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:36:32 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:36:35 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:36:35 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:36:36 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:36:36 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:36:36 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:36:39 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:36:39 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:36:40 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:36:40 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:36:40 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:36:43 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:36:43 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:36:44 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:36:44 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:36:44 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:36:47 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:36:47 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:36:48 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:36:48 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:36:48 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:36:51 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:36:51 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:36:52 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:36:52 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:36:52 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:36:55 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:36:55 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:36:55 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:36:55 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:36:55 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:36:59 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:36:59 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:36:59 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:36:59 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:36:59 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:37:03 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:37:03 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:37:03 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:37:03 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:37:03 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:37:06 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:37:07 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:37:07 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:37:07 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:37:07 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:37:10 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:37:10 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:37:11 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:37:11 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:37:11 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:37:14 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:37:14 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:37:15 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:37:15 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:37:15 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:37:18 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:37:18 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:37:19 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:37:19 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:37:19 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:37:22 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:37:22 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:37:22 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:37:22 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:37:22 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:37:26 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:37:26 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:37:26 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:37:26 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:37:26 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:37:30 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:37:30 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:37:30 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:37:30 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:37:30 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:37:33 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:37:34 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:37:34 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:37:34 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:37:34 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:37:37 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:37:37 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:37:38 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:37:38 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:37:38 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:37:41 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:37:41 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:37:42 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:37:42 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:37:42 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:37:45 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:37:45 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:37:45 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:37:45 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:37:45 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:37:49 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:37:49 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:37:49 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:37:49 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:37:49 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:37:53 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:37:53 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:37:53 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:37:53 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:37:53 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:37:57 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:37:57 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:37:58 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:37:58 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:37:58 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:38:01 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:38:01 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:38:02 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:38:02 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:38:02 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:38:05 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:38:05 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:38:06 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:38:06 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:38:06 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:38:09 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:38:09 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:38:10 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:38:10 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:38:10 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:38:13 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:38:14 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:38:14 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:38:14 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:38:14 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:38:18 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:38:18 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:38:18 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:38:18 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:38:18 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:38:22 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:38:22 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:38:22 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:38:22 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:38:22 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:38:26 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:38:26 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:38:26 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:38:26 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:38:26 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:38:30 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:38:30 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:38:31 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:38:31 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:38:31 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:38:34 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:38:34 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:38:35 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:38:35 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:38:35 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:38:38 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:38:38 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:38:39 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:38:39 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:38:39 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:38:42 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:38:42 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:38:43 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:38:43 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:38:43 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:38:46 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:38:46 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:38:47 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:38:47 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:38:47 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:38:50 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:38:51 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:38:51 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:38:51 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:38:51 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:38:55 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:38:55 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:38:55 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:38:55 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:38:55 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:38:59 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:39:00 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:39:00 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:39:00 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:39:00 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/

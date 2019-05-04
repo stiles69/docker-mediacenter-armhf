@@ -3336,3 +3336,191 @@ File name: '/media/samba_share/Video/TV-Shows/Game of Thrones/Season 5/Game of T
 19-5-3 23:53:32.8|Info|RssSyncService|Starting RSS Sync
 19-5-3 23:53:34.2|Info|DownloadDecisionMaker|Processing 100 releases
 19-5-3 23:53:36.0|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 00:02:07.6|Info|Bootstrap|Starting Sonarr - /opt/NzbDrone/NzbDrone.exe - Version 2.0.0.5252
+19-5-4 00:02:13.3|Info|AppFolderInfo|Data directory is being overridden to [/config]
+19-5-4 00:02:14.4|Info|Router|Application mode: Interactive
+19-5-4 00:02:16.6|Info|MigrationLogger|*** Migrating data source=/config/nzbdrone.db;cache size=-10485760;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+19-5-4 00:02:18.9|Info|MigrationLogger|*** Migrating data source=/config/logs.db;cache size=-10485760;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+19-5-4 00:02:19.1|Info|OwinHostController|Listening on the following URLs:
+19-5-4 00:02:19.2|Info|OwinHostController|  http://*:8989/
+19-5-4 00:02:20.4|Info|NancyBootstrapper|Starting Web Server
+19-5-4 00:04:01.3|Info|RssSyncService|Starting RSS Sync
+19-5-4 00:04:09.2|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 00:04:11.5|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 00:14:32.4|Info|RssSyncService|Starting RSS Sync
+19-5-4 00:14:35.0|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 00:14:36.8|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 00:16:50.5|Info|SceneMappingService|Updating Scene mappings
+19-5-4 00:16:57.7|Info|RefreshSeriesService|Updating Info for American Gods
+19-5-4 00:16:58.4|Info|RefreshEpisodeService|Starting episode info refresh for: [253573][American Gods]
+19-5-4 00:16:58.6|Info|RefreshEpisodeService|Finished episode refresh for series: [253573][American Gods].
+19-5-4 00:16:58.7|Info|DiskScanService|Scanning disk for American Gods
+19-5-4 00:16:58.9|Info|DiskScanService|Completed scanning disk for American Gods
+19-5-4 00:16:59.1|Info|ExistingMetadataImporter|Found 0 existing metadata files
+19-5-4 00:16:59.2|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+19-5-4 00:16:59.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+19-5-4 00:16:59.2|Info|ExistingExtraFileService|Found 0 extra files
+19-5-4 00:16:59.3|Info|RefreshSeriesService|Updating Info for American Horror Story
+19-5-4 00:16:59.5|Info|RefreshEpisodeService|Starting episode info refresh for: [250487][American Horror Story]
+19-5-4 00:17:00.3|Info|RefreshEpisodeService|Finished episode refresh for series: [250487][American Horror Story].
+19-5-4 00:17:00.3|Info|DiskScanService|Scanning disk for American Horror Story
+19-5-4 00:17:00.4|Info|DiskScanService|Completed scanning disk for American Horror Story
+19-5-4 00:17:00.4|Info|ExistingMetadataImporter|Found 0 existing metadata files
+19-5-4 00:17:00.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+19-5-4 00:17:00.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+19-5-4 00:17:00.4|Info|ExistingExtraFileService|Found 0 extra files
+19-5-4 00:17:00.6|Info|RefreshSeriesService|Updating Info for Britannia
+19-5-4 00:17:00.8|Info|RefreshEpisodeService|Starting episode info refresh for: [333644][Britannia]
+19-5-4 00:17:00.9|Info|RefreshEpisodeService|Finished episode refresh for series: [333644][Britannia].
+19-5-4 00:17:00.9|Info|DiskScanService|Scanning disk for Britannia
+19-5-4 00:17:00.9|Info|DiskScanService|Completed scanning disk for Britannia
+19-5-4 00:17:01.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+19-5-4 00:17:01.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+19-5-4 00:17:01.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+19-5-4 00:17:01.0|Info|ExistingExtraFileService|Found 0 extra files
+19-5-4 00:17:01.1|Info|RefreshSeriesService|Updating Info for Game of Thrones
+19-5-4 00:17:01.5|Info|RefreshEpisodeService|Starting episode info refresh for: [121361][Game of Thrones]
+19-5-4 00:17:02.5|Info|RefreshEpisodeService|Finished episode refresh for series: [121361][Game of Thrones].
+19-5-4 00:17:02.5|Info|DiskScanService|Scanning disk for Game of Thrones
+19-5-4 00:17:02.8|Info|DiskScanService|Completed scanning disk for Game of Thrones
+19-5-4 00:17:02.8|Info|ExistingMetadataImporter|Found 0 existing metadata files
+19-5-4 00:17:02.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+19-5-4 00:17:02.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+19-5-4 00:17:02.9|Info|ExistingExtraFileService|Found 0 extra files
+19-5-4 00:17:02.9|Info|RefreshSeriesService|Updating Info for Hanna
+19-5-4 00:17:03.1|Info|RefreshEpisodeService|Starting episode info refresh for: [357690][Hanna]
+19-5-4 00:17:03.2|Info|RefreshEpisodeService|Finished episode refresh for series: [357690][Hanna].
+19-5-4 00:17:03.2|Info|DiskScanService|Scanning disk for Hanna
+19-5-4 00:17:03.3|Info|DiskScanService|Completed scanning disk for Hanna
+19-5-4 00:17:03.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+19-5-4 00:17:03.3|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+19-5-4 00:17:03.3|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+19-5-4 00:17:03.3|Info|ExistingExtraFileService|Found 0 extra files
+19-5-4 00:17:03.4|Info|RefreshSeriesService|Updating Info for Knightfall
+19-5-4 00:17:03.6|Info|RefreshEpisodeService|Starting episode info refresh for: [323608][Knightfall]
+19-5-4 00:17:03.8|Info|RefreshEpisodeService|Finished episode refresh for series: [323608][Knightfall].
+19-5-4 00:17:03.8|Info|DiskScanService|Scanning disk for Knightfall
+19-5-4 00:17:03.9|Info|DiskScanService|Completed scanning disk for Knightfall
+19-5-4 00:17:03.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+19-5-4 00:17:03.9|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+19-5-4 00:17:03.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+19-5-4 00:17:03.9|Info|ExistingExtraFileService|Found 0 extra files
+19-5-4 00:17:04.0|Info|RefreshSeriesService|Updating Info for Krypton
+19-5-4 00:17:04.3|Info|RefreshEpisodeService|Starting episode info refresh for: [328599][Krypton]
+19-5-4 00:17:04.5|Info|RefreshEpisodeService|Finished episode refresh for series: [328599][Krypton].
+19-5-4 00:17:04.5|Info|DiskScanService|Scanning disk for Krypton
+19-5-4 00:17:04.6|Info|DiskScanService|Completed scanning disk for Krypton
+19-5-4 00:17:04.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+19-5-4 00:17:04.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+19-5-4 00:17:04.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+19-5-4 00:17:04.7|Info|ExistingExtraFileService|Found 0 extra files
+19-5-4 00:17:04.7|Info|RefreshSeriesService|Updating Info for Legion
+19-5-4 00:17:04.9|Info|RefreshEpisodeService|Starting episode info refresh for: [320724][Legion]
+19-5-4 00:17:05.2|Info|RefreshEpisodeService|Finished episode refresh for series: [320724][Legion].
+19-5-4 00:17:05.2|Info|DiskScanService|Scanning disk for Legion
+19-5-4 00:17:05.2|Info|DiskScanService|Completed scanning disk for Legion
+19-5-4 00:17:05.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+19-5-4 00:17:05.3|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+19-5-4 00:17:05.3|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+19-5-4 00:17:05.3|Info|ExistingExtraFileService|Found 0 extra files
+19-5-4 00:17:05.3|Info|RefreshSeriesService|Updating Info for Mr. Robot
+19-5-4 00:17:05.6|Info|RefreshEpisodeService|Starting episode info refresh for: [289590][Mr. Robot]
+19-5-4 00:17:05.9|Info|RefreshEpisodeService|Finished episode refresh for series: [289590][Mr. Robot].
+19-5-4 00:17:05.9|Info|DiskScanService|Scanning disk for Mr. Robot
+19-5-4 00:17:06.0|Info|DiskScanService|Completed scanning disk for Mr. Robot
+19-5-4 00:17:06.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+19-5-4 00:17:06.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+19-5-4 00:17:06.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+19-5-4 00:17:06.0|Info|ExistingExtraFileService|Found 0 extra files
+19-5-4 00:17:06.1|Info|RefreshSeriesService|Updating Info for The Orville
+19-5-4 00:17:06.3|Info|RefreshEpisodeService|Starting episode info refresh for: [328487][The Orville]
+19-5-4 00:17:06.5|Info|RefreshEpisodeService|Finished episode refresh for series: [328487][The Orville].
+19-5-4 00:17:06.5|Info|DiskScanService|Scanning disk for The Orville
+19-5-4 00:17:06.6|Info|DiskScanService|Completed scanning disk for The Orville
+19-5-4 00:17:06.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+19-5-4 00:17:06.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+19-5-4 00:17:06.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+19-5-4 00:17:06.6|Info|ExistingExtraFileService|Found 0 extra files
+19-5-4 00:17:06.7|Info|RefreshSeriesService|Updating Info for The Passage
+19-5-4 00:17:07.0|Info|RefreshEpisodeService|Starting episode info refresh for: [354539][The Passage]
+19-5-4 00:17:07.1|Info|RefreshEpisodeService|Finished episode refresh for series: [354539][The Passage].
+19-5-4 00:17:07.2|Info|DiskScanService|Scanning disk for The Passage
+19-5-4 00:17:07.3|Info|DiskScanService|Completed scanning disk for The Passage
+19-5-4 00:17:07.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+19-5-4 00:17:07.3|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+19-5-4 00:17:07.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+19-5-4 00:17:07.4|Info|ExistingExtraFileService|Found 0 extra files
+19-5-4 00:17:07.6|Info|RefreshSeriesService|Updating Info for South Park
+19-5-4 00:17:07.9|Info|RefreshEpisodeService|Starting episode info refresh for: [75897][South Park]
+19-5-4 00:17:10.1|Info|RefreshEpisodeService|Finished episode refresh for series: [75897][South Park].
+19-5-4 00:17:10.1|Info|DiskScanService|Scanning disk for South Park
+19-5-4 00:17:10.4|Info|DiskScanService|Completed scanning disk for South Park
+19-5-4 00:17:10.4|Info|ExistingMetadataImporter|Found 0 existing metadata files
+19-5-4 00:17:10.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+19-5-4 00:17:10.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+19-5-4 00:17:10.4|Info|ExistingExtraFileService|Found 0 extra files
+19-5-4 00:17:10.5|Info|RefreshSeriesService|Updating Info for Star Trek: Discovery
+19-5-4 00:17:10.7|Info|RefreshEpisodeService|Starting episode info refresh for: [328711][Star Trek: Discovery]
+19-5-4 00:17:11.0|Info|RefreshEpisodeService|Finished episode refresh for series: [328711][Star Trek: Discovery].
+19-5-4 00:17:11.0|Info|DiskScanService|Scanning disk for Star Trek: Discovery
+19-5-4 00:17:11.1|Info|DiskScanService|Completed scanning disk for Star Trek: Discovery
+19-5-4 00:17:11.1|Info|ExistingMetadataImporter|Found 0 existing metadata files
+19-5-4 00:17:11.1|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+19-5-4 00:17:11.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+19-5-4 00:17:11.2|Info|ExistingExtraFileService|Found 0 extra files
+19-5-4 00:17:11.2|Info|RefreshSeriesService|Updating Info for The Twilight Zone (2019)
+19-5-4 00:17:11.5|Info|RefreshEpisodeService|Starting episode info refresh for: [358915][The Twilight Zone (2019)]
+19-5-4 00:17:11.7|Info|RefreshEpisodeService|Finished episode refresh for series: [358915][The Twilight Zone (2019)].
+19-5-4 00:17:11.7|Info|DiskScanService|Scanning disk for The Twilight Zone (2019)
+19-5-4 00:17:11.7|Info|MediaCoverService|Downloading Banner for [328711][Star Trek: Discovery] https://www.thetvdb.com/banners/graphical/5c515361cb259.jpg
+19-5-4 00:17:11.9|Info|DiskScanService|Completed scanning disk for The Twilight Zone (2019)
+19-5-4 00:17:12.8|Info|ExistingMetadataImporter|Found 0 existing metadata files
+19-5-4 00:17:12.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+19-5-4 00:17:12.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+19-5-4 00:17:12.9|Info|ExistingExtraFileService|Found 0 extra files
+19-5-4 00:17:12.9|Info|RefreshSeriesService|Updating Info for Vikings
+19-5-4 00:17:13.1|Info|RefreshEpisodeService|Starting episode info refresh for: [260449][Vikings]
+19-5-4 00:17:14.3|Info|RefreshEpisodeService|Finished episode refresh for series: [260449][Vikings].
+19-5-4 00:17:14.3|Info|DiskScanService|Scanning disk for Vikings
+19-5-4 00:17:14.4|Info|DiskScanService|Completed scanning disk for Vikings
+19-5-4 00:17:14.4|Info|ExistingMetadataImporter|Found 0 existing metadata files
+19-5-4 00:17:14.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+19-5-4 00:17:14.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+19-5-4 00:17:14.4|Info|ExistingExtraFileService|Found 0 extra files
+19-5-4 00:17:14.6|Info|RefreshSeriesService|Updating Info for Warrior (2019)
+19-5-4 00:17:14.9|Info|RefreshEpisodeService|Starting episode info refresh for: [359326][Warrior (2019)]
+19-5-4 00:17:15.2|Info|RefreshEpisodeService|Finished episode refresh for series: [359326][Warrior (2019)].
+19-5-4 00:17:15.2|Info|DiskScanService|Scanning disk for Warrior (2019)
+19-5-4 00:17:15.3|Info|DiskScanService|Completed scanning disk for Warrior (2019)
+19-5-4 00:17:15.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+19-5-4 00:17:15.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+19-5-4 00:17:15.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+19-5-4 00:17:15.4|Info|ExistingExtraFileService|Found 0 extra files
+19-5-4 00:17:55.4|Info|InstallUpdateService|Downloading update 2.0.0.5322
+19-5-4 00:17:57.1|Info|InstallUpdateService|Verifying update package
+19-5-4 00:17:58.0|Info|InstallUpdateService|Update package verified successfully
+19-5-4 00:17:58.0|Info|InstallUpdateService|Extracting Update package
+19-5-4 00:18:02.3|Info|InstallUpdateService|Update package extracted successfully
+19-5-4 00:18:04.5|Info|BackupService|Starting Backup
+19-5-4 00:18:12.3|Info|InstallUpdateService|Preparing client
+19-5-4 00:18:12.5|Info|InstallUpdateService|Starting update client /tmp/nzbdrone_update/NzbDrone.Update.exe
+19-5-4 00:18:12.5|Info|InstallUpdateService|Sonarr will restart shortly.
+19-5-4 00:18:58.7|Info|Bootstrap|Starting Sonarr - /opt/NzbDrone/NzbDrone.exe - Version 2.0.0.5322
+19-5-4 00:19:02.8|Info|AppFolderInfo|Data directory is being overridden to [/config]
+19-5-4 00:19:03.8|Info|Router|Application mode: Interactive
+19-5-4 00:19:05.4|Info|MigrationLogger|*** Migrating data source=/config/nzbdrone.db;cache size=-10000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+19-5-4 00:19:06.8|Info|MigrationLogger|*** Migrating data source=/config/logs.db;cache size=-10000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+19-5-4 00:19:07.1|Info|OwinHostController|Listening on the following URLs:
+19-5-4 00:19:07.1|Info|OwinHostController|  http://*:8989/
+19-5-4 00:19:08.3|Info|NancyBootstrapper|Starting Web Server
+19-5-4 00:24:47.9|Info|RssSyncService|Starting RSS Sync
+19-5-4 00:24:53.3|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 00:24:56.5|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 00:29:48.5|Info|HousekeepingService|Running housecleaning tasks
+19-5-4 00:29:48.9|Info|Database|Vacuuming Log database
+19-5-4 00:29:49.4|Info|Database|Log database compressed
+19-5-4 00:29:50.6|Info|Database|Vacuuming Main database
+19-5-4 00:29:51.5|Info|Database|Main database compressed
+19-5-4 00:35:19.4|Info|RssSyncService|Starting RSS Sync
+19-5-4 00:35:21.7|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 00:35:23.7|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
