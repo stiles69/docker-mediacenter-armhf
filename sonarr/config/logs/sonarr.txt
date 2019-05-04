@@ -3524,3 +3524,1147 @@ File name: '/media/samba_share/Video/TV-Shows/Game of Thrones/Season 5/Game of T
 19-5-4 00:35:19.4|Info|RssSyncService|Starting RSS Sync
 19-5-4 00:35:21.7|Info|DownloadDecisionMaker|Processing 100 releases
 19-5-4 00:35:23.7|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 00:43:05.7|Info|Bootstrap|Starting Sonarr - /opt/NzbDrone/NzbDrone.exe - Version 2.0.0.5252
+19-5-4 00:43:10.1|Info|AppFolderInfo|Data directory is being overridden to [/config]
+19-5-4 00:43:11.1|Info|Router|Application mode: Interactive
+19-5-4 00:43:12.7|Info|MigrationLogger|*** Migrating data source=/config/nzbdrone.db;cache size=-10485760;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+19-5-4 00:43:14.5|Info|MigrationLogger|*** Migrating data source=/config/logs.db;cache size=-10485760;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+19-5-4 00:43:15.0|Info|OwinHostController|Listening on the following URLs:
+19-5-4 00:43:15.1|Info|OwinHostController|  http://*:8989/
+19-5-4 00:43:16.3|Info|NancyBootstrapper|Starting Web Server
+19-5-4 00:45:27.1|Info|RssSyncService|Starting RSS Sync
+19-5-4 00:45:32.5|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 00:45:35.2|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 00:51:27.3|Info|SceneMappingService|Updating Scene mappings
+19-5-4 00:55:57.6|Info|RssSyncService|Starting RSS Sync
+19-5-4 00:55:59.0|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 00:56:00.8|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 01:06:29.0|Info|RssSyncService|Starting RSS Sync
+19-5-4 01:06:30.3|Info|DownloadDecisionMaker|Processing 99 releases
+19-5-4 01:06:32.3|Info|RssSyncService|RSS Sync Completed. Reports found: 99, Reports grabbed: 0
+19-5-4 01:17:00.4|Info|RssSyncService|Starting RSS Sync
+19-5-4 01:17:01.8|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 01:17:03.6|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 01:27:31.0|Info|RssSyncService|Starting RSS Sync
+19-5-4 01:27:32.5|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 01:27:34.4|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 01:38:01.8|Info|RssSyncService|Starting RSS Sync
+19-5-4 01:38:03.1|Info|DownloadDecisionMaker|Processing 98 releases
+19-5-4 01:38:05.1|Info|RssSyncService|RSS Sync Completed. Reports found: 98, Reports grabbed: 0
+19-5-4 01:48:32.4|Info|RssSyncService|Starting RSS Sync
+19-5-4 01:48:33.6|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 01:48:35.6|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 01:59:03.0|Info|RssSyncService|Starting RSS Sync
+19-5-4 01:59:06.6|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 01:59:08.6|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 02:09:33.8|Info|RssSyncService|Starting RSS Sync
+19-5-4 02:09:36.8|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 02:09:38.8|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 02:20:04.6|Info|RssSyncService|Starting RSS Sync
+19-5-4 02:20:07.3|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 02:20:09.4|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 02:30:35.1|Info|RssSyncService|Starting RSS Sync
+19-5-4 02:30:38.1|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 02:30:40.2|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 02:41:06.0|Info|RssSyncService|Starting RSS Sync
+19-5-4 02:41:08.6|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 02:41:10.7|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 02:51:37.3|Info|RssSyncService|Starting RSS Sync
+19-5-4 02:51:38.6|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 02:51:40.4|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 03:02:08.3|Info|RssSyncService|Starting RSS Sync
+19-5-4 03:02:11.1|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 03:02:12.9|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 03:12:39.6|Info|RssSyncService|Starting RSS Sync
+19-5-4 03:12:40.8|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 03:12:42.7|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 03:23:10.6|Info|RssSyncService|Starting RSS Sync
+19-5-4 03:23:13.5|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 03:23:15.6|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 03:33:41.9|Info|RssSyncService|Starting RSS Sync
+19-5-4 03:33:43.1|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 03:33:44.9|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 03:44:12.6|Info|RssSyncService|Starting RSS Sync
+19-5-4 03:44:13.8|Info|DownloadDecisionMaker|Processing 99 releases
+19-5-4 03:44:15.8|Info|RssSyncService|RSS Sync Completed. Reports found: 99, Reports grabbed: 0
+19-5-4 03:51:43.1|Info|SceneMappingService|Updating Scene mappings
+19-5-4 03:54:43.5|Info|RssSyncService|Starting RSS Sync
+19-5-4 03:54:44.9|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 03:54:46.7|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 04:05:14.4|Info|RssSyncService|Starting RSS Sync
+19-5-4 04:05:16.1|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 04:05:18.0|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 04:15:45.6|Info|RssSyncService|Starting RSS Sync
+19-5-4 04:15:48.6|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 04:15:50.4|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 04:26:16.9|Info|RssSyncService|Starting RSS Sync
+19-5-4 04:26:18.6|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 04:26:20.4|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 04:36:47.7|Info|RssSyncService|Starting RSS Sync
+19-5-4 04:36:50.7|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 04:36:52.5|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 04:47:18.7|Info|RssSyncService|Starting RSS Sync
+19-5-4 04:47:20.1|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 04:47:22.0|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 04:57:51.3|Info|RssSyncService|Starting RSS Sync
+19-5-4 04:57:52.7|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 04:57:54.6|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 05:08:23.9|Info|RssSyncService|Starting RSS Sync
+19-5-4 05:08:25.5|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 05:08:27.6|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 05:18:49.5|Info|RssSyncService|Starting RSS Sync
+19-5-4 05:18:54.2|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 05:18:56.8|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 05:29:12.3|Info|RssSyncService|Starting RSS Sync
+19-5-4 05:29:14.8|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 05:29:17.4|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 05:39:45.7|Info|RssSyncService|Starting RSS Sync
+19-5-4 05:39:50.5|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 05:39:52.9|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 05:50:20.9|Info|RssSyncService|Starting RSS Sync
+19-5-4 05:50:22.4|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 05:50:24.1|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 06:00:32.2|Info|RssSyncService|Starting RSS Sync
+19-5-4 06:00:35.9|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 06:00:44.9|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 06:11:11.7|Info|RssSyncService|Starting RSS Sync
+19-5-4 06:11:13.7|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 06:11:15.2|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 06:21:42.7|Info|RssSyncService|Starting RSS Sync
+19-5-4 06:21:44.2|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 06:21:45.9|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 06:32:14.4|Info|RssSyncService|Starting RSS Sync
+19-5-4 06:32:16.1|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 06:32:18.4|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 06:42:46.0|Info|RssSyncService|Starting RSS Sync
+19-5-4 06:42:47.4|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 06:42:49.6|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 06:52:28.2|Info|SceneMappingService|Updating Scene mappings
+19-5-4 06:52:58.2|Info|RssSyncService|Starting RSS Sync
+19-5-4 06:53:00.8|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 06:53:03.4|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 07:04:09.5|Info|RssSyncService|Starting RSS Sync
+19-5-4 07:04:12.8|Info|DownloadDecisionMaker|Processing 98 releases
+19-5-4 07:04:15.8|Info|RssSyncService|RSS Sync Completed. Reports found: 98, Reports grabbed: 0
+19-5-4 07:15:19.5|Info|RssSyncService|Starting RSS Sync
+19-5-4 07:15:26.2|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 07:15:28.5|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 07:25:38.0|Info|RssSyncService|Starting RSS Sync
+19-5-4 07:25:39.7|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 07:25:42.1|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 07:35:57.5|Info|RssSyncService|Starting RSS Sync
+19-5-4 07:36:02.1|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 07:36:04.2|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 07:46:28.0|Info|RssSyncService|Starting RSS Sync
+19-5-4 07:46:29.6|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 07:46:31.6|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 07:57:00.2|Info|RssSyncService|Starting RSS Sync
+19-5-4 07:57:02.1|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 07:57:04.2|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 08:07:31.3|Info|RssSyncService|Starting RSS Sync
+19-5-4 08:07:32.7|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 08:07:34.6|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 08:18:02.0|Info|RssSyncService|Starting RSS Sync
+19-5-4 08:18:03.5|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 08:18:05.4|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 08:28:33.0|Info|RssSyncService|Starting RSS Sync
+19-5-4 08:28:34.4|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 08:28:37.4|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 08:39:03.9|Info|RssSyncService|Starting RSS Sync
+19-5-4 08:39:07.0|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 08:39:09.2|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 08:49:34.9|Info|RssSyncService|Starting RSS Sync
+19-5-4 08:49:36.1|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 08:49:38.2|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 09:00:05.8|Info|RssSyncService|Starting RSS Sync
+19-5-4 09:00:07.1|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 09:00:09.1|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 09:10:34.4|Info|RssSyncService|Starting RSS Sync
+19-5-4 09:10:36.3|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 09:10:40.0|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 09:21:05.2|Info|RssSyncService|Starting RSS Sync
+19-5-4 09:21:08.6|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 09:21:11.7|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 09:32:13.0|Info|RssSyncService|Starting RSS Sync
+19-5-4 09:32:16.8|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 09:32:26.1|Info|Sabnzbd|Adding report [Warrior.S01E05.720p.WEB.h264-TBS-Obfuscated] to the queue.
+19-5-4 09:32:29.6|Info|DownloadService|Report sent to Sabnzbd. Warrior.S01E05.720p.WEB.h264-TBS-Obfuscated
+19-5-4 09:32:35.7|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 1
+19-5-4 09:43:00.0|Info|RssSyncService|Starting RSS Sync
+19-5-4 09:43:08.5|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 09:43:11.1|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 09:43:34.2|Warn|MediaFileAttributeService|Unable to apply permissions to: /media/nfsserver/Video/TV-Shows/Warrior/Season 1/Warrior (2019) S01E05.mkv
+
+[v2.0.0.5252] NzbDrone.Mono.Disk.LinuxPermissionsException: Unknown user: brettsalemink
+  at NzbDrone.Mono.Disk.DiskProvider.GetUserId (System.String user) [0x0003b] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Mono\Disk\DiskProvider.cs:246 
+  at NzbDrone.Mono.Disk.DiskProvider.SetOwner (System.String path, System.String user, System.String group) [0x00020] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Mono\Disk\DiskProvider.cs:214 
+  at NzbDrone.Mono.Disk.DiskProvider.SetPermissions (System.String path, System.String mask, System.String user, System.String group) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Mono\Disk\DiskProvider.cs:75 
+  at NzbDrone.Core.MediaFiles.MediaFileAttributeService.SetMonoPermissions (System.String path, System.String permissions) [0x0000f] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\MediaFileAttributeService.cs:88 
+
+19-5-4 09:45:44.1|Warn|DownloadedEpisodesImportService|Non-sample file detected: [/media/nfsserver/Video/TV-Shows/Warrior/Season 1/Warrior (2019) S01E05.mkv]
+19-5-4 09:53:08.1|Info|SceneMappingService|Updating Scene mappings
+19-5-4 09:55:32.4|Info|RssSyncService|Starting RSS Sync
+19-5-4 09:55:34.6|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 09:55:41.8|Info|Sabnzbd|Adding report [Game.Of.Thrones.S08E02.WEBDL.1080p.x265-HUSE] to the queue.
+19-5-4 09:55:48.5|Info|DownloadService|Report sent to Sabnzbd. Game.Of.Thrones.S08E02.WEBDL.1080p.x265-HUSE
+19-5-4 09:55:50.6|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 1
+19-5-4 10:06:02.2|Info|RssSyncService|Starting RSS Sync
+19-5-4 10:06:09.9|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 10:06:13.2|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 10:16:31.6|Info|RssSyncService|Starting RSS Sync
+19-5-4 10:16:33.2|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 10:16:35.7|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 10:19:34.6|Warn|DownloadMonitoringService|Unable to retrieve queue and history items from Slave1 Deluge
+
+[v2.0.0.5252] NzbDrone.Core.Download.Clients.DownloadClientUnavailableException: Unable to connect to Deluge, please check your settings ---> System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://10.0.0.5:8112/json' ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <0f8aeac9d63d4b8aa575761bb4e65b79>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <c0e40d34c25e4827874530676d4126b9>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.HttpWebRequest.GetRequestStream () [0x00016] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000ca] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:58 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0019e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:92 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ExecuteRequest[TResult] (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, System.String method, System.Object[] arguments) [0x0000e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:229 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ExecuteRequest[TResult] (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, System.String method, System.Object[] arguments) [0x0006f] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:250 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ProcessRequest[TResult] (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.String method, System.Object[] arguments) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:196 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.GetTorrentsByLabel (System.String label, NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x00012] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:80 
+  at NzbDrone.Core.Download.Clients.Deluge.Deluge.GetItems () [0x00012] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\Deluge.cs:96 
+  at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientDownloads (NzbDrone.Core.Download.IDownloadClient downloadClient) [0x0000c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\TrackedDownloads\DownloadMonitoringService.cs:89 
+
+19-5-4 10:21:05.2|Warn|DownloadMonitoringService|Unable to retrieve queue and history items from Slave1 Deluge
+
+[v2.0.0.5252] NzbDrone.Core.Download.Clients.DownloadClientUnavailableException: Unable to connect to Deluge, please check your settings ---> System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://10.0.0.5:8112/json' ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <0f8aeac9d63d4b8aa575761bb4e65b79>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <c0e40d34c25e4827874530676d4126b9>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.HttpWebRequest.GetRequestStream () [0x00016] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000ca] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:58 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0019e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:92 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ExecuteRequest[TResult] (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, System.String method, System.Object[] arguments) [0x0000e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:229 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ExecuteRequest[TResult] (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, System.String method, System.Object[] arguments) [0x0006f] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:250 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ProcessRequest[TResult] (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.String method, System.Object[] arguments) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:196 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.GetTorrentsByLabel (System.String label, NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x00012] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:80 
+  at NzbDrone.Core.Download.Clients.Deluge.Deluge.GetItems () [0x00012] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\Deluge.cs:96 
+  at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientDownloads (NzbDrone.Core.Download.IDownloadClient downloadClient) [0x0000c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\TrackedDownloads\DownloadMonitoringService.cs:89 
+
+19-5-4 10:22:35.9|Warn|DownloadMonitoringService|Unable to retrieve queue and history items from Slave1 Deluge
+
+[v2.0.0.5252] NzbDrone.Core.Download.Clients.DownloadClientUnavailableException: Unable to connect to Deluge, please check your settings ---> System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://10.0.0.5:8112/json' ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <0f8aeac9d63d4b8aa575761bb4e65b79>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <c0e40d34c25e4827874530676d4126b9>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at System.Net.HttpWebRequest.GetRequestStream () [0x00016] in <c0e40d34c25e4827874530676d4126b9>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000ca] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:58 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0019e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:92 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ExecuteRequest[TResult] (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, System.String method, System.Object[] arguments) [0x0000e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:229 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ExecuteRequest[TResult] (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, System.String method, System.Object[] arguments) [0x0006f] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:250 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ProcessRequest[TResult] (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.String method, System.Object[] arguments) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:196 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.GetTorrentsByLabel (System.String label, NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x00012] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:80 
+  at NzbDrone.Core.Download.Clients.Deluge.Deluge.GetItems () [0x00012] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\Deluge.cs:96 
+  at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientDownloads (NzbDrone.Core.Download.IDownloadClient downloadClient) [0x0000c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\TrackedDownloads\DownloadMonitoringService.cs:89 
+
+19-5-4 10:26:37.7|Info|RssSyncService|Starting RSS Sync
+19-5-4 10:26:41.0|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 10:26:43.6|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 10:37:13.7|Info|RssSyncService|Starting RSS Sync
+19-5-4 10:37:17.7|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 10:37:20.1|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 10:39:16.5|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mp4
+19-5-4 10:39:17.1|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 10:45:15.7|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 10:46:40.9|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 10:47:46.6|Info|RssSyncService|Starting RSS Sync
+19-5-4 10:47:52.7|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 10:47:58.7|Info|Sabnzbd|Adding report [American.Gods.S02E08.720p.HEVC.x265-MeGusta-Obfuscated] to the queue.
+19-5-4 10:47:59.8|Info|DownloadService|Report sent to Sabnzbd. American.Gods.S02E08.720p.HEVC.x265-MeGusta-Obfuscated
+19-5-4 10:48:00.7|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 1
+19-5-4 10:48:04.1|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 10:48:21.6|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 10:50:01.1|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 10:51:39.7|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 10:52:49.5|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /media/nfsserver/Video/TV-Shows/American Gods/Season 2/American Gods S02E08.mp4
+19-5-4 10:52:49.8|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/American Gods/Season 2/American Gods S02E08.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 10:52:50.1|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 10:54:51.1|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/American Gods/Season 2/American Gods S02E08.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 10:55:08.0|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 10:56:59.1|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/American Gods/Season 2/American Gods S02E08.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 10:57:13.9|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 10:58:29.4|Info|RssSyncService|Starting RSS Sync
+19-5-4 10:58:33.8|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 10:58:38.0|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 10:58:38.8|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/American Gods/Season 2/American Gods S02E08.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 10:59:47.1|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:01:27.3|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/American Gods/Season 2/American Gods S02E08.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:01:44.9|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:03:22.5|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/American Gods/Season 2/American Gods S02E08.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:03:59.6|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:05:51.3|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/American Gods/Season 2/American Gods S02E08.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:06:14.5|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:07:55.9|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/American Gods/Season 2/American Gods S02E08.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:08:44.9|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:09:06.1|Info|RssSyncService|Starting RSS Sync
+19-5-4 11:09:08.4|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 11:09:11.1|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 11:10:34.1|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/American Gods/Season 2/American Gods S02E08.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:10:58.8|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:12:28.6|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/American Gods/Season 2/American Gods S02E08.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:13:32.6|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:15:08.9|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/American Gods/Season 2/American Gods S02E08.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:15:30.8|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:17:08.4|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/American Gods/Season 2/American Gods S02E08.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:17:50.2|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:19:17.6|Info|RssSyncService|Starting RSS Sync
+19-5-4 11:19:19.3|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 11:19:26.2|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 11:19:41.2|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/American Gods/Season 2/American Gods S02E08.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:20:00.7|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:22:42.7|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/American Gods/Season 2/American Gods S02E08.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:23:02.9|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:24:29.3|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/American Gods/Season 2/American Gods S02E08.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:24:44.9|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:26:25.5|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/American Gods/Season 2/American Gods S02E08.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:27:15.1|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:29:09.9|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/American Gods/Season 2/American Gods S02E08.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:29:27.5|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:30:11.2|Info|RssSyncService|Starting RSS Sync
+19-5-4 11:30:17.2|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 11:30:20.2|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 11:30:32.9|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/American Gods/Season 2/American Gods S02E08.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:30:54.3|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:33:09.6|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/American Gods/Season 2/American Gods S02E08.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:33:28.8|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:33:40.4|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/American Gods/Season 2/American Gods S02E08.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:33:51.2|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:36:20.2|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/American Gods/Season 2/American Gods S02E08.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:36:42.5|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:37:56.2|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/American Gods/Season 2/American Gods S02E08.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:38:17.1|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:39:51.6|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/American Gods/Season 2/American Gods S02E08.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:40:34.4|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:40:42.1|Info|RssSyncService|Starting RSS Sync
+19-5-4 11:40:44.1|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 11:40:46.8|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 11:42:20.1|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/American Gods/Season 2/American Gods S02E08.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:42:34.7|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:44:56.2|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/American Gods/Season 2/American Gods S02E08.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:45:15.9|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:47:02.0|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/American Gods/Season 2/American Gods S02E08.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:48:01.5|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:49:57.1|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/American Gods/Season 2/American Gods S02E08.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:50:13.7|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:51:12.8|Info|RssSyncService|Starting RSS Sync
+19-5-4 11:51:18.2|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 11:51:20.7|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 11:52:04.4|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/American Gods/Season 2/American Gods S02E08.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:52:14.3|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:54:42.7|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/American Gods/Season 2/American Gods S02E08.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:55:01.8|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:57:25.4|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/American Gods/Season 2/American Gods S02E08.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 11:57:51.2|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 12:00:11.5|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/American Gods/Season 2/American Gods S02E08.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 12:00:33.4|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 12:01:45.5|Info|RssSyncService|Starting RSS Sync
+19-5-4 12:01:52.4|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 12:01:57.5|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 12:02:07.9|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/American Gods/Season 2/American Gods S02E08.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 12:02:31.0|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 12:04:07.4|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/American Gods/Season 2/American Gods S02E08.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 12:05:12.4|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 12:06:45.1|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/American Gods/Season 2/American Gods S02E08.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 12:07:10.7|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 12:09:20.9|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/American Gods/Season 2/American Gods S02E08.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 12:09:45.9|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 12:11:21.4|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/American Gods/Season 2/American Gods S02E08.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 12:11:42.0|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 12:12:23.6|Info|RssSyncService|Starting RSS Sync
+19-5-4 12:12:26.1|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 12:12:28.7|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 12:13:17.2|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/American Gods/Season 2/American Gods S02E08.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 12:14:12.0|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 12:16:02.1|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/American Gods/Season 2/American Gods S02E08.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 12:16:19.8|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 12:17:19.0|Info|RefreshSeriesService|Updating Info for American Gods
+19-5-4 12:17:20.4|Info|RefreshEpisodeService|Starting episode info refresh for: [253573][American Gods]
+19-5-4 12:17:20.9|Info|RefreshEpisodeService|Finished episode refresh for series: [253573][American Gods].
+19-5-4 12:17:27.6|Info|DiskScanService|Scanning disk for American Gods
+19-5-4 12:17:39.3|Info|DiskScanService|Completed scanning disk for American Gods
+19-5-4 12:17:50.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+19-5-4 12:17:50.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+19-5-4 12:17:50.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+19-5-4 12:17:50.4|Info|ExistingExtraFileService|Found 0 extra files
+19-5-4 12:17:51.1|Info|RefreshSeriesService|Updating Info for American Horror Story
+19-5-4 12:17:51.4|Info|RefreshEpisodeService|Starting episode info refresh for: [250487][American Horror Story]
+19-5-4 12:17:52.2|Info|RefreshEpisodeService|Finished episode refresh for series: [250487][American Horror Story].
+19-5-4 12:17:54.9|Info|DiskScanService|Scanning disk for American Horror Story
+19-5-4 12:18:51.1|Info|DiskScanService|Completed scanning disk for American Horror Story
+19-5-4 12:18:54.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+19-5-4 12:18:54.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+19-5-4 12:18:54.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+19-5-4 12:18:54.8|Info|ExistingExtraFileService|Found 0 extra files
+19-5-4 12:18:55.2|Info|RefreshSeriesService|Updating Info for Britannia
+19-5-4 12:18:55.2|Warn|ImportApprovedEpisodes|Couldn't import episode /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.mkv
+
+[v2.0.0.5252] NzbDrone.Core.MediaFiles.SameFilenameException: File not moved, source and destination are the same
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.TransferFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Tv.Series series, System.Collections.Generic.List`1[T] episodes, System.String destinationFilePath, NzbDrone.Common.Disk.TransferMode mode) [0x001f4] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:144 
+  at NzbDrone.Core.MediaFiles.EpisodeFileMovingService.MoveEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode) [0x0005e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeFileMovingService.cs:81 
+  at NzbDrone.Core.MediaFiles.UpgradeMediaFileService.UpgradeEpisodeFile (NzbDrone.Core.MediaFiles.EpisodeFile episodeFile, NzbDrone.Core.Parser.Model.LocalEpisode localEpisode, System.Boolean copyOnly) [0x0017c] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\UpgradeMediaFileService.cs:76 
+  at NzbDrone.Core.MediaFiles.EpisodeImport.ImportApprovedEpisodes.Import (System.Collections.Generic.List`1[T] decisions, System.Boolean newDownload, NzbDrone.Core.Download.DownloadClientItem downloadClientItem, NzbDrone.Core.MediaFiles.EpisodeImport.ImportMode importMode) [0x00272] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs:107 
+
+19-5-4 12:18:55.8|Info|RefreshEpisodeService|Starting episode info refresh for: [333644][Britannia]
+19-5-4 12:18:56.5|Info|RefreshEpisodeService|Finished episode refresh for series: [333644][Britannia].
+19-5-4 12:18:58.2|Info|DiskScanService|Scanning disk for Britannia
+19-5-4 12:19:13.1|Info|DiskScanService|Completed scanning disk for Britannia
+19-5-4 12:19:19.2|Info|ExistingMetadataImporter|Found 0 existing metadata files
+19-5-4 12:19:19.2|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+19-5-4 12:19:19.3|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+19-5-4 12:19:19.3|Info|ExistingExtraFileService|Found 0 extra files
+19-5-4 12:19:19.4|Info|RefreshSeriesService|Updating Info for Game of Thrones
+19-5-4 12:19:21.2|Info|RefreshEpisodeService|Starting episode info refresh for: [121361][Game of Thrones]
+19-5-4 12:19:22.5|Info|RefreshEpisodeService|Finished episode refresh for series: [121361][Game of Thrones].
+19-5-4 12:19:26.4|Info|DiskScanService|Scanning disk for Game of Thrones
+19-5-4 12:20:15.2|Info|DiskScanService|Completed scanning disk for Game of Thrones
+19-5-4 12:20:39.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+19-5-4 12:20:41.2|Warn|VideoFileInfoReader|Unable to open media info from file: /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.txt
+19-5-4 12:20:41.3|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+19-5-4 12:21:02.1|Warn|VideoFileInfoReader|Unable to open media info from file: /media/nfsserver/Video/TV-Shows/Game of Thrones/Season 8/Game of Thrones S08E02.url
+19-5-4 12:21:02.1|Info|ExistingOtherExtraImporter|Found 2 existing other extra files
+19-5-4 12:21:02.3|Info|ExistingExtraFileService|Found 0 extra files
+19-5-4 12:21:02.4|Info|RefreshSeriesService|Updating Info for Hanna
+19-5-4 12:21:02.8|Info|RefreshEpisodeService|Starting episode info refresh for: [357690][Hanna]
+19-5-4 12:21:02.9|Info|RefreshEpisodeService|Finished episode refresh for series: [357690][Hanna].
+19-5-4 12:21:07.6|Info|DiskScanService|Scanning disk for Hanna
+19-5-4 12:21:26.2|Info|DiskScanService|Completed scanning disk for Hanna
+19-5-4 12:21:41.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+19-5-4 12:21:41.9|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+19-5-4 12:21:42.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+19-5-4 12:21:42.0|Info|ExistingExtraFileService|Found 0 extra files
+19-5-4 12:21:42.0|Info|RefreshSeriesService|Updating Info for Knightfall
+19-5-4 12:21:42.6|Info|RefreshEpisodeService|Starting episode info refresh for: [323608][Knightfall]
+19-5-4 12:21:43.0|Info|RefreshEpisodeService|Finished episode refresh for series: [323608][Knightfall].
+19-5-4 12:21:48.2|Info|DiskScanService|Scanning disk for Knightfall
+19-5-4 12:22:02.5|Info|DiskScanService|Completed scanning disk for Knightfall
+19-5-4 12:22:22.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+19-5-4 12:22:23.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+19-5-4 12:22:23.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+19-5-4 12:22:23.9|Info|ExistingExtraFileService|Found 0 extra files
+19-5-4 12:22:24.0|Info|RefreshSeriesService|Updating Info for Krypton
+19-5-4 12:22:24.3|Info|RefreshEpisodeService|Starting episode info refresh for: [328599][Krypton]
+19-5-4 12:22:24.5|Info|RefreshEpisodeService|Finished episode refresh for series: [328599][Krypton].
+19-5-4 12:22:27.4|Info|DiskScanService|Scanning disk for Krypton
+19-5-4 12:22:43.0|Info|RssSyncService|Starting RSS Sync
+19-5-4 12:22:45.4|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 12:22:49.1|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 12:23:04.1|Info|DiskScanService|Completed scanning disk for Krypton
+19-5-4 12:23:19.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+19-5-4 12:23:19.7|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+19-5-4 12:23:19.7|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+19-5-4 12:23:19.8|Info|ExistingExtraFileService|Found 0 extra files
+19-5-4 12:23:20.0|Info|RefreshSeriesService|Updating Info for Legion
+19-5-4 12:23:20.4|Info|RefreshEpisodeService|Starting episode info refresh for: [320724][Legion]
+19-5-4 12:23:20.7|Info|RefreshEpisodeService|Finished episode refresh for series: [320724][Legion].
+19-5-4 12:23:23.3|Info|DiskScanService|Scanning disk for Legion
+19-5-4 12:23:29.4|Info|DiskScanService|Completed scanning disk for Legion
+19-5-4 12:23:33.4|Info|ExistingMetadataImporter|Found 0 existing metadata files
+19-5-4 12:23:33.5|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+19-5-4 12:23:33.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+19-5-4 12:23:33.5|Info|ExistingExtraFileService|Found 0 extra files
+19-5-4 12:23:33.5|Info|RefreshSeriesService|Updating Info for Mr. Robot
+19-5-4 12:23:33.8|Info|RefreshEpisodeService|Starting episode info refresh for: [289590][Mr. Robot]
+19-5-4 12:23:34.1|Info|RefreshEpisodeService|Finished episode refresh for series: [289590][Mr. Robot].
+19-5-4 12:23:36.7|Info|DiskScanService|Scanning disk for Mr. Robot
+19-5-4 12:23:50.4|Info|DiskScanService|Completed scanning disk for Mr. Robot
+19-5-4 12:23:52.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+19-5-4 12:23:52.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+19-5-4 12:23:52.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+19-5-4 12:23:52.8|Info|ExistingExtraFileService|Found 0 extra files
+19-5-4 12:23:53.1|Info|RefreshSeriesService|Updating Info for The Orville
+19-5-4 12:23:53.4|Info|RefreshEpisodeService|Starting episode info refresh for: [328487][The Orville]
+19-5-4 12:23:54.5|Info|RefreshEpisodeService|Finished episode refresh for series: [328487][The Orville].
+19-5-4 12:23:56.9|Info|DiskScanService|Scanning disk for The Orville
+19-5-4 12:24:21.3|Info|DiskScanService|Completed scanning disk for The Orville
+19-5-4 12:25:03.1|Info|ExistingMetadataImporter|Found 0 existing metadata files
+19-5-4 12:25:03.2|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+19-5-4 12:25:03.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+19-5-4 12:25:03.2|Info|ExistingExtraFileService|Found 0 extra files
+19-5-4 12:25:03.4|Info|RefreshSeriesService|Updating Info for The Passage
+19-5-4 12:25:03.9|Info|RefreshEpisodeService|Starting episode info refresh for: [354539][The Passage]
+19-5-4 12:25:04.2|Info|RefreshEpisodeService|Finished episode refresh for series: [354539][The Passage].
+19-5-4 12:25:08.3|Info|DiskScanService|Scanning disk for The Passage
+19-5-4 12:25:24.8|Info|DiskScanService|Completed scanning disk for The Passage
+19-5-4 12:25:46.2|Info|ExistingMetadataImporter|Found 0 existing metadata files
+19-5-4 12:25:46.3|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+19-5-4 12:25:46.3|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+19-5-4 12:25:46.3|Info|ExistingExtraFileService|Found 0 extra files
+19-5-4 12:25:46.4|Info|RefreshSeriesService|Updating Info for South Park
+19-5-4 12:25:46.9|Info|RefreshEpisodeService|Starting episode info refresh for: [75897][South Park]
+19-5-4 12:25:49.2|Info|RefreshEpisodeService|Finished episode refresh for series: [75897][South Park].
+19-5-4 12:25:51.6|Info|DiskScanService|Scanning disk for South Park
+19-5-4 12:25:57.7|Info|DiskScanService|Completed scanning disk for South Park
+19-5-4 12:26:02.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+19-5-4 12:26:02.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+19-5-4 12:26:02.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+19-5-4 12:26:02.6|Info|ExistingExtraFileService|Found 0 extra files
+19-5-4 12:26:02.8|Info|RefreshSeriesService|Updating Info for Star Trek: Discovery
+19-5-4 12:26:03.3|Info|RefreshEpisodeService|Starting episode info refresh for: [328711][Star Trek: Discovery]
+19-5-4 12:26:03.5|Info|RefreshEpisodeService|Finished episode refresh for series: [328711][Star Trek: Discovery].
+19-5-4 12:26:06.9|Info|DiskScanService|Scanning disk for Star Trek: Discovery
+19-5-4 12:26:19.8|Info|DiskScanService|Completed scanning disk for Star Trek: Discovery
+19-5-4 12:26:57.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+19-5-4 12:26:57.3|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+19-5-4 12:26:57.3|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+19-5-4 12:26:57.3|Info|ExistingExtraFileService|Found 0 extra files
+19-5-4 12:26:57.5|Info|RefreshSeriesService|Updating Info for The Twilight Zone (2019)
+19-5-4 12:26:57.7|Info|RefreshEpisodeService|Starting episode info refresh for: [358915][The Twilight Zone (2019)]
+19-5-4 12:26:57.8|Info|RefreshEpisodeService|Finished episode refresh for series: [358915][The Twilight Zone (2019)].
+19-5-4 12:27:00.8|Info|DiskScanService|Scanning disk for The Twilight Zone (2019)
+19-5-4 12:27:17.2|Info|DiskScanService|Completed scanning disk for The Twilight Zone (2019)
+19-5-4 12:27:42.1|Info|ExistingMetadataImporter|Found 0 existing metadata files
+19-5-4 12:27:42.1|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+19-5-4 12:27:42.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+19-5-4 12:27:42.2|Info|ExistingExtraFileService|Found 0 extra files
+19-5-4 12:27:42.5|Info|RefreshSeriesService|Updating Info for Vikings
+19-5-4 12:27:42.9|Info|RefreshEpisodeService|Starting episode info refresh for: [260449][Vikings]
+19-5-4 12:27:43.5|Info|RefreshEpisodeService|Finished episode refresh for series: [260449][Vikings].
+19-5-4 12:27:47.4|Info|DiskScanService|Scanning disk for Vikings
+19-5-4 12:27:53.2|Info|DiskScanService|Completed scanning disk for Vikings
+19-5-4 12:28:00.4|Info|ExistingMetadataImporter|Found 0 existing metadata files
+19-5-4 12:28:00.5|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+19-5-4 12:28:00.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+19-5-4 12:28:00.5|Info|ExistingExtraFileService|Found 0 extra files
+19-5-4 12:28:00.5|Info|RefreshSeriesService|Updating Info for Warrior (2019)
+19-5-4 12:28:01.1|Info|RefreshEpisodeService|Starting episode info refresh for: [359326][Warrior (2019)]
+19-5-4 12:28:01.2|Info|RefreshEpisodeService|Finished episode refresh for series: [359326][Warrior (2019)].
+19-5-4 12:28:11.3|Info|DiskScanService|Scanning disk for Warrior (2019)
+19-5-4 12:28:21.5|Info|DiskScanService|Completed scanning disk for Warrior (2019)
+19-5-4 12:28:34.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+19-5-4 12:28:34.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+19-5-4 12:28:34.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+19-5-4 12:28:34.6|Info|ExistingExtraFileService|Found 0 extra files
+19-5-4 12:33:15.9|Info|RssSyncService|Starting RSS Sync
+19-5-4 12:33:17.5|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 12:33:25.6|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+19-5-4 12:43:45.9|Info|RssSyncService|Starting RSS Sync
+19-5-4 12:43:49.4|Info|DownloadDecisionMaker|Processing 100 releases
+19-5-4 12:43:53.4|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0

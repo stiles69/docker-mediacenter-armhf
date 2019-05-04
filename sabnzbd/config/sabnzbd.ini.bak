@@ -340,14 +340,6 @@ script = None
 newzbin = ""
 order = 0
 dir = ""
-[[software]]
-priority = -100
-pp = ""
-name = software
-script = Default
-newzbin = software
-order = 0
-dir = software*
 [[tv]]
 priority = 1
 pp = ""
@@ -412,4 +404,12 @@ script = Default
 newzbin = audio
 order = 0
 dir = /media/nfsserver/Music*
+[[software]]
+priority = -100
+pp = ""
+name = software
+script = Default
+newzbin = software
+order = 0
+dir = software*
 [rss]

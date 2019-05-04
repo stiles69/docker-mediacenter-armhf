@@ -5538,3 +5538,20 @@
 04-May-2019 00:39:00 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
 04-May-2019 00:39:00 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
 04-May-2019 00:39:00 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:44:25 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 00:44:25 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 00:44:26 - ERROR   :: MainThread : Request raise HTTP error with status code 403 (local client error).
+04-May-2019 00:44:26 - WARNING :: MainThread : Could not get the latest version from GitHub. Are you running a local development version?
+04-May-2019 00:44:26 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 00:44:27 - INFO    :: MainThread : Scheduled background task: Search for Wanted
+04-May-2019 00:44:27 - INFO    :: MainThread : Scheduled background task: Download Scan
+04-May-2019 00:44:27 - INFO    :: MainThread : Scheduled background task: Library Scan
+04-May-2019 00:44:27 - INFO    :: MainThread : Scheduled background task: MusicBrainz Update
+04-May-2019 00:44:27 - INFO    :: MainThread : Scheduled background task: Check GitHub for updates
+04-May-2019 00:44:27 - INFO    :: MainThread : Scheduled background task: Torrent removal check
+04-May-2019 06:44:27 - INFO    :: Thread-18 : Retrieving latest version information from GitHub
+04-May-2019 06:44:27 - INFO    :: Thread-18 : Comparing currently installed version with latest GitHub version
+04-May-2019 06:44:28 - INFO    :: Thread-18 : New version is available. You are 6 commits behind
+04-May-2019 12:43:52 - INFO    :: MainThread : Signal 15 caught, saving and exiting...
+04-May-2019 12:43:53 - INFO    :: MainThread : Writing configuration to file
+04-May-2019 12:43:53 - INFO    :: MainThread : Headphones is shutting down...
