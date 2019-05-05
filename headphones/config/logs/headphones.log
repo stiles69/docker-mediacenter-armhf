@@ -5555,3 +5555,52 @@
 04-May-2019 12:43:52 - INFO    :: MainThread : Signal 15 caught, saving and exiting...
 04-May-2019 12:43:53 - INFO    :: MainThread : Writing configuration to file
 04-May-2019 12:43:53 - INFO    :: MainThread : Headphones is shutting down...
+04-May-2019 12:50:17 - INFO    :: MainThread : Checking to see if the database has all tables....
+04-May-2019 12:50:18 - INFO    :: MainThread : Retrieving latest version information from GitHub
+04-May-2019 12:50:20 - INFO    :: MainThread : Comparing currently installed version with latest GitHub version
+04-May-2019 12:50:20 - INFO    :: MainThread : New version is available. You are 6 commits behind
+04-May-2019 12:50:20 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+04-May-2019 12:50:22 - INFO    :: MainThread : Scheduled background task: Search for Wanted
+04-May-2019 12:50:22 - INFO    :: MainThread : Scheduled background task: Download Scan
+04-May-2019 12:50:22 - INFO    :: MainThread : Scheduled background task: Library Scan
+04-May-2019 12:50:22 - INFO    :: MainThread : Scheduled background task: MusicBrainz Update
+04-May-2019 12:50:22 - INFO    :: MainThread : Scheduled background task: Check GitHub for updates
+04-May-2019 12:50:22 - INFO    :: MainThread : Scheduled background task: Torrent removal check
+04-May-2019 18:50:22 - INFO    :: Thread-18 : Retrieving latest version information from GitHub
+04-May-2019 18:50:23 - INFO    :: Thread-18 : Comparing currently installed version with latest GitHub version
+04-May-2019 18:50:23 - INFO    :: Thread-18 : New version is available. You are 6 commits behind
+05-May-2019 00:50:22 - INFO    :: Thread-15 : Retrieving latest version information from GitHub
+05-May-2019 00:50:22 - INFO    :: Thread-20 : Checking if any torrents have finished seeding and can be removed
+05-May-2019 00:50:24 - INFO    :: Thread-20 : Checking finished torrents completed
+05-May-2019 00:50:24 - INFO    :: Thread-15 : Comparing currently installed version with latest GitHub version
+05-May-2019 00:50:25 - INFO    :: Thread-15 : New version is available. You are 6 commits behind
+05-May-2019 01:15:24 - INFO    :: MainThread : Signal 15 caught, saving and exiting...
+05-May-2019 01:15:24 - INFO    :: MainThread : Writing configuration to file
+05-May-2019 01:15:25 - INFO    :: MainThread : Headphones is shutting down...
+05-May-2019 01:18:12 - INFO    :: MainThread : Checking to see if the database has all tables....
+05-May-2019 01:18:12 - INFO    :: MainThread : Retrieving latest version information from GitHub
+05-May-2019 01:18:13 - INFO    :: MainThread : Comparing currently installed version with latest GitHub version
+05-May-2019 01:18:13 - INFO    :: MainThread : New version is available. You are 6 commits behind
+05-May-2019 01:18:13 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+05-May-2019 01:18:14 - INFO    :: MainThread : Scheduled background task: Search for Wanted
+05-May-2019 01:18:14 - INFO    :: MainThread : Scheduled background task: Download Scan
+05-May-2019 01:18:14 - INFO    :: MainThread : Scheduled background task: Library Scan
+05-May-2019 01:18:14 - INFO    :: MainThread : Scheduled background task: MusicBrainz Update
+05-May-2019 01:18:14 - INFO    :: MainThread : Scheduled background task: Check GitHub for updates
+05-May-2019 01:18:14 - INFO    :: MainThread : Scheduled background task: Torrent removal check
+05-May-2019 02:45:09 - INFO    :: MainThread : Signal 15 caught, saving and exiting...
+05-May-2019 02:45:09 - INFO    :: MainThread : Writing configuration to file
+05-May-2019 02:49:32 - INFO    :: MainThread : Checking to see if the database has all tables....
+05-May-2019 02:49:32 - INFO    :: MainThread : Retrieving latest version information from GitHub
+05-May-2019 02:49:33 - INFO    :: MainThread : Comparing currently installed version with latest GitHub version
+05-May-2019 02:49:33 - INFO    :: MainThread : New version is available. You are 6 commits behind
+05-May-2019 02:49:33 - INFO    :: MainThread : Starting Headphones web server on http://10.0.0.18:8181/
+05-May-2019 02:49:35 - INFO    :: MainThread : Scheduled background task: Search for Wanted
+05-May-2019 02:49:35 - INFO    :: MainThread : Scheduled background task: Download Scan
+05-May-2019 02:49:35 - INFO    :: MainThread : Scheduled background task: Library Scan
+05-May-2019 02:49:35 - INFO    :: MainThread : Scheduled background task: MusicBrainz Update
+05-May-2019 02:49:35 - INFO    :: MainThread : Scheduled background task: Check GitHub for updates
+05-May-2019 02:49:35 - INFO    :: MainThread : Scheduled background task: Torrent removal check
+05-May-2019 03:16:33 - INFO    :: MainThread : Signal 15 caught, saving and exiting...
+05-May-2019 03:16:34 - INFO    :: MainThread : Writing configuration to file
+05-May-2019 03:16:34 - INFO    :: MainThread : Headphones is shutting down...
